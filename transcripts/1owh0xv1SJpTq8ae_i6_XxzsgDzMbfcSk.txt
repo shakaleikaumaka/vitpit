@@ -30,7 +30,7 @@ Transcribed: 2026-07-27 · groq whisper-large-v3-turbo · PIT BOY harvest fleet
 
 [04:32] So for many people, the Internet was perceived as being one tool that could help to fix some of the problems we have in democracies. And if you look at the functions of the Internet for democracies,
 
-[04:54] I would say at least in my perspective we can distinguish also a bit historically speaking we can distinguish three functions The Internet, broadly speaking, has four democracies. I think in the early days, also some of the founding fathers of the Internet saw it as a way
+[04:54] I would say at least in my perspective we can distinguish also a bit historically speaking we can distinguish three functions The Internet, broadly speaking, has for democracies. I think in the early days, also some of the founding fathers of the Internet saw it as a way
 
 [05:19] to level the playing field to kind of give less powerful political actors, less financially strong actors almost kind of the same weight on the internet. You can have a blog and one voice on the internet, one blogger has the same presence in theory
 
@@ -48,7 +48,7 @@ Transcribed: 2026-07-27 · groq whisper-large-v3-turbo · PIT BOY harvest fleet
 
 [08:14] It never ends. They take place every other four or five years. And the financing of these election campaigns is a huge topic, right? Because finances in elections is so important, you need to pay ads, you have a lot of campaign costs. In some countries, the parties receive funding for that, but usually maybe there's a cap for funding.
 
-[08:43] you have to declare your donations. So all kinds of rules and legislation developed around legislation campaign financing. However, it doesn't work, it didn't work out as planned in most cases. So this regulatory approach didn't seem to work quite well.
+[08:43] you have to declare your donations. So all kinds of rules and legislation developed around election campaign financing. However, it doesn't work, it didn't work out as planned in most cases. So this regulatory approach didn't seem to work quite well.
 
 [09:08] And this comes again with the uneasiness with democracies, uneasiness with elections, how election campaigns are financed. So Pippa Norris, a famous political scientist, did a study on this. And you see the result here already. So they checked 45 countries.
 
@@ -58,7 +58,7 @@ Transcribed: 2026-07-27 · groq whisper-large-v3-turbo · PIT BOY harvest fleet
 
 [10:29] But we don't need to go far if we want to find an election finance campaign scandal. So this happens at our doorstep. This happens in the Western liberal democracies that are so-called working quite well. But Helmut Kohl took it to the grave.
 
-[10:53] He never declared who founded for his party. He died, he never declared this in a court. He had to go to court for this, but he never said it. He took it to the grave. We just had Sarkozy being in court again. Also, all of these took money,
+[10:53] He never declared who funded his party. He died, he never declared this in a court. He had to go to court for this, but he never said it. He took it to the grave. We just had Sarkozy being in court again. Also, all of these took money,
 
 [11:15] which they didn't declare, Andreotti in Italy. And yesterday, current Prime Minister of Japan, again, right, campaign financing, scandal, undeclared money, and, and, and, and. So you can expand this list ad infinitum. These are just a couple of examples here. Then we said, yeah, in Switzerland,
 
@@ -72,15 +72,15 @@ Transcribed: 2026-07-27 · groq whisper-large-v3-turbo · PIT BOY harvest fleet
 
 [13:22] This is almost not discussed in Switzerland. And, yeah, it's somewhat naive to think that in all these referendum votes in Switzerland that absolutely no money coming in from abroad, from maybe companies or other organized actors, lobby groups that have vested interests in one of the other votes.
 
-[13:47] So if you have a vote on kind of a ban on biotech, no, a ban on genetic modification of foods, GMM food, which is prohibited in Switzerland. So if you have a vote on that, that pharmaceutical companies invest quite a lot of money in such a referendum vote.
+[13:47] So if you have a vote on kind of a ban on biotech, no, a ban on genetic modification of foods, GM food, which is prohibited in Switzerland. So if you have a vote on that, that pharmaceutical companies invest quite a lot of money in such a referendum vote.
 
 [14:10] them vote. Yeah, but main point is also in Switzerland a lot of money being spent. So the first response of official politics is that we just have to regulate it, right? So a typical Swiss approach, cantons started to regulate first. Until very recently on the
 
-[14:37] national level in Switzerland was also frequently criticized by international organizations. We had absolutely no rules about campaign financing So Canton started to legislate and define which amounts are allowed and from which amount you have to declare a financial donation to the yes or the no site for example
+[14:37] national level in Switzerland was also frequently criticized by international organizations. We had absolutely no rules about campaign financing So cantons started to legislate and define which amounts are allowed and from which amount you have to declare a financial donation to the yes or the no side for example
 
 [15:07] So I got interested in that because we once did a report for the Venice Commission and that got me interested into this topic. So I started looking not only how is this regulated in some of the Swiss cantons, but I wanted to know how does it look in practice, right?
 
-[15:31] Because we know from this Pippin-Horris study that we have regulation, but it's frequently violated. So I called up the authorities of, well, I didn't call them up. First, I checked myself because you had to, in the canton of Ticino, since 1998, there is regulation that if you donate more than 10,000 Swiss francs, you have to declare it in the official gazette.
+[15:31] Because we know from this Pippa Norris study that we have regulation, but it's frequently violated. So I called up the authorities of, well, I didn't call them up. First, I checked myself because you had to, in the canton of Ticino, since 1998, there is regulation that if you donate more than 10,000 Swiss francs, you have to declare it in the official gazette.
 
 [16:03] So I started looking. This is all online. I just started looking, looking, nothing declared, nothing declared. I couldn't find anything. So I called them up. There's a reaction or question here. There is any correlation between the amount of money
 
@@ -88,7 +88,7 @@ Transcribed: 2026-07-27 · groq whisper-large-v3-turbo · PIT BOY harvest fleet
 
 [16:49] because you cannot control all the factors. But at least in Switzerland, you can run, you can say, with statistics, you can do quasi-experimental studies because we have a lot of these referendum votes. So you can find out whether money plays a role in Switzerland. So actually this question, can you buy a referendum vote with money, was brought up by political scientists
 
-[17:15] at the University of Bern already in the 1970s, right? And let say the latest research would say that if the vote if you expect a close vote Because it yes no right So 50 plus one vote is the border So if we expect a close vote and the turnout is relatively low
+[17:15] at the University of Bern already in the 1970s, right? And let's say the latest research would say that if the vote if you expect a close vote Because it yes no right So 50 plus one vote is the border So if we expect a close vote and the turnout is relatively low
 
 [17:42] so not many people going, in these cases, the money could make the difference. That's the latest we know from research. Okay, so I called these guys up, the state chancellery. And they said, yeah, yeah, we have, we have. So they pointed me to this one here. So, and I had to laugh a bit because so since 1998
 
@@ -112,7 +112,7 @@ Transcribed: 2026-07-27 · groq whisper-large-v3-turbo · PIT BOY harvest fleet
 
 [21:52] I cannot name you the survey where people express that and say that. I think it's just kind of obvious, but I don't have empirical proof to be fair. But it's a reoccurring discussion about this and we don't seem to have a solution.
 
-[22:16] So the discussion about the solution started in the US but also in Green Papers by the Council of Europe you find this So Lawrence Lessig and in particular also other US economists they came up with the example why not use why don we use a voucher system right so seems like it intriguing idea
+[22:16] So the discussion about the solution started in the US but also in Green Papers by the Council of Europe you find this So Lawrence Lessig and in particular also other US economists they came up with the example why not use why don't we use a voucher system right so seems like it intriguing idea
 
 [22:40] right if we cannot control the money let's issue vouchers which we can control and then you need to use the vouchers to finance your election campaign. This may be already going a bit far, but the original idea of Lawrence Lessig is that you can voluntarily, as a candidate, opt into this system. And also the original idea was that this is donation-based, right?
 
@@ -134,11 +134,11 @@ Transcribed: 2026-07-27 · groq whisper-large-v3-turbo · PIT BOY harvest fleet
 
 [26:37] still go to the established political parties. The admin cost is a bit high, but in general it gets distributed among more political actors. So it's actually all consequences or effects seem to be positive, but I haven't heard of any other major use case than Seattle.
 
-[27:05] But as is many times the case with democratic innovation, something can start in one place, like participatory budgeted started in Puerto Alegre in Brazil in one city and mushroomed later on and you now have it across the globe So this could also mushroom and develop further And so least we have a case My suggestion would be why not take this to the blockchain
+[27:05] But as is many times the case with democratic innovation, something can start in one place, like participatory budgeting started in Porto Alegre in Brazil in one city and mushroomed later on and you now have it across the globe So this could also mushroom and develop further And so at least we have a case My suggestion would be why not take this to the blockchain
 
 [27:37] Vouchers, tokens seems obvious. So in a way I'm campaigning to at least study this and trying to do a bit bit of research how this could, how campaign financing could be implemented in the form
 
-[28:01] of campaign vouchers. So somebody of course has to be the emissary of the tokens. Somebody has to provide the counter value. I would say why not national banks, right? So, and pay we'd have to do somehow a study on how much money would be needed whether
+[28:01] of campaign vouchers. So somebody of course has to be the emitter of the tokens. Somebody has to provide the counter value. I would say why not national banks, right? So, and pay we'd have to do somehow a study on how much money would be needed whether
 
 [28:28] this would be money that is used for each election or for a legislature and expensive that would be but the classical actor that emits money is a national bank we use a lot of money for promotion of turnout and other measures as well so why not investing in such a voucher system and my understanding the
 
@@ -156,7 +156,7 @@ Transcribed: 2026-07-27 · groq whisper-large-v3-turbo · PIT BOY harvest fleet
 
 [31:39] But maybe the first or the first two transactions do not need to be in the public ledger yet. So that way you could preserve the anonymity of the donors. Yeah, we have economic questions. How much money is needed? Also how expensive this system would be in comparison to the paper system they have in Seattle.
 
-[32:06] and also we need to study behavior of the people. So how do they actually use these vouchers? And for this part I started a little bit and I can show you first results. So this is not yet published and nobody has seen it yet, but can easily show it here even if it broadcast it not a big problem So we did a representative survey in one of the provinces in Canton of Argyle
+[32:06] and also we need to study behavior of the people. So how do they actually use these vouchers? And for this part I started a little bit and I can show you first results. So this is not yet published and nobody has seen it yet, but can easily show it here even if it broadcast it not a big problem So we did a representative survey in one of the provinces in Canton of Aargau
 
 [32:35] and we asked them how would they spend. So we didn't really create the tokens and the system. We just asked them in a survey. So it's just the first step, finding out a bit how people would behave and use these vouchers. So if you had a voucher of $100, what would you do with it? and we see here most people would give it to several political parties
 
@@ -166,9 +166,9 @@ Transcribed: 2026-07-27 · groq whisper-large-v3-turbo · PIT BOY harvest fleet
 
 [33:50] and you even think the less of these political campaigning the better and only that was kind of surprising only 10% would like to sell them actually in a market so I expected higher number there also if we look at where this money goes
 
-[34:13] so these are all the political parties that ran in this electoral race in the Canton of Argyll and what you see here is the the difference between actual the vote share they had in these elections for the cantonal parliament and the vouchers they would donate so in red you have
+[34:13] so these are all the political parties that ran in this electoral race in the Canton of Aargau and what you see here is the the difference between actual the vote share they had in these elections for the cantonal parliament and the vouchers they would donate so in red you have
 
-[34:37] they have more votes than vouchers and in blue you have more vouchers than votes share right so So the large party, the largest party, the SVP in the Canton of Argyle and the other big ones they had proportionally received less shares So we have a bit of an equalization effect here and green green liberal parties and some of these very small parties they received more vouchers
+[34:37] they have more votes than vouchers and in blue you have more vouchers than votes share right so So the large party, the largest party, the SVP in the Canton of Aargau and the other big ones they had proportionally received less shares So we have a bit of an equalization effect here and green green liberal parties and some of these very small parties they received more vouchers
 
 [35:11] than the actual vote share so it kind of has this equalization effect as intended of course this is just a survey we don't know how it would really work once we have tokens how would it work when you use them repeatedly that's kind of unknown but in a way we wanted to check whether people
 
