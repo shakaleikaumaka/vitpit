@@ -38910,6 +38910,1981 @@
   "Alright. Everybody, in just a couple minutes, this room is going to be you"
  ],
  [
+  17,
+  9,
+  "Test. Test. Alright. Welcome everyone. Thank you for coming. My name is Juan. I I'm a contributor in one of the biggest DAOs in the in the w"
+ ],
+ [
+  17,
+  21,
+  "eb three space by contributor size, by amount of time alive, and by revenue numbers. So hopefully you can or I can share some of the few thi"
+ ],
+ [
+  17,
+  33,
+  "ngs we learned through the"
+ ],
+ [
+  17,
+  35,
+  "through the process and I can explain a little bit more how governance is. And if you guys feel like creating DAO or something like, you can"
+ ],
+ [
+  17,
+  46,
+  " learn a little bit from from our failures and our experiments. So let's dive right right in. Some disclaimers as always, my views are my ow"
+ ],
+ [
+  17,
+  56,
+  "n and I do not represent"
+ ],
+ [
+  17,
+  58,
+  "Maker or Sky or or almost any organization. This is not financial advice, not legal advice, and maybe it is mental health advice if you want"
+ ],
+ [
+  17,
+  70,
+  " to stay for some time. Yes. So just for context, would you add what you do and make a Yeah. Getting there. There. No. Today the today's rea"
+ ],
+ [
+  17,
+  81,
+  "lity, what I see mainly from listening to all the academics, it's there's this huge gap between all the cool things we could be doing on web"
+ ],
+ [
+  17,
+  93,
+  " three"
+ ],
+ [
+  17,
+  93,
+  "and all these cool experiments and all these models. And then when you go and you see most of the DAOs, it's just like a snapshot voting and"
+ ],
+ [
+  17,
+  102,
+  " and a multi zig and that's pretty much it. So hopefully at some point we can have more of these of these sessions to bridge that gap. So go"
+ ],
+ [
+  17,
+  111,
+  "ing to your question, this is me. I do governance operations and design mainly for Sky. We've worked with with other clients as well. I star"
+ ],
+ [
+  17,
+  120,
+  "ted doing analytics"
+ ],
+ [
+  17,
+  121,
+  "for big companies, then went into the startups and scale ups world, mainly in fintech. And then in Berlin, I discovered Ethereum and I dove "
+ ],
+ [
+  17,
+  131,
+  "into the web three rabbit hole. Today, I'll be focusing mostly on governance design because operations is just running what you've designed."
+ ],
+ [
+  17,
+  141,
+  " So that's a little bit more boring or niche at least."
+ ],
+ [
+  17,
+  145,
+  "So what's governance design? Hopefully, we can agree on some type of definition, but it's the process of designing structures, processes and"
+ ],
+ [
+  17,
+  154,
+  " systems to make these decisions, whatever it is, allocate resources, and manage conflicts within this organization. An example I like to gi"
+ ],
+ [
+  17,
+  162,
+  "ve is designing a sandbox. So it's how I don't know how tall the walls should be. If they are too tall, kids are not going to be able to get"
+ ],
+ [
+  17,
+  171,
+  " in. If they are not tall enough, then the sand might spill or it might not be safe. So there's always trade offs that we're making with eve"
+ ],
+ [
+  17,
+  179,
+  "ry decision."
+ ],
+ [
+  17,
+  180,
+  "So it's not like there's the the perfect recipe experiment and try to find the what works best for the organization that you're building. So"
+ ],
+ [
+  17,
+  190,
+  " short introduction on Davos. I think this might be interesting for for most. But depending on your definition of Davos, Davos have been the"
+ ],
+ [
+  17,
+  199,
+  "re for for a while. Right? It's like you could argue that Alcoholic Anonymous is a DAO."
+ ],
+ [
+  17,
+  205,
+  "It's yeah. It's been there for over eighty five years. So super, super resilient. There are thousands of groups across the world. It's peer "
+ ],
+ [
+  17,
+  214,
+  "led. Anyone can start a chapter. So what they do is they have this recipe and then you can adapt it to your own community. So if you do a li"
+ ],
+ [
+  17,
+  222,
+  "ke huge chapter somewhere, you can say like, hey, for us, I don't know, online things works or WhatsApp group works or whatever, and you can"
+ ],
+ [
+  17,
+  231,
+  " really adapt it. But"
+ ],
+ [
+  17,
+  232,
+  "but You have like this kind of like blueprint that you can then bring down to your to your community and anyone can do it. So, yeah. That's "
+ ],
+ [
+  17,
+  241,
+  "that's one of the of the cool ones. I found in the Basque country in Spain, this I don't know if it's very well known, but it's it's huge in"
+ ],
+ [
+  17,
+  249,
+  " terms of how many billions they make. They're called the Mondragon Corporation."
+ ],
+ [
+  17,
+  254,
+  "And basically anyone usually from from a local community can form a group. They present a business plan and they will even fund it because t"
+ ],
+ [
+  17,
+  263,
+  "hey have their own bank and they're making like billions per year. So you establish a cooperative and you're supposed to bring back to the c"
+ ],
+ [
+  17,
+  272,
+  "ommunity. So that's a super cool DAO if you guys want to check it out more."
+ ],
+ [
+  17,
+  277,
+  "And then yeah, we have like the the DAOs powered by web three. What this means is that now we can supercharge the DAOs into the the speed of"
+ ],
+ [
+  17,
+  286,
+  " developing developing software so we can experiment on a lot of different angles and and we can get to a point where where we try different"
+ ],
+ [
+  17,
+  295,
+  " things much faster than building organizations that are going to last eighty five years."
+ ],
+ [
+  17,
+  301,
+  "It's a lot harder to iterate and we'll see that later. Me know if there's any questions by the way guys. I'm happy to Yeah. Like who is Mond"
+ ],
+ [
+  17,
+  313,
+  "raken Corporation? So so for me there's like the the dowel part is is very much like a spectrum, like how decentralized is something or how "
+ ],
+ [
+  17,
+  326,
+  "autonomous at the end is just like an organization."
+ ],
+ [
+  17,
+  330,
+  "And this is an organization that's been there for a while and they have a lot of the characteristics that you find in Dell so that anyone ca"
+ ],
+ [
+  17,
+  338,
+  "n come and use the existing kind of like infrastructure to build something else. So if you have like an idea for a cool company in the Basqu"
+ ],
+ [
+  17,
+  346,
+  "e Country, you can go there, present a business plan, you have like your team and they will even fund you for your ideas so that you give ba"
+ ],
+ [
+  17,
+  355,
+  "ck to to the community."
+ ],
+ [
+  17,
+  356,
+  "Yeah. I'll I'll look it up. I still don't get it, to be honest. What do you not get? What do they do? So it's a funding organization for loc"
+ ],
+ [
+  17,
+  365,
+  "al businesses in the Basque Country. Is that Yeah. More or it's a it's a huge group. They do everything from metallurgic to clothing to what"
+ ],
+ [
+  17,
+  374,
+  "ever you want to build. And, yeah, and so what commonalities"
+ ],
+ [
+  17,
+  378,
+  "does it have with the DAOs? So if if you wanted to start something, let's say you have a few of Basque friends that want to build surfboards"
+ ],
+ [
+  17,
+  386,
+  ". Mhmm. You can say like, hey, we have this really cool idea. Here's our business plan. We think we can do it better. And they will like app"
+ ],
+ [
+  17,
+  394,
+  "rove it. They will train you. They will walk you through a lot of things. They will give you support and you will end up with this cooperati"
+ ],
+ [
+  17,
+  402,
+  "ve"
+ ],
+ [
+  17,
+  402,
+  "of and you're building self worth kind of for them. So there's revenue sharing and there's a lot of the mechanisms that we found on the Dall"
+ ],
+ [
+  17,
+  413,
+  "as. But eventually, it's like very decentralized in the way that anyone can start anything using the existing infrastructure. Alright. So th"
+ ],
+ [
+  17,
+  425,
+  "ese"
+ ],
+ [
+  17,
+  425,
+  "are questions that we've I've been seeing in the last few days. Quite interesting. How do we build it out actually? So the step number zero "
+ ],
+ [
+  17,
+  434,
+  "should be having a purpose. Otherwise, we have like a social club and that's also cool, but potentially you don't need tokens and and a bunc"
+ ],
+ [
+  17,
+  442,
+  "h of stuff if if you're if you're not solving a a real problem. Here I'm quoting Vitality because it gives more importance to the whole pres"
+ ],
+ [
+  17,
+  451,
+  "entation, but"
+ ],
+ [
+  17,
+  452,
+  "hopefully we can find real problems instead of just building those for the sake of it, and we can help the world evolve. Step number one, yo"
+ ],
+ [
+  17,
+  462,
+  "u have like your vision and it's like, why are we doing this? How can we rally people around this? I think for for Switzerland, it's getting"
+ ],
+ [
+  17,
+  472,
+  " clearer. The mission is the how, so like navigating the thing, and then hopefully we can set a strategy with with clear"
+ ],
+ [
+  17,
+  480,
+  "with clear roadmap where we can start working on on different things. Second is you create value. Otherwise, it's a bit a bit awkward for ev"
+ ],
+ [
+  17,
+  489,
+  "eryone. But usually in this type of DAOs, you have like these two types of I don't know if personas, but you have like the builders where th"
+ ],
+ [
+  17,
+  499,
+  "ey are actually working for them. Then you have like the users which are somehow using the product or the solution or whatever it's thinking"
+ ],
+ [
+  17,
+  508,
+  ". So it's it's interesting to find these two these two users and then see how you cater to them also based on the level of"
+ ],
+ [
+  17,
+  516,
+  "engagement that they have. So you can see that in the in the core, have like what you really need to pay attention to, especially in the beg"
+ ],
+ [
+  17,
+  525,
+  "inning, and then you can start expanding out. But hopefully you're not catering to the the outer too soon because that might kill your your "
+ ],
+ [
+  17,
+  534,
+  "project. This I'll go fast on this one, but it's basically pillars of the DAO. So how can you frame your DAO and things that you need to thi"
+ ],
+ [
+  17,
+  542,
+  "nk about when you're designing it? So these are very important questions that you should try"
+ ],
+ [
+  17,
+  548,
+  "to answer. Leadership communications, the monetization. So if you're going to be making money on how the resilience and how it's going to to"
+ ],
+ [
+  17,
+  558,
+  " be yeah. To to go across time. So if I don't know, let's say we're in Switzerland and then the Swiss government changes form of or leadersh"
+ ],
+ [
+  17,
+  568,
+  "ip. Do we care about that? Will will we have an impact? And then you can run a lot of a lot of of different exercise on how to to protect th"
+ ],
+ [
+  17,
+  578,
+  "e"
+ ],
+ [
+  17,
+  578,
+  "the dow from that. And then of course, the solution. So what are we actually building? Who's going to use it, etcetera. Coordination. This i"
+ ],
+ [
+  17,
+  587,
+  "s very important. This one of my favorite slides by the way. I think that with this one we can almost define any organization, but you have "
+ ],
+ [
+  17,
+  595,
+  "work. Work is like what do we want to get done? Why are we here? Then we have the workforce,"
+ ],
+ [
+  17,
+  601,
+  "that's usually the people or now with AI could be agents and then you have capital. And capital doesn't mean money. It could mean I do this "
+ ],
+ [
+  17,
+  609,
+  "because, I don't know, to build reputation or because it makes me feel well. So it can mean a lot of different things. And then how do you c"
+ ],
+ [
+  17,
+  617,
+  "oordinate those those three things? I'll come back to this in a bit. And then once you have all those things for your DAO, you just need to "
+ ],
+ [
+  17,
+  624,
+  "code it. So super easy. You have the constitution"
+ ],
+ [
+  17,
+  627,
+  "ish which is hopefully some document that explains what what you're doing and you can take it to the world. You have some protocol if it's o"
+ ],
+ [
+  17,
+  635,
+  "n chain. So anything that has to do with, yeah, coding things, making sure that the incentives are going the right way, tokenomics. Then you"
+ ],
+ [
+  17,
+  642,
+  " might have processes on how often do we vote, do we want to vote on things, what do we vote on. And then hopefully, you're also taking care"
+ ],
+ [
+  17,
+  650,
+  " of dashboards, templates, and documents"
+ ],
+ [
+  17,
+  652,
+  "mainly to make it more accessible. This is not new. I'm not inventing anything. There's been software enhancement or improvement proposals f"
+ ],
+ [
+  17,
+  662,
+  "or years. I don't know. Potentially fifty years, if not more. Then there's, of course, the Ethereum ones that you guys are all familiar with"
+ ],
+ [
+  17,
+  673,
+  ". And then we have the the maker ones that I I'm the most familiar with for"
+ ],
+ [
+  17,
+  678,
+  "obvious reasons. And then the last step of your DAO is to profit. So that's when everyone's happy. Coders Unites. Again, I'm trying to make "
+ ],
+ [
+  17,
+  688,
+  "a case on how building a DAO is very similar to building software. This is how usually software works. You have the users on top, so we are "
+ ],
+ [
+  17,
+  699,
+  "using whatever, a phone, any computer program."
+ ],
+ [
+  17,
+  702,
+  "Then you have the UI, that's what you see and what you click on. You have the apps, so how the thing works. Then you have the operating syst"
+ ],
+ [
+  17,
+  710,
+  "em layer. Then you have the kernel which is the computer actually processing things and communicating with the outer world. And arguably, th"
+ ],
+ [
+  17,
+  718,
+  "is is how a DAO is working as well. So on top you have the contributors, the token holders, the product users. The UI would be like any temp"
+ ],
+ [
+  17,
+  726,
+  "late, anything that you need to fill to, I don't know, do a governance proposal,"
+ ],
+ [
+  17,
+  731,
+  "any dashboard to see how things are going, any documentation. For the apps, it's any process. So how these UIs are connecting the processes "
+ ],
+ [
+  17,
+  740,
+  "together. You a level deeper. You have the actual protocol and what's coded or any support like a forum, tokenomics. And then at the very, v"
+ ],
+ [
+  17,
+  748,
+  "ery bottom are the core. We have the constitution which is how everything works together."
+ ],
+ [
+  17,
+  754,
+  "Here, put a state. So it's actually someone wants to understand how the DAO is working at any given point, then that's where they should che"
+ ],
+ [
+  17,
+  764,
+  "ck for for how things are working. Hopefully, no questions until now. But if you guys feel like feel free to to interrupt. So how does it wo"
+ ],
+ [
+  17,
+  774,
+  "rk when you're proposing a change? And again, we're we're focusing on dependencies here."
+ ],
+ [
+  17,
+  780,
+  "So let's say someone has the great idea and they want to propose a change to the at the protocol level. So you want to extend the protocol t"
+ ],
+ [
+  17,
+  790,
+  "o something that was not contemplated before. So what you do need to do is you need to make sure that you're going up or down and checking i"
+ ],
+ [
+  17,
+  800,
+  "f there's any dependency that needs to be done before you actually produce a change."
+ ],
+ [
+  17,
+  806,
+  "And you should only produce these changes when all the dependencies have been solved. Otherwise, you might end up with like orphan code whic"
+ ],
+ [
+  17,
+  817,
+  "h is like no one knows how this new part of the process works. You don't have rules, you don't have UIs, you don't have documentation that m"
+ ],
+ [
+  17,
+  828,
+  "akes users more frustrated. Any questions until now? No? Alright. Let's keep going."
+ ],
+ [
+  17,
+  835,
+  "This is kind of like a very high level governance life cycle and it's very generic. So depending on on which DAO you contribute to, it might"
+ ],
+ [
+  17,
+  845,
+  " have different voting stages, different discussions stages, different ways where people get together, discuss things, some things might hap"
+ ],
+ [
+  17,
+  855,
+  "pen online, offline. And then you go around. Yeah."
+ ],
+ [
+  17,
+  858,
+  "You have like different frameworks or VPs that might be required. Then you have like improvement proposal. Finally, you develop the actual s"
+ ],
+ [
+  17,
+  868,
+  "oftware and then you start again and you reiterate. Alright. So next next section is about money and why is it important. Depending on who y"
+ ],
+ [
+  17,
+  878,
+  "ou speak to, you might be like very much kind of like against money."
+ ],
+ [
+  17,
+  883,
+  "Then it becomes more important, then it becomes non important again. Yesterday, Martin had a super interesting conversation about different "
+ ],
+ [
+  17,
+  892,
+  "uses of new money. This is a bit related to that. But why is money actually important for humans? So I I was already mentioning about the co"
+ ],
+ [
+  17,
+  901,
+  "ordination tools and and how it's all coordination. As humans, these are the coordination tools that we have. This is what makes us differen"
+ ],
+ [
+  17,
+  910,
+  "t from other animals."
+ ],
+ [
+  17,
+  911,
+  "So we have the language and we can communicate. We have all these stories about about religion, about narratives, about how things might be "
+ ],
+ [
+  17,
+  920,
+  "dangerous or not. What we tell kids when they're growing up, and at the end you have the the money. And why is money important? There there "
+ ],
+ [
+  17,
+  928,
+  "are three reasons. First of all, it allows us to assign value to things so we can understand"
+ ],
+ [
+  17,
+  934,
+  "as as a global community what's important and what's not. So obviously something that's more expensive, it's more important. And again, it's"
+ ],
+ [
+  17,
+  943,
+  " not perfect, but it kind of gives you a very good idea. Then the other great thing about money is the fungibility. So you can trade it for "
+ ],
+ [
+  17,
+  951,
+  "something else without going through too many hassles. And then the last one, and I think this is the most important one, is that it allows "
+ ],
+ [
+  17,
+  960,
+  "for specialization."
+ ],
+ [
+  17,
+  961,
+  "So when you have these type of things, you can actually focus on building, I don't know, a microchip that's going to power an airplane while"
+ ],
+ [
+  17,
+  970,
+  " another guy is working on the aerodynamics and someone else is working on, I don't know, the control tower for the airplane. So we as human"
+ ],
+ [
+  17,
+  978,
+  "s just focus on one little thing. We get paid based on what we do and how much value we bring, and eventually we end up building crazy thing"
+ ],
+ [
+  17,
+  987,
+  "s that makes us very different from"
+ ],
+ [
+  17,
+  989,
+  "other animals. Any questions? No? Fantastic. So all money is dead. Hopefully, you understand this better than me. I read some when I was stu"
+ ],
+ [
+  17,
+  1001,
+  "dying macroeconomics. I'm not going to explain this too much because I don't want Burns or any other one in the room correcting me. I know t"
+ ],
+ [
+  17,
+  1013,
+  "hat I'm most likely be wrong."
+ ],
+ [
+  17,
+  1016,
+  "But but yeah, money is generated out of debts and this money is financing things that you might not agree with. So the fact that you're hold"
+ ],
+ [
+  17,
+  1025,
+  "ing Euros or holding USD or whatever you have your savings on, this means that there are all these industries that they are being financed b"
+ ],
+ [
+  17,
+  1034,
+  "y government bonds into things that again, you might disagree with. Like pharma, any type of wars, any type of energies you might disagree w"
+ ],
+ [
+  17,
+  1043,
+  "ith or any industries."
+ ],
+ [
+  17,
+  1044,
+  "Again, are just examples but it could be could be anything. And actually you have very little power or control over what you're financing. Y"
+ ],
+ [
+  17,
+  1053,
+  "ou're holding the money, you don't even realize but there's there's a whole industry being financed just because of you in in part. So the d"
+ ],
+ [
+  17,
+  1062,
+  "ream of web three is to have money that aligns to your to your values"
+ ],
+ [
+  17,
+  1067,
+  "so that you have a little bit more of control on what you're financing, what you're not. So this this is a bit it's so you have the demand f"
+ ],
+ [
+  17,
+  1075,
+  "or for a currency. So potentially in the future, you'll be able to say like, well, a bit like a caution, the previous example, but you could"
+ ],
+ [
+  17,
+  1083,
+  " be able to say like, I want to hold this type of money because I know that on the supply side, it's financing some things that I agree with"
+ ],
+ [
+  17,
+  1091,
+  " or"
+ ],
+ [
+  17,
+  1091,
+  "or I can vote on different things or I could decide what am I what am I financing or or not. If there's no questions about why my is importa"
+ ],
+ [
+  17,
+  1103,
+  "nt, I can move into explaining a bit what what Maker is. I don't know if everyone's familiar, but I can give like a very quick quick intro. "
+ ],
+ [
+  17,
+  1115,
+  "Had a question on"
+ ],
+ [
+  17,
+  1116,
+  "when Mhmm. To Like, I mean, being in crypto for so long, like, it's very difficult to find an example where DAO coordination was beautifully"
+ ],
+ [
+  17,
+  1129,
+  " executed. Yes. I don't know if one, if you have an example of that. And then two, when is the most optimal time?"
+ ],
+ [
+  17,
+  1139,
+  "So when like to decentralize when you start it? Exactly. Do you dial from the beginning or do you accelerate and then eventually dial? Yeah."
+ ],
+ [
+  17,
+  1148,
+  " I I'll answer through the next slides when we cover the challenges, but I I could give you a lot of example of when not to die. When to die"
+ ],
+ [
+  17,
+  1157,
+  ", I think everyone is try is still trying to figure it out. Those are questions that we're stretching."
+ ],
+ [
+  17,
+  1164,
+  "But like yeah. You don't have to answer this, but like I don't know. At some point, I had a bunch of conversations with like Andy, Sandy, we"
+ ],
+ [
+  17,
+  1175,
+  "ll, mister Millennials and why he left. I'm very curious how you feel in terms of, like, behaviors in the crypto space. How much has Maker p"
+ ],
+ [
+  17,
+  1187,
+  "lay into, like, you know, being a thing, like, a very"
+ ],
+ [
+  17,
+  1191,
+  "predatory kind of, like, let's make money kind of, like, behaviors in the space versus, like, of course, region kind of approaches, which no"
+ ],
+ [
+  17,
+  1199,
+  "t necessarily are that great because there's a lot of greenwashing and whatnot. But, like, of course, I'm curious in those terms and how tha"
+ ],
+ [
+  17,
+  1206,
+  "t could play out into this network staky kind of things while we're building new cities. So what kind of behaviors are we gonna incentivize?"
+ ],
+ [
+  17,
+  1214,
+  "Yeah. We can also talk about that over coffee instead of like anyway. It's yeah. We'll need a lot of coffee for that one. But no. I I think "
+ ],
+ [
+  17,
+  1225,
+  "that you have like on on one extreme like super degen casino like where where everything's a game almost and there are some people in the in"
+ ],
+ [
+  17,
+  1235,
+  "dustry arguing that that's a bit what we're building."
+ ],
+ [
+  17,
+  1239,
+  "On the other extreme, you have like, I don't know, techno hippies, utopians that is like, oh, everything's perfect and look at us in Switzer"
+ ],
+ [
+  17,
+  1249,
+  "land enjoying the nature. And probably the truth lies somewhere in between those two extremes. I I want to believe that I'm here. You know, "
+ ],
+ [
+  17,
+  1259,
+  "they're here for the tech meme and care less about the price."
+ ],
+ [
+  17,
+  1263,
+  "I want to believe that most people are also here for that because I do believe that these are tools to actually build something better. Whet"
+ ],
+ [
+  17,
+  1273,
+  "her it's going to be Sky from Redeemaker or any other company, I I don't know. I don't have the answer. But but again, if if you're here for"
+ ],
+ [
+  17,
+  1282,
+  " the tech, I think we care less about the the solution and or or the concrete specific solution and more about like how can we make it bette"
+ ],
+ [
+  17,
+  1292,
+  "r for for everyone. So I think there's a lot of different"
+ ],
+ [
+  17,
+  1296,
+  "organizations trying different tools, solutions, approaches, and I I I have conversations every month with TU and a bunch of governance geek"
+ ],
+ [
+  17,
+  1306,
+  "s to see how what's working, what's not. And yeah, it's very I don't know. For me, it's very rewarding and it's I I don't feel like a compet"
+ ],
+ [
+  17,
+  1315,
+  "ition per se. It's more like, oh, cool. What's what's working for you? What's not? How"
+ ],
+ [
+  17,
+  1321,
+  "are we failing and this is a bit what I'm trying to go over so you don't repeat the same mistakes hopefully. Alright. For those that don't k"
+ ],
+ [
+  17,
+  1334,
+  "now what Sky formerly maker is, it's basically like a pawn shop on the blockchain. So it's a self credit facility."
+ ],
+ [
+  17,
+  1344,
+  "What this What this means is that you can lend money to yourself. How does it work? The very, very basic version was like you have ETH, you "
+ ],
+ [
+  17,
+  1356,
+  "lock it in a contract and you can mint DAI which is a stable coin that has the value of $1 So if you had, I don't know, a ton of ETH in"
+ ],
+ [
+  17,
+  1367,
+  "2018 for example, and you wanted to buy a car, you had to sell some ETH and buy that car, that was potentially a very, very expensive car. I"
+ ],
+ [
+  17,
+  1379,
+  "f you had used Maker for example, you borrow Dai, now the price of ETH is a lot higher, so you held that ETH, you maintain the exposition to"
+ ],
+ [
+  17,
+  1391,
+  " the price and"
+ ],
+ [
+  17,
+  1392,
+  "you can repay the loan whenever you feel like it. So that's a bit how it works. It's permissionless, we are not asking or Maker is not askin"
+ ],
+ [
+  17,
+  1403,
+  "g for IDs or any type of anything since it's over collateralized, is open to anyone, even other protocols, and it's governed by the MKR toke"
+ ],
+ [
+  17,
+  1414,
+  "n which I'm not getting into because it would be a"
+ ],
+ [
+  17,
+  1418,
+  "a whole whole more things to do. This is what I was saying at the beginning. In the burn market, Maker was one of the few protocols actually"
+ ],
+ [
+  17,
+  1429,
+  " making money, which is cool to have something that's not too industry or cycle dependent number go up to to yeah. To have operations workin"
+ ],
+ [
+  17,
+  1441,
+  "g."
+ ],
+ [
+  17,
+  1441,
+  "So now to the main dish of and some things that we have we have seen. Yeah. This this is the main one. Right? Like, a lot of people face lik"
+ ],
+ [
+  17,
+  1453,
+  "e you're trying to contribute into any Dao organization, you go to the forum, Discord, it's extremely hard to understand what's happening, w"
+ ],
+ [
+  17,
+  1464,
+  "hat's being built, how to how to get involved."
+ ],
+ [
+  17,
+  1468,
+  "And then, yeah, you have people confused, people that don't know where to start. And and on the other side, have like the contributors that "
+ ],
+ [
+  17,
+  1476,
+  "are asking for help. And I said, yeah, we can build whatever. What should we do? And then either you have like some kind of like core team o"
+ ],
+ [
+  17,
+  1484,
+  "r foundation providing some guidance or the whole thing looks extremely bad as anyone can tell you. Another huge problems that you have is v"
+ ],
+ [
+  17,
+  1492,
+  "oter apathy."
+ ],
+ [
+  17,
+  1493,
+  "So a lot of people hold tokens either because it was air dropped, but they cannot. They don't want to or they cannot vote because basically "
+ ],
+ [
+  17,
+  1504,
+  "they don't have the bandwidth to understand the problem. There's no way of easily understanding how to work on things, how what's the best d"
+ ],
+ [
+  17,
+  1515,
+  "ecision. The way things are framed for the voters, it's doesn't make it much easier. And and again, there are some"
+ ],
+ [
+  17,
+  1524,
+  "Thank you, Ernica. So there are some solutions that I've been seeing. Nothing great yet. If you have anything, let me know. But yeah, what h"
+ ],
+ [
+  17,
+  1534,
+  "appens is that if someone cares a lot, they will learn so much to the point that they become contributors. So they are not voters anymore. A"
+ ],
+ [
+  17,
+  1545,
+  "nd then yeah, you have like no actual tools to be involved or engaged in."
+ ],
+ [
+  17,
+  1550,
+  "And what that happens is that the people or the contributors in a given protocol become very much like bureaucrats. So they are not contribu"
+ ],
+ [
+  17,
+  1559,
+  "ting too much. They run the dowel because the holder actually doesn't have any power or knowledge to know what's happening or to know what's"
+ ],
+ [
+  17,
+  1568,
+  " best or to propose alternatives. Many contributors become middle managers, so they just keep hiring and"
+ ],
+ [
+  17,
+  1574,
+  "hiring teams. And at some point, you don't understand where the value is being produced. Yeah. And for me, the most dangerous one is that co"
+ ],
+ [
+  17,
+  1583,
+  "ntributors manage to prioritize their pet projects. So if I'm like the core developer of some important protocol and I want to develop 90% w"
+ ],
+ [
+  17,
+  1592,
+  "hatever I want, but they still need me for that 10%, they would still fund me because I'm crucial for that part. So it's very hard to"
+ ],
+ [
+  17,
+  1600,
+  "to get to that part. And of course, the bureaucrats are going to try to protect the status quo because that's what bureaucrats do. And then "
+ ],
+ [
+  17,
+  1609,
+  "I think this is the last main problem that we found. It's like there's this hidden complexity which is very implicit and it's very hard to d"
+ ],
+ [
+  17,
+  1618,
+  "etect from the outside. So work is hard to prioritize and it's very easy to stall. So if you're getting paid per month, you might as well ta"
+ ],
+ [
+  17,
+  1628,
+  "ke forever to deliver."
+ ],
+ [
+  17,
+  1629,
+  "Experts are needed to work on difficult problems and they are hard to find. Contributors working on the wrong problems, I mentioned this alr"
+ ],
+ [
+  17,
+  1638,
+  "eady. And then, yeah, poorly defined projects. So again, who's deciding the strategy? This is going back to the when and the how and how do "
+ ],
+ [
+  17,
+  1648,
+  "we make it done. So these are some target solutions that we've been trying. Hopefully you can get inspired by this and let me know in a few "
+ ],
+ [
+  17,
+  1657,
+  "months or years how it went."
+ ],
+ [
+  17,
+  1659,
+  "So first one is to simplify and structure the governance layer. This is something that we're trying at Sky. And I think it's going well, but"
+ ],
+ [
+  17,
+  1668,
+  " it's taking a lot of time mainly because, again, a lot of contributors, lot of moving pieces, and it's like changing an engine while the je"
+ ],
+ [
+  17,
+  1677,
+  "t is flying kind of thing. The next one, it's empower the strategy and contain politics. This is easier said than done,"
+ ],
+ [
+  17,
+  1685,
+  "but something we're trying. And I'll get into the the Atlas soon, which is a bit like you can think of like a constitution. But yeah, what w"
+ ],
+ [
+  17,
+  1694,
+  "e're trying to do is to define governance as a strategy and process with its owners and then establish a class of governance that's just for"
+ ],
+ [
+  17,
+  1702,
+  " the strategy. So the strategy should be at a a different level than the operations. Then we can separate the politics on agreeing of the st"
+ ],
+ [
+  17,
+  1711,
+  "rategy. So that's I think that we can cover later."
+ ],
+ [
+  17,
+  1714,
+  "Yeah, empowering the smaller holders and rewarding participation, that's a bit harder but I think it can be achieved with some kind of token"
+ ],
+ [
+  17,
+  1723,
+  "omics. How do we do that? By attracting experts. So making sure that you get people to work on the hard problems and to enforcing processes."
+ ],
+ [
+  17,
+  1731,
+  " Should we vote on everything? I think the answer is no. Like, can you guys imagine a pilot that's going to land like, hey, where should we "
+ ],
+ [
+  17,
+  1740,
+  "land?"
+ ],
+ [
+  17,
+  1740,
+  "Because I would personally not like to participate in that vote. But some people believe that to be decentralized, need to vote on absolutel"
+ ],
+ [
+  17,
+  1749,
+  "y everything. And I think that's a huge mistake we've been doing until now. And this is what we're trying to do with Sky and I think that's "
+ ],
+ [
+  17,
+  1757,
+  "where it might become a game changing thing. You heard it here first by the way. But we're trying to become a platform for entrepreneurs to "
+ ],
+ [
+  17,
+  1766,
+  "actually build something"
+ ],
+ [
+  17,
+  1767,
+  "by removing the politics. And I'll I'll get into this in a second. So we call this endgame because it's a cool name for for a big project li"
+ ],
+ [
+  17,
+  1777,
+  "ke this one. It's going to last like a good seven to ten years. We'll see. And this is a bit what endgame is about. I'll try to go through i"
+ ],
+ [
+  17,
+  1786,
+  "t. Hopefully you have questions or not. But at the core, again, discussed"
+ ],
+ [
+  17,
+  1791,
+  "this, we have the protocol and the governance. So protocol is anything that has to do with software and governance is anything or any writte"
+ ],
+ [
+  17,
+  1800,
+  "n rule or even unwritten rule that's out there and that's governing different contributors. We have the scopes. The scopes is how do we simp"
+ ],
+ [
+  17,
+  1808,
+  "lify things. So in Maker we defined five scopes which is like accessibility, protocol, stability"
+ ],
+ [
+  17,
+  1814,
+  "of the currency. This could change from one dollar to the next. But it's basically like how do we make sure that the experts are only it's l"
+ ],
+ [
+  17,
+  1822,
+  "ike how to simplify the problem so that the experts actually find it approachable. If you're like, hey, here's here's Sky, here's the whole "
+ ],
+ [
+  17,
+  1829,
+  "protocol, it's a stable coin and then you have like voting and you have this, people might be like, man, I'm out. It's like too complicated."
+ ],
+ [
+  17,
+  1837,
+  "So this hopefully brings more accessibility in terms of of expertise. And then what we're trying to do and this is where I think things beco"
+ ],
+ [
+  17,
+  1846,
+  "me super, super cool is that we have stars. And this is how we got rid of all the politics. So just to give you an example, probably three y"
+ ],
+ [
+  17,
+  1855,
+  "ears ago if someone was like, hey, I have this really cool idea. We should go into"
+ ],
+ [
+  17,
+  1860,
+  "Bangladesh and and give loan to these people and we have all the connections already and everything's good to go, things would become very h"
+ ],
+ [
+  17,
+  1868,
+  "eated in the forum. We'd be like, no, we should go and buy T bills in The States or we should do this other thing in Brazil. And eventually "
+ ],
+ [
+  17,
+  1876,
+  "things would stall to the point where you don't understand and everything's noise. The power of this is that you can actually try all these "
+ ],
+ [
+  17,
+  1883,
+  "things. So you're requiring"
+ ],
+ [
+  17,
+  1885,
+  "some kind of founding team or or or some yeah. Some some team with a with a CEO, if you want to call it, and some funds to serve as junior c"
+ ],
+ [
+  17,
+  1893,
+  "ollateral. And with that in mind, you can actually give the stars the opportunity to go anywhere they want and to do whatever. Star's superp"
+ ],
+ [
+  17,
+  1901,
+  "ower is that they are able to fail. So again, if all of them fail, then the whole ecosystem would. But hopefully we can try enough things th"
+ ],
+ [
+  17,
+  1909,
+  "at finally the I don't know. The idea in Bangladesh was actually a really good idea and it's it ended up being super profitable instead of j"
+ ],
+ [
+  17,
+  1917,
+  "ust killing it because it sounds like a bad idea."
+ ],
+ [
+  17,
+  1920,
+  "So that's a bit what we're trying to to achieve. I don't if there's any questions so far. Can you say it again, please? For the yeah. Okay. "
+ ],
+ [
+  17,
+  1933,
+  "I'm curious how much it overlaps with, like, existing methodology methodologies like sociocracy. I I think a lot. I'm I'm not claiming to ha"
+ ],
+ [
+  17,
+  1946,
+  "ve"
+ ],
+ [
+  17,
+  1946,
+  "invented anything. I don't think we're trying to reinvent the wheel. It's more like we we kind of looked at things that have been working, t"
+ ],
+ [
+  17,
+  1955,
+  "hings that have not over the past few years. And then, yeah, there's a lot of super interesting experiments in terms of, yeah, holacracy or "
+ ],
+ [
+  17,
+  1964,
+  "yeah. I don't know. We can argue again another long coffee on what ideas are we borrowing"
+ ],
+ [
+  17,
+  1970,
+  "from to get to this? But but, yeah, there's a lot of overlap for sure. Yeah. What do you think of the rebrand? No. Just kidding. My question"
+ ],
+ [
+  17,
+  1982,
+  " is about the the fractionalization of Maker. How did that go? What went well? And what do you think other projects should take in considera"
+ ],
+ [
+  17,
+  1994,
+  "tion"
+ ],
+ [
+  17,
+  1994,
+  "to do better? What do you mean fractionalization? Like MakerDAU's units and how they sort of work independently. How did that how was that p"
+ ],
+ [
+  17,
+  2005,
+  "lanned and how can other projects simulate that to achieve a similar outcome? Mhmm. So for those that don't know, I think you're talking abo"
+ ],
+ [
+  17,
+  2016,
+  "ut the core units like in the past or not?"
+ ],
+ [
+  17,
+  2019,
+  "The the way it works the way that Maker worked is that we had these core units that were teams. So you were paying teams to do stuff for Mak"
+ ],
+ [
+  17,
+  2028,
+  "er. That would work in with different degrees of success. So again, we can talk about pet project. And it wasn't horrible. It's just that it"
+ ],
+ [
+  17,
+  2037,
+  " was very hard to coordinate. The idea with the new plan is that you have some kind of"
+ ],
+ [
+  17,
+  2042,
+  "central systems. So like operationalize or make sure that things are properly deployed. So anything that's critical, it's it's there. But an"
+ ],
+ [
+  17,
+  2051,
+  "ything that has to do with an expense or over the tokenomics, you almost don't care anymore. So you have a star and if the star is doing hor"
+ ],
+ [
+  17,
+  2059,
+  "rible marketing and it's just like they're doing memes and throwing crazy parties. If it's working for them, then that's that's fantastic."
+ ],
+ [
+  17,
+  2068,
+  "But the idea is to not have to care anymore and that way you remove the politics. And it's like, if you disagree with this star, go create a"
+ ],
+ [
+  17,
+  2076,
+  "nother one and try to see if it works or if it doesn't work and then we can we can see what's actually working. Yeah. I think that's that's "
+ ],
+ [
+  17,
+  2084,
+  "the way to actually removing the the politics and making sure that that things don't escalate to to stalling. Ida?"
+ ],
+ [
+  17,
+  2091,
+  "How are the stars being kicked off? Are they they given initial funding or sorry if I missed that. How are kicked off or Okay. Yeah. Yeah. I"
+ ],
+ [
+  17,
+  2106,
+  " I thought you were talking about how do you phase them out. So the the answer for that is like"
+ ],
+ [
+  17,
+  2117,
+  "alright. Maybe let's let's but yeah. So right now we're in the phase that we're incubating a lot of stars. So there's a lot happening intern"
+ ],
+ [
+  17,
+  2125,
+  "ally and we're coordinating for this to be a success. Of course, we don't want to be like, hey, here's the framework. Try it because people "
+ ],
+ [
+  17,
+  2133,
+  "don't want to get burned. So there's a lot of support in the beginning and making sure that things happen and that things work. And that als"
+ ],
+ [
+  17,
+  2141,
+  "o help helps us understand"
+ ],
+ [
+  17,
+  2142,
+  "what we need to work on. So someone could be building a star and it's like, man, this is horrible. Like, I don't want to do this. It's like,"
+ ],
+ [
+  17,
+  2150,
+  " okay. How can we make sure that in the future someone else that wants to build another star might have a better experience into this? So ri"
+ ],
+ [
+  17,
+  2157,
+  "ght now in this phase that we call like launch slash orbit where it's like we need to get all these things and we need to write them in the "
+ ],
+ [
+  17,
+  2165,
+  "atlas. Again, it's our like rule book"
+ ],
+ [
+  17,
+  2167,
+  "to make sure that it they are accessible to to anyone. Burns? I really like this framework. And it's yeah. You were right. I'm actually a re"
+ ],
+ [
+  17,
+  2180,
+  "ally big fan of your talk. And this I think that this how we see it reassembles a purely pragmatic stance of"
+ ],
+ [
+  17,
+  2190,
+  "how can we organize us loosely but efficiently goal oriented to get the job done with exactly the forces that we need and exactly the player"
+ ],
+ [
+  17,
+  2202,
+  "s that will arise in that. And if we look at that, I think nearly every decentralized governance structure or map will somehow look like tha"
+ ],
+ [
+  17,
+  2213,
+  "t in reassemblement."
+ ],
+ [
+  17,
+  2215,
+  "That doesn't mean that they do everything only in full consensus or in illusion of full consensus or that it's the main mission that everybo"
+ ],
+ [
+  17,
+  2225,
+  "dy is always happy with the way that it's going. But there is a central mission and a central organ that upholds the mission, and then there"
+ ],
+ [
+  17,
+  2234,
+  " are enablers and accelerators and safeguards and different function that can help each other."
+ ],
+ [
+  17,
+  2241,
+  "And I think giving this a name would already be the wrong approach because this is literally, whatever we think might work, if I understood "
+ ],
+ [
+  17,
+  2255,
+  "it correctly, and whatever we think might enable basically to let the stars act as a think tank on problems that they"
+ ],
+ [
+  17,
+  2266,
+  "need to solve in order for the whole ecosystem to succeed. In where would be your sharpest criticism to my analysis? I I almost thought I ha"
+ ],
+ [
+  17,
+  2278,
+  "d like a full endorsement by Burns, but it's like with partial. No. No. I I think it's it's very valid. I don't think this is endgame. Like "
+ ],
+ [
+  17,
+  2290,
+  "what we call endgame is like to reach and and it's a lot lot more complex than this."
+ ],
+ [
+  17,
+  2297,
+  "When you think about resiliency, for example, we go all the way to thinking about like, should we should Sky has its own chain to make sure "
+ ],
+ [
+  17,
+  2304,
+  "that you're not even depending on Ethereum. Right? And then you can go cross chain and have different things. So my going back to your to yo"
+ ],
+ [
+  17,
+  2312,
+  "ur point about the name, like, it's not that this is endgame. It's more like endgame is this feature states and and this a bit how we're get"
+ ],
+ [
+  17,
+  2319,
+  "ting there. Endgame is"
+ ],
+ [
+  17,
+  2320,
+  "endgame is fine. Am I am I think like, yes, this might loosely re reassemble sociocracy if you really like these circles, but they completel"
+ ],
+ [
+  17,
+  2330,
+  "y mean something different here and they don't create illusions of unanimity and endless bureaucracy. I can also see a business conglomerate"
+ ],
+ [
+  17,
+  2340,
+  " here, but it also wouldn't really encompass that. The the word endgame the word endgame is really great, I think, because the endgame is th"
+ ],
+ [
+  17,
+  2350,
+  "e open endgame of staying pragmatic"
+ ],
+ [
+  17,
+  2352,
+  "adaptable and staying on track with the mission at the same time. So it was rather a comment of not projecting ideological words or loaded t"
+ ],
+ [
+  17,
+  2362,
+  "erms about how governments should be made in yeah. Could reassemble that because this for real reassembles a lot of structures. So endgame i"
+ ],
+ [
+  17,
+  2372,
+  "s fine, however, was not a criticism to that. Nice. Yeah. No. I"
+ ],
+ [
+  17,
+  2377,
+  "yeah. Again, it's it's for me, it's a way to to to simplify the way and to make it visual for someone to quickly understand it, but it's, of"
+ ],
+ [
+  17,
+  2385,
+  " course, a lot more complex. And I don't like I don't like putting tags, sociocracy or holocracy, whatever it is, mainly because usually it "
+ ],
+ [
+  17,
+  2394,
+  "comes with a lot of baggage that you might not want to to share. So I'm I'm trying to avoid any type of"
+ ],
+ [
+  17,
+  2400,
+  "of analogies to to anything that exists. Alright. I think I covered already scopes like to simplify things and how you should have like main"
+ ],
+ [
+  17,
+  2411,
+  " topics and areas so that people can bring their expertise. And, yeah, frameworks. This is quite important, but basically it's about critici"
+ ],
+ [
+  17,
+  2423,
+  "zing"
+ ],
+ [
+  17,
+  2423,
+  "when you criticize the the idea instead of the people, it's when you actually have to write it down and make sure that it's a law. So if lik"
+ ],
+ [
+  17,
+  2431,
+  "e one of the stars that I was showing was doing something that you believe is wrong for the whole ecosystem, you could bring it up into the "
+ ],
+ [
+  17,
+  2439,
+  "atlas and write like no star is allowed to do this. It's it's not about the star in particular. It's about like it should be a rule for the "
+ ],
+ [
+  17,
+  2447,
+  "whole ecosystem to to get better."
+ ],
+ [
+  17,
+  2449,
+  "I already covered this a bit. Stars. Yeah. Also covered this one. So maybe I'll get a little bit on the on the Sky Atlas before before we fi"
+ ],
+ [
+  17,
+  2460,
+  "nish. And I think this is a pretty cool thing that we're we're working on. This will be a very, very long document. So a lot of projects try"
+ ],
+ [
+  17,
+  2471,
+  " to keep it under five pages or under 20 pages."
+ ],
+ [
+  17,
+  2475,
+  "Ours is like I think 350 pages and growing. I don't think we're even remotely close to them. And if you're already horrified by that, it's w"
+ ],
+ [
+  17,
+  2486,
+  "ritten in a data interchange format being either JSON or XML or whatever it is. So we're kind of like optimizing for for AI first or for any"
+ ],
+ [
+  17,
+  2498,
+  " type of machine reading first."
+ ],
+ [
+  17,
+  2500,
+  "And if you guys remember, we can go back to like the the users and how will they access this this information. Yeah. I think that's somethin"
+ ],
+ [
+  17,
+  2510,
+  "g that we have completely gotten wrong in the space is that we assume that every user coming into our organization knows all the rules and t"
+ ],
+ [
+  17,
+  2520,
+  "hey want to know the rules. It's like if you go to visit Australia and you all of a sudden need to read absolutely every single law"
+ ],
+ [
+  17,
+  2530,
+  "on how to behave. Right? Like no one does that. You just go you try to use a little bit of common sense. You might get like warnings. You mi"
+ ],
+ [
+  17,
+  2539,
+  "ght get, I don't know, signs saying what to do and what not to do. So we need to do a little bit the same with with our projects. We need to"
+ ],
+ [
+  17,
+  2547,
+  " tell people or help them through UIs, dashboards, AI, chatbots, whatever it is to make sure that they're they're getting there."
+ ],
+ [
+  17,
+  2555,
+  "So that's why we're supercharging the Atlas with AI. I don't think it's going to be anything too crazy, but getting to a level where people "
+ ],
+ [
+  17,
+  2564,
+  "can interact directly, not only to consume information, but also to edit things. We're also building agents that are going to make sure that"
+ ],
+ [
+  17,
+  2574,
+  " the Atlas is consistent in terms of rules. So again, if it's like thousands and thousands of pages, you want to make sure that all the rule"
+ ],
+ [
+  17,
+  2583,
+  "s make sense and that they're not contradictions."
+ ],
+ [
+  17,
+  2586,
+  "And yeah, it's thanks very much for liking the name. It's all endgame. So this going back to to the slide, like the work is being done by th"
+ ],
+ [
+  17,
+  2595,
+  "e stars. The capitals, this sound tokenomics and incentives. And finally, you have workforce which is we call them ecosystem actors because "
+ ],
+ [
+  17,
+  2604,
+  "we don't want to call them providers, but that's a little bit how it works. And as I was saying, the Atlas is"
+ ],
+ [
+  17,
+  2611,
+  "all in center ruling and making sure that everyone has access to the same type of information. There's no hidden complexities and and yeah. "
+ ],
+ [
+  17,
+  2621,
+  "That's it. So if anyone wants to build a star anytime soon, that's my contact information and thanks for listening. I don't if there's any q"
+ ],
+ [
+  17,
+  2631,
+  "uestion of if the next talk I think it's it's already a little bit over time, so I'm happy to yield my Next up is hiking. So we do have some"
+ ],
+ [
+  17,
+  2641,
+  " time. Perfect."
+ ],
+ [
+  17,
+  2642,
+  "Is this this working? Yeah. Is. Okay. Just as a thought experiment. Could Switzerland be a star or would that not make any sense? Just curio"
+ ],
+ [
+  17,
+  2655,
+  "us. So for for Sky, what we're what Sky offers you, it's it's two or or yeah. What what Sky is offering to the stars is two"
+ ],
+ [
+  17,
+  2666,
+  "superpowers. One of them it's called and the names might change because names are tricky, but one of them it's called accessibility rewards,"
+ ],
+ [
+  17,
+  2676,
+  " which is you get money based on the amount of USDS that people are holding. So if you, I don't know, if you have someone that's that has a "
+ ],
+ [
+  17,
+  2686,
+  "wallet, as an example, Worldcoin, I think that they use Dai"
+ ],
+ [
+  17,
+  2690,
+  "in the back end. So for example, just by users holding Dai, they would get accessibility rewards. So if you can make people transact in USDS"
+ ],
+ [
+  17,
+  2700,
+  " and that number is considerable, that that's potentially a very very good revenue stream for you that you're getting from from Sky. And the"
+ ],
+ [
+  17,
+  2709,
+  " second superpower that that the stars are getting it's called the allocation system, which is here's a bunch of money that you can invest."
+ ],
+ [
+  17,
+  2719,
+  "So if you make the right investments, you can make more money. So you you pay or every star pays the it just we call the base rate. Now they"
+ ],
+ [
+  17,
+  2728,
+  "'re working on the name to Sky. So it could be like 4%. It's a risk free premium kind of. So you pay 4% or whatever it is, and then any type"
+ ],
+ [
+  17,
+  2737,
+  " of margin you're making on top of that because you're buying into Swiss bonds,"
+ ],
+ [
+  17,
+  2742,
+  "then that would be kept in the star. So the star could make money based on that. So for Switzerland, maybe. I don't know. Yeah. I have a que"
+ ],
+ [
+  17,
+  2752,
+  "stion about the DAO tooling specifically. So what I find most impressive about MakerDAO is that you built it when there was basically no DAO"
+ ],
+ [
+  17,
+  2763,
+  " tooling whatsoever. So you built everything yourself."
+ ],
+ [
+  17,
+  2767,
+  "And I'm curious what your tech stack looks now and what would you recommend to people that are just getting started now that there are like "
+ ],
+ [
+  17,
+  2776,
+  "ten ten different DAO frameworks or whatever out there. Maybe we can get into the details on the hike, but it it really depends because ther"
+ ],
+ [
+  17,
+  2785,
+  "e's so many layers that we're covering with tools. Right? Like anything from, I don't know, GitHub to a decentralized GitHub to"
+ ],
+ [
+  17,
+  2793,
+  "running checks, I don't know, IDs all the way to governance and how do we make sure that a process is followed. Is there like a a calendar? "
+ ],
+ [
+  17,
+  2803,
+  "What kind of tools do we use? So yeah, I don't think we made a lot of progress in terms of tooling, but yeah, that's potentially good conver"
+ ],
+ [
+  17,
+  2813,
+  "sation to have in terms of what's working, what's not working for others, and eventually how you do that."
+ ],
+ [
+  17,
+  2820,
+  "We do have a few ecosystem actors trying to build tools that are very specific to DOS and hopefully they yield interesting options because w"
+ ],
+ [
+  17,
+  2832,
+  "ell mainly because it's it's like it's very custom built. So they should be very focused on the on the user. So I'll I'll report back in a f"
+ ],
+ [
+  17,
+  2843,
+  "ew months and see how how that's going. But yeah, I can I can send you a few links afterwards if you want?"
+ ],
+ [
+  17,
+  2852,
+  "No more questions? Oh, one Let's go, Kyle. For roles, are you still using hats or yeah. Just a more under the hood thing. For what? Sorry. R"
+ ],
+ [
+  17,
+  2862,
+  "oles. You're right. You're using role methodology and and are using your own protocol now? Yes. I I don't know if we ever got to actually us"
+ ],
+ [
+  17,
+  2872,
+  "e hats. I know that we were trying that. I'm not sure where that experiment ended,"
+ ],
+ [
+  17,
+  2878,
+  "but I don't think we are. And then I've been thinking a bit about how a contract agreements is different than beneficial, like, property own"
+ ],
+ [
+  17,
+  2887,
+  "ership agreements. And so, yeah, I don't know if Maker really needs a separate agreement system for property because you've got all that tok"
+ ],
+ [
+  17,
+  2896,
+  "ens and all that, so that would be ownership. But I'm just ruminating on it right now. I guess, at least in in the"
+ ],
+ [
+  17,
+  2903,
+  "recording systems I'm building out, those are separate considerations. And because roles just don't really cover that well because we're kin"
+ ],
+ [
+  17,
+  2910,
+  "d of thinking about, you know, everyone getting work done and not so much who's owning what and those those rights and obligations with rega"
+ ],
+ [
+  17,
+  2918,
+  "rds to, you know, assets. I'm wondering if you've you've thought about that and yeah. If you your system already kinda handles that side of "
+ ],
+ [
+  17,
+  2925,
+  "things. For anything legal, I'm assuming way out of my depth. So I I think I have more questions for you than than than you can have for me."
+ ],
+ [
+  17,
+  2932,
+  " But I know that there are people taking care of different things and what other way what what are the best ways to be more resilient?"
+ ],
+ [
+  17,
+  2939,
+  "Should you incorporate different entities in different jurisdictions? So I know that there are people actively working on that, but yeah, an"
+ ],
+ [
+  17,
+  2949,
+  "ything specific, I'll I think I have more questions for you than you have for me. Okay. Sounds good. Yeah. We we had a while ago. Series LLC"
+ ],
+ [
+  17,
+  2960,
+  " was a conversation. Yeah. Yeah. Any final question? Hi. I just arrived a bit late. I"
+ ],
+ [
+  17,
+  2966,
+  "remember seeing at some point a chart of a pie chart of MakerDAO and the assets that you hold. And at some point, I saw a tokenized gold. Is"
+ ],
+ [
+  17,
+  2975,
+  " there like what is like the reason for that? Are you just trying to diversify or any particular reason for holding like PaxG, Paxos Gold? Y"
+ ],
+ [
+  17,
+  2984,
+  "eah. That was a long time ago. Do you still have it? Do you still is it part of the"
+ ],
+ [
+  17,
+  2989,
+  "MakerDAU? I just arrived late. I'm sorry. No. No. No worries. So the the way it's going to be working, it's that you have like the the core "
+ ],
+ [
+  17,
+  2997,
+  "at the center and then you have different stars. And as I was telling Eila, like the stars get either the accessibility rewards, when it's l"
+ ],
+ [
+  17,
+  3004,
+  "ike you work on the on the demand side of the stable coin and you make people hold your coin for whatever reason. And the other one is like "
+ ],
+ [
+  17,
+  3012,
+  "the allocation system. So if a star decides to YOLO everything into gold because I don't know, it's working or they find some"
+ ],
+ [
+  17,
+  3019,
+  "delta, like zero arbitrage between futures and whatever it is, right, the strategy, then that that it could be that USDS is partially backed"
+ ],
+ [
+  17,
+  3029,
+  " by gold. But the idea is to not have any any core directions. I mean, you you could have some something like, hey, you need to hold this mu"
+ ],
+ [
+  17,
+  3038,
+  "ch to avoid a bank run or you need that. So there could be like some general rules, but there's no specific,"
+ ],
+ [
+  17,
+  3046,
+  "like, you're not allowed to hold gold, for example. Okay. Yeah. Thank you. I don't know. It just occurred to me, like, do you have your face"
+ ],
+ [
+  17,
+  3056,
+  ". Do you have, a taxonomy of stars or categories? Or, like, is this like, oh, I wanna open a bakery in Budapest, like, I mean, like, maybe n"
+ ],
+ [
+  17,
+  3066,
+  "ot. So Yeah. Just curious. We we tried that. We we had like"
+ ],
+ [
+  17,
+  3070,
+  "we we were like pure DeFi or real world assets kind of justification at first. And then the know, the the start of doing DeFi. I think the m"
+ ],
+ [
+  17,
+  3079,
+  "ost popular one is spark.fi. You might know if it's a fork or fava. But they were like, hey, maybe we will also do a real world assets or at"
+ ],
+ [
+  17,
+  3088,
+  " least a bit because we are exploring these partnerships. And the opposite was also true. Like this startup was just going to focus on real "
+ ],
+ [
+  17,
+  3097,
+  "world assets. Like, hey, we might want to YOLO into"
+ ],
+ [
+  17,
+  3100,
+  "this, I guess not YOLO, but there are all these opportunities within DeFi that we might also have an opportunity. So yeah, we were thinking "
+ ],
+ [
+  17,
+  3111,
+  "about separating and making sure there's no overlap. There's also the same thing with chains, right? So it's like okay, there's this star go"
+ ],
+ [
+  17,
+  3122,
+  "ing into Solana, for example. So should you"
+ ],
+ [
+  17,
+  3125,
+  "the what? That's happening. So should we I don't know. Should we impose some kind of monopoly at least in the beginning to make sure that th"
+ ],
+ [
+  17,
+  3144,
+  "ey develop? Maybe not. And and these are things that we're weighing right now. Alright. Thank you everyone for coming. It was a pleasure."
+ ],
+ [
+  17,
+  3162,
+  "Alright. Thanks so much, Juan. That was awesome. Next up is nothing, but we'll go for a hike. So meet us at 01:30 at the reception. Yeah. I "
+ ],
+ [
+  17,
+  3176,
+  "I was about to say, yeah, think one 01:45, I think, is a good time to leave. Does anyone wanna cook a proper meal? I"
+ ],
+ [
+  17,
+  3188,
+  "think 01:45 to leave is probably fine. Does that sound good to you all? No strong objections objections? Okay."
+ ],
+ [
   18,
   0,
   "In the room and also outside there on the web. And, of course, most likely everyone feels like we want to break free. We want to be free. We"
