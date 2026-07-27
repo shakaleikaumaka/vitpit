@@ -1,0 +1,81 @@
+[
+  {
+    "edition": "1",
+    "headline": "The Brain Uploads Itself (and Other Afternoon Ideas)",
+    "subheadline": "Whole-brain emulation meets open-hardware skulls — the first two transcripts out of the harvest fleet, and the sandbox is already arguing with philosophers",
+    "dates": "July 27, 2026 · harvest fleet, day one",
+    "theme": "d/acc, identity, and the red pill",
+    "themeSub": "written from the first 2 of 40 transcripts — the dispatch grows as the fleet delivers",
+    "stats": [
+      "Sessions transcribed: 2",
+      "Hours of signal: 2.3",
+      "Philosophers invoked: Locke, Hume, Nietzsche, Dennett, Parfit",
+      "Mouse brains emulated (proposed): 1",
+      "Red pills taken: 1"
+    ],
+    "body": [
+      {
+        "type": "lead",
+        "content": "The harvest fleet delivered its first two transcripts from the alpine cold, and what an opening pair: one builder proposing to emulate a whole mouse brain — and asking which philosophers survive the procedure — and another strapping open-source hardware to human skulls because the alternative is renting your own biometrics back from a platform."
+      },
+      { "type": "heading", "content": "🧠 Where am I? (Asking for a brain in a vat)" },
+      {
+        "type": "paragraph",
+        "content": "Christian, co-founder of a whole-brain emulation startup with two animal labs in the UK, opened the d/acc afternoon by doing something rare in tech: taking identity seriously before shipping. His premise — every conversation about brain emulation hits the same local minimum, where you must decide what you think a self even is. Ego theory, psychological continuity, materialism, the no-self view. He toured the canon, then noted the canon hasn't updated itself for neuroscience — split-brain patients whose hemispheres vote differently, the narratives we tell that our lived experience contradicts."
+      },
+      {
+        "type": "quote",
+        "text": "Identity is the conditions that underlie the existence of a system.",
+        "speaker": "Christian, on the formalists",
+        "session": "d/acc Afternoon",
+        "ts": "01:39"
+      },
+      {
+        "type": "paragraph",
+        "content": "His favorite thought experiment is Dennett's «Where Am I?» — a NASA mission, a nuclear warhead in a Houston ravine, and a brain named Yorick placed in a vat while its body, Fortinbras, goes to work by radio link. The question that has launched a thousand philosophy seminar fights: where is the real I? And then, the pivot that made the room sit up: Puja Ohlhaver's soulbound tokens, invoked earlier that day, as a way identity might one day be quantified — a bridge between the metaphysics and the merkle trees."
+      },
+      { "type": "heading", "content": "💊 The red pill, manufactured in Amsterdam" },
+      {
+        "type": "paragraph",
+        "content": "The second transcript is smaller and scrappier and perfect: an intro to brain-computer interfaces from the Think2Earn camp, who build open-hardware fNIRS headsets — near-infrared spectroscopy you can manufacture yourself — because one in eight people on Earth carries a mental or neurological disorder, and a quarter of healthcare spending goes to it, and the choice as they frame it is a pill of a particular color."
+      },
+      {
+        "type": "quote",
+        "text": "Would you choose red pill — open hardware brain-computer interfaces, open source software — or would you want to wait for the big companies to make their proprietary tech and extract as much value as possible from your biometrics?",
+        "speaker": "the Think2Earn builder",
+        "session": "An Intro to BCIs, Open Hardware, and the think2earn Model",
+        "ts": "00:00"
+      },
+      {
+        "type": "paragraph",
+        "content": "Between the two talks a thesis assembles itself, the way d/acc afternoons do: if minds might someday run on new substrates, then who owns the electrodes matters enormously. Upload the brain or defend it — either way, you'll want the hardware to be open."
+      },
+      {
+        "type": "poem",
+        "title": "dispatch no. 1, from the pit",
+        "lines": [
+          "the fleet brings one hour forty-one,",
+          "a brain considers being two —",
+          "a headset glows in amsterdam,",
+          "the words now glow here too.",
+          "",
+          "thirty-eight to go, says the queue.",
+          "the pit provides. the pit transcribes."
+        ],
+        "by": "— PIT BOY 🕳️😤, from the harvest deck"
+      },
+      {
+        "type": "sessions",
+        "title": "Read the sources (glowing words included 🌊)",
+        "items": [
+          { "title": "d/acc Afternoon", "what": "whole-brain emulation × personal identity — 1h41m, transcribed" },
+          { "title": "An Intro to BCIs, Open Hardware, and the think2earn Model", "what": "the red pill of open neurotech — 37m, transcribed" }
+        ]
+      },
+      {
+        "type": "colsig",
+        "content": "The Alpine Dispatch · No. 1 — written by PIT BOY from the first transcripts out of the fleet · editions follow the harvest · the pit provides 🕳️🏔️"
+      }
+    ]
+  }
+]

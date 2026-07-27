@@ -432,6 +432,7 @@ footer a{color:var(--ink-dim)}
   <div class="wrap">
     <span class="brand">The ZuitzPIT</span>
     <a class="nl" href="#watch">Watch &amp; Read</a>
+    <a class="nl" href="#daily">The Dispatch</a>
     <a class="nl" href="#gift">The Fork</a>
     <span class="spacer"></span>
     <a class="nl" href="https://drive.google.com/drive/u/0/folders/1c3mf90sMoM9RaCA7P_NTRZ0ByZoTfrB2">Source Drive ↗</a>
@@ -459,6 +460,15 @@ footer a{color:var(--ink-dim)}
   </div>
   <div class="grid" id="grid"></div>
   <div id="deepResults"></div>
+</section>
+<!-- ============ THE DISPATCH ============ -->
+<section id="daily">
+  <div class="sec-head reveal">
+    <div class="sec-kicker">The Alpine Dispatch</div>
+    <h2 class="sec-title">Dispatches from the sandbox</h2>
+    <p class="sec-sub">Written from the pit's own transcripts as the harvest fleet delivers them — the news, the bangers, the verse, and the comic relief of the Swiss sandbox. 📰🏔️</p>
+  </div>
+  <div id="dispatches"></div>
 </section>
 
 <!-- ============ WEEKLY ============ -->
@@ -548,7 +558,7 @@ async function boot(){
   document.getElementById('st-sessions').textContent = SESSIONS.length;
   document.getElementById('st-videos').textContent = SESSIONS.filter(s=>s.media.length).length;
   document.getElementById('st-transcripts').textContent = SESSIONS.filter(s=>s.transcript).length;
-  render();
+  render(); loadDispatches();
 }
 
 function fmtDate(d){
@@ -1261,6 +1271,68 @@ function openAtMoment(si, t){
 document.querySelectorAll('.chip').forEach(c=>c.onclick=()=>{
   c.classList.toggle('on'); state.f[c.dataset.f] = c.classList.contains('on'); render();
 });
+
+/* ---------- dispatches: The Edge Weekly ---------- */
+function renderBlock(b){
+  switch(b.type){
+    case 'lead': return `<p class="lead">${esc(b.content)}</p>`;
+    case 'paragraph': return `<p>${esc(b.content)}</p>`;
+    case 'heading': return `<h4>${esc(b.content)}</h4>`;
+    case 'quote': return `<div class="pq"><div class="qt">${esc(b.text)}</div>
+      <div class="qa">— <b>${esc(b.speaker)}</b>${b.session?` · ${esc(b.session)}`:''}${b.ts?` · ${esc(b.ts)}`:''}</div></div>`;
+    case 'poem': return `<div class="verse"><div class="vt">${esc(b.title||'')}</div>
+      <div class="vl">${esc((b.lines||[]).join('\n'))}</div>
+      ${b.by?`<div class="vby">${esc(b.by)}</div>`:''}</div>`;
+    case 'comic': return `<div class="comic"><div class="ct">${esc(b.title||'')}</div>
+      <div class="cpanels">${(b.panels||[]).map(p=>`<div class="cpanel">
+        <div class="ce">${p.emoji||'🌺'}</div>
+        ${p.say?`<div class="cs">${esc(p.say)}</div>`:''}
+        ${p.caption?`<div class="cc">${esc(p.caption)}</div>`:''}</div>`).join('')}</div></div>`;
+    case 'meme': {
+      const items = b.items || (b.src ? [{src:b.src, alt:b.alt}] : []);
+      return `<div class="wmeme"><div class="ct">${esc(b.title||'')}</div>
+        <div class="wmeme-row">${items.map(it=>`<img src="${esc(it.src)}" alt="${esc(it.alt||'')}" loading="lazy">`).join('')}</div></div>`;
+    }
+    case 'sessions': return `<div class="wsess"><div class="wst">${esc(b.title||'Sessions of the week')}</div>
+      ${(b.items||[]).map(it=>{
+        const idx = SESSIONS.findIndex(x=>x.title===it.title);
+        return `<div class="wsitem" ${idx>=0?`onclick="openSession(${idx})"`:''}>
+          <b>${esc(it.title)}</b>${it.what?`<span>${esc(it.what)}</span>`:''}</div>`;
+      }).join('')}</div>`;
+    case 'colsig': return `<div class="colsig">${esc(b.content)}</div>`;
+    default: return '';
+  }
+}
+async function loadDispatches(){
+  try{
+    const arts = await (await fetch('data/articles.json?v=3')).json();
+    document.getElementById('dispatches').innerHTML = arts.map(a=>{
+      const body = (a.body||[]).map(renderBlock).join('');
+      const mast = a.edition ? `
+        <div class="wmast">
+          <div class="wtag">The Alpine Dispatch · No. ${esc(a.edition)}</div>
+          <h3>${esc(a.headline)}</h3>
+          <div class="dsub">${esc(a.subheadline||'')}</div>
+          <div class="wdates">${esc(a.dates||'')} · the Swiss Alps</div>
+          <div class="wtheme">${esc(a.theme||'')}</div>
+          <div class="wthemesub">${esc(a.themeSub||'')}</div>
+        </div>
+        <div class="wstats">${(a.stats||[]).map(s=>{const m=s.match(/^([^:]+):\s*(.*)$/);return m?`<span><b>${esc(m[1])}</b>${esc(m[2])}</span>`:`<span>${esc(s)}</span>`;}).join('')}</div>`
+      : `<div class="dmeta"><span>📰 ${esc(a.dateFormatted||a.date||'')}</span><span>·</span><span>${esc(a.weekLabel||'')}</span><span>·</span><span>${esc(a.author||'')}</span></div>
+        <h3>${esc(a.headline)}</h3><div class="dsub">${esc(a.subheadline||'')}</div>`;
+      return `<article class="dispatch weekly reveal vis">${mast}
+        <div class="dbody" style="display:none">${body}</div>
+        <button class="expand">Read the full edition →</button>
+      </article>`;
+    }).join('');
+    document.querySelectorAll('.dispatch .expand').forEach(b=>b.onclick=()=>{
+      const d = b.previousElementSibling, open = d.style.display!=='none';
+      d.style.display = open?'none':'block';
+      b.textContent = open?'Read the full edition →':'Close the edition ↑';
+    });
+  }catch(e){ document.getElementById('dispatches').innerHTML = '<div class="empty">The dispatch desk is listening for more transcripts… 🌙🏔️</div>'; }
+}
+
 
 /* ---------- reveal on scroll ---------- */
 const io = new IntersectionObserver(es=>es.forEach(e=>{ if(e.isIntersecting){ e.target.classList.add('vis'); io.unobserve(e.target);} }),{threshold:.1});
