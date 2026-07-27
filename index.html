@@ -565,7 +565,7 @@ const esc = s => (s||'').replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'
 let SESSIONS = [], state = {week:'all', q:'', f:{v:true,a:true,t:true}};
 
 async function boot(){
-  const res = await fetch('data/catalog.json?v=3');
+  const res = await fetch('data/catalog.json?v=4');
   SESSIONS = await res.json();
   document.getElementById('st-sessions').textContent = SESSIONS.length;
   document.getElementById('st-videos').textContent = SESSIONS.filter(s=>s.media.length).length;
@@ -601,7 +601,10 @@ function render(){
   document.getElementById('weekNote').textContent = state.week==='all' ? '✦ The Zuitzerland residency, May 2025 · the 2025 Summit joins when its drive opens' : (WEEKS[state.week]?.note||'');
   if(!list.length){ grid.innerHTML = '<div class="empty">Nothing here yet — try another week or search 🌅</div>'; return; }
   grid.innerHTML = list.map((s,i)=>{
-    const hasV = s.media.some(m=>m.kind==='video'), hasA = s.media.some(m=>m.kind==='audio');
+    const _vids = s.media.filter(m=>m.kind==='video');
+    const hasV = _vids.length>0, hasA = s.media.some(m=>m.kind==='audio');
+    const deadV = hasV && _vids.every(m=>m.preview==='dead');
+    const folderV = deadV && _vids.every(m=>m.folder);
     const karaoke = s.transcript && s.media.some(m=>m.hosted);
     const idx = SESSIONS.indexOf(s);
     const hp = (s.media.find(m=>m.hosted)||{}).hosted;
@@ -615,7 +618,7 @@ function render(){
       <div class="badges">
         ${karaoke?'<span class="pill xp">🌊 karaoke transcript</span>':''}
 
-        ${hasV?'<span class="pill v">▶ video</span>':''}
+        ${hasV?(deadV?'<span class="pill" style="background:rgba(232,184,75,.10);color:var(--gold,#e8b84b);border:1px solid rgba(232,184,75,.35)">'+(folderV?'🗂️ source folder':'🛠️ preview pending')+'</span>':'<span class="pill v">▶ video</span>'):''}
         ${hasA?'<span class="pill a">🎧 audio</span>':''}
         ${s.transcript?'<span class="pill t">📄 transcript</span>':''}
         ${!hasV&&!hasA?'<span class="pill d">read only</span>':''}
@@ -670,6 +673,13 @@ function showUnified(s){
   const others = s.media.filter(x=>x!==m);
   const hosted = m.hosted || (s.media.find(x=>x.hosted)||{}).hosted || null;
   const hasVideo = s.media.some(x=>x.kind==='video');
+  /* AUDIT BOOGIE 2026-07-27 (drive-viewer probe, 383 videos): Drive never transcoded these —
+     /preview is a corpse, but the pit's own audio + words still carry the session.
+     Go audio-first and say so HONESTLY. flag lives in data/catalog.json (self-healing:
+     the QA probe flips it back when Drive coughs up a transcode). */
+  const vmEntry = s.media.find(x=>x.kind==='video');
+  const vidDead = !!(vmEntry && vmEntry.preview==='dead');
+  const vidFolder = !!(vmEntry && vmEntry.folder);
   /* mobile truth (Shaka's iPhone): Safari ITP blocks 3rd-party cookies, so the
      Drive IFRAME can never see a Google login — the player is dead on arrival.
      mobile goes AUDIO-FIRST: the transponder is the hero; video = clean out-link
@@ -680,8 +690,13 @@ function showUnified(s){
   const watchCard = vidIdM ? `<div class="ux-watchcard">
       ${thumbM?`<img class="wc-ava" src="${thumbM}" alt="" onerror="this.remove()">`:''}
       <button class="wc-playbtn" id="uxCardPlay" aria-label="Play the audio">▶</button>
-      <span class="wc-t">listen — the words glow 🌊</span>
-      <a class="wc-out" href="${DRIVE(vidIdM)}">or watch the video on Drive ↗</a>
+      <span class="wc-t">${vidDead?'the video’s Drive preview is still pending — the words below are alive 🌊':'listen — the words glow 🌊'}</span>
+      <a class="wc-out" href="${DRIVE(vidIdM)}">${vidDead?'try the source on Drive ↗':'or watch the video on Drive ↗'}</a>
+    </div>` : '';
+  const folderCard = vidIdM ? `<div class="ux-watchcard">
+      ${thumbM?`<img class="wc-ava" src="${thumbM}" alt="" onerror="this.remove()">`:''}
+      <span class="wc-t">${vidFolder?'the source is a Drive folder — original files inside, the pit’s harvest is queued 🗂️':'the video preview never transcoded at Drive — re-upload queued, the pit remembers 🛠️'}</span>
+      <a class="wc-out" href="${DRIVE(vidIdM)}">open the source on Drive ↗</a>
     </div>` : '';
   const poster = hosted ? hosted.replace('audio/','posters/').replace(/\.mp3$/,'.jpg') : null;
 
@@ -693,29 +708,30 @@ function showUnified(s){
         <div class="ux-tiny" id="uxTiny">
           ${hosted
             ? `${hasVideo
-                ? (MOBILE ? watchCard
+                ? ((MOBILE || vidDead) ? watchCard
                           : `<div class="ux-vidwrap"><iframe class="ux-driveframe" id="uxDriveFrame" src="${PREVIEW(vidIdM)}" allow="autoplay; fullscreen" allowfullscreen></iframe><div class="ux-shield" id="uxShield" title="tap to play / pause · tap low to skip — the words follow 🌊"></div></div>`)
                 : `<div class="atile" id="uxTile"><span>🎧</span><small>audio session</small></div>`}
                <audio id="uxMedia" preload="metadata" src="${hosted}"></audio>`
-            : (MOBILE ? watchCard + `<audio id="uxMedia" preload="none"></audio>`
+            : (vidDead ? folderCard + `<audio id="uxMedia" preload="none"></audio>` : MOBILE ? watchCard + `<audio id="uxMedia" preload="none"></audio>`
                       : `<iframe class="ux-driveframe" src="${PREVIEW(m.id)}" allow="autoplay; fullscreen" allowfullscreen></iframe>
                          <audio id="uxMedia" preload="none"></audio>`)}
           <div class="mini-bar">
             ${hosted
               ? (hasVideo
-                  ? (MOBILE ? `${thumbM?`<img class="mb-ava" src="${thumbM}" alt="" onerror="this.remove()">`:''}<span style="font-size:.62rem;color:var(--ink-dim);padding:0 .35rem 0 .15rem">you are the transponder 🌊</span>`
+                  ? ((MOBILE||vidDead) ? `${thumbM?`<img class="mb-ava" src="${thumbM}" alt="" onerror="this.remove()">`:''}<span style="font-size:.62rem;color:var(--ink-dim);padding:0 .35rem 0 .15rem">you are the transponder 🌊</span>`
                             : '<span style="font-size:.62rem;color:var(--ink-dim);padding:0 .35rem">🔊 sound lives in the video</span><button class="mini-btn" id="uxAudioOnly" title="video resting? just listen 🎧">🎧</button>')
                   : `<button class="mini-btn" id="uxMiniPlay" aria-label="Play">▶</button>`)
               : (MOBILE ? '' : '<span style="font-size:.62rem;color:var(--ink-dim);padding:0 .35rem">via Drive</span>')}
-            ${hasVideo ? `<button class="mini-expand" id="uxExpand" title="watch the video big 🌊">⛶ video</button>`:''}
+            ${hasVideo && !vidDead ? `<button class="mini-expand" id="uxExpand" title="watch the video big 🌊">⛶ video</button>`:''}
           </div>
         </div>
         <div class="ux-artwrap"><img class="ux-art" src="assets/zuitzerland-aliens-mascot.jpeg" alt="The Zuitzerland aliens — Ethereum is goood"></div>
       </div>
       <canvas class="ux-viz" id="uxViz"></canvas>
     </div>
-    <div class="ux-subtitle" id="uxSub"><span class="idle">${hosted&&hasVideo
+    <div class="ux-subtitle" id="uxSub"><span class="idle">${hosted&&hasVideo&&!vidDead
       ? 'press the gold ▶ — the video and the glowing words start together 🌊'
+      : vidDead&&hosted ? 'press the gold ▶ — the glowing words carry this one while the video preview is pending 🌊'
       : '▶ press play — the spoken sentence glows here 🌊'}</span></div>
     <div class="ux-controls">
       <button class="ux-skip" id="uxBack" title="Back 15 seconds">−15</button>
@@ -734,13 +750,14 @@ function showUnified(s){
 
   const media = document.getElementById('uxMedia');
   ux.media = media; ux.session = s; ux.mediaEntry = m; ux.isVid = hasVideo; ux.fragment = false;
+  if(vidDead && !hosted){ const _c=body.querySelector('.ux-controls'); if(_c) _c.style.display='none'; const _s=document.getElementById('uxSub'); if(_s) _s.innerHTML = vidFolder ? '<span class="idle">🗂️ the original files live in the Drive folder above — the pit’s harvest is queued</span>' : '<span class="idle">🛠️ video preview pending — re-upload queued, the pit remembers</span>'; }
   /* Shaka's design: the Drive video is what you watch & hear; our hosted audio
      runs MUTED underneath, purely as the teleprompter's clock */
   /* Shaka's design: the Drive video is what you watch & hear; our hosted audio
      runs MUTED underneath, purely as the teleprompter's clock —
      EXCEPT on mobile, where the iframe video is dead (Safari ITP) and OUR
      audio IS the experience. muted clock = silent gold button. never again. */
-  if(hosted && hasVideo && !MOBILE) media.muted = true;
+  if(hosted && hasVideo && !MOBILE && !vidDead) media.muted = true; /* dead preview = OUR audio is the experience — never a silent gold button */
 
   const playBtn = document.getElementById('uxPlay');
   const miniBtn = document.getElementById('uxMiniPlay');
@@ -756,12 +773,12 @@ function showUnified(s){
      re-arms it at the clock's position. */
   const vidId = hasVideo ? ((s.media.find(x=>x.kind==='video')||m).id) : null;
   const syncVideo = t => {
-    if(!hosted || !hasVideo) return;
+    if(!hosted || !hasVideo || vidDead) return;
     const fr = document.getElementById('uxDriveFrame');
     if(fr) fr.src = `${PREVIEW(vidId)}?autoplay=1&t=${Math.max(0,Math.floor(t||0))}s`;
   };
   const pauseVideo = () => {
-    if(!hosted || !hasVideo) return;
+    if(!hosted || !hasVideo || vidDead) return;
     const fr = document.getElementById('uxDriveFrame');
     if(fr) fr.src = PREVIEW(vidId); /* plain player = paused poster */
   };
@@ -811,10 +828,10 @@ function showUnified(s){
       if(fr && vidId) fr.src = `${PREVIEW(vidId)}?autoplay=1&t=${Math.max(0,Math.floor(ux.pendingSeek))}s`;
       ux.pendingSeek = null;
     }
-    if(stateEl) stateEl.textContent = '🌱 synced audio landing soon';
+    if(stateEl && !vidDead) stateEl.textContent = '🌱 synced audio landing soon';
     document.querySelector('.ux-controls').style.display='none';
     const sub0 = document.getElementById('uxSub');
-    if(sub0) sub0.innerHTML = '<span class="idle">karaoke arrives when the synced audio lands 🌱 — the video above plays via Drive, the full transcript waits below</span>';
+    if(sub0 && !vidDead) sub0.innerHTML = '<span class="idle">karaoke arrives when the synced audio lands 🌱 — the video above plays via Drive, the full transcript waits below</span>'; /* vidDead: R15 already set the honest line */
   }
   const skip = d => { const dur = isFinite(media.duration)?media.duration:Infinity;
     media.currentTime = Math.max(0, Math.min(dur, media.currentTime + d));
@@ -887,6 +904,7 @@ function showUnified(s){
     fallenBack = true;
     const tiny = document.getElementById('uxTiny');
     if(!tiny) return;
+    if(vidDead){ tiny.innerHTML = folderCard; if(stateEl) stateEl.textContent = vidFolder ? 'source folder — open it on Drive 🗂️' : 'video preview pending — re-upload queued 🛠️'; const _ctr=document.querySelector('.ux-controls'); if(_ctr) _ctr.style.display='none'; return; }
     tiny.innerHTML = `<iframe src="${PREVIEW(m.id)}" style="width:100%;aspect-ratio:16/9;border:0;display:block" allow="autoplay; fullscreen" allowfullscreen></iframe>
       <div class="mini-bar"><button class="mini-btn" id="uxRetry" title="Retry native stream">⟳</button>
       <span style="font-size:.6rem;color:var(--ink-dim);padding:0 .3rem">via Drive</span>
@@ -1034,6 +1052,7 @@ function showUnified(s){
    tucked away), subtitle and transcript keep glowing underneath. */
 function openTheater(){
   const s = ux.session; if(!s) return;
+  const _vm = s.media.find(x=>x.kind==='video'); if(_vm && _vm.preview==='dead') return; /* audit boogie: never theater a dead preview */
   const stage = document.getElementById('uxStage'); if(!stage) return;
   if(document.getElementById('stageTheater')) return; /* already open */
   const m = ux.mediaEntry;
