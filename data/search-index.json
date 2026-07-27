@@ -28235,6 +28235,1401 @@
   "I gotta go, guys. Thank you very much, Balaji. Thank you. Okay. Bye bye."
  ],
  [
+  11,
+  0,
+  "And Wi Fi. You're good. You're good to go. Yeah. K. Hello, everyone. Thanks for the invitation. I'm Chris. Very happy to be here in Switzerl"
+ ],
+ [
+  11,
+  36,
+  "and. The Midstadt in Switzerland. Can be five g networks, can be power grids, power grids, all of these stuff."
+ ],
+ [
+  11,
+  64,
+  "And this got quite famous through a project which is called Helo. They built a LoRaWAN network. So they placed LoRaWAN gateways, rewards. So"
+ ],
+ [
+  11,
+  211,
+  " just very low rewards. And then they start complaining. Yeah. Why am I not getting rewards? They go to the channels and they get feedback a"
+ ],
+ [
+  11,
+  358,
+  "nd kind of they can adjust their behavior without us as a centralized entity"
+ ],
+ [
+  11,
+  438,
+  "stealing them. It's basically through feedback within the community and in the end, the token incentives. There are different token models i"
+ ],
+ [
+  11,
+  447,
+  "n Deepin. The most famous one is the burn and mint token model. For example, here, so reference station owners, they gets a classical blockc"
+ ],
+ [
+  11,
+  455,
+  "hain web three token here like Ono. So basically, reference station owners"
+ ],
+ [
+  11,
+  460,
+  "obtain this token. It's a transferable token. It gives access to governance, for example. And it's needed in order to get the second token's"
+ ],
+ [
+  11,
+  470,
+  " network, the data credits. And with these data credits, you can then access the network service. The data credit is actually packed to the "
+ ],
+ [
+  11,
+  479,
+  "dollar usually or the euro kind of to a fiat currency. But it's not a stable coin because it's not non transferable."
+ ],
+ [
+  11,
+  487,
+  "You cannot transfer the data credit. You can own it. You can have it. You can use it, but you cannot send it to someone else. So there canno"
+ ],
+ [
+  11,
+  495,
+  "t be a third party market. And one chose this road in deep networks because usually the customers are very conservative. Yeah? So like in li"
+ ],
+ [
+  11,
+  502,
+  "ke in this weather domain, example, weather companies, but also those this high precision industry, they're not used to tokens. Yeah? So the"
+ ],
+ [
+  11,
+  510,
+  "y want to have something stable and credits they know basically from cloud computing and other places. So that's like kind of the the ration"
+ ],
+ [
+  11,
+  518,
+  "ale"
+ ],
+ [
+  11,
+  518,
+  "why this has been used a lot by now. I mean, there are now some legal pushbacks, I would say, but in general, it's still quite often used mo"
+ ],
+ [
+  11,
+  528,
+  "del. So we wrote a paper on are you a deepened decision tree? Well, we'll not go into details, but basically, so there's three questions. Ar"
+ ],
+ [
+  11,
+  537,
+  "e you a three sided platform? Do you use token incentives? And do you place physical assets? And based on it,"
+ ],
+ [
+  11,
+  545,
+  "you might be deepened or not. Just want to feature it here at this point. Okay. With this, I'm coming slowly to an end. This was a very quic"
+ ],
+ [
+  11,
+  554,
+  "k introduction. If you want to learn more or if you're already an expert and you want to, yeah, influence the space or interact with others,"
+ ],
+ [
+  11,
+  562,
+  " we are having quite some initiatives now here in Switzerland. We kind of have this flagship on conference in September, like a two days eve"
+ ],
+ [
+  11,
+  571,
+  "nt,"
+ ],
+ [
+  11,
+  571,
+  "No preset agenda, kind of driven by the participants. It's meant to be a space which is not pay to play. So we're really trying to get inter"
+ ],
+ [
+  11,
+  580,
+  "esting people joining. There will be an academic track, so you can submit papers also if someone's interested in that. And, yeah, here, like"
+ ],
+ [
+  11,
+  589,
+  ", QR code, you come to the website. Leading up to this unconference, we host,"
+ ],
+ [
+  11,
+  594,
+  "yeah, a series of deepen days, so to say, so which kind of try to bring the spirit of SunConference into a day. We had one on decentralized "
+ ],
+ [
+  11,
+  604,
+  "energy recently where we brought, like, traditional industry players from Switzerland, like, largest Swiss electricity provider in Switzerla"
+ ],
+ [
+  11,
+  615,
+  "nd, Empire, a research institute,"
+ ],
+ [
+  11,
+  617,
+  "some, yeah, layer ones like Solana Foundation supported the event, and some deepened startups. So we are trying to facilitate this exchange,"
+ ],
+ [
+  11,
+  626,
+  " and we're planning a next one on sensors, June 11. These are already the organizations joining us. And if you want to join as participant a"
+ ],
+ [
+  11,
+  635,
+  "s organization, just feel free to reach out. And with this, I think I'm in my fifteen minutes."
+ ],
+ [
+  11,
+  641,
+  "And I will hand over to the next speaker, Chris. Thanks a lot, Mark. That was great. Thank you. Cool. Really grateful for this opportunity t"
+ ],
+ [
+  11,
+  654,
+  "o hear more from Mark. He's one of, like, the OGs in the deep end space and has been around since the start and helped really kinda define t"
+ ],
+ [
+  11,
+  667,
+  "his niche. So thanks, Mark, for for introducing the the topic."
+ ],
+ [
+  11,
+  673,
+  "In this session, I'm gonna explore a bit more, like, how does this technology apply in relation to network states, and how can we use deepen"
+ ],
+ [
+  11,
+  684,
+  "ed incentives to kinda promote and build resilient infrastructure. Briefly, my name is Chris Miller. I'm the crypto director from Fifth Worl"
+ ],
+ [
+  11,
+  695,
+  "d. We're an"
+ ],
+ [
+  11,
+  696,
+  "autonomous land and property design company. And over the last year, we've been building out a a DAO called VDAO. And what VDAO is focused o"
+ ],
+ [
+  11,
+  705,
+  "n very much is, like, resilience, promoting resilience, helping people design resilient systems, and ultimately with a vision of building pe"
+ ],
+ [
+  11,
+  715,
+  "rmanent network state hubs around kind of resilient infrastructure. And we believe that deep end is gonna be foundational"
+ ],
+ [
+  11,
+  723,
+  "in that in that evolution in the network state space from pop ups to permanent hubs. So I'm just gonna briefly talk through just starting of"
+ ],
+ [
+  11,
+  735,
+  "f with, like, a kind of exploration of why is resilience important and when it comes to building permanent network state hubs. One of the th"
+ ],
+ [
+  11,
+  747,
+  "e main aspects here is is around, like,"
+ ],
+ [
+  11,
+  750,
+  "crisis within the infrastructure that already exists. Sometimes this is referred to as the meta crisis. It's you know, there there's a multi"
+ ],
+ [
+  11,
+  761,
+  "ple complex interconnecting crises that exist within the world, whether it's biodiversity loss. We saw recently what happened in with the en"
+ ],
+ [
+  11,
+  773,
+  "ergy grid going down in Spain,"
+ ],
+ [
+  11,
+  775,
+  "and there's there's cracks appearing in the systems and infrastructure that we depend upon in the in the traditional kinda mainstream world."
+ ],
+ [
+  11,
+  785,
+  " And the culmination of all those crises across multiple domains is often referred to as the metacrisis. So resilience is important in respo"
+ ],
+ [
+  11,
+  796,
+  "nding and addressing the meta crisis. And if we look at this"
+ ],
+ [
+  11,
+  800,
+  "graph, the meta crisis kind of exists in this space between the future that we we want to build and business as usual, so the existing syste"
+ ],
+ [
+  11,
+  810,
+  "ms. There's often as we we and and the network state space, this is a big focus, you know, like imagining, reimagining future systems and bu"
+ ],
+ [
+  11,
+  820,
+  "ilding new systems. And and that's really what this week's been all about with the future living track is trying to imagine new and new"
+ ],
+ [
+  11,
+  829,
+  "ways and and new systems that can kinda meet human needs and help us to address some of the issues with the systems that already exist. Whet"
+ ],
+ [
+  11,
+  841,
+  "her it's the banking system, the food system, whatever large scale infrastructure system that already exists, there are incentives that"
+ ],
+ [
+  11,
+  852,
+  "exist to keep those systems in play. And there's a clash between the world that we want to see and the the kind of business as usual. And th"
+ ],
+ [
+  11,
+  862,
+  "e meta crisis exists at the intersection of those two. And focusing on resilience can help us navigate this complex, contested space. So whe"
+ ],
+ [
+  11,
+  873,
+  "n it comes to infrastructure, what does this mean, and what should we be focusing on"
+ ],
+ [
+  11,
+  879,
+  "when it comes to building infrastructure for permanent network states? My view is that we need to look at the basics first. What are the bas"
+ ],
+ [
+  11,
+  888,
+  "ic needs of our community when it comes to living together in a permanent network state hubs? And, really, what we're focused on is, like, t"
+ ],
+ [
+  11,
+  897,
+  "he bottom of Maslow's hierarchy of needs. It's like the physiological needs first, like food, water, energy,"
+ ],
+ [
+  11,
+  904,
+  "shelter. All these other needs are important too, but in terms of the infrastructure, it's really those base base needs that we're looking a"
+ ],
+ [
+  11,
+  916,
+  "t. And there's a nexus between our basic needs around food, water, and energy. And if we can give attention to this, it can help us to desig"
+ ],
+ [
+  11,
+  928,
+  "n systems"
+ ],
+ [
+  11,
+  929,
+  "that can meet our needs in these domains sustainably over time. And for network state permanent networks that help to evolve and sustain its"
+ ],
+ [
+  11,
+  942,
+  "elf over time, these needs really need to be secured by the systems that we build and the infrastructure that we build."
+ ],
+ [
+  11,
+  953,
+  "Otherwise, we won't be resilient, we'll be fragile, and we won't be able to maintain the permanent hub over time. So how what role can Deepe"
+ ],
+ [
+  11,
+  963,
+  "n play here, and how can we use Deepen to, like, promote resilient food, water, and energy systems? In Vida, we've been kind of experimentin"
+ ],
+ [
+  11,
+  973,
+  "g a lot with these ideas and and and also"
+ ],
+ [
+  11,
+  976,
+  "kind of playing around with some protocol designs, which we believe could help promote and foster resilient infrastructure. So one of the th"
+ ],
+ [
+  11,
+  986,
+  "ings we've been building recently is in the energy space. And we're, like, early on in our journey here, there there is already a kinda esta"
+ ],
+ [
+  11,
+  996,
+  "blished, decentralized physical infrastructure"
+ ],
+ [
+  11,
+  999,
+  "space around energy. Many of them are projects are focused on, like, building alternatives to the utility grids or enhancing the grid. What "
+ ],
+ [
+  11,
+  1012,
+  "we've been really interested in VDAU is how can we incentivize energy sovereignty? And we believe that's like a foundational"
+ ],
+ [
+  11,
+  1023,
+  "principle that should be at the core of any permanent network state hub. And if we we look about look at how a network state hub would inter"
+ ],
+ [
+  11,
+  1031,
+  "act with the existing grids, what we find is with the existing grid, like, with utility companies, they're they're incentivized to lobby aga"
+ ],
+ [
+  11,
+  1040,
+  "inst energy sovereignty. And we see that in California and other places around the world. Like, it's not in their interests. It's not in in "
+ ],
+ [
+  11,
+  1048,
+  "the utility company's interests to have multiple permanent network state hubs around the world all"
+ ],
+ [
+  11,
+  1054,
+  "fully energy self sufficient. So they're incentivized to fit against that. We're interested in building incentives that can actually promote"
+ ],
+ [
+  11,
+  1064,
+  " that so that we can from the foundational level of building these permanent network state hubs, we are starting from a point of energy self"
+ ],
+ [
+  11,
+  1075,
+  " sufficiency. We believe that solar power"
+ ],
+ [
+  11,
+  1078,
+  "is is, like, the simplest tried tested way of kind of achieving energy self sufficiency. So we've been experimenting with a deep end called "
+ ],
+ [
+  11,
+  1091,
+  "net positive, which is designed to reward people for generating every one kilowatt hour of solar power."
+ ],
+ [
+  11,
+  1101,
+  "Every every kilowatt hour that is produced is rewarded with a token. In in essence, the the token is is a proof of solar power generation. B"
+ ],
+ [
+  11,
+  1111,
+  "ut, ultimately, our long term vision for this is that it can become a solar currency, and there's all sorts of different ways that the the s"
+ ],
+ [
+  11,
+  1121,
+  "ystem can evolve. But from a a network through a network state lens, what we're really interested in is using this to promote"
+ ],
+ [
+  11,
+  1130,
+  "energy resilience at a a foundational level. The prototype we've built is on top of linear. It is designed to really easily connect with exi"
+ ],
+ [
+  11,
+  1140,
+  "sting in our APIs. So the the kind of connection process to get into the app and to gain your rewards is super simple so that even non Web t"
+ ],
+ [
+  11,
+  1151,
+  "hree natives can use it, which is something that's important to us in our community."
+ ],
+ [
+  11,
+  1157,
+  "We have so it starts with the solar energy producers, which in the case of network state hubs would be like the residents. Then we have a va"
+ ],
+ [
+  11,
+  1167,
+  "lidator network. And also, we're exploring ways that the rewards can be used within local businesses and online businesses to actually give "
+ ],
+ [
+  11,
+  1178,
+  "value to the rewards that are being received for every kilowatt hour of"
+ ],
+ [
+  11,
+  1183,
+  "energy solar energy that's produced. So that's, like, one one small example of how we can apply this technology in relation to energy sovere"
+ ],
+ [
+  11,
+  1194,
+  "ignty. Another area we're interested in is how can we apply deep into food sovereignty? And one area we're focusing on is bioacoustics, expe"
+ ],
+ [
+  11,
+  1206,
+  "riment and with ways of how"
+ ],
+ [
+  11,
+  1208,
+  "can we track and monitor the ecosystem services that are provided by insects, birds, and wildlife around food production systems. So this is"
+ ],
+ [
+  11,
+  1221,
+  " really a focus on biodiversity and in relation to the the benefits of biodiversity to our food system."
+ ],
+ [
+  11,
+  1231,
+  "So focusing on using deep end to promote food security. Yeah. So this I don't have too much time, but I'll try and, like, briefly talk to th"
+ ],
+ [
+  11,
+  1254,
+  "is. The"
+ ],
+ [
+  11,
+  1255,
+  "we're also just coming on to discussion after this. So actually, maybe maybe I'll just go for the last slide, and I'll come to this question"
+ ],
+ [
+  11,
+  1264,
+  " as part of the discussion, if that's okay. Cool. So, yeah, this is experiment with deep end protocols for food security. And we'll come on "
+ ],
+ [
+  11,
+  1274,
+  "to that in a discussion session to think about what"
+ ],
+ [
+  11,
+  1277,
+  "we mean by that. And finally, just to wrap up, we're also experimenting with how we could apply DEEPEN to water security. In particular, we "
+ ],
+ [
+  11,
+  1288,
+  "have members of our community who have installed remort harvesting at home. Remort harvesting, and there are other methods to secure water s"
+ ],
+ [
+  11,
+  1298,
+  "upplies."
+ ],
+ [
+  11,
+  1299,
+  "These systems exist already and can be used at scale. And, like, for permanent network state hubs, they could be perfect for securing resili"
+ ],
+ [
+  11,
+  1309,
+  "ence, particularly if there's a crisis or a disruption in the existing system. However, we can kinda turbocharge adoption and interest and e"
+ ],
+ [
+  11,
+  1319,
+  "xcitement by applying deepened incentives to some of these systems. And that's really what we're interested in"
+ ],
+ [
+  11,
+  1327,
+  "experimenting with. So, yeah, that's I've come to the end of those slides just like a a kinda brief intro to how we can use Deepin for resil"
+ ],
+ [
+  11,
+  1338,
+  "ience. And, yeah, I'm excited to see how things develop in the network state space because I think Deepin is just starting to come in, and w"
+ ],
+ [
+  11,
+  1350,
+  "e're really really hopeful to, like, continue that conversation. And"
+ ],
+ [
+  11,
+  1355,
+  "yeah. Thank you. I have like five questions, but I have some comments. So just the first one, what was that device? I I don't bio acoustics?"
+ ],
+ [
+  11,
+  1375,
+  " Biological sound or something? Yeah. Exactly. So"
+ ],
+ [
+  11,
+  1382,
+  "What was what was the device that what does it do? So the device in that that's just like an example of how bioacoustics is used at the mome"
+ ],
+ [
+  11,
+  1393,
+  "nt by various and by researchers to track biodiversity within an area. So they'll put up a microphone in an area. And very often, they're no"
+ ],
+ [
+  11,
+  1404,
+  "t connected"
+ ],
+ [
+  11,
+  1405,
+  "to the Internet, but sometimes they are. It's more common for it to be like SD card collects data. This is taken back, run through an AI alg"
+ ],
+ [
+  11,
+  1417,
+  "orithm, and it tells you, like, in that area, there are these species of birds. There are algorithms that can identify species of insect as "
+ ],
+ [
+  11,
+  1428,
+  "well. And what's interesting is that"
+ ],
+ [
+  11,
+  1431,
+  "with deep end, going back to Mark's session and presentation at the start, there's potential for this kind of this deep end to help scale so"
+ ],
+ [
+  11,
+  1441,
+  "me of that. At the moment, it's like the bioacoustics is kinda pretty niche, pretty small. But the data that can be collected by from a netw"
+ ],
+ [
+  11,
+  1450,
+  "ork that scales that's really a large network is much, much more viable. It can give us insights into biodiversity"
+ ],
+ [
+  11,
+  1458,
+  "within different bioregions that can have direct impact on food security. I thought if you have a camera instead of acoustics or maybe even "
+ ],
+ [
+  11,
+  1466,
+  "acoustics, I thought what an interesting use case for it would be is you could hear the sound of, let's say, bears, and it would tell you th"
+ ],
+ [
+  11,
+  1474,
+  "at there's a predator out there, so you should be danger that you should not go there. So maybe there's some value to that to, like, I know,"
+ ],
+ [
+  11,
+  1481,
+  " insurance companies or whoever. But it's like if if enough of them are there and they tell you, like, you shouldn't go there. So some value"
+ ],
+ [
+  11,
+  1489,
+  "can be provided to. And now it's kind of like a second question, more of a comment. I really like the fact that you used the Maslow's hierar"
+ ],
+ [
+  11,
+  1498,
+  "chy of needs. And at the bottom, you have kind of this concept of safety and just the concept of housing in general. And the thing that kind"
+ ],
+ [
+  11,
+  1506,
+  " of Veronica kind of invited me to this from from where we met in Berkeley and stuff. And I"
+ ],
+ [
+  11,
+  1512,
+  "didn't know much about, like, zoo and all these events, Switzerland events. And I thought there was, an the network state idea was, like, to"
+ ],
+ [
+  11,
+  1519,
+  " secure maybe some kind of a plot of land somewhere and work from there. Because once you have that, you could, like, establish physical inf"
+ ],
+ [
+  11,
+  1527,
+  "rastructure. And in the network side, I'm kind of thinking you would have to, like, somehow drag the infrastructure all over with you. So, I"
+ ],
+ [
+  11,
+  1534,
+  " know it's just a comment because that that if if there was some kind of permanent place,"
+ ],
+ [
+  11,
+  1539,
+  "then you could use that as a platform to put all kinds of things, sensors or whatnot, that you would be jurisdictionally in control of. So y"
+ ],
+ [
+  11,
+  1549,
+  "eah. Yeah. Fully agree. I think a lot of projects in the network state space have been focused on pop ups, but now there's an established co"
+ ],
+ [
+  11,
+  1559,
+  "mmunity. Finding permanent hubs is, like, the logical next step,"
+ ],
+ [
+  11,
+  1563,
+  "and there will need to be infrastructure there. But it creates all sorts of opportunities for, like, deep end experiments. And I don't know "
+ ],
+ [
+  11,
+  1574,
+  "if there's anything you want to add in relation to that, Mark. Thank you for presentation. And I'm also curious, so I mean, also for Mark. I"
+ ],
+ [
+  11,
+  1584,
+  " mean, I know Chris topic is very much kinda in between Deepin and our state. And I think it rather, I guess, rather new or different from M"
+ ],
+ [
+  11,
+  1595,
+  "ark's. From your perspective, what is what do you see like the inter intersection and"
+ ],
+ [
+  11,
+  1601,
+  "between deep in our state? I I think I I'm on the outside of network states discussion, I think. I mean, observing it from the outside and I"
+ ],
+ [
+  11,
+  1611,
+  " I like it. I I mean, I see it in the end, like, I guess, like someone was mentioning, like, infrastructure is kind of the basic basic thing"
+ ],
+ [
+  11,
+  1621,
+  " humans need. So like, I didn't feature too much, but like in the slide I showed about the sensors, so basically it was the Gota Tunnel in t"
+ ],
+ [
+  11,
+  1631,
+  "he background."
+ ],
+ [
+  11,
+  1632,
+  "So and people argue that the Swiss cultural and economic success is basically based on this Gota Tunnel which was built in the, yeah, end of"
+ ],
+ [
+  11,
+  1641,
+  " nineteenth century, I think. And basically, because of this Gota Tunnel, you kind of connected the Italian part with the Swiss parts, lot o"
+ ],
+ [
+  11,
+  1650,
+  "f much easier cultural exchange. But you also you needed a bank, so they founded Credit Suisse, like there's a big bank which now is nonexis"
+ ],
+ [
+  11,
+  1659,
+  "tent anymore. But kind of the financial hub was kind of founded through it. So I think infrastructure has a potential to kind of, yeah, unit"
+ ],
+ [
+  11,
+  1668,
+  "e people on the one hand, to provide the safety and"
+ ],
+ [
+  11,
+  1671,
+  "the luxury to also live in peace maybe. So I see it's pretty foundational. And if you want to have secure resilient network states, you need"
+ ],
+ [
+  11,
+  1682,
+  " to have a resilient infrastructure. Yeah. Do do you see any, like, deep in experiments that's, like, hard to experiment in jurisdiction tha"
+ ],
+ [
+  11,
+  1694,
+  "t would be like interesting for"
+ ],
+ [
+  11,
+  1696,
+  "especially, for example, network state, the special legal zones like that to experiment something more may perhaps more radical or I mean, I"
+ ],
+ [
+  11,
+  1705,
+  " I would argue that most of the deepens outside the moment, they experiment already with it because usually, say, puts responsibility for th"
+ ],
+ [
+  11,
+  1715,
+  "e infrastructure placement to the community, so to the individual."
+ ],
+ [
+  11,
+  1719,
+  "So I I know for example, it's many of these projects, they would not be allowed to operate in China, but still their stations and people are"
+ ],
+ [
+  11,
+  1729,
+  " doing it. So I mean, one can learn from that. So I know from this GPS project that in some countries, it's a matter of national security in"
+ ],
+ [
+  11,
+  1738,
+  " the end. So like these networks, so because like it it functions"
+ ],
+ [
+  11,
+  1743,
+  "as a it can function as a passive radar system. So and because that it's regulated in Europe much less, but in African countries, it's more "
+ ],
+ [
+  11,
+  1757,
+  "regulated, China much more. So, yeah, I don't know. That's what I can say to this. So a couple of questions to,"
+ ],
+ [
+  11,
+  1768,
+  "Mark. So thank you for the presentation. In one part, you left a little conference link to, like, an academic track paper suggestion. Like, "
+ ],
+ [
+  11,
+  1778,
+  "it's an interesting case that you should mention, like decentralized energy. I'm from California, we have cases where energy prices can go n"
+ ],
+ [
+  11,
+  1787,
+  "egative. And in the current AMM space,"
+ ],
+ [
+  11,
+  1790,
+  "you can't really have a situation where you can trade a negative price. And so one of the papers I wrote was how would you trade an asset li"
+ ],
+ [
+  11,
+  1798,
+  "ke electricity on an AMM? So I don't know, maybe that's something that's worth submitting. Yes, it is. And we're also welcoming kind of alre"
+ ],
+ [
+  11,
+  1806,
+  "ady published work. So we see that kind of a deep community as as forming. So like you can submit published work or or new original work. If"
+ ],
+ [
+  11,
+  1814,
+  " it's new original work, it can also enter some proceedings later on. Mhmm. But here, it would be very nice and they're like some there woul"
+ ],
+ [
+  11,
+  1822,
+  "d be some energy researcher"
+ ],
+ [
+  11,
+  1824,
+  "at conference for sure. Like there's Jens Hunewitz, like from from Empire, like from the place I Mhmm. Showing this kind of there as leading"
+ ],
+ [
+  11,
+  1832,
+  " research institute in energy questions here in Switzerland. Some people of his group also like from deep and startup like the CEO like most"
+ ],
+ [
+  11,
+  1840,
+  " likely might show up and he also has a research background. So I think it will be a nice spot for this in place energy."
+ ],
+ [
+  11,
+  1847,
+  "Yeah. Yeah. And my other question was oh, I just wanted to share this just fascinating hack that happened in ETH SF. It didn't win, it was a"
+ ],
+ [
+  11,
+  1864,
+  " ZK energy trading hack where somebody used ZK to prove"
+ ],
+ [
+  11,
+  1870,
+  "when you're trading with the grid, one of the things that you can do is you can sell electricity back to the grid. And what this person did "
+ ],
+ [
+  11,
+  1877,
+  "is he could prove with a smart meter that he could sell at least, like, let's say, he has a Tesla Powerwall where he can store, let's say, 1"
+ ],
+ [
+  11,
+  1885,
+  "3.5 kilowatt hours. And he wants to sell back at a certain price, let's say, cents per kilowatt hour back to the grid. But he does not want "
+ ],
+ [
+  11,
+  1892,
+  "to disclose how much he has because that would be like you're giving away your competitive advantage of how many assets you have that you ca"
+ ],
+ [
+  11,
+  1899,
+  "n sell. And so what he can do is he can prove that he has a certain amount of assets but not disclose how many. And so it's just something i"
+ ],
+ [
+  11,
+  1907,
+  "nteresting with training."
+ ],
+ [
+  11,
+  1908,
+  "Yeah. And yeah. The you know, you talked about, like, the data piece, the data like, how people buying a data very often are, like, traditio"
+ ],
+ [
+  11,
+  1926,
+  "nal businesses and stuff. Like so I'm thinking about"
+ ],
+ [
+  11,
+  1932,
+  "Deepin in terms of the the demand side of the Deepin. Spoke a bit about the supply side, like, generating rewards for installing infrastruct"
+ ],
+ [
+  11,
+  1941,
+  "ure. But what's been your experience on on, like, the demand side? Like and how do you like, how do the tokenomics, like, interface with tra"
+ ],
+ [
+  11,
+  1949,
+  "ditional businesses who are perhaps, like, buying, like, I guess, the case of weather systems, they're buying whatever data and, like, how w"
+ ],
+ [
+  11,
+  1958,
+  "hat's been your experience there?"
+ ],
+ [
+  11,
+  1960,
+  "I mean, it's a promise of deepen to kind of have rework demand. Like, that's, like, a selling point and the narrative. And I think the oppor"
+ ],
+ [
+  11,
+  1968,
+  "tunity is there. So like for for, yeah, disruption of the existing studies or like kind of inter interacting with them. But what I also obse"
+ ],
+ [
+  11,
+  1975,
+  "rved that like many deepened actually, they again, like kind of like crypto. They are thinking about building out the supply all the time an"
+ ],
+ [
+  11,
+  1983,
+  "d not really having this demand side in in mind. I usually have like two or three slides and challenges and deepen also part of this present"
+ ],
+ [
+  11,
+  1991,
+  "ation. I I removed them. But I think one of them is really like this illusion that data has value,"
+ ],
+ [
+  11,
+  1996,
+  "which I noticed for like most data has no value. I think only high quality data which is maybe has like some contextualization for very part"
+ ],
+ [
+  11,
+  2006,
+  "icular needs is actually valuable. So like for weather for example, I can say like everyone is saying that weather data we need and want to "
+ ],
+ [
+  11,
+  2015,
+  "have, but no one wants to pay for weather data. It was like our experience in my home."
+ ],
+ [
+  11,
+  2021,
+  "And and I think many projects also like I mean, it was bio acoustics like this, it it sounds good. Like, and I think intuitively there's a s"
+ ],
+ [
+  11,
+  2030,
+  "ense and I think from a first principle point first principle point of view, it makes sense. But for a lot of these cases which makes sense,"
+ ],
+ [
+  11,
+  2039,
+  " there's not a business case. So I think not always a business case is needed, I would argue."
+ ],
+ [
+  11,
+  2045,
+  "But if you want to go down the road with a business case and all of it, then just collecting data is is a problem like this. And then there "
+ ],
+ [
+  11,
+  2053,
+  "was like other aspects. So for example, I think in deepen, there's opportunity to actually integrate with the existing infrastructures and m"
+ ],
+ [
+  11,
+  2062,
+  "ore like building these common platforms. So for example, in in this GPS industry, are already quite a few of these networks out there, like"
+ ],
+ [
+  11,
+  2070,
+  " professionally,"
+ ],
+ [
+  11,
+  2071,
+  "and they they are operating in some countries. But because again, of operational costs, they're not really expanding to other regions. And s"
+ ],
+ [
+  11,
+  2079,
+  "o what one could do is, like, don't for we're trying to do is on the course, like, kind of coordinating them to join, and then to grow into "
+ ],
+ [
+  11,
+  2087,
+  "regions where there's no network and not building again yet another network. So that's also, I think, in deep end, like, being more on the o"
+ ],
+ [
+  11,
+  2095,
+  "pen end, open hardware,"
+ ],
+ [
+  11,
+  2096,
+  "open source, open technology. And I think then trying to grow out of that is a much more promising approach, think. Those are often how the "
+ ],
+ [
+  11,
+  2108,
+  "business case to it, you know. So I don't that's what I can say. What's your experience so far? It's super interesting that you bring up tha"
+ ],
+ [
+  11,
+  2119,
+  "t point about, like, the the value of data"
+ ],
+ [
+  11,
+  2123,
+  "because that's like, with the bioacoustics experiments that we've been doing, that's the stage we're at now. Like, I think getting the senso"
+ ],
+ [
+  11,
+  2132,
+  "rs out there and what we've seen in the deepened space is, there's interest and excitement around getting the sensors out there. But what gi"
+ ],
+ [
+  11,
+  2141,
+  "ves that reward value? Like, what if someone is collecting bioacoustics data, what gives it value? And one of the the things we're consideri"
+ ],
+ [
+  11,
+  2149,
+  "ng at the moment is, like,"
+ ],
+ [
+  11,
+  2151,
+  "perhaps there's a a larger need for it, like, kind of at scale for biodiversity data, but there's also just on the level of the individual t"
+ ],
+ [
+  11,
+  2160,
+  "hemselves who has the sensor in their garden, there's a direct kinda interest in that data for themselves for their own use. So that's one o"
+ ],
+ [
+  11,
+  2169,
+  "f the the things we're we're looking at. But your point around and this has been our conclusion as well around, like, yeah, the data has to "
+ ],
+ [
+  11,
+  2177,
+  "be quality."
+ ],
+ [
+  11,
+  2178,
+  "And then there are, like, a number of bioacoustics kind of more, like, research based, I could call it, like, citizen science projects. And "
+ ],
+ [
+  11,
+  2188,
+  "I think what we've learned is that there's, like, there's some concern about the quality of the data that's going into those databases. So w"
+ ],
+ [
+  11,
+  2199,
+  "e're trying to, like, think about, okay, how could could"
+ ],
+ [
+  11,
+  2203,
+  "a deepened bioacoustics network actually provide the highest quality of data? And if so, how would that how would we we achieve that? And al"
+ ],
+ [
+  11,
+  2212,
+  "so, is there a use case for that data just even for the owner of the sensor themselves as well as to the wider network? Yeah. My name is Tir"
+ ],
+ [
+  11,
+  2221,
+  "jak. I just wanted some some my my mind instantly jumped to if you are a life insurer"
+ ],
+ [
+  11,
+  2227,
+  "and you are insuring, let's say, a person who is very outdoorsy, then the information that you receive is acoustic sounds of all kinds of di"
+ ],
+ [
+  11,
+  2236,
+  "fferent predators in different regions. And so you can map out, this kind of behavior. And so it it is it is valuable data to life insurance"
+ ],
+ [
+  11,
+  2244,
+  " companies, in my opinion. So Yes. But but the what people will then realize very quickly,"
+ ],
+ [
+  11,
+  2250,
+  "in the end, it's not the data. It's in the end, the service on top of the data. So like in the end, I would argue some intelligence service."
+ ],
+ [
+  11,
+  2258,
+  " So basically saying, don't go into this area or go into this area or like maybe retrospectively to kind of validate some claims or like the"
+ ],
+ [
+  11,
+  2267,
+  "se things. Yes. But this is I would say something that deeper needs to build. It will not come from from the insurance company. So the insur"
+ ],
+ [
+  11,
+  2275,
+  "ance company,"
+ ],
+ [
+  11,
+  2276,
+  "most likely, what I have seen so far, they're not interested in this data. They would be they but they might be willing if you can prove som"
+ ],
+ [
+  11,
+  2284,
+  "e that you build a tool which kind of can say, like, kind of this intelligence, the last step, this needs to come from the deep end project."
+ ],
+ [
+  11,
+  2293,
+  " Otherwise, yeah, that's what I'm saying. Yeah. So so I guess my argument was more cost mitigation, which is how do you reduce"
+ ],
+ [
+  11,
+  2300,
+  "payments of premiums in case if a person dies. But you could also think of it from a revenue generating perspective. This might be not very "
+ ],
+ [
+  11,
+  2307,
+  "popular for vegans, but it's like you hear certain animals, now hunters, for example, The US, I don't know, we have licenses. You can hunt a"
+ ],
+ [
+  11,
+  2313,
+  " certain animal or not. And so here, you already have acoustics and then certain sounds. I mean, it's like, oh, hey. We have too many bears "
+ ],
+ [
+  11,
+  2320,
+  "or we have too many foxes or something. Like,"
+ ],
+ [
+  11,
+  2322,
+  "go there. So Yeah. I I think the promise of deep end is, like like, my mind also goes off in all these different directions of, like, what w"
+ ],
+ [
+  11,
+  2333,
+  "e could do. And I think they're all really valid. But, like, in terms of the business case, it's really it's like how to bring that how how "
+ ],
+ [
+  11,
+  2343,
+  "to monetize"
+ ],
+ [
+  11,
+  2344,
+  "the network so that there's enough. And I mean, like, we we were seeing, like, a lot about this, but I mean, it's always a question. Know, I"
+ ],
+ [
+  11,
+  2353,
+  " I think I think, like, from monetization point of view, I think, again, like different narratives if you talk with VCs, you try to get fund"
+ ],
+ [
+  11,
+  2363,
+  "ing from VCs or if you try to get funding from some more local entities, like it changes,"
+ ],
+ [
+  11,
+  2369,
+  "yeah, the approach and maybe opens the space in which you can operate on one hand. And there's also, like, I think a lot of interest I've se"
+ ],
+ [
+  11,
+  2377,
+  "en so far from foundations and, like, institutions close to academia, but also to, yeah, more transitional governmental organizations, like "
+ ],
+ [
+  11,
+  2386,
+  "funding institutes who are willing to fund such ideas. So like when you don't immediately need to have a business case. Because like what yo"
+ ],
+ [
+  11,
+  2394,
+  "u said, like, we see some kind of peer to peer setup, like me using my own data again like this."
+ ],
+ [
+  11,
+  2400,
+  "Yeah. So like for this, which I think it can work in the long run, it will work. I think getting there through VC money, I think is very dif"
+ ],
+ [
+  11,
+  2410,
+  "ficult and then you need to tell another story. But if you go the other ways and you still can find a viable route to to attain it. I think "
+ ],
+ [
+  11,
+  2420,
+  "the other pressure comes I think will come from regulation also. One needs to yeah. That's"
+ ],
+ [
+  11,
+  2427,
+  "super interesting. Sorry. I just have a little in general, a question about deep in history. Like, what was the first one? Do you think it w"
+ ],
+ [
+  11,
+  2436,
+  "as Filecoin or what was, like, the first one? Which one, like, originally started with the idea? I I mean, I think deep in the term is since"
+ ],
+ [
+  11,
+  2444,
+  " December 22, it was just a Messari Twitter poll where like I think 15 guys including me like voted on something. So it's like where deep in"
+ ],
+ [
+  11,
+  2453,
+  " term came from."
+ ],
+ [
+  11,
+  2454,
+  "Before like I think it was deep in or tip in like token sent device physical infrastructure networks. Like this was there was one on the Ama"
+ ],
+ [
+  11,
+  2464,
+  "zon Web Economics. So I mean, there were like some terms around. Think famous or like kind of associated is like helium with the whole thing"
+ ],
+ [
+  11,
+  2473,
+  ". So you can argue it was not the first in this domain of physical infrastructure networks. Filecoin"
+ ],
+ [
+  11,
+  2480,
+  "could be like here, like when I showed like this slide on are you deepened? Like there's like these two classification of deepened by now wh"
+ ],
+ [
+  11,
+  2488,
+  "ere you can say you have like this location dependent and location independent deepens. So what does it mean? So location dependent would be"
+ ],
+ [
+  11,
+  2497,
+  " a weather station. Kind of this location is important and it's non fungible in this sense. Like if I take a second weather station, it's no"
+ ],
+ [
+  11,
+  2505,
+  "t the same, I won't get the same data. Both might be needed. But if this one"
+ ],
+ [
+  11,
+  2510,
+  "breaks, I cannot just replace it with any other stations network. Whereas if you have, for example, a storage network, one can argue it's a "
+ ],
+ [
+  11,
+  2518,
+  "little bit location independent, it's more fungible. Of course, you need some resiliency, I mean, redundancy maybe, but in the end, if my da"
+ ],
+ [
+  11,
+  2527,
+  "ta is stored here or there and I use this storage device, it doesn't really matter. So and I think the first enthusiasts, they got more exci"
+ ],
+ [
+  11,
+  2535,
+  "ted like in this narrative about this"
+ ],
+ [
+  11,
+  2537,
+  "location dependent thing. So like in Helium was probably the first which played, like where it was important that it's in your house, not in"
+ ],
+ [
+  11,
+  2545,
+  " just some server, but basically here. And so I would argue it started more or less with helium like these narrative. Those are other projec"
+ ],
+ [
+  11,
+  2554,
+  "ts which are also building infrastructure much before. So Golem, you could say was a compute infrastructure already and yeah."
+ ],
+ [
+  11,
+  2561,
+  "Render or something? Render yeah. Render, I think they are newer. Yeah. And then one one more question for Marco. Is the did you ever encoun"
+ ],
+ [
+  11,
+  2571,
+  "ter a deepened protocol that is just decentralized storage and I mean just physical storage? Like a protocol that just like, here's a wareho"
+ ],
+ [
+  11,
+  2581,
+  "use or something. I don't know. Just empty space."
+ ],
+ [
+  11,
+  2584,
+  "No. Not yet, I think. Again, it would be interesting. And links maybe with some some houses and self owning houses, which could do it, but I"
+ ],
+ [
+  11,
+  2600,
+  "'m trying to network stake this one. No. Yeah. Yeah. So to speak. Because there's a storage space. I"
+ ],
+ [
+  11,
+  2612,
+  "think that is a big potential direction. No more questions. No question? No? Cool."
+ ],
+ [
+  11,
+  2637,
+  "Sure. Cool. Thanks a lot for the the questions and discussions. I think from my side, this is I see this as, like, the start of a conversati"
+ ],
+ [
+  11,
+  2655,
+  "on in the network state space around deep end and, with VDAU"
+ ],
+ [
+  11,
+  2663,
+  "to kind of bring the the conversation around Deepin, also, like, why Deepin? It's to incentivize resilient infrastructure for permanent netw"
+ ],
+ [
+  11,
+  2672,
+  "ork state locations. So thanks for coming along and engaging in the conversation. And thanks to to Mark. I really appreciate your, like, dee"
+ ],
+ [
+  11,
+  2680,
+  "p knowledge of this deepened space. And I think we can learn a lot from from what you've been building in the space. And vice versa. Thanks "
+ ],
+ [
+  11,
+  2689,
+  "for the invitation."
+ ],
+ [
+  11,
+  2690,
+  "I'm looking forward to the next hours here. Cheers. Bye."
+ ],
+ [
   12,
   0,
   "I have a background in data protection law, and I co-initiated ZuVillage Georgia, and I'm with Zuzalu from pretty much the beginning on. And"
