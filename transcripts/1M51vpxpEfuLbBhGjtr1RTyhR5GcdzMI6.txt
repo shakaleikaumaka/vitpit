@@ -1,0 +1,61 @@
+# Prove Your Humanity While Staying Anonymous
+
+Date: 
+Source video: Prove Your Humanity While Staying Anonymous
+Drive: https://drive.google.com/file/d/1M51vpxpEfuLbBhGjtr1RTyhR5GcdzMI6/view
+Duration: 00:10:54
+Transcribed: 2026-07-27 · groq whisper-large-v3-turbo · PIT BOY harvest fleet v2
+
+---
+
+[00:00] All right. So today we are going to travel in time. So you can close your eyes, fasten your seat belt and wake up in 2027. So the sky is blue, the birds are singing and I have a really good news for you. AGI is here. Meaning that you don't have to work anymore. You don't
+
+[00:25] have to publish a single line of codes, you can just enjoy the pleasure of life. So what is the first thing that you are going to do? Of course, you'll probably go on Twitter to look for people arguing online. So you open the app and what disappointments, you see only bots, bots talking to each other.
+
+[00:49] This is extremely painful. So unfortunately, if we do nothing, the only solution for that is the KYC, which is extremely bad for many reasons. The first one is the user experience. Each time you need to KYC, you need to find your ID documents, take a picture of it, take
+
+[01:11] a picture of you and send it, and then you need to wait until the verification. So there is a lot of friction at this point. And if you're a third-party application, you will experience a lot of drop-off. Then there is the privacy. How can you have free speech in some countries if you are not anonymous online? And also there is the security.
+
+[01:34] So KYC are not secure for the third-party application because using generative AI, it's not childish to generate mock image of ID documents or just do deepfakes. also when you do a kawashi you are going to take all your personal informations and send them and they are going to be stored in huge database and how can these happen all the time so it's actually
+
+[02:00] secure for nobody so how can you prove that you're a human there are many attempts um different project who try to answer to this question and what's what is interesting is that they are going to be different according to how they answer to the underlying question which is what is a human
+
+[02:25] for example with general proof of personhoods you are going to prove your humanity by doing stuff that a sibyl can do like solving captchas online or maybe recording a video of yourself with a sheet of paper. Unfortunately, with AGI and just the race of AI, I guess that in 2027, it's going to
+
+[02:50] be AI that could solve captchas that humans can't. So for CBL resistance, that's definitely not the best option. Then we have the biometric proof of personhood. So this one is super interesting. With this one, you are going to consider a human as a bunch of flesh and atoms ordered in a really specific way. And with a bunch of sensors, you are
+
+[03:13] going to make sure that with your definition of human. And also from this, you are going to infer a unique identifier for each person. So Ward is using the iris for that, which is quite interesting because two twins don't have the same iris. But there are also some limitations to this option because it's totally trusted on the hardware,
+
+[03:39] meaning that the company who's releasing these probes can put back doors inside. Also, what happens if I'm blind, if I don't have an iris, if I don't have a fingerprint, there is a really huge variance in how the human body is and what are the, like, damage that can happen on the human body. So, yeah, it's kind of exclusive for some people.
+
+[04:07] Also, you can trick the sensor somehow, and you could print, 3D prints, a fake iris and put it on you. Alright, then you can also say, I know that this person is human because other humans are claiming it. So this is the social growth paradigm. This one is super interesting because it's fully decentralized and totally accessible,
+
+[04:33] but it's a bit hard to prevent civil attack. And also revealing your social growth is going to reveal a lot on who you are. Maybe you can bring some ZK into it, but for now it's a bit hard. Another way of proving your humanity is to prove that you doing stuff that humans do like going to the cinema paying your bills pushing code on GitHub for example So you could take attestations or proof of all these behaviors and aggregate
+
+[05:09] them. And by doing so, you could be sure that, let's say 99% that you are human. But the user experience is a bit hard. Like it takes some time to upload all these attestations. And for now it's not super private. I guess that soon we will be able to bring a lot of ZK inside of this, so it should be better in the future.
+
+[05:33] This graph is super interesting. I took it from the blog post from Vitalik about the biometric proof of personhood, and it's going to map all the different trade-offs that we have with the different proof of humanity. So what about self? So the paradigm of self is slightly different. Instead of starting from scratch, the idea is why don't we piggyback on the existing
+
+[06:01] ID infrastructure and hijack them using zero-knowledge proof? So let's take the example of biometric passports. These documents are pretty cool because they contain a biometric chip with inside all the data about the user and also the digital signature of the document, meaning that you can verify this signature inside the zero-knowledge proof.
+
+[06:26] And by doing so, you can already solve most of the issues that are related to identity, like proof of humanity. I can prove that I'm human because I own a valid passport. I can prove my name, my surname. I can prove my gender. I can prove that I'm not part of the off-accentralist. And because I'm using ZK each time, I'm going to prove it without revealing anything else.
+
+[06:52] Like when I prove that I'm above 18 years old, I actually don't even really reveal my birth date. So these are all the information that are present inside the passports. There are many data groups. The first one is the machine readable zone. That's the two lines that are present on the main page of the passports. And you can find like most of the information inside of this one.
+
+[07:17] The digital is interesting because that's the picture. So the picture is also signed meaning that you could make sure that it the same person who behind the screen than the one who on the passports There is also the DG15 So this one is the pub key because some passports may hold a private key that can sign arbitrary data.
+
+[07:41] So you could recover your wallet using your passport, for example, or just sign some transaction. All right, so you take all these data groups, you hash them, You concat the results, you hash it two more times, and then it's signed by the issue of country. Or more precisely, it's signed by the document signing certificates, which can sign up to 100K passports,
+
+[08:06] and which is itself signed by the country signing certificate authority. And this one rotates every three to five years. It's going to depend upon the country. The CACA, so the root certificates, they are present in public registries that are maintained by the International Civil Aviation Organization. So that's why it's actually so easy to verify passports.
+
+[08:31] It's because we have access to the public keys in public registries. All right, I lied a bit when I said it was easy. Because countries had the amazing idea of using different signature algorithms and a hash function. So we had to do a custom implementation for each of them. So to know if your country is currently supported by self, you can just go to map.self.xyz.
+
+[08:58] And by hovering a country, you can see which signature algorithm and hash function your country is using. And if your country is not issuing biometric passports, that's totally fine because we are also working to extend the support to other ID documents, like the ADA, which is the local ID solution in India, and the EOID card, and also some others that are coming
+
+[09:25] soon. All right, so what does looks like the registration process? So the process is in two time because of security reason and privacy reason. It's kind of similar to how SEMA 4 is working or tornado cache. So during the first step, the registration, you are going to scan your passports first with the camera.
+
+[09:47] It's not taking a picture, it's just reading some fields. And then with the NFC reader of the phone. And once it's done, you can generate your first zero-knowledge proof. So this one can up to, I would say, three minutes if your country is a savage and is using SHA-512 with, I don't know, SECP, 521, something like that.
+
+[10:11] But if not, it should be within a minute. All right. So what's happening under the hood exactly here is that you are going to, as we saw before, hash all the information of the passports, then verify the signature, then verify the certificate chain and you do everything inside the zero knowledge proof. And along with the
+
+[10:36] ZK proof you are going to generate two things. The first one is an attestation nullifier, just to make sure that each attestation can be used only once to register. So this one is deterministic on the passport data. And a commitment, which is
