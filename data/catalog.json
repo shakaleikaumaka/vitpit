@@ -231,13 +231,14 @@
     "id": "1ho75nsKQtiKCxGe-kp-1ehAsY1pbDCTJ",
     "kind": "video",
     "size": 1286661821,
-    "stream": true
+    "stream": true,
+    "hosted": "https://pub-3d88701638314a20ad2241ee26e6824f.r2.dev/audio/1ho75nsKQtiKCxGe-kp-1ehAsY1pbDCTJ.mp3"
    }
   ],
-  "transcript": null,
-  "duration": null,
+  "transcript": "1ho75nsKQtiKCxGe-kp-1ehAsY1pbDCTJ",
+  "duration": "00:36:58",
   "quality": "ok",
-  "transponder": false,
+  "transponder": true,
   "thumb": "thumbs/1ho75nsKQtiKCxGe-kp-1ehAsY1pbDCTJ.jpg",
   "speakers": [
    "@DebateHeroes"

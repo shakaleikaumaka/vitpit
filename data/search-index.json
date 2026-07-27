@@ -3378,5 +3378,1400 @@
   3,
   6063,
   " for 15 minutes into the cypherpunk evening sessions. Thank you again. Thank you."
+ ],
+ [
+  9,
+  0,
+  "Welcome everybody. This is going to be my presentation on BCIs. It's going to be an intro on them. What I made so far for Think2Earn. And ye"
+ ],
+ [
+  9,
+  13,
+  "ah, why is this field relevant and the future of it basically and progress. So to start off, would you choose Red Pill, open"
+ ],
+ [
+  9,
+  25,
+  "hardware, brain computer interfaces, open source software, or would you want to wait for the big companies to make their proprietary tech an"
+ ],
+ [
+  9,
+  36,
+  "d, yeah, extract as much value as possible from your biometrics? I and Think2Earn chose the red pill, so open hardware BCIs. We manufactured"
+ ],
+ [
+  9,
+  47,
+  "our first open FNIRS hardware, that's near field infrared spectroscopy. I'm going to to go a little bit later into those details. It's just "
+ ],
+ [
+  9,
+  56,
+  "down over there. I'm going to show it later. So I'm going to start with some backstories. So I studied at this university, the psychology la"
+ ],
+ [
+  9,
+  65,
+  "bs and behavioral economics labs. And you can trade your time and get paid to advance science. You just participate in experiments."
+ ],
+ [
+  9,
+  73,
+  "They give you some money. You feel good because, yeah, now they can do better science. Male Speaker 1 This is in Amsterdam, University of Am"
+ ],
+ [
+  9,
+  83,
+  "sterdam. It's Science Park. And I actually live in a building over there, which is quite convenient. And I'm... So more context, one in eigh"
+ ],
+ [
+  9,
+  93,
+  "t people in the world have a mental or neuro disorder. And a fourth of healthcare expenses in developed"
+ ],
+ [
+  9,
+  101,
+  "countries are being spent on, yeah, these disorders. So that's quite a lot. So there's a little bit of a demand. The market is growing. Comp"
+ ],
+ [
+  9,
+  111,
+  "anies are meeting that demand. The population is also aging. And for older individuals, the likelihood of getting one of those diseases is h"
+ ],
+ [
+  9,
+  121,
+  "igher. So there's a need. Big tech companies and popular science also talk about neurotech, neuroscience, the benefits"
+ ],
+ [
+  9,
+  129,
+  "of it, the threat of it. In my techno-optimism, there's a, we're going to go into that later. There's AI and merging with it. Sam Altman als"
+ ],
+ [
+  9,
+  139,
+  "o talks about it. Mark Zuckerberg the same They want to make some BCIs They already acquired companies for translating hand movements to VR "
+ ],
+ [
+  9,
+  150,
+  "movements This is the neural list This is more just about a topic If you scan that QR code there"
+ ],
+ [
+  9,
+  157,
+  "a list of 140 companies that manufacture this hardware. You're going to find the Muse or Emotive and Neuralink and so on. Somebody on the in"
+ ],
+ [
+  9,
+  167,
+  "ternet made this list. Okay, so what are BCIs? A usual distinction is between... I'm not going to go through all of those, but yeah, a usual"
+ ],
+ [
+  9,
+  177,
+  " distinction is made between noninvasive tech and invasive tech."
+ ],
+ [
+  9,
+  181,
+  "Noninvasive is basically it doesn't go in your body. It's above your body, kind of like the headset that I have there. You just put it on yo"
+ ],
+ [
+  9,
+  190,
+  "ur forehead, send some lights, collect some data, and then you can use it for applications. And the invasive ones, although they're invasive"
+ ],
+ [
+  9,
+  198,
+  ", They're also much more accurate. The first patients of Neuralink, they"
+ ],
+ [
+  9,
+  203,
+  "can move a mouse pointer super quick just by thinking about it. And there's a game you can play online to also benchmark your speed at movin"
+ ],
+ [
+  9,
+  211,
+  "g the mouse to compare yourself with them. And it's really cool that they have a robot to implant the chips. So you don't need a surgeon to "
+ ],
+ [
+  9,
+  218,
+  "do it manually for each individual. They have a robot. They can make multiple robots. So you can put them across the world. And yeah, they c"
+ ],
+ [
+  9,
+  226,
+  "an really accelerate this chipping,"
+ ],
+ [
+  9,
+  228,
+  "meet the healthcare demand of people. So, yeah, just a bit about non-invasive ones. For example, the guy with the helmet, he's wearing Brian"
+ ],
+ [
+  9,
+  238,
+  " Johnson's Kernel 2 device, like one of his companies. And it also uses FNIRS, like the same tech that I manufactured. Also it uses EEG. EEG"
+ ],
+ [
+  9,
+  249,
+  " is basically just measuring electrical activity from your scalp and then"
+ ],
+ [
+  9,
+  254,
+  "translating that into doing things on your computer or like detecting emotions. And basically that one device, it's a little expensive. It's"
+ ],
+ [
+  9,
+  262,
+  " $120,000 plus taxes. But they use it for clinical studies on depression, on alcohol, ketamine. Yeah. Interesting. Anyway, and like a very b"
+ ],
+ [
+  9,
+  271,
+  "asic one just to contextualize, eye tracking. You can also consider that a type of BCI"
+ ],
+ [
+  9,
+  276,
+  "because you can see what the pupil is looking at. You can see where the human is paying attention on the screen. We're looking at our screen"
+ ],
+ [
+  9,
+  286,
+  "s all the time. So it makes sense. And like the pupil dilation is also the focus and the arousal that you have. So that's like, again, usefu"
+ ],
+ [
+  9,
+  295,
+  "l for marketing, seeing whether the people engage with your product where they engage An example related to non this is Perica Hiale She a s"
+ ],
+ [
+  9,
+  305,
+  "treamer She uses this emotive device It an EEG It costs"
+ ],
+ [
+  9,
+  309,
+  "like a thousand bucks. And she has videos on YouTube, on Twitch. And she basically slightly moves her head and a little bit of her arms. And"
+ ],
+ [
+  9,
+  318,
+  " then you can see her play Minecraft. I I put on the link there. And you can also buy this device now if you want. This is a little less por"
+ ],
+ [
+  9,
+  328,
+  "table. This is an fMRI. It's quite expensive. You know, big magnets"
+ ],
+ [
+  9,
+  332,
+  "spinning around your head, measuring changes in, yeah, blood flow, oxygenation. It's nice, though, that with this you can get to really fine"
+ ],
+ [
+  9,
+  341,
+  " applications. Like if you show people image, like while they're in the fMRI, if you show them on the screen some images, you you can get th"
+ ],
+ [
+  9,
+  351,
+  "at signal from the brain, train a model, and then if they watch a movie or"
+ ],
+ [
+  9,
+  356,
+  "if you show them pictures again, you can decode the picture that they're looking at, which is quite cool because your eyes can be basically "
+ ],
+ [
+  9,
+  365,
+  "a camera. Although it does come with this problem that you need to be in that fMRI, you can't just like walk around with an fMRI on you. big"
+ ],
+ [
+  9,
+  375,
+  ". And that QR code is some study of decoding, basically, where different words are in people's"
+ ],
+ [
+  9,
+  381,
+  "brains. It's quite a nice interactive explorer. You can also combine modalities, like fMRI, and then also doing magnetic stimulation, becaus"
+ ],
+ [
+  9,
+  390,
+  "e you have one thing with reading from the brain, and then you have another with writing to the brain. Obviously, you want to read before yo"
+ ],
+ [
+  9,
+  399,
+  "u write ideally, so you don't mess something up. And yeah, this combination has been used for treating illnesses, tremor, Parkinson, stuff"
+ ],
+ [
+  9,
+  408,
+  "like that. And now on like some open hardware, non-invasive, this looks kind of funny, but the nice thing is that all of the files to make e"
+ ],
+ [
+  9,
+  417,
+  "xactly that are available on their website. So if you want, you can take them, go to a manufacturer and probably a tailor or whatever and ma"
+ ],
+ [
+  9,
+  427,
+  "ke this. It's a little cheaper than the thing you've"
+ ],
+ [
+  9,
+  430,
+  "seen with the motorcycle helmet thing that Brian Johnson has. But obviously the form factor is not ideal. Like on his shoulders, all of thos"
+ ],
+ [
+  9,
+  439,
+  "e are printed circuit boards to process the signal On top of his head you have basically lights that go through his skull We going to go thr"
+ ],
+ [
+  9,
+  449,
+  "ough that in a bit And then detectors which measure how much of the light is being passed through"
+ ],
+ [
+  9,
+  455,
+  "the skull and back out through the skin. And then like on his bottom, there's a battery pack because, yeah. There's also form factors much b"
+ ],
+ [
+  9,
+  464,
+  "etter than this, but this is open hardware again. And there's not a lot of people doing open hardware. is another open hardware example. And"
+ ],
+ [
+  9,
+  474,
+  " this is the DIY FNIR, so do-it-yourself functional"
+ ],
+ [
+  9,
+  477,
+  "near-infrared spectroscopy. It's a headband, small, comes with a data collection app. You can kind of achieve similar kind of functionality "
+ ],
+ [
+  9,
+  487,
+  "as big devices, but, yeah, when you need something portable. And just as an FYI, the WHOOP, kind of a popular consumer wristband, also uses "
+ ],
+ [
+  9,
+  496,
+  "the same text. So it's near infrared light, it goes through your skin, they train"
+ ],
+ [
+  9,
+  502,
+  "some models, and then using some calculations you can see oxygenated hemoglobin and deoxygenated hemoglobin changes. And with that you can i"
+ ],
+ [
+  9,
+  511,
+  "nfer like how good is your sleep, how your VO2 max is, like how much maximum oxygen you can process in some time. So yeah, we're going to in"
+ ],
+ [
+  9,
+  519,
+  "sist a little bit on this thing with the hemoglobin. Here you You have like two pictures of blood."
+ ],
+ [
+  9,
+  525,
+  "One is darker because no oxygen in it, and the other is a little lighter because, yeah, it's oxygenated. So again about ethneas. You have th"
+ ],
+ [
+  9,
+  536,
+  "is source, which is an LED. It goes through your skull, and it kind of just diffuses throughout. And then you can put detectors kind of next"
+ ],
+ [
+  9,
+  547,
+  " to it and measure how much of that light is"
+ ],
+ [
+  9,
+  550,
+  "coming out. use multiple wavelengths, you can then calculate both oxygenated hemoglobin and deoxygenated hemoglobin changes. So again, some "
+ ],
+ [
+  9,
+  560,
+  "light goes through a skull, some detectors measure how much of that light is being taken out, and then you can do fine calculations and even"
+ ],
+ [
+  9,
+  570,
+  "tually move your mouse, decode your emotions, see how good you slept"
+ ],
+ [
+  9,
+  575,
+  "and stuff like that. And yeah, again on the invasives, the chips, the one on top is Newhalings chip. The one on the bottom is Blackhawks. Bl"
+ ],
+ [
+  9,
+  585,
+  "ackhawks one is wired, which is not really ideal because you've got to be cabled up to something. But it does allow people to control their "
+ ],
+ [
+  9,
+  596,
+  "computers, which is really important for them. And the"
+ ],
+ [
+  9,
+  600,
+  "Chip works with Bluetooth, so you just put it in your skull, then you have it. No need to, yeah, be attached with a cable. Nolan Arbaugh, he"
+ ],
+ [
+  9,
+  610,
+  "'s the first patient of Neuralink. He suffered from an accident. And, yeah, he can control his mouse pointer by thinking. If you follow that"
+ ],
+ [
+  9,
+  620,
+  " URL, you can see a long-form conversation of him on stage"
+ ],
+ [
+  9,
+  624,
+  "talking about how the device is absolutely life-changing for him. Previously, he had to use that tube and kind of control the mouse with tha"
+ ],
+ [
+  9,
+  632,
+  "t tube with his tongue, which is really painful over extended periods of time. And in the video, he just talks about how nice it is to be ab"
+ ],
+ [
+  9,
+  641,
+  "le to play games and, yeah, control his computer again. But I do want to emphasize that invasive technologies are invasive and that comes wi"
+ ],
+ [
+  9,
+  649,
+  "th risks. Like"
+ ],
+ [
+  9,
+  650,
+  "if the surgery is not done right, you can get infected. Maybe a government is like, okay, we're going to detect whether you're about to do c"
+ ],
+ [
+  9,
+  658,
+  "rime, so let's prevent that. Let's make a contract with the companies. Somebody can hack into your chip. Wouldn't be ideal. You can lose you"
+ ],
+ [
+  9,
+  665,
+  "r sense of agency or maybe you had some identities. You once held it dear and now you no longer resonate with them. So it can be traumatic t"
+ ],
+ [
+  9,
+  673,
+  "o individuals."
+ ],
+ [
+  9,
+  674,
+  "If you go bankrupt, maybe you're paying a subscription for the device and then you don't have money to pay anymore. And yeah, then you're ki"
+ ],
+ [
+  9,
+  684,
+  "nd of left like that. Or it could be that some intelligence agencies get into the supply chain and decide to add some components, just basic"
+ ],
+ [
+  9,
+  694,
+  "ally sabotage the device in some way. So you really would prefer some open hardware."
+ ],
+ [
+  9,
+  700,
+  "So again, just to summarize, you have reading and writing to the brain. The reading is easier. You can do it with a lot of devices, non-inva"
+ ],
+ [
+  9,
+  708,
+  "sive ones as well. Some have better quality than others. Ideally, you want to read before you write. And yeah, you can do fun applications l"
+ ],
+ [
+  9,
+  715,
+  "ike translating your thoughts into text with both invasive and non-invasive devices. And then like another distinction is consumer products."
+ ],
+ [
+  9,
+  723,
+  "Like as you've seen, Peri Carial, she uses a 1,000 euro device. She plays games with it, but it's not going to be that accurate. And then yo"
+ ],
+ [
+  9,
+  733,
+  "u have medical devices like the Neuralink with using a robot to implant the chips. This is state of the art. And the BlackRock Neurotech wit"
+ ],
+ [
+  9,
+  743,
+  "h the wire implant. So again summarizing some BCI uses you can mitigate and cure diseases you can enhance yourself So control prosthetics no"
+ ],
+ [
+  9,
+  753,
+  "t feel as much pain put the cochlear implants to hear better"
+ ],
+ [
+  9,
+  757,
+  "restore vision to an extent. In the near future, you can augment your vision to see an infrared. Okay, nice. Anyway, so TLDR, you want to in"
+ ],
+ [
+  9,
+  778,
+  "terface with computers, you can use these devices to"
+ ],
+ [
+  9,
+  786,
+  "do it. There's fun applications, and there's also, like, easier stuff, like, you want to improve your focus levels, you can just, like, do i"
+ ],
+ [
+  9,
+  795,
+  "t by yourself, or you can also have some data coming out of that to, yeah, see how well you're doing. So why does it matter, like in this co"
+ ],
+ [
+  9,
+  804,
+  "ntext, we're at Switzerland, we're like techy privacy stuff."
+ ],
+ [
+  9,
+  808,
+  "Well, Tether, they made the USDT, the stable coin, you probably, yeah. Anyway, they invested in BlackRock Neurotech, $200 million, so they d"
+ ],
+ [
+  9,
+  819,
+  "efinitely have a stake in this field, and they kind of bet on it. A co-founder of Paradigm and Coinbase started the company Nudge. basically"
+ ],
+ [
+  9,
+  830,
+  " that transcranial magnetic stimulation to treat, I think, anxiety and depression"
+ ],
+ [
+  9,
+  836,
+  "or something. Those are the first use cases. But yeah, there are people in crypto that care about the topic and they invest in it. In My Tec"
+ ],
+ [
+  9,
+  846,
+  "hno Optimism, VB writes about, like, long post, you get to the bottom, is where Ida is going to get closer with AI. And he's He's saying tha"
+ ],
+ [
+  9,
+  857,
+  "t the first natural step are"
+ ],
+ [
+  9,
+  859,
+  "bring computer interfaces and reach some kind of, maybe utopian, or not so utopian future. Or we're not gonna be as close with AI, and then,"
+ ],
+ [
+  9,
+  869,
+  " yeah, looser feedback loop, the chances of AI not caring too much about us can be higher if you get to the points of super intelligence, se"
+ ],
+ [
+  9,
+  879,
+  "lf-regressive improvement, stuff like that."
+ ],
+ [
+  9,
+  882,
+  "So open hardware and open software matters. Another quote from my techno-optimism, you want open source movement, you don want VCs extractin"
+ ],
+ [
+  9,
+  894,
+  "g as much value as possible out of your brain and giving you funny ads Again more VB content He super pro but yeah if they have back doors"
+ ],
+ [
+  9,
+  905,
+  "that's literally mind-reading. You don't want that. You want your privacy, so we need open source BCIs. So again, the summary is we really w"
+ ],
+ [
+  9,
+  913,
+  "ant open hardware, open software, especially when it comes to your brain. You want to own your data. You don't want somebody else to take ov"
+ ],
+ [
+  9,
+  921,
+  "er it, make devices, give it to you. You put it in your brain. Now a little future memes. One, very likely from my point of view, no timelin"
+ ],
+ [
+  9,
+  929,
+  "e, but it"
+ ],
+ [
+  9,
+  930,
+  "will happen. You're going to communicate by telepathy. I'm going to have my chip. You're going to have your chip. It's also going to write t"
+ ],
+ [
+  9,
+  937,
+  "o our brains, not only read from them, and we're going to be able to talk without me holding a microphone and looking into your eyes. The sa"
+ ],
+ [
+  9,
+  944,
+  "me way you access your own memories, like the way you know your name, the way you you know your identities, you're going to be able to talk "
+ ],
+ [
+  9,
+  951,
+  "to LLMs, and implants are going"
+ ],
+ [
+  9,
+  953,
+  "to become as common as phones are today, and it's kind of tough to interact in society without having phones now. So, yeah, we're going to g"
+ ],
+ [
+  9,
+  962,
+  "et there. What is what I'm building and like how do I think that should be done and extremely open to suggestions. So that's the classic pla"
+ ],
+ [
+  9,
+  971,
+  "y to earth model. You play some games, you're basically contributing"
+ ],
+ [
+  9,
+  975,
+  "with your time, your attention, you get fed some ads. The people that made the game, they get some revenue out of that, so they're happy. Yo"
+ ],
+ [
+  9,
+  983,
+  "u're happy because you got your dopamine, you get some money, but I mean, yeah, you're playing a game. As I said in the beginning, like at m"
+ ],
+ [
+  9,
+  991,
+  "y university, there's a behavioral economics lab, there's a psychology lab. You can go, do experiments, get paid."
+ ],
+ [
+  9,
+  998,
+  "So same kind of methodology. You would use devices that you can build yourself as well with the manufacturing files. Well, not yourself. You"
+ ],
+ [
+  9,
+  1007,
+  " pay somebody to build them for you. Still a point of trust. But yeah, maybe you can make a whole factory for yourself. And yeah, you go thr"
+ ],
+ [
+  9,
+  1016,
+  "ough some data collection methodologies. You sell them to interested parties. And which"
+ ],
+ [
+  9,
+  1021,
+  "could be me. Could be out there data scientists or companies that want to train models for doing brain to text or emotion decoding or inferr"
+ ],
+ [
+  9,
+  1031,
+  "ing how good your sleep was. And yeah, so I want people to get paid. I want them to have their own data. And I want it to be done with priva"
+ ],
+ [
+  9,
+  1040,
+  "cy first, security first, open hardware, open software."
+ ],
+ [
+  9,
+  1044,
+  "So yeah this is the thing to our solution Manufacture these open designs train models cell inference have people contribute their data If th"
+ ],
+ [
+  9,
+  1052,
+  "ey contribute data they going to get rewarded based on how much good data they contributed and what they contributed for. So for example, so"
+ ],
+ [
+  9,
+  1061,
+  "mebody is paying a subscription for getting some features. Let's say motion detection, you contributed to that model."
+ ],
+ [
+  9,
+  1068,
+  "Then you're going to get paid based on how much money the model is making. And then use this revenue for better BCIs, because we have some o"
+ ],
+ [
+  9,
+  1078,
+  "pen hardware. It's based off of the designs of some really nice people from cool universities. But it can get better. Like you've seen the b"
+ ],
+ [
+  9,
+  1087,
+  "ig one with the battery pack, that's open hardware."
+ ],
+ [
+  9,
+  1091,
+  "This one that I have, again, open hardware. But it can only go so far to the usual institutional meme. And make better BCIs, make better sof"
+ ],
+ [
+  9,
+  1103,
+  "tware and models, obviously, and go into invasive as well. Obviously not for humans first. You do it on testing with animals and stuff."
+ ],
+ [
+  9,
+  1114,
+  "But it's kind of the frontier because you do get really high quality data. Definitely we're not focusing on invasive first, just non-invasiv"
+ ],
+ [
+  9,
+  1124,
+  "e. But yeah, it's a good pathway to building the proper software and then going into the final frontier. So yeah, again, hardware, open sour"
+ ],
+ [
+  9,
+  1133,
+  "ce is good. I hope you agree with that."
+ ],
+ [
+  9,
+  1136,
+  "The way you manufacture this hardware, this is an EEG example. You can find this one online. It's called FreeEEG42. You just take the files "
+ ],
+ [
+  9,
+  1144,
+  "from the GitHub. You download them. You put them on a website that manufactures printed circuit boards. This is just an example. You add the"
+ ],
+ [
+  9,
+  1152,
+  "m all up. You save it up. Then they give you a quote. This is how much it costs to make five of them. You pay up, then they give you the pri"
+ ],
+ [
+  9,
+  1160,
+  "nted circuit boards."
+ ],
+ [
+  9,
+  1161,
+  "So you can manufacture hardware in just a few minutes if you have the cash for it. And again, this one in particular, this case study, it's "
+ ],
+ [
+  9,
+  1171,
+  "pretty nice. There's also OpenBCI. This is a big player in the open hardware EEG space, and now they have some VR headsets and whatever. Thi"
+ ],
+ [
+  9,
+  1181,
+  "s one was made by some independent people. Pretty good, pretty cheap, cool stuff."
+ ],
+ [
+  9,
+  1187,
+  "Okay, and now the practical software component of Think2Earn. So again, we have the open hardware. What do you do? You have it, you put it o"
+ ],
+ [
+  9,
+  1196,
+  "n. I'm gonna walk you first to the data owner. Let's say you have the data owner. This is on top of the screen. Yeah, you have your data. Th"
+ ],
+ [
+  9,
+  1204,
+  "ere's some data collection methodology that somebody is paying you to follow. For example, like in this, and this is a methodology that is u"
+ ],
+ [
+  9,
+  1213,
+  "sed by a company in the U.S."
+ ],
+ [
+  9,
+  1215,
+  "who's also using ethneas to do drain-to-text. So the way they do it is you have a topic word in the middle. It's in bold. And then other wor"
+ ],
+ [
+  9,
+  1224,
+  "ds get sequentially bolded. it, you have to think of sentences, and then not as well as get highlighted in the bold, you think of sentences "
+ ],
+ [
+  9,
+  1234,
+  "again. And then like in the final step, you write"
+ ],
+ [
+  9,
+  1237,
+  "the sentences that you imagined down. And reportedly, this is their paper, obviously can't, you know, vouch for them, but it seems real, is "
+ ],
+ [
+  9,
+  1247,
+  "that you can decode the imagined thoughts that you have to text. So they get this output, the sentence is not that could, but then they put "
+ ],
+ [
+  9,
+  1256,
+  "an LLM on top to kind of get to a better sentence. And yeah, I can share the paper. Again, reportedly."
+ ],
+ [
+  9,
+  1263,
+  "So okay, you have the device. You go through some data collection methodology. Then you upload your data on this data site. And I'm saying d"
+ ],
+ [
+  9,
+  1273,
+  "ata site because this is the structure that PySIFT uses. This is an open source Python package made by OpenMind, who is a really nice encryp"
+ ],
+ [
+  9,
+  1283,
+  "tion and federated training and some other things,"
+ ],
+ [
+  9,
+  1286,
+  "organization, open source contribute if you want on GitHub. Anyway, so you put your data on this data site, and then you can get code reques"
+ ],
+ [
+  9,
+  1294,
+  "ts because somebody, let's say, they don't want to buy your whole data. They just want to train an emotion detection model. Well, how do you"
+ ],
+ [
+  9,
+  1302,
+  " know that they're only training that model and not just taking your whole data? Well, you get a code request with exactly what's going to b"
+ ],
+ [
+  9,
+  1309,
+  "e run on your data, and then"
+ ],
+ [
+  9,
+  1311,
+  "you decide whether you want to accept the payment and run the code on your computer or not. And yeah, you accept or not, and then you get pa"
+ ],
+ [
+  9,
+  1319,
+  "id. So this was the data owner. You collect data, upload, get paid if you want people to access it. And then you have the people that are do"
+ ],
+ [
+  9,
+  1327,
+  "ing the data collection, or like they want to train models, data scientists. This is on the bottom part of the slide."
+ ],
+ [
+  9,
+  1334,
+  "So they create a data collection methodology. They say that, hey, I want you to go through these pictures, these videos, in this specific or"
+ ],
+ [
+  9,
+  1341,
+  "der, or just like as I said about the methodology of the brain-to-text stuff. They say how many participants they want just like these detai"
+ ],
+ [
+  9,
+  1349,
+  "ls and they make this bounty And then the users can decide whether they want to follow it or not and this is going to be done through the UI"
+ ],
+ [
+  9,
+  1356,
+  " They send the money to the contract, and yeah, basically then they can access the data site"
+ ],
+ [
+  9,
+  1361,
+  "where the data is uploaded, obviously only if they pay for the access to specific individuals. And then they can also submit code requests, "
+ ],
+ [
+  9,
+  1370,
+  "train their model, retrieve the weights, and And yeah, that's pretty much the pipeline. So again, data user has a headset, does some collect"
+ ],
+ [
+  9,
+  1379,
+  "ion, then puts it somewhere. They accept money and let code run on their data."
+ ],
+ [
+  9,
+  1384,
+  "And the person wanting to do the thing, they create some methodology. They pay people to do that methodology. And then they can either take "
+ ],
+ [
+  9,
+  1394,
+  "the whole data or pay people to do some analysis on that data. So we have some traction. I started at EvDem, got a Waku prize, then went to "
+ ],
+ [
+  9,
+  1403,
+  "Zou Village, Georgia. It was awesome and also my first pop-up experience."
+ ],
+ [
+  9,
+  1408,
+  "Then a prize at EvGlobal Bangkok from Linnea. Then got a grant for manufacturing hardware from Ocean Protocol. And we also did a thing with "
+ ],
+ [
+  9,
+  1418,
+  "visual imagery. In a research, there's a thing that if you use one of these headsets and you show people different colors because we have th"
+ ],
+ [
+  9,
+  1427,
+  "e visual cortex on the back of our head."
+ ],
+ [
+  9,
+  1430,
+  "If you put a device on the back of your head and then like an FNAS device, you can collect this oxygenated and deoxygenated hemoglobin data "
+ ],
+ [
+  9,
+  1439,
+  "from the individual. And basically when somebody is looking at color red, it's going to be a certain distribution of your hemoglobin on your"
+ ],
+ [
+  9,
+  1447,
+  " visual cortex. And then if they look at green, another distribution and so on."
+ ],
+ [
+  9,
+  1452,
+  "And this was done in research previously, but it was never done with this device. And yeah, it was an expensive one, and I want to reproduce"
+ ],
+ [
+  9,
+  1462,
+  " that research, and this is part of the task of the grant. And then finally, Megazoo, I applied and was invited to build alongside really cr"
+ ],
+ [
+  9,
+  1471,
+  "acked devs. So this pretty much brings me to the end and to the Q&A."
+ ],
+ [
+  9,
+  1476,
+  "If you want to join the Telegram group, really exclusive group, yeah, feel free to check that QR code. And yeah, if you have any questions, "
+ ],
+ [
+  9,
+  1493,
+  "feel free. Thank you I basically wait a few seconds and put the microphone around if you have stuff Here you go"
+ ],
+ [
+  9,
+  1506,
+  "Wait. In hardware, which kind of problem do you need to solve for the human brain getting an input in a chip? Like for example, because I un"
+ ],
+ [
+  9,
+  1520,
+  "derstand that read the frame is easier. It's probably easier to send the question to the internet."
+ ],
+ [
+  9,
+  1530,
+  "What is the core problem that we need in a tip the brain could get information, the output from the internet? And you're referring specifica"
+ ],
+ [
+  9,
+  1539,
+  "lly to invasive stuff, right? I'd say in hardware. For me, what is the core problem in hardware for making that connection? Honestly, for wr"
+ ],
+ [
+  9,
+  1549,
+  "iting to the brain, so for retrieving information, not getting information"
+ ],
+ [
+  9,
+  1554,
+  "out of your brain and controlling stuff, you need to send some signals. So you can do it magnetically, you can do it through some stimulatio"
+ ],
+ [
+  9,
+  1562,
+  "n, or you can do it electrically. And then if you want to do it electrically, you obviously need to shoot some electricity. If you have one "
+ ],
+ [
+  9,
+  1570,
+  "of these new helenquins, which are not wireless, you need a bigger battery to be able to do it."
+ ],
+ [
+  9,
+  1576,
+  "And honestly, so far, like, yeah, the genuine answer would be, I don't know, because I didn't look into invasive ones. But I know that New H"
+ ],
+ [
+  9,
+  1585,
+  "ellink did get approved for clinical trials on restoring site or, like, to some extent, restoring site. And they definitely need to write to"
+ ],
+ [
+  9,
+  1594,
+  " do that. And they do publish papers. So it's going to be interesting"
+ ],
+ [
+  9,
+  1599,
+  "to, yeah, basically see the way they do it. And, like, if they still need the cable, if they put a bit better here the way they do it. But y"
+ ],
+ [
+  9,
+  1611,
+  "eah, like in short, I don't know, but I'm also interested. Yes, I think the thing to hear model is amazing for non-invasive hardware, but if"
+ ],
+ [
+  9,
+  1623,
+  " you apply that"
+ ],
+ [
+  9,
+  1624,
+  "for invasive hardware and you receive a code execution, it's going to basically get ruined in your brain. Like if you download the data and "
+ ],
+ [
+  9,
+  1634,
+  "then you have the data side and you receive the code execution, okay. But if you can get pi for code execution in your brain, it completely "
+ ],
+ [
+  9,
+  1644,
+  "chaotic Yeah but I just wanna make this distinction between like so the data site would be the place where people that want to offer trainin"
+ ],
+ [
+  9,
+  1655,
+  "g data"
+ ],
+ [
+  9,
+  1655,
+  "store their data. So this is for training purposes, and that's where you store it. But then you also have inference. And I think, I don't kn"
+ ],
+ [
+  9,
+  1662,
+  "ow, because again, I never made an invasive device myself, so I'm not too accustomed to this field. But yeah, you could do inference from th"
+ ],
+ [
+  9,
+  1670,
+  "at chip into your brain. Like let's say it's an emotion detection model or something. you could send by Bluetooth the data somewhere."
+ ],
+ [
+  9,
+  1677,
+  "And then the code execution stuff, the writing data, I don't think you would wanna run somebody's software or code on your brain, or at leas"
+ ],
+ [
+  9,
+  1685,
+  "t I wouldn't want to. So that's what I'm kinda insisting on. You really want, you will see the code requests, so kinda like signing transact"
+ ],
+ [
+  9,
+  1694,
+  "ions, you could decide. But again, the code requests are just about training. They're not about the inference component"
+ ],
+ [
+  9,
+  1701,
+  "or writing into your brain. It's about how do you get paid if you provide data for somebody to do analysis on that data. And yeah, this is a"
+ ],
+ [
+  9,
+  1708,
+  "gain why I'm insisting on open hardware or open software. You want to know what the chip is, like what you're putting in there. Ideally, you"
+ ],
+ [
+  9,
+  1715,
+  " would want to have your own factory and manufacture it yourself so you know that the components really are what they are. But yeah, you sti"
+ ],
+ [
+  9,
+  1722,
+  "ll have this point of failure with the manufacturer."
+ ],
+ [
+  9,
+  1725,
+  "But it's definitely better than manufacturer plus the company that sells it to you. Because, for example, this one that I have, I could sell"
+ ],
+ [
+  9,
+  1732,
+  " it to you. Or, yeah, you can get the files and make it yourself. So you don't have to trust me. You just trust the party that I trusted. Or"
+ ],
+ [
+  9,
+  1740,
+  " you find another party that you trust more. Maybe you have a friend that has a factory or something. Yeah. But no, like, yeah, indeed, it w"
+ ],
+ [
+  9,
+  1747,
+  "ould get chaotic if you run unchecked code in your brain."
+ ],
+ [
+  9,
+  1750,
+  "OK. Yeah. Amazing. Thanks. I know you're only trying to read the brain, but can you do through hypnosis or anything, like the mind control d"
+ ],
+ [
+  9,
+  1762,
+  "evice to actually program the brain? So definitely with AFNIAS, I have not read that. So like with near-hemporeth spectroscopy,"
+ ],
+ [
+  9,
+  1773,
+  "but there's this, I'll skip through the slides a little bit back. There's this field of optogenetics. So basically, like genetic engineering"
+ ],
+ [
+  9,
+  1782,
+  ", you can change. And this is done in mice and in other species as well. You basically change the genes with CRISPR or whatever methodology "
+ ],
+ [
+  9,
+  1791,
+  "of that, of just some neurons, if you want, in the animal. And that"
+ ],
+ [
+  9,
+  1795,
+  "makes it susceptible, like you can basically code stuff into the brain. through light signals. So you can influence the path they take throu"
+ ],
+ [
+  9,
+  1804,
+  "gh a maze or you can make them respond more or less to a certain stimuli. So you can do funny writing things by changing genes. But yeah, wi"
+ ],
+ [
+  9,
+  1813,
+  "th ethneas, plus I didn't research and also didn't come"
+ ],
+ [
+  9,
+  1817,
+  "across anything with, yeah, you can do hypnosis or whatever. It's just like, it's just a little light. It's low intensity light. It's maybe "
+ ],
+ [
+  9,
+  1825,
+  "there's a chance, but I haven't seen a study. you know? But I don't think so. That's my, you know, final answer. Maybe through sound or anyt"
+ ],
+ [
+  9,
+  1834,
+  "hing else. Through sound. Yeah. Yeah, I think that's all, like, sonogenetics. Like, you can also, like, change the cells"
+ ],
+ [
+  9,
+  1841,
+  "and stuff to, like, neurons to be susceptible to, like, sounds, and then, like, you can code stuff into their brain through that. But yeah, "
+ ],
+ [
+  9,
+  1850,
+  "you do need to change genes first. And I don't think that this was done on humans so far. But definitely in animals, this is, like, a real, "
+ ],
+ [
+  9,
+  1859,
+  "I think it's a really interesting field, this stuff with genetic engineering plus doing, coding on specific neurons to do funny things. Than"
+ ],
+ [
+  9,
+  1868,
+  "ks."
+ ],
+ [
+  9,
+  1868,
+  "Maybe just adding on this, you showed in the beginning two pictures, so with visuals, so with visuals it works very well, or was that someth"
+ ],
+ [
+  9,
+  1878,
+  "ing else? Let me just skip through it and if you can say stop. This one. Okay. Yeah. Yeah. Yeah. So you can search that paper if you want, l"
+ ],
+ [
+  9,
+  1887,
+  "ike this, Reconstructing the Mind's Eye. And there's some papers that do similar things."
+ ],
+ [
+  9,
+  1893,
+  "Again so there people that have an fMRI So they on horizontal There a screen above them within the device And they look at different picture"
+ ],
+ [
+  9,
+  1903,
+  "s So for example you going to see in this case it a surfer You going to see let say ten surfers Then you going to see ten elephants And then"
+ ],
+ [
+  9,
+  1913,
+  " measure some blood flow, some oxygenation through your brain."
+ ],
+ [
+  9,
+  1917,
+  "And then when you're going to look at the surfer or multiple surfers, they're going to be like same kind of signals in your brain in some sp"
+ ],
+ [
+  9,
+  1925,
+  "ecific region. When you look at something else, it's in another region. And this is not done on images, but if you follow that QR code. So a"
+ ],
+ [
+  9,
+  1932,
+  "gain, this is done with images. You can put the people there. You can then decode if they look at the new image. You don't know what the ima"
+ ],
+ [
+  9,
+  1940,
+  "ge is."
+ ],
+ [
+  9,
+  1940,
+  "You can infer what the category is. And I think in this case, they also use a...they infer what the category is, but maybe the server looks "
+ ],
+ [
+  9,
+  1948,
+  "really bad. Like they... Yeah. Then they use a diffusion model or like some, yeah, image generation tool to make the server look better. And"
+ ],
+ [
+  9,
+  1956,
+  " then they do it for multiple categories. So if you see a movie, basically, of multiple scenes, then while you're in the fMRI, this"
+ ],
+ [
+  9,
+  1963,
+  "is important, then they can decode what movie you are looking at. So your eyes kind of become a sort of camera. And yeah, if you follow that"
+ ],
+ [
+  9,
+  1971,
+  " QR code, they don't do this with images, they do it with text. And it's a really nice 3D simulation of the brain. And it shows you like Vox"
+ ],
+ [
+  9,
+  1979,
+  ", whatever, basically places where different words are stored in the brain across multiple participants. And then like you can zoom in, just"
+ ],
+ [
+  9,
+  1987,
+  " like play"
+ ],
+ [
+  9,
+  1988,
+  "around with this. And like sometimes I tell people that this word is connected in my brain with this other word. And like if you analyze tha"
+ ],
+ [
+  9,
+  1997,
+  "t viewer, you're going to kind of see what I mean because yeah mother and father and brother and all those words are in a specific spot in m"
+ ],
+ [
+  9,
+  2006,
+  "y brain Or like social stuff is there whatever They all have kind of their place in their brain Obviously it not only there It can be in oth"
+ ],
+ [
+  9,
+  2014,
+  "er parts"
+ ],
+ [
+  9,
+  2015,
+  "And humans are good at dealing with lots of brain stuff. But anyway, so yeah, TLDR, you can decode what people are looking at. And allegedly"
+ ],
+ [
+  9,
+  2025,
+  ", but yeah, this is also what I'm going to do later, you can also do it with ethneas. So this is kind of could be really cool. But yeah, you"
+ ],
+ [
+  9,
+  2034,
+  " need better sensors and better detectors"
+ ],
+ [
+  9,
+  2037,
+  "and better lasers or lights. You can kind of get to this quality with FNIRS. So that means that you can walk around and use your ISIS camera"
+ ],
+ [
+  9,
+  2046,
+  "s, which is kind of cool from IPOV. So yeah, that's why that's partly why I started with FNIRS. And I want to continue building on FNIRS bec"
+ ],
+ [
+  9,
+  2054,
+  "ause it seems that it has a lot of promise in that direction if you really advance the tech a little bit."
+ ],
+ [
+  9,
+  2061,
+  "Thank you. With that, the same machine? With the fmr high. So with the same, with that technology that is not paper. If I close the eyes and"
+ ],
+ [
+  9,
+  2078,
+  " I start to think in something, that makes an output that is something visual?"
+ ],
+ [
+  9,
+  2088,
+  "Well, so, yeah, basically some time ago, but I still cannot find that study. I know that they were also, after training a model through this"
+ ],
+ [
+  9,
+  2096,
+  " fMRI methodology of people looking at images for different classes, then people would sleep while in the fMRI, and then they would decode w"
+ ],
+ [
+  9,
+  2105,
+  "hat, like, basically images of what they'd framed. And yeah again use some diffusion model or whatever to make the images look better But ye"
+ ],
+ [
+  9,
+  2113,
+  "ah about this thing with closing your eyes I generally have not read studies about that So IDK And there also like there people that close t"
+ ],
+ [
+  9,
+  2121,
+  "heir eyes"
+ ],
+ [
+  9,
+  2122,
+  "and they do not see nothing. It's just darkness. And there's people that see things. They can just imagine. They are like in the, interestin"
+ ],
+ [
+  9,
+  2129,
+  "g. So yeah. So I guess that if you do the training for people that can see things, then it's going to work for people that see things as wel"
+ ],
+ [
+  9,
+  2137,
+  "l. But I don't know, because I have not read studies about that. But that's also, I'll give that caveat. Yeah, perfect. And if we go, we giv"
+ ],
+ [
+  9,
+  2144,
+  "e drugs with hallucinations to the"
+ ],
+ [
+  9,
+  2146,
+  "people before they'll go to sleep, we should probably see something different. Maybe. Personally, I would expect some. I think that's intere"
+ ],
+ [
+  9,
+  2159,
+  "sting. Yeah. I don't know. I don't know. Yeah. We need more drugs and more science. Oh my god. Thank you. Nice. Cool, so yeah, thank you for"
+ ],
+ [
+  9,
+  2172,
+  " your attention."
+ ],
+ [
+  9,
+  2173,
+  "And again, the final slide, if you want to follow that QR code and join the telegram, you're going to get more news. And yeah, basically for"
+ ],
+ [
+  9,
+  2184,
+  " the people that were here, I'm also going to give you an NFT. It's going to be something on MegaEath testnet, and yeah, it's kind of a comb"
+ ],
+ [
+  9,
+  2195,
+  "ination between tech and the team of MegaEath, the t-shirt as well. Anyway, thank you very much. Thank you."
  ]
 ]
