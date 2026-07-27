@@ -12520,83 +12520,383 @@
   "Thanks. you"
  ],
  [
-  29,
+  26,
   0,
-  "Hello, welcome back this morning. I talked about Swiss direct democracy and the Swiss system yesterday already and I would like to continue "
+  "All right. So today we are going to travel in time. So you can close your eyes, fasten your seat belt and wake up in 2027. So the sky is blu"
  ],
  [
-  29,
-  15,
-  "today to emerge you a bit more into the Swiss political system."
+  26,
+  13,
+  "e, the birds are singing and I have a really good news for you. AGI is here. Meaning that you don't have to work anymore. You don't"
  ],
  [
-  29,
-  22,
-  "I was asked to talk a bit more on subsidiarity and how Swiss federalism is organized. And then the second part will be on currently used vot"
+  26,
+  25,
+  "have to publish a single line of codes, you can just enjoy the pleasure of life. So what is the first thing that you are going to do? Of cou"
  ],
  [
-  29,
-  37,
-  "ing systems. So we have two topics for today. One is going a bit deeper into this highly federal, decentralized political structure of Switz"
+  26,
+  36,
+  "rse, you'll probably go on Twitter to look for people arguing online. So you open the app and what disappointments, you see only bots, bots "
  ],
  [
-  29,
-  51,
-  "erland."
+  26,
+  47,
+  "talking to each other."
  ],
  [
-  29,
-  52,
-  "And then secondly, to talk about voting systems, and in particular about experiments and pilots with Internet voting in Switzerland. So just"
+  26,
+  49,
+  "This is extremely painful. So unfortunately, if we do nothing, the only solution for that is the KYC, which is extremely bad for many reason"
  ],
  [
-  29,
-  63,
-  " as a recap, we have these 26 provinces in Switzerland. they are like microstates and just over the before starting here discussed a bit wit"
+  26,
+  60,
+  "s. The first one is the user experience. Each time you need to KYC, you need to find your ID documents, take a picture of it, take"
  ],
  [
-  29,
-  74,
-  "h Theo the different federal systems we have in this world and in Switzerland it quite extreme We also established yesterday that these 26 c"
+  26,
+  71,
+  "a picture of you and send it, and then you need to wait until the verification. So there is a lot of friction at this point. And if you're a"
  ],
  [
-  29,
-  85,
-  "antons can levy taxes so they"
+  26,
+  80,
+  " third-party application, you will experience a lot of drop-off. Then there is the privacy. How can you have free speech in some countries i"
  ],
  [
-  29,
-  87,
-  "have their own income, they have their own parliaments, they have their own government. Switzerland is very diverse so this diversity is all"
+  26,
+  90,
+  "f you are not anonymous online? And also there is the security."
  ],
  [
-  29,
-  100,
-  "owed in Switzerland. The tendency to have exactly the same standards is less pronounced than in other federal systems"
+  26,
+  94,
+  "So KYC are not secure for the third-party application because using generative AI, it's not childish to generate mock image of ID documents "
  ],
  [
-  29,
-  111,
-  "and we have these, in addition we have this very small scaled structure of municipalities So formally, legally, we have these three layers. "
+  26,
+  104,
+  "or just do deepfakes. also when you do a kawashi you are going to take all your personal informations and send them and they are going to be"
  ],
  [
-  29,
-  122,
-  "We have the national, the provincial and the local layer. You have this in several other countries as well, however in Switzerland, because "
+  26,
+  114,
+  " stored in huge database and how can these happen all the time so it's actually"
  ],
  [
-  29,
-  133,
-  "they have their own budget, they can levy taxes."
+  26,
+  120,
+  "secure for nobody so how can you prove that you're a human there are many attempts um different project who try to answer to this question a"
  ],
  [
-  29,
-  137,
-  "In particular, the cantons are like microstates. If you read the Swiss constitution, and that's the point of view of the cantons in Switzerl"
+  26,
+  132,
+  "nd what's what is interesting is that they are going to be different according to how they answer to the underlying question which is what i"
  ],
  [
-  29,
-  155,
-  "and, the Swiss constitution lists the territory of Switzerland, there is no national territory,"
+  26,
+  144,
+  "s a human"
+ ],
+ [
+  26,
+  145,
+  "for example with general proof of personhoods you are going to prove your humanity by doing stuff that a sibyl can do like solving captchas "
+ ],
+ [
+  26,
+  157,
+  "online or maybe recording a video of yourself with a sheet of paper. Unfortunately, with AGI and just the race of AI, I guess that in 2027, "
+ ],
+ [
+  26,
+  169,
+  "it's going to"
+ ],
+ [
+  26,
+  170,
+  "be AI that could solve captchas that humans can't. So for CBL resistance, that's definitely not the best option. Then we have the biometric "
+ ],
+ [
+  26,
+  179,
+  "proof of personhood. So this one is super interesting. With this one, you are going to consider a human as a bunch of flesh and atoms ordere"
+ ],
+ [
+  26,
+  189,
+  "d in a really specific way. And with a bunch of sensors, you are"
+ ],
+ [
+  26,
+  193,
+  "going to make sure that with your definition of human. And also from this, you are going to infer a unique identifier for each person. So Wa"
+ ],
+ [
+  26,
+  204,
+  "rd is using the iris for that, which is quite interesting because two twins don't have the same iris. But there are also some limitations to"
+ ],
+ [
+  26,
+  215,
+  " this option because it's totally trusted on the hardware,"
+ ],
+ [
+  26,
+  219,
+  "meaning that the company who's releasing these probes can put back doors inside. Also, what happens if I'm blind, if I don't have an iris, i"
+ ],
+ [
+  26,
+  230,
+  "f I don't have a fingerprint, there is a really huge variance in how the human body is and what are the, like, damage that can happen on the"
+ ],
+ [
+  26,
+  242,
+  " human body. So, yeah, it's kind of exclusive for some people."
+ ],
+ [
+  26,
+  247,
+  "Also, you can trick the sensor somehow, and you could print, 3D prints, a fake iris and put it on you. Alright, then you can also say, I kno"
+ ],
+ [
+  26,
+  258,
+  "w that this person is human because other humans are claiming it. So this is the social growth paradigm. This one is super interesting becau"
+ ],
+ [
+  26,
+  269,
+  "se it's fully decentralized and totally accessible,"
+ ],
+ [
+  26,
+  273,
+  "but it's a bit hard to prevent civil attack. And also revealing your social growth is going to reveal a lot on who you are. Maybe you can br"
+ ],
+ [
+  26,
+  285,
+  "ing some ZK into it, but for now it's a bit hard. Another way of proving your humanity is to prove that you doing stuff that humans do like "
+ ],
+ [
+  26,
+  296,
+  "going to the cinema paying your bills pushing code on GitHub for example So you could take attestations or proof of all these behaviors and "
+ ],
+ [
+  26,
+  308,
+  "aggregate"
+ ],
+ [
+  26,
+  309,
+  "them. And by doing so, you could be sure that, let's say 99% that you are human. But the user experience is a bit hard. Like it takes some t"
+ ],
+ [
+  26,
+  319,
+  "ime to upload all these attestations. And for now it's not super private. I guess that soon we will be able to bring a lot of ZK inside of t"
+ ],
+ [
+  26,
+  330,
+  "his, so it should be better in the future."
+ ],
+ [
+  26,
+  333,
+  "This graph is super interesting. I took it from the blog post from Vitalik about the biometric proof of personhood, and it's going to map al"
+ ],
+ [
+  26,
+  344,
+  "l the different trade-offs that we have with the different proof of humanity. So what about self? So the paradigm of self is slightly differ"
+ ],
+ [
+  26,
+  354,
+  "ent. Instead of starting from scratch, the idea is why don't we piggyback on the existing"
+ ],
+ [
+  26,
+  361,
+  "ID infrastructure and hijack them using zero-knowledge proof? So let's take the example of biometric passports. These documents are pretty c"
+ ],
+ [
+  26,
+  371,
+  "ool because they contain a biometric chip with inside all the data about the user and also the digital signature of the document, meaning th"
+ ],
+ [
+  26,
+  381,
+  "at you can verify this signature inside the zero-knowledge proof."
+ ],
+ [
+  26,
+  386,
+  "And by doing so, you can already solve most of the issues that are related to identity, like proof of humanity. I can prove that I'm human b"
+ ],
+ [
+  26,
+  396,
+  "ecause I own a valid passport. I can prove my name, my surname. I can prove my gender. I can prove that I'm not part of the off-accentralist"
+ ],
+ [
+  26,
+  406,
+  ". And because I'm using ZK each time, I'm going to prove it without revealing anything else."
+ ],
+ [
+  26,
+  412,
+  "Like when I prove that I'm above 18 years old, I actually don't even really reveal my birth date. So these are all the information that are "
+ ],
+ [
+  26,
+  421,
+  "present inside the passports. There are many data groups. The first one is the machine readable zone. That's the two lines that are present "
+ ],
+ [
+  26,
+  430,
+  "on the main page of the passports. And you can find like most of the information inside of this one."
+ ],
+ [
+  26,
+  437,
+  "The digital is interesting because that's the picture. So the picture is also signed meaning that you could make sure that it the same perso"
+ ],
+ [
+  26,
+  447,
+  "n who behind the screen than the one who on the passports There is also the DG15 So this one is the pub key because some passports may hold "
+ ],
+ [
+  26,
+  458,
+  "a private key that can sign arbitrary data."
+ ],
+ [
+  26,
+  461,
+  "So you could recover your wallet using your passport, for example, or just sign some transaction. All right, so you take all these data grou"
+ ],
+ [
+  26,
+  471,
+  "ps, you hash them, You concat the results, you hash it two more times, and then it's signed by the issue of country. Or more precisely, it's"
+ ],
+ [
+  26,
+  480,
+  " signed by the document signing certificates, which can sign up to 100K passports,"
+ ],
+ [
+  26,
+  486,
+  "and which is itself signed by the country signing certificate authority. And this one rotates every three to five years. It's going to depen"
+ ],
+ [
+  26,
+  496,
+  "d upon the country. The CACA, so the root certificates, they are present in public registries that are maintained by the International Civil"
+ ],
+ [
+  26,
+  505,
+  " Aviation Organization. So that's why it's actually so easy to verify passports."
+ ],
+ [
+  26,
+  511,
+  "It's because we have access to the public keys in public registries. All right, I lied a bit when I said it was easy. Because countries had "
+ ],
+ [
+  26,
+  521,
+  "the amazing idea of using different signature algorithms and a hash function. So we had to do a custom implementation for each of them. So t"
+ ],
+ [
+  26,
+  532,
+  "o know if your country is currently supported by self, you can just go to map.self.xyz."
+ ],
+ [
+  26,
+  538,
+  "And by hovering a country, you can see which signature algorithm and hash function your country is using. And if your country is not issuing"
+ ],
+ [
+  26,
+  548,
+  " biometric passports, that's totally fine because we are also working to extend the support to other ID documents, like the ADA, which is th"
+ ],
+ [
+  26,
+  559,
+  "e local ID solution in India, and the EOID card, and also some others that are coming"
+ ],
+ [
+  26,
+  565,
+  "soon. All right, so what does looks like the registration process? So the process is in two time because of security reason and privacy reas"
+ ],
+ [
+  26,
+  575,
+  "on. It's kind of similar to how SEMA 4 is working or tornado cache. So during the first step, the registration, you are going to scan your p"
+ ],
+ [
+  26,
+  585,
+  "assports first with the camera."
+ ],
+ [
+  26,
+  587,
+  "It's not taking a picture, it's just reading some fields. And then with the NFC reader of the phone. And once it's done, you can generate yo"
+ ],
+ [
+  26,
+  597,
+  "ur first zero-knowledge proof. So this one can up to, I would say, three minutes if your country is a savage and is using SHA-512 with, I do"
+ ],
+ [
+  26,
+  608,
+  "n't know, SECP, 521, something like that."
+ ],
+ [
+  26,
+  611,
+  "But if not, it should be within a minute. All right. So what's happening under the hood exactly here is that you are going to, as we saw bef"
+ ],
+ [
+  26,
+  622,
+  "ore, hash all the information of the passports, then verify the signature, then verify the certificate chain and you do everything inside th"
+ ],
+ [
+  26,
+  633,
+  "e zero knowledge proof. And along with the"
+ ],
+ [
+  26,
+  636,
+  "ZK proof you are going to generate two things. The first one is an attestation nullifier, just to make sure that each attestation can be use"
+ ],
+ [
+  26,
+  653,
+  "d only once to register. So this one is deterministic on the passport data. And a commitment, which is"
  ]
 ]
