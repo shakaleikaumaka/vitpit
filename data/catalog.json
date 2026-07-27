@@ -18,7 +18,8 @@
   "quality": "ok",
   "transponder": false,
   "thumb": "thumbs/1_XBfWl2J2hFI4SNswWCFeRfYIwHfSrm3.jpg",
-  "note": "Title truncated in the source folder listing; the filename also carries a stream-operator artifact — “have to stop and start the stream to rebrand.” We keep the artifact. Pits are honest."
+  "note": "Title truncated in the source folder listing; the filename also carries a stream-operator artifact — “have to stop and start the stream to rebrand.” We keep the artifact. Pits are honest.",
+  "speakers": []
  },
  {
   "id": "1gMn88RS1vOfMwBRW5rPkrr6rZB9wme2G",
@@ -38,7 +39,8 @@
   "duration": null,
   "quality": "ok",
   "transponder": false,
-  "thumb": "thumbs/1gMn88RS1vOfMwBRW5rPkrr6rZB9wme2G.jpg"
+  "thumb": "thumbs/1gMn88RS1vOfMwBRW5rPkrr6rZB9wme2G.jpg",
+  "speakers": []
  },
  {
   "id": "1s16w71y_C7K7zu0J_QzkFzutOqFkPVnN",
@@ -117,7 +119,7 @@
   "transponder": false,
   "thumb": "thumbs/1Z1t6-NzrhzpSWjeknKLkBQriLZUD2e1Y.jpg",
   "speakers": [
-   "Vitalik Buterin",
+   "Vitalik Buterin (Ethereum co-founder)",
    "Glen Weyl",
    "@tkstanczak",
    "@pujaohlhaver",
@@ -193,7 +195,8 @@
   "quality": "ok",
   "transponder": false,
   "thumb": "thumbs/1Jl2HPQNBBmKNw46OQssz_i0VzJQ0ERZ2.jpg",
-  "note": "Title truncated in the source folder listing."
+  "note": "Title truncated in the source folder listing.",
+  "speakers": []
  },
  {
   "id": "1_s9TD15CkmVMl-Wn6ZxaH4EgZV7WC3zs",
@@ -214,7 +217,8 @@
   "quality": "ok",
   "transponder": false,
   "thumb": "thumbs/1_s9TD15CkmVMl-Wn6ZxaH4EgZV7WC3zs.jpg",
-  "featured": true
+  "featured": true,
+  "speakers": []
  },
  {
   "id": "1ho75nsKQtiKCxGe-kp-1ehAsY1pbDCTJ",
@@ -376,7 +380,8 @@
   "duration": null,
   "quality": "ok",
   "transponder": false,
-  "thumb": "thumbs/1i6gV6Xbm469seOek1vcixEYJt6XKDR08.jpg"
+  "thumb": "thumbs/1i6gV6Xbm469seOek1vcixEYJt6XKDR08.jpg",
+  "speakers": []
  },
  {
   "id": "1y3VX61tiNFwdtD38pd05KUvqMsKbu4EE",
@@ -444,7 +449,8 @@
   "duration": null,
   "quality": "ok",
   "transponder": false,
-  "thumb": "thumbs/18lm7hEoa_NNyJ0n_413NZGQAVgMQPBxW.jpg"
+  "thumb": "thumbs/18lm7hEoa_NNyJ0n_413NZGQAVgMQPBxW.jpg",
+  "speakers": []
  },
  {
   "id": "1RQemzpiLB42O4gDRkBWbJjKMFx6CrtIQ",
@@ -487,7 +493,8 @@
   "duration": null,
   "quality": "ok",
   "transponder": false,
-  "thumb": "thumbs/1GQ8F-ZerTliURQnNKjCwCMxrIua6Wdc5.jpg"
+  "thumb": "thumbs/1GQ8F-ZerTliURQnNKjCwCMxrIua6Wdc5.jpg",
+  "speakers": []
  },
  {
   "id": "1ZwZRw3_SpvJkALeuYABTSGcttmY-H1o6",
@@ -506,7 +513,8 @@
   "transcript": null,
   "duration": null,
   "quality": "ok",
-  "transponder": false
+  "transponder": false,
+  "speakers": []
  },
  {
   "id": "1zj2GAq3htvWxRsAq9d6dknbieTxbXXJJ",
@@ -549,7 +557,8 @@
   "duration": null,
   "quality": "ok",
   "transponder": false,
-  "thumb": "thumbs/13HPKNFSqSwipaLweWs0BOTpnzrN1OH4b.jpg"
+  "thumb": "thumbs/13HPKNFSqSwipaLweWs0BOTpnzrN1OH4b.jpg",
+  "speakers": []
  },
  {
   "id": "1h4VgnBEW2qBZWEnvAyWyhX_rLq6befrd",
@@ -569,7 +578,8 @@
   "duration": null,
   "quality": "ok",
   "transponder": false,
-  "thumb": "thumbs/1h4VgnBEW2qBZWEnvAyWyhX_rLq6befrd.jpg"
+  "thumb": "thumbs/1h4VgnBEW2qBZWEnvAyWyhX_rLq6befrd.jpg",
+  "speakers": []
  },
  {
   "id": "1PryogOZZ62yeGuwSL1sgQ4tqySEG8SjP",
@@ -589,7 +599,8 @@
   "duration": null,
   "quality": "ok",
   "transponder": false,
-  "thumb": "thumbs/1PryogOZZ62yeGuwSL1sgQ4tqySEG8SjP.jpg"
+  "thumb": "thumbs/1PryogOZZ62yeGuwSL1sgQ4tqySEG8SjP.jpg",
+  "speakers": []
  },
  {
   "id": "1M51vpxpEfuLbBhGjtr1RTyhR5GcdzMI6",
@@ -678,7 +689,8 @@
   "duration": null,
   "quality": "ok",
   "transponder": false,
-  "thumb": "thumbs/1pwZZDohbabGNfnQptswl4Ykp1fXBhr1Q.jpg"
+  "thumb": "thumbs/1pwZZDohbabGNfnQptswl4Ykp1fXBhr1Q.jpg",
+  "speakers": []
  },
  {
   "id": "17xgNGz57NaCpSXsT9LIec2KyhwW91yxs",
@@ -698,7 +710,8 @@
   "duration": null,
   "quality": "ok",
   "transponder": false,
-  "thumb": "thumbs/17xgNGz57NaCpSXsT9LIec2KyhwW91yxs.jpg"
+  "thumb": "thumbs/17xgNGz57NaCpSXsT9LIec2KyhwW91yxs.jpg",
+  "speakers": []
  },
  {
   "id": "1lR8KCsftoflDykh_SwUwEoP5WF39VfQL",
@@ -718,7 +731,8 @@
   "duration": null,
   "quality": "ok",
   "transponder": false,
-  "thumb": "thumbs/1lR8KCsftoflDykh_SwUwEoP5WF39VfQL.jpg"
+  "thumb": "thumbs/1lR8KCsftoflDykh_SwUwEoP5WF39VfQL.jpg",
+  "speakers": []
  },
  {
   "id": "18SNr9xALLEDFZEJLlywOP8CNYtfelKdx",
@@ -785,7 +799,8 @@
   "duration": null,
   "quality": "ok",
   "transponder": false,
-  "thumb": "thumbs/14aHOnb9cLYCOQEsxSacUOTQ1Yj7KzcMU.jpg"
+  "thumb": "thumbs/14aHOnb9cLYCOQEsxSacUOTQ1Yj7KzcMU.jpg",
+  "speakers": []
  },
  {
   "id": "15w_HwhPQwLySgNUoc8HQ-C93nR940ZDn",
@@ -806,7 +821,8 @@
   "quality": "ok",
   "transponder": false,
   "thumb": "thumbs/15w_HwhPQwLySgNUoc8HQ-C93nR940ZDn.jpg",
-  "featured": true
+  "featured": true,
+  "speakers": []
  },
  {
   "id": "1YaCFNPshYwUODUf9a-OlF8ASMmfdzeE4",
@@ -825,7 +841,8 @@
   "transcript": null,
   "duration": null,
   "quality": "ok",
-  "transponder": false
+  "transponder": false,
+  "speakers": []
  },
  {
   "id": "1G3DxBxBJMRYOhnj71u60T6HSOMpIKfIH",
@@ -845,7 +862,8 @@
   "duration": null,
   "quality": "ok",
   "transponder": false,
-  "thumb": "thumbs/1G3DxBxBJMRYOhnj71u60T6HSOMpIKfIH.jpg"
+  "thumb": "thumbs/1G3DxBxBJMRYOhnj71u60T6HSOMpIKfIH.jpg",
+  "speakers": []
  },
  {
   "id": "16U1oHvj5cfgmNsrkEnFDC4FjPYPV0qVH",
