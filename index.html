@@ -1272,7 +1272,7 @@ document.querySelectorAll('.chip').forEach(c=>c.onclick=()=>{
   c.classList.toggle('on'); state.f[c.dataset.f] = c.classList.contains('on'); render();
 });
 
-/* ---------- dispatches: The Edge Weekly ---------- */
+/* ---------- dispatches: The Alpine Dispatch ---------- */
 function renderBlock(b){
   switch(b.type){
     case 'lead': return `<p class="lead">${esc(b.content)}</p>`;

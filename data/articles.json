@@ -21,7 +21,7 @@
       { "type": "heading", "content": "🧠 Where am I? (Asking for a brain in a vat)" },
       {
         "type": "paragraph",
-        "content": "Christian, co-founder of a whole-brain emulation startup with two animal labs in the UK, opened the d/acc afternoon by doing something rare in tech: taking identity seriously before shipping. His premise — every conversation about brain emulation hits the same local minimum, where you must decide what you think a self even is. Ego theory, psychological continuity, materialism, the no-self view. He toured the canon, then noted the canon hasn't updated itself for neuroscience — split-brain patients whose hemispheres vote differently, the narratives we tell that our lived experience contradicts."
+        "content": "Christian, co-founder of a whole-brain emulation startup with two animal labs in the UK, opened the d/acc afternoon by doing something rare in tech: taking identity seriously before shipping. His premise — every conversation about brain emulation hits the same local minimum, where you must decide what you think a self even is. Ego theory, psychological continuity, materialism, the no-self view. He toured the canon, then gently noted that the canon hasn't updated itself for neuroscience — split-brain patients whose two hemispheres disagree, one hand reaching for the coffee while the other holds it back; the life-stories we spin about ourselves that our lived experience quietly contradicts."
       },
       {
         "type": "quote",
@@ -32,16 +32,16 @@
       },
       {
         "type": "paragraph",
-        "content": "His favorite thought experiment is Dennett's «Where Am I?» — a NASA mission, a nuclear warhead in a Houston ravine, and a brain named Yorick placed in a vat while its body, Fortinbras, goes to work by radio link. The question that has launched a thousand philosophy seminar fights: where is the real I? And then, the pivot that made the room sit up: Puja Ohlhaver's soulbound tokens, invoked earlier that day, as a way identity might one day be quantified — a bridge between the metaphysics and the merkle trees."
+        "content": "His favorite thought experiment is Dennett's «Where Am I?» — a NASA mission, a nuclear warhead in a Houston ravine, and a brain named Yorick placed in a vat while its body, Fortinbras, goes to work by radio link. The question that has launched a thousand philosophy seminar fights: where is the real I? And then, the pivot that made the room sit up: Puja Ohlhaver's soulbound tokens, invoked earlier that day, as a way identity might one day be quantified — a bridge between the metaphysics and the Merkle trees."
       },
       { "type": "heading", "content": "💊 The red pill, manufactured in Amsterdam" },
       {
         "type": "paragraph",
-        "content": "The second transcript is smaller and scrappier and perfect: an intro to brain-computer interfaces from the Think2Earn camp, who build open-hardware fNIRS headsets — near-infrared spectroscopy you can manufacture yourself — because one in eight people on Earth carries a mental or neurological disorder, and a quarter of healthcare spending goes to it, and the choice as they frame it is a pill of a particular color."
+        "content": "The second transcript is smaller and scrappier and perfect: an intro to brain-computer interfaces from the Think2Earn camp, who build open-hardware fNIRS headsets — near-infrared spectroscopy you can manufacture yourself — because one in eight people on Earth carries a mental or neurological disorder, a quarter of healthcare spending in the developed world goes to meeting it — and the choice, as they frame it, is a pill of a particular color."
       },
       {
         "type": "quote",
-        "text": "Would you choose red pill — open hardware brain-computer interfaces, open source software — or would you want to wait for the big companies to make their proprietary tech and extract as much value as possible from your biometrics?",
+        "text": "Would you choose red pill — open hardware, brain-computer interfaces, open source software — or would you want to wait for the big companies to make their proprietary tech and extract as much value as possible from your biometrics?",
         "speaker": "the Think2Earn builder",
         "session": "An Intro to BCIs, Open Hardware, and the think2earn Model",
         "ts": "00:00"
