@@ -1,0 +1,547 @@
+# Exploring Community Currencies
+
+Date: 
+Source video: Exploring Community Currencies
+Drive: https://drive.google.com/file/d/1i6gV6Xbm469seOek1vcixEYJt6XKDR08/view
+Duration: 01:56:18
+Transcribed: 2026-07-27 · deepgram nova-3 · PIT BULL harvest fleet v3
+
+---
+
+[00:00] Circles, currency that can be used by person or by a community. So on my, journey to to Switzerland, I thought, like, as a part of the permanent hub funding mechanism, what, like, a more, cryptocurrency oriented topic
+
+[00:22] could be relevant. And, like, I I'm I'm sure that there are a lot of great projects that could be somehow useful for that setup. But, like, I'm I I think out of them, circles, like, it stands out. This is not a new project, but it is, like, undergoing, like, a refreshment or relaunch. And, Martin Kopelman of Gnosis, like, a OG of this space, like, a main institution is,
+
+[00:52] today with us to tell us more. So welcome, Martin, and please. Cool. Yeah. Yeah. Thanks, Julian, a lot for, well, getting me here essentially. I yeah. This will be about Circles, and I enjoyed or I I I think on the last presentation, there were quite a bit of critical questions afterward, and I would wish that you do the same for me or for for for Circles. So
+
+[01:22] there will be a lot of room for, yeah, kind of, yeah, discussing and and criticizing or whatever challenging those ideas. I will start with, yeah, fifteen minutes summary of history or or or, I mean, basically, is Circles and where where are we at. But then, yeah, we are also very close to, Julian hinted at it, as a at a relaunch of Circles two point o. So, yeah, just two weeks or on on May 21,
+
+[01:53] Circuits two point o and the new wallet, and I will show you a bunch of stuff of that already or can show you almost everything. Yeah. We'll we'll we'll we'll launch and but but, yeah, let's let's go step by step. So first, the big one, what is Circles? It's an extremely ambitious project. It's a very
+
+[02:16] yeah. It's a project for for a long time coming. It's really about the question, what is money and how should be money designed and can we can we design better money. And personally, I got involved in the crypto space, yeah, over ten years ago. Back then, it was only Bitcoin.
+
+[02:39] So at the time, I was kind of a Bitcoin maximalist running around telling everyone Bitcoin's changing the world. Bitcoin is is is is is better money. But at some point yeah. And I think yeah. That's already quite a while ago. I be I became doubtful, and and and there were certainly elements of Bitcoin I liked. So kind of the this whole thing of being nonpolitical, being
+
+[03:06] potentially incorruptible, being, yeah, in in that sense, fair or neutral, all those things resonate with me. I like them. But if I very practically think about would the world be a better place if right now the whole world would move somehow to Bitcoin and use Bitcoin? Then I can't give a clear yes to this answer.
+
+[03:29] What would happen is what would certainly happen is so right now, probably one or 2% of the world population owns some Bitcoin. And and essentially of all and and kind of, I mean, over 90% or 9095% of all the Bitcoins that are out there are essentially owned by one or 2%. So what if the world would kind of move on to Bitcoin to use that as the global money, of course, it would be a massive, massive wealth transfer
+
+[03:55] to those one or 2%. And I can't give a straight answer to I I cannot go straight to people and say, yeah, you all move to Bitcoin, and then the world would be a better place because I would benefit personally a lot from it because, yeah, still I I own a bunch of Bitcoin. But it doesn't seem to me that it's in the interest of the, yeah, 99 or 98%
+
+[04:22] of of of people who currently don't own Bitcoin. So the the design goal of circuits was to say, okay, let's take the best parts of of Bitcoin or at least that I consider the best parts kind of this, yeah, neutral, yeah, kind of decentralized, no no central authority that can from one day to another meddle with the currency and and and change it. I
+
+[04:48] mean, yeah, potentially, yeah, have this effect that if you're close to the power source that you over proportionally benefit from it. So let's take the good parts, but then also design it in such a way that it's what I consider radically fair. So that it is equally serving or equally benefiting
+
+[05:10] everyone who is participating or who chooses to to to use that as a form of money. So let's do this exercise, and and I always like to cite Bernard Liatar. When I talk about circles, he used to be fortunately, died a couple of years ago already way too early.
+
+[05:34] He used to be a central banker for in in in Belgium, but but he thought a lot about complementary currencies, regional currencies, and and basically just more philosophically about what is money at all. And money is actually quite fast I mean, is is a fascinating topic in itself. And and in my view, we are still talking way too less about money. So kind of money is still largely just seen as a God given thing, so kind of there are euros and dollars and and kind of it's not really being questioned.
+
+[06:10] While of course, there are dramatic choices when it comes to money. So money is a man made construct and and how this construct works shapes our world dramatically and we rarely have any debate in in the public. I mean, if if you look at into the political public debate,
+
+[06:34] when is really money debated or kind of the way how how how money works. So, of course, Bitcoin was kind of a breakthrough and that that there was at least that it at least kind of it was at also for me personally an eye opener to say, wow. There is it is at least theoretically possible or not not just it is practically possible to to create something different. So again, money is essentially a social contract and it's a choice what kind of money we use.
+
+[07:03] Thought exercise now, we basically say, okay, let's say it's us here, not not all let let let's just say 100 people. We are on an island. We somehow stranded there. There's no money because we whatever. There was an accident and we just are all alone on this island and it seemed useful to have money. So how do we go about it? How would we
+
+[07:29] design it? So we could do the simplest rule and say, every one of us, each of us, 100 people, everyone gets a thousand units, one time, one time event, then we kind of that's how it it initially comes into into circulation, then it's over kind of the money creation process, after that kind of it's just well barter or kind of exchanging.
+
+[07:54] I give you good, you give me money, then later I can spend this money. So that that could be our first approach. But then let's just imagine we are on this island, 100 people, fine. We have all our initial money then twenty twenty more people come next day. Somehow they come with a small boat stranded there also.
+
+[08:18] Now what? They also get all the thousand units? Okay. Why not? But then they leave after a week. They spent a thousand units, kind of we gave them stuff. They spent a thousand units. Now they they somehow escaped the island again and left. Was that a good choice to give them the thousand units?
+
+[08:42] Probably not. So next iteration is maybe we should not kind of do this one time thing where you at one point in time get one sum, but let's let's say we distribute money over time. So instead of doing it once, let's say a thousand units, let's do it one unit per hour. So it's a constant, issuance. So in that situation, this problem that that those guys were only there for two weeks, well then, of course, they would also only for two weeks have issued money while the rest of us who are there for for many years, we we
+
+[09:18] yeah. So now the next problem is the next idea is so yeah. Issued over time. The next idea is if we just issue money over time linearly, then of course, over over a long period of time, the total supply of money will essentially,
+
+[09:43] yeah, go towards infinity while the new issuance is always just this one unit per hour. So in a way, what really matters is I mean, the absolute numbers don't matter really in money. It's it's a relative number. So kind of how much do, let's say, I get compared to how much money is there is is in total out there. And in this model where
+
+[10:07] you kind of just issue once one per hour, then the total supply will go over a long time towards, well, infinity, and the ratio of newly issued money will therefore go towards zero. And and here, kind of trying to discuss, but I I I skipped that. So so that might lead to the conclusion, okay, if we are constantly issuing money, again, with this fairness aspect that
+
+[10:32] everyone equally should benefit from it, we also some in some way need to constantly burn or reduce the money supply. And that and there we might come to the conclusion of the of the of the third rule, and it's a concept called demurrage or you can call burn or whatever. But but essentially just the idea to say, okay, money is constantly issued, but we also constantly reduce
+
+[11:01] the money supply. And here's the proposal is at the rate of 7% per year. So meaning, if you have a thousand units and you just kind of keep them for a year, essentially, the supply or the the the nominal number or you can yeah. Will will go down and after a year, it's 7% kind of burned. So
+
+[11:24] 930 would be would be then would be then there would be would be left. And this is kind of applied daily, all all easy to do with with blockchain. So that rule just the rule of kind of issuing one one unit per hour and 7% leads to that graph
+
+[11:48] for the total supply of money, if you just look at a single person. So it starts growing essentially linearly kind of in the beginning, it's just the issuance, but then of course the 7% kicks more and more in until you reach this in this magic number for circles of roughly 120,000 where 7%
+
+[12:11] demurrage burn exactly equals out the issuance of new money. And here hypothetically, we kind of in this graph, we just assume that the person dies after eighty years and therefore stops issuing issuing their money and therefore essentially the money that this single person had issued will essentially disappear
+
+[12:34] over time. And this is, again, this rate of of 77%. So if you if you kind of let money disappear at the rate of 7% after twenty years, yeah, roughly 80% of it is is already gone. So in the circuit system, the total supply of circuits always converges against
+
+[13:02] 120,804 times number of people in the system. So going back to my initial thinking, bitcoin also has this magic number of or bit I mean, so circuits also has algorithmic issuance and kind of there's no central bank and and kind of no one can kind of just say, today, I want to issue more and tomorrow I want to issue less or whatever. So it is all fixed.
+
+[13:25] But in in Bitcoin, kind of it's just completely static 21,000,000 over probably you all know this graph. And in circles, we say it's 120 120 thousand but per person. So kind of as soon as more people or if if if if only 100 people participate in the whole circuit system, then you will result in, yeah, 100 times.
+
+[13:52] So roughly 1,200,000 sorry. 10,000,000, 12,000,000 circles if a million people I mean, yeah, you can do the math. Okay. Just just another way to look at the 7% is, is, well, was previously talking about taxes and 0% tax rate. So one way to look at it and and debate was Julian whether to call it tax or not is demurrage, but one way to look at it, you can in my view, you still can
+
+[14:23] see the 7% as a tax that everyone is paying on on the money all the time and in a way this tax is used to, yeah, essentially redistribute and kind of fund everyone's UBI. That's one way to look at it. We cannot whatever. But if you look at it in that way, then kind of what it means is that you if you exactly hold 120,000 circles, it doesn't need to be your own, so kind of you just earn them or whatever. If you own exactly a 120,000 circles,
+
+[14:51] then the quote unquote tax or the 7% demurrage you are paying each day exactly equals out with the new issuance that you also have the right to do. So kind of in that sense, effective tax rate is zero. If you have more than that, if you have more than 120,000, then the then you start to kind of pay net taxes because the 7% demurrage will be larger than what you're issuing. So it will converge if you hold infinite money,
+
+[15:23] then your total your tax rate will converge towards 7%. While if you hold less than the 120,000, you essentially pay negative tax or I mean, you essentially get more than you pay. Yeah. That's how the graph looks looks like. Also, to this is kind of for people, organizations, AI, agents, whatever, they always pay 7% because they don't issue.
+
+[15:49] Yeah. Here I see
+
+[16:34] a need to issue like IOU contracts, which is money. But then in the burning thing I don't understand is because previously before like a decade ago or something, we didn't use to hear about trillion dollar economies or trillion dollar startups. And that's why I just I'm I'm just checking the room. So I'm super happy also to do a discussion. I I'm because there were probably a lot of discussion. So I'm happy to do a discussion already starting to go into the discussion now or finish first and then do the discussion? How do people feel about?
+
+[17:07] Rather start discussion already or continue first? If something is unclear, maybe just answer the question, then go on. Okay. Yeah. I mean, I think, trying to answer quickly. So well, I think there is first a big question of or of what is money. Is it an IOU? Is it is it always related to debt? And I I feel that that requires more space to to discuss.
+
+[17:31] The 7% burning, yeah. I mean, the simple answer to me would be to say, if you constantly issue money, then you also need to reduce it. Otherwise or well, I mean, otherwise, it just means total supply will will grow towards infinity and the and the newly issued will not be worse a lot. The other side of UBI, in a way. Yeah. There's, an UBI.
+
+[17:54] Okay. But I see the problem in issuing one I mean, how much of a circle per hour because the value is not created at that rate. So then we come into a problem, like, create the problem and, again, we solve a problem of, like, burning 7%. I I I am okay. Let's but let let's stay with this for for for later. I I totally totally fair to say should we
+
+[18:19] should we should we do the can can the money issuance or is this even money issuance if it's not tied to value create or not? But but let's let's put this for later. Okay. Just in circles, now try to establish, okay, this aspect of of fairness within the system, everyone
+
+[18:42] has has has the right to issue. But now, of course, very practically speaking, who can do it and kind of those coming from more from computer science, they, of course, all have heard about this civil attack problem. So how how can you make sure that every person only issues one only issues this or only has one account and issues this one circuit per hour and not just creates 10 accounts and therefore
+
+[19:11] gets more than others. And there's always a simple solution to say, okay, we have somehow one entity that determines who can who can who can join and somehow they have, for example, Worldcoin. There's essentially the one company that created this orb, and essentially now you need to go to them and and well, and if if if if if they say, yes, it's okay, or this device that they created says, yes, you're in, then you're in.
+
+[19:39] And if not, well, bad luck. And that's really against at least my ethos because I really don't like gatekeepers and anyone who kind of can decide who who who's allowed to join and who not. So in circuits, we tried to design the system radically decentralized so that there is no gatekeeper whatsoever.
+
+[20:03] Anyone can create a Circuits account, and the problem of civil attacks is used sorry, is solved by a web of trust. So in a way, every or it there is no protect you can there can be multiple accounts being created, but as long as no one else is accepting
+
+[20:25] that form of money, those circles, they're useless. So in circles, it is essentially we're relying on this mutual agreement. I start to issue my money, you start to issue your money, and then we might mutually agree and potentially that's also where we give each other credit or that's one way to look at it. We might mutually agree to say, okay,
+
+[20:49] yeah, we call it in circles trust, you trust me, I trust you, essentially meaning I accept your currency, you accept my currency. So that also works transitively. So here we have three people, a, b, c. A and b trust each other, b and c trust each other and now a wants to pay c and how it works here is that
+
+[21:13] c doesn't know a, doesn't trust A, doesn't accept A currency, but because there's B in between, so called pass finder can find a pass to send A circles, so the money that A issued to b and b is fine with that because they trust them. And then they hold b also holds some b circles and then they forward the b circles to c and c is also fine with that because they accept they they got circles from someone or they got money issued by someone
+
+[21:46] they they trust. Yeah. So so here's a is paying a 100, b is forwarding a 100 so in aggregate, b has now after the transaction 100 more a circles and hundred hundred less b circles, so their total balance doesn't change. So overall the payment is done from a to c and and and so on. So in summary, those are really just that's that's all kind of circuits is, those three rules.
+
+[22:17] Continuous issuance, one per hour per person, rule number 7% demarrage, rule number two, and number three, kind of this concept of trust or kind of the concept of individual currency. That's all. That's all. But now yeah. So this idea came around again
+
+[22:39] over ten years ago even at at at at DEFCON one in London. I gave first, yeah, public presentation on circles just sharing this idea. And for for a long long and it was also personally how I got interested in in in in Ethereum because back in the days, I I I kind of thought of circles as a fork of Bitcoin because that was the only thing that existed.
+
+[23:05] So then Ethereum came along and, of course, it became obvious it's much easier to build such system on smart contract platform. Then it took still overestimate underestimated how long it would then take to Ethereum to I mean, ERC 20 and or whatever. I mean, all kind of all the development happened over these last years. So then took still, again, many, many years. Various people and teams and groups got attracted by the idea. And in 2020,
+
+[23:33] Circles, yeah, as a system launched, with with a team, cooperative. Yeah. And I I was essentially only involved on the sidelines, as someone who initially brought in the idea, but there wasn't or isn't in the independent teams working on circuits. And, yes, in 2020, it launched October 16,
+
+[23:56] and this is then how kind of the network started. After a couple of hours, the trust network looked like this. After one day, the trust network looked like that, and after a couple of I think two weeks, over a 100,000 people were who knows? But over a 100,000 nodes joins the network and forms this, in my view, beautiful
+
+[24:20] web of trust graph. So one graph is the I think the right graph is the the trust graph and the left graph is the actual payments of the payment graph. But then after that, yeah, quite viral moment, things slowed down, tech wasn't really working,
+
+[24:44] technical issues, and what whatever. So to to some extent, this is there was a hype and then it kind of went away for some extent. But there were some places including Berlin where where there was local communities that actually tried tried to use circles, and here we had this farmer markets, Bauer Direct, where you could buy the basket of vegan for 150 circles.
+
+[25:07] And here is a very practical transfer from on the left side, me chooses Bauer direct offering. They didn't trust me, but they trusted Dan and Lola Bola and what whatever. So the Pathfinder would then essentially find a way to to to turn my circles
+
+[25:30] into circles that that that our direct would accept. So as a side note, Circle's goal and motivation was to or is to create yeah. What I would consider fair currency or fair money, but as a side pro as a side side effect, it actually does also create an identity
+
+[25:55] identity system. And of course, this web of trust can be used for things other than other than money. And I would also argue that it that it's quite useful because because, I mean, of course, there has been web of trust ideas since, yeah, 2030, probably longer years. So most famous, I guess, PGP. But but in those systems,
+
+[26:20] one issue is that trust does not necessarily come with a well, with an economic with an economic meaning. And if you trust account or there's in a way no penalty to trust someone you should not trust or or some in in in circuits, it has an actual quite
+
+[26:42] concrete economic meaning, but but maybe David will talk later. So now what's new and what what are we what are we adding? And maybe also again what what have been the problem? So in in circles one point o only kind of the it was only just people and kind of just those peer to peer trust connections in two,
+
+[27:06] in circles two, we are adding groups. And instead of kind of just having one to one connections, we have essentially one to end connections or one to many connections. And groups are essentially a tool in circles to say, okay, we say we do the Switzerland
+
+[27:29] group and say everyone who is here in this room or whatever is is can be or whether that can be a process of to say, form a group and decide how this group is governed, but but essentially it's a collection then of circles accounts and it will implicitly create a shared currency. And it it essentially means that everyone can take their individual circles, so all issuance is still just done on a on an individual level. The group itself does not issue money. All money is issued on a personal level, but those personal level can be converted
+
+[28:05] into group circles and then essentially a group can have one fungible yeah. And if if you look at it in the in the credit way, then it's it's like a yeah. Credit, yeah, credit union or or in in in terms of bonds that there have been discussion of individual countries issuing bonds, but then you can have euro bonds that essentially is a basket of of all those bonds, and that that that's one way to look at groups.
+
+[28:37] Abstractly speaking, I I I would say, and this is also from Bernard Liatar, the guy I was quoting from the very beginning, there is a trade off, I I would say, just in just in in many places between efficiency and resilience. So on the one hand, you have systems that are very resilient, not very efficient,
+
+[29:00] and and in in terms of money, having just one money kind of everyone in the world using the dollar is in a way the most efficient thing because well then it's simple, no no additional complexity, no exchange rates, just one one currency globally used, very efficient. But of course, not resilient at all because kind of I mean, one
+
+[29:23] hopefully more than one guy, but kind of yeah. A few actors who have important levers over over, yeah, over over the dollar concretely can essentially affect everyone and kind of destroy I I mean, But but of course then if if the whole world just uses this one currency and this currency somehow breaks or somehow is being messed with, then
+
+[29:47] kind of terrible consequences. So, of course, having more currencies is is more resilient, and circles in ways, kind of go got very, very extreme of having well, it's literally one currency per person in that sense extremely resilient. So you can have in circles, I issue my money and kind of just three more people and kind of we just trust each other and then essentially we just accept our our currency with each other. So then, of course, it's in a way extremely resilient because everything that happens outside of our very, very small group doesn't affect us.
+
+[30:22] Of course, again, not very efficient. So groups in a way allow to to, yeah, to find new trade off spaces between between, yeah, this kind of extreme resilient just personal level. So you can have small local groups, and then you can kind of aggregate those local groups to larger groups. And in theory, you can have even a world
+
+[30:48] group and kind of you can try things like Worldcoin does and say, okay. We have somehow a process of, I don't know, just getting your biometrics, passport, whatever it is, and you try to create this world group. The good thing and I'm highly doubtful that that those those world groups will work, but but in the circus design, the good thing is if they break, then you kind of can go back one layer below. And if they break, then you can go back again one layer below. In worst case, you can always even go just back to the personal
+
+[31:20] the personal layer. So I hinted at it already. Groups are essentially just a wrapper for a bunch of personal circuits. A group can decide which personal circuits it accepts, but we can also look into this very concrete later. Yeah. You can easily create setup groups, define a policy, how to join,
+
+[31:45] simple things like yeah. But I'll I'll skip that or we we can go into yeah. Timeline, I also talked about this enough. So now a few things very practically of what are we going to launch in, well, almost in less than two weeks.
+
+[32:11] So I think the best way to do it is to show you very concretely the product or or or circuits. Although, maybe now is also a good time to start first questions and discussion, and then I can maybe during that
+
+[32:34] show you a bunch of more things. So let me just quickly quickly see if there's something yeah. Those are kind of groups we are currently, well, we are currently working with as launch partners. Offers
+
+[33:02] yeah. Yeah. So I I I I concluded here, and yeah. And I would say, let's open it up for more interactive, and and then we can zoom in into into into many many things. Questions, please. Otherwise,
+
+[33:37] just take mine. Yeah. It's like a a thing you didn't touch on. I didn't think a lot about this kind of money, and one is what you try to do. Basically, you you do some head issuance. So you give, like, the centurage which generated by creating money, basically, you give to, individuals, basically. Mhmm. And as long as you
+
+[34:00] distribute things, like, fairly because everyone who enters the system think it's it's fair because they get, like, the fair share, everyone is, like, happy, basically, because he gets a fair share, I guess. But the issue with this and you didn't I I I understand. It's not a stable coin, But the issue with this is as soon as, so if the the economy
+
+[34:23] using the currency is not big enough, basically, you're issuing money all the time, the economy stays the same. This means that the unit will get, it's a form from inflation. Basically, unit will get has less power to buy. So what then normally happens in normal systems, you have to somehow you have to take back part of the
+
+[34:47] supply which you take drive it with tax yearly tax, basically. But the issue with this is it's very hard to take back in a fair way, basically. What you should have, a system is basically as soon as it's like the value is going down, you should basically take away part of the issuance, which you are doing now prog pragmatically,
+
+[35:12] basically. But what I see what's then happening is basically the incentive is very high to buy something. So every inflation has the same effect. People going to buy, like, other things with the money now because they know the power of of of, yeah, the power they have with the same amount of money is higher now than later. So it leads some kind of capital flight or, yeah, people run to the door, basically, to exit the system.
+
+[35:42] And you didn't address this like this. I I understand it's a long term project, basically, but at the end, it should be used as a Yep. Gain payment. So Yeah. Yeah. Yeah. So so not that's totally fair criticism. So the overall criticism is shouldn't we shouldn't the issuance of money be tied to
+
+[36:06] actual economic actual economic yeah. Whatever activity, GDP, whatever it is. And I would say if we just look historically at so this is the graph. This is the graph of the m two or of of the of the dollar supply over the last what is it?
+
+[36:30] Okay. I'm I'm not sure here what well, whatever. But but essentially, it is it is there was the the the spike here was was was the policies implemented for for Corona to whatever. But but other but and and I I would say that was high highly questionable whether that was a good decision to kind of
+
+[36:54] pump up the the money supply to kind of try to address corona. So what I'm what I'm basically looking at this graph that is exactly increasing the money supply at roughly 6.5 or those those 7%. So just historically speaking and just historically looking at at at the last fifty years of of of dollars,
+
+[37:19] we we can just observe that, yes, they are all kind of all kind of logic to kind of try to influence the money supply, but just roughly speaking, it increased by 7%, pretty stable over over over fifty years. So now that is kind of essentially the same thing as as seven percent demurrage.
+
+[37:42] So in the dollar system, the whole the the the total amount of money just kind of continuously goes up, goes up, goes up, and therefore, of course, dollar is devaluated or dollars are devaluated not necessary at 7% because but there is economic growth smaller than 7% per year, so therefore, if it would be 7%, the value would stable. It's smaller, let's say, for extremely
+
+[38:07] simplified math, it's maybe 4% was on average, then kind of the real inflation is again, super simplified math is then 3%, the difference. So in the circuits world, the total money supply will not increase over a long run. Will will stay relatively stable given a stable population.
+
+[38:33] So in that sense, the but there is constantly this this this this 7% burn or or demurrage. So ideally, in an economy where where there would be growth or there would be GDP growth, then the value of circuits would actually go up or value of a single cycle would go up. But, I mean, the the overall question is,
+
+[39:01] do we need some form of government, some form of central bank, some form of entity to try to do something to kind of bring value of or or GDP? And there's a solution to this, but in my thinking, you need you need some you need a tax on the transaction, basically. This is a solution, but it's not working at the end. So if you say you have a stable supply,
+
+[39:28] every time somebody pays something and, basically, the the price is too low of the circle, you take part of this payment, you you burn part of this. So so you have a variable tax, which you adjust maybe daily or every transaction, which should take back part of the money supply, basically, and you burn it, directly.
+
+[39:51] And the ratio you burn is different. If it's like the price going down, you burn more on transaction. And if the price going up, you don't burn, basically. So it's like but the issue with this, you need a centralized a centralized point where all the money flows to it. And then Sorry. It's a lot of power. I I wouldn't I wouldn't want to do this. Yeah. Yeah. Yeah. Exactly. So it's maybe a solution, but it's it's not like it destroys the whole system because then you need Yeah. Somebody. Yeah.
+
+[40:21] To leave. You are commenting. You know, I have a comment. I have a question. So so they honestly, I I I I don't think it's really a problem. So so this is, of course, like, a hot debate, like, for decades already in economics. Like, if if monetary policy, like, lot because, like, any long long term impact on, like, a real economy or not,
+
+[40:48] I think this is debatable. Of course, if you have, like, a, like, a extremes if you fall into extremes, then, then then yes. Like, a short term, yes. But, like, if only, like, a system is is reasonably stable, it may turn out that it works, like, reasonably well even without this regulator. So so that would be some like, because that will happen over, like, a long periods of time, and there will be, like, a price adjustments. That might be some asymmetries that will be
+
+[41:17] I don't want to turn that into, like, academic economic discussion. So my question, question is, don't you think that there is a problem with the money as a store of value in that scenario and that would make people to, like, just stick use other assets for for for as as as a store of value, which would in turn, like, a make other assets, like, a persistent
+
+[41:40] and, eventually, like, in best case scenario, Circle is used mostly as the as the, like, a means of transaction in a in a given Yep. Circle. Yeah. Yeah. No. So maybe for two comments. So the first one is again back on this question, should there be more more sophisticated monetary policy, let's put it that way. And I I I would basically again also go back to
+
+[42:06] I still I I still see the beauty of of of of Bitcoin, and, I mean, the the arguments behind Bitcoiners are saying, k. If if there is just a predictable kind of future supply, then essentially the economy will be just will will be just just around that. And I kind of, to some extent, buy that argument, but then I do think in circuits we are introducing at least one
+
+[42:32] connection in a way to the economy and that is essentially again just the number of people that are participating in it. So in that sense, it is well, they, of course, they did that the economy is more complex than number of of people in it, but okay. May maybe that just as a comment. Your second question of how is circuits used as a store of value? And I would say,
+
+[42:58] of course, circuits is not I mean, if you if well, if you remember this graph that basically showed after twenty years, bunch of circuits are almost gone, then obviously, circuits is not a long term store of value just like the dollar, I would say. So I would say the the the, yeah, the three
+
+[43:21] kind of qualities that money should have kind of that are usually discussed, medium of exchange or value unit of account. It there there there is a trade off in between those, and I would say or my goal or kind of the the thinking is that Circuits is a similar good store of value like the dollar itself or like like like dollar right now. So also with dollar, it's pretty clear if you just put a thousand dollar under your blanket and wait twenty years, then most likely those thousand dollar in twenty years will be worth a lot less.
+
+[43:56] So in circles, we do this very explicit by this demarrage. So again, my hope essentially would be that the value of a single circle would be higher in twenty years than than than today. But of course, the nominal value would be so so so it is not a long term store value, again, just just like the dollar. That still doesn't mean that
+
+[44:20] that, again, just like the dollar, of course, for for period of half a year or some months or or even just one month. Of course, people I mean, it's not like if you receive a dollar, it's not like a hot potato that you immediately kind of trying to to spend it just because you I mean, abstractly, you know it will lose value over time and in circles again, this is very explicitly done but roughly the rate
+
+[44:46] is roughly the same as what kind of empirically worked reasonably well I would say for fiat currencies in the last fifty hundred years. Sure. Yeah. Yeah. So so so yeah. I I can right. So I was
+
+[45:13] sharing this already here in this sorry. There is a channel on tokenomics. Now I was sharing here a bunch of here in in in in the the Switzerland chat. And here, this if you use this very top link with this partner or whatever, then you can
+
+[45:37] right now sign up. Maybe just showing a bunch of those tools here. There is, for example, here is this yeah. Let's let's have a look at those tools. For example, here is a kind of yeah. A simple tool that
+
+[46:04] looks at different groups and yeah. Yesterday, we just created just for the fun of it, Switzerland group. So far not too many too many people in it, but but yeah. So so here you see kind of the people who are trusted by the group are members of the group, then you see kind of their individual,
+
+[46:27] yeah, kind of token or kind of how much they have already issued circles. And if you joined just forty eight hours ago, then that's then then you will have 48 circles. All kind of technicals, so kind of each each each of those or each person has their own $11.55
+
+[46:50] token, but it can also be wrapped and to ESE 20 and then you can actually trade it. There is liquidity or you can have liquidity for pools, maybe just let's look at one of those nice graph. So here's an explorer and you can always check those
+
+[47:16] yeah. Kind of those trust graphs. Yeah. Here's Julian so far. Yeah. I mean, that's and maybe again showing here that's that's the the app looks nicer on the
+
+[47:41] on your mobile phone, but, yeah, you have your number of circles. Let's say here fifty fifty thousand 55,000. Alright. Maybe let's do it a bit smaller again. So I have a hold here in my wallet. I hold circles, but I also hold euros, dollar, and so on. I can directly spend or you have a card connected to it, so can directly spend
+
+[48:06] from this wallet. I can swap various currencies, but I can also swap circles to Euros or Euros to circle. I can right. I can I I see the total number of circles but if I actually look into it in more detail, then I see that I hold,
+
+[48:30] actually, I hold kind of individual circles from either people that I trust or from or from groups? Yeah. We can also
+
+[48:53] we I I would also offer it kind of in a smaller round for people who really want to get hands on and kind of get an account and therefore get in trust it because you need at least one person trusting you or inviting you. We can absolutely do this after this in a smaller round or in the afternoon. I'm happy to spend all all all day on,
+
+[49:16] yeah, answering questions or helping out. So I have a more of a, like, a meta problem to rise that applies just as much to Circle on any other, like, new money. And by new money, I don't mean newly created, just like money with new kind of features that people are not familiar with. So at the very beginning of your presentation, you asked us to imagine a situation that we are stranded in a remote island, and we basically have to reinvite the money.
+
+[49:47] The thing is that there are actually some natural experiments like this. Some situations like that happened, and there are multiple examples of the of them. The most famous are the second World War prison of wars camps. And the POWs did reinvent the money in multiple POW
+
+[50:09] camps all around the world. But the the thing that happened, they basically reinvented the money that they already were familiar with. You know, they changed, like, for example, dollars for cigarettes when they have, like, a burning mechanism installed in in the system and so on. But the actual money work basically exactly the same as in any other
+
+[50:32] as in other, like, well known monetary systems. So it looks like there is almost like a shelling point that people, like, naturally arrive. I I would say cigarettes were dramatically different than the dollar. I read, like, several analysis. Well, obviously, there's the Radford one who is actually a monetary economist and was a prisoner of war and described his own. Okay.
+
+[50:58] And he basically his idea is that, yeah, they reinvented the money as they existed before the war. So, basically, they were familiar with already existing system, and they arrived at it naturally. And they arrived at it naturally because there was not that meeting. They're they're okay. Let's figure out how to deal with the, like, scarcity, recreate the economy.
+
+[51:20] It it just happened naturally. So and here, you're introducing, like, super cool idea, but it's novel. It rests on, like, several new assumptions that people have to internalize. It took you, like, an hour to explain the system. People are still confused. That's one thing. And the second thing, as far as I understand it, in order to bootstrap this mechanism,
+
+[51:46] you have to basically evangelize it, like, person by person. Yeah. So, I mean, at first, I I I would but maybe that's a separate debate. I I would say, yeah, kind of dollar where where money is is issued through credit is is dramatically different from from money systems. But maybe maybe let's table that one. So just go on the second
+
+[52:11] to the second question. So, I mean, I would say you can use the euro and the dollar without understanding how it works. So for example, in in the euro, also technically, if you hold €1 or if you have €500 at, I don't know, Deutsche Bank or you have €500
+
+[52:36] at whatever, Commerzbank or I only know German banks. They are different. They are different. And usually, you don't realize So usually, kind of, they just work the same. But in 2008, when you had euros at at a Greek at a Greek bank, well, they were very different because you couldn't access them and suddenly there was discussions about haircut and then suddenly this euro is maybe only worth $80.80 cents.
+
+[53:06] So very similar in circles. You have all those different circles, and ideally, you don't even notice. So kind of ideally, there is not it it it doesn't feel that different. So kind of if if I go back to to Metri where I have dollars and euros and and and circles, I ideally, the circles will not behave
+
+[53:30] that different or not different at all or very little different from from the euros. I can exchange them for euros. I can top up my notes pay card with it, and I can buy a coffee here. And that's it. And I don't really need to I don't really need to understand the various underlying
+
+[53:54] mechanisms. The next point of onboarding people one by one, sure, but there is an incentive. You get free money. So it's a good it's a in way, it's relatively easy. And, yeah, we we see it with with projects like WorldCoin that successfully used their
+
+[54:19] token to distribute the thing to millions of people. Of course. Of course. There is the question of can circles have or will it have long term value and where does this value come from? And and and and, of course, it's by no means saying it will be easy, but yeah. Yeah. About what you just said, do you have, like, any idea
+
+[54:43] or, like, have you run the math of how many people would you need in your network to look at your circles and not actually like, for your circles to be be used as just one token, like, without seeing any without having to think about all the transitive path that you would have to take?
+
+[55:05] Yeah. Yeah. I I can't so so groups will play a significant role here because as soon as you are a member of a group and and groups then easily well, can be small local groups like with hundred, two hundred people, but of course, the group can also be
+
+[55:32] can also be just okay, someone does does this ZK passport thing. So the group basically says you have a valid passport from a specific country and then kind of all people in this country can can form a group. So I would say yeah. Ultimately, I don't fully know kind of or I I I think there will be a question of
+
+[55:55] to what extent okay. It is very possible that there is a small group that says, okay, we are valuing our circuits relatively high and we and we are using them. And then that and then and then in a way this group will be
+
+[56:20] will not have liquid or kind of people outside of this group will not have liquidity inside of this group. If they decide to say, okay, within our group, we also expect everyone who is that that they that they are not only issuing, but they actually kind of accepting circuits for for stuff they do and so on, and and kind of treat circuits within their group almost as, yeah, we we treat dollar and euros that people accept the salaries in in it and so on. Then probably circles in that group or that community would have
+
+[56:51] and I did some some kind of mass. I can show you of what a single circle could be worse compared to two different fiat currencies. So let me just show you the logic about that. So kind of this is the the best case scenario
+
+[57:19] where where circuits fully in a way replaces dollars or euros within a specific society. Of course, we should start much, much, much, much lower, but just just to get a get a sense of it, here is what we here see is,
+
+[57:44] for example, for the dollar, there are 334,000,000 US citizens and and this currency per person, this is also should be a dollar there. So there are 21, what is it, trillions. So this is in million is it trillion what whatever. Large numbers, that that's still amount of dollars out there. But if you divide this,
+
+[58:09] if you calculate how much dollars are there per US citizen, it's it's $63,000. And for euro, it's €43,000 per person in the Euro Zone are out there. For Swiss francs, it's almost a 100,000 Swiss francs are out there per
+
+[58:32] Swiss national. Now, that that's kind of in a way what empirically is is needed in in an economy. And of course, that's also is is surprisingly different. So if you put that in relation to GDP, so you can say, okay, what's how much money is there per person and what is the GDP per person, then you see that in various economies or in various regions, this ratio is quite different. So in Euro, it's roughly one.
+
+[59:03] So so the GDP per person in the Eurozone compared to the money per person in the Eurozone is roughly one. In China, it's over two. So kind of that that seems, Julian, to your point that in China, people are using money to a larger degree as a store of value. So more value is stored in money compared to other stuff like and this certainly has also something to do with capital controls and kind of
+
+[59:32] but anyhow, so now if we if we project that on circles and say, apparently in the Eurozone, let's say, we need or kind of the value of of the money that is around is €43,000 per person and we know long term there will be 120,000 circles per person,
+
+[59:54] then if if an economy likes the Euro Zone would would run on circles in a way, then the value of a single circle would be here for comparison, I converted it all in dollars, would be and I think this was at a time where euro and dollar were roughly the same. Anyhow, so just as this order of magnitude,
+
+[01:00:19] 38¢ would be a single circle. So also kind of just to give you an idea of what what this demurrage sorry, this this money issuance is worse. So if we take those dollar sorry, 0.38 that 38¢
+
+[01:00:42] that are issued per hour if we take that times 24 per day times 365. So essentially, it would mean in a well, in a society where the full value of money creation would equally be distributed to all people and in a society like Europe, the amount of money that every person would get every year would be
+
+[01:01:11] $3,300. Now we will certainly start much lower, so I mean, ultimately the market will decide, I I don't decide what the price of circuits will be. I expect it in the $1.02, 3, whatever cent range, but but time will tell.
+
+[01:01:34] Okay. So just thank you. But just one quick question about the beginning of your presentation with the example of ABC where A and C don't trust each other. So the Pathfinder is going through B and I'm wondering like if A was a malicious actor and, you know, convinced b to trust them, what's the worst they could do basically? Right. Right. So the worst or so the good first, the good thing is c is not affected by it because c will just accept b money. So whether
+
+[01:02:07] a is a malicious actor or not doesn't affect c the person that is receiving the payment. It does affect b because now b holds a tokens and if a is a malicious actor, say someone who you will see this, if you go to some telegram channels about circles, it would be just random telegram accounts and say, please trust my account. And if you trust them, then you will soon end up in a situation where you hold a lot of circles of those
+
+[01:02:35] of that account and no one else wants to hold their circles. So essentially, you will be not able to spend them. So to be a point, the worst that can happen is that that you give up your valuable circles that you would either be able to trade for other currency or for goods and services that you give them up because you trusted them and you get now their circles and their circles are not valuable because no one accepts them and you can't do anything with them.
+
+[01:03:11] Do you about, like, the governance of circles, like internal governance in terms of, let's say, deciding who can get accepted into a circle. Are you thinking about this something that is, like, determined by the like, within the protocol? So for instance, like, the group can select some criteria or is it something that you just think will happen externally?
+
+[01:03:34] So so that is to me a core thing that circuits has no governance whatsoever. Or, I mean, let's let's make it very precise. So so to be invite or or in in Circuit version one, anyone whatsoever could just create an account and kind of all additional rules like you need trust from someone with just things that were enforced on the interface level but not on a protocol level. On a protocol level, it was completely open.
+
+[01:04:02] In the new contracts, the the rule is and and they are kind of from the Circuits one launch, there are right now a 120,000 Circuits profiles out there. We can look this up in this explorer, a 132,000. So in the in the new contract,
+
+[01:04:25] again, there's no owner, there's no governance in this contract. This new contract, it basically says to create a new circuits account, you need to have an invite or trust from at least one out of those hundred thirty two two thousand people. So essentially, the the only rule that that circuit forces on a on a on a protocol level is you need one invite from one existing
+
+[01:04:51] node person on the network. Now when it comes to groups, they can of course, anyone can create a new group. Chose this to you. I can go here to app about circles, select the save, I can create a new group. I can give it a name. I can give it a symbol.
+
+[01:05:16] And and the owner of the group is a contract which of course can then be a DAO, can be a simple multistick safe, whatever. So so the group can define its own governance. Let's let's have a look at technicals. So towards here, there are actually a few more group checker.
+
+[01:05:40] Yeah. One one interesting so group has a bunch of addresses. So this is the yeah. Whatever. The the main group address, this is the quote unquote owner. Again, can be a DOW, can be a can be a contract with governance logic. There is groups do or will by default collect a fee. So,
+
+[01:06:05] yeah, I I skipped over this part, but but we do think it is useful to, yeah, give groups more power essentially. And therefore, we have introduced a kind of concept that I can also show this to you. If I right now go to circles
+
+[01:06:29] sorry. So I have not created circles since, yeah, twenty four hours. So I can right now create 24 new circles and I don't need to do I can do this always for the last two weeks or I if I want to, whatever. But essentially, by default, I am
+
+[01:06:53] paying roughly 10% of the of the circles I issue to the group that I associate myself with. And so starting a group and having people associate with your group and ideally kind of making sure that this group currency is is demanded.
+
+[01:07:19] Yeah. We we think that it is useful to back to the text question to to pay some text to the group and and again, whether that's a single person controlling the group or some democratic process or a DAO or whatever is is is completely open. Okay. Thank you. Just one more question. It's a short one, I guess. The wallet you showed earlier,
+
+[01:07:42] it indicated that some of the circles are not tradable. What does it mean? Right. Right. So yes. So each again, each circle is is different. And And whether a circle is tradable or not depends on is someone willing to buy it right now.
+
+[01:08:05] And one thing we are doing is that we will give both individuals and also group also groups the opportunity to say, okay, I am backing my circles and I, for example, did this. So this means this is check mark that I that I have here and that also others
+
+[01:08:31] have. This check mark means this person has backed their own personal circles with a liquidity pool. And I can also show it. And and in this case, it's actually just a $100. So so you can see here about circles. I can click here on this
+
+[01:08:57] profile checker. And here I can see for each for each person, for example, whether their token, whether their individual circles have a price, and whether they have liquidity. And for example, here most have not, but this person, Bernardo, their personal circles have a price and this price comes from
+
+[01:09:21] from this balancer pool. So here is a small again, this is this is still testing. Again, we are releasing all of this only in in in two weeks. But but essentially, here's a tiny pool of liquidity, in this case, wrapped ESA against their very own personal circles and therefore those circles have a price.
+
+[01:09:44] Now for a circle to finally go come back to your question, what of my circles are tradable? Then if the the circle I hold directly has immediately a price because there's a pool, yes, and it's tradable. But it's also enough if let's say let's say Bernardo is the guy who backed up this liquidity is trusting is trusting you.
+
+[01:10:10] You are not backing your liquidity, but essentially, I hold now your circles and I want to sell them. Then essentially, the path finder will find Bernardo is accepting your circle, I can exchange your circles to Bernardo circles. And Bernardo circles are now tradable on this market, so essentially your circles are are there, therefore, tradable.
+
+[01:10:35] If, however, there is a person in the system that's trusted by no one who is providing liquidity, then their person then those circuits are are are not tradable. Yeah. So maybe that's related, but with the Pathfinder, as I understand it, once you trust me, there's no limit to how much can flow from me to you, or is there?
+
+[01:11:04] There is a limit in the sense of how many of your circles exist. So as if you join today and then after two days, there will only be 100 or whatever. I mean, 24 times the days you're around. And then essentially, as soon as all the circles are flown to me, then essentially this trust connection is no longer providing liquidity
+
+[01:11:27] or or then also kind of while there is a liquidity, it means that people that you trust in a way also have liquidity through you to me. But once your circuits are all kind of drained in a way, then in a way this this trust connection still exist and when you issue new ones, they can still flow. But but in that sense, trust is limited by how much circuits exist.
+
+[01:11:53] But then in a way, that means if I run if I if I'm malicious or if I have a yeah. If I should not should not be trusted and then somehow we meet, you end up trusting me, that means I can instantly launder out of the circles I meet that so far irreversibly through you? Yes.
+
+[01:12:17] Yes. Yes. Okay. And people can abuse that link to in my network? Yeah. Okay. It's interesting. Yeah. I mean, you can also untrust people and then basically then stop this link, but but, of course, you cannot get your circuits back that might already be with someone else.
+
+[01:12:44] Can we go back to my question about how did we decide on the issuance rate, like one circle per hour and the burn rate that is 7%? You mentioned something about, yeah, What why was the burn rate decided as 7%? Yeah. I mean I mean, I would say whether it's one per hour or 100 per hour or what whatever,
+
+[01:13:08] kind of ultimately doesn't matter because because whether in in a way, if you just add or if you'd say kind of all balances we increase by 10, then you're not really changing anything in in in in the money system. So the absolute the absolute number doesn't really matter. Of course, there is a totally fair question, should we just do the issuance over time?
+
+[01:13:35] Yes or no? And of course, that's very debatable and kind of you can say no. It should be tied to whatever economic activity or it should be tied to something. So I I can't give the the the perfect answer to to that one, but I would say if you decide issuance over time is useful thing, then it doesn't really matter whether it's one per hour or 10 per hour or half per hour. The parameter that matters a lot is the 7%.
+
+[01:14:01] And and so that matters a lot, whether that's 2% or 7% or a 100%. And in a way, it is it is this trade off between how good of a store value circuits is. So kind of the higher that that that rate is, so let's say the demurrage would be 100% or kind of can you have 100%? No. You can so let's say,
+
+[01:14:26] yeah, 50% per year or so or or 80% per year, then, yeah, it would really, really not be a good store value. And then essentially, you could definitely, after two years, with with 9090% demurrage, then after two years, all money would already be be gone. So so you might argue, okay, we should make it to we might
+
+[01:14:51] want to make this value as low as possible. And you can go all the way to zero, and then you essentially end up with a system like Bitcoin in the long run. Because then, basically, you will have and it it's it's it's kind of it's kind of thinking about it as how much do you value in a money system. So, again, I I see money money systems as a social contract. How much do you value the past versus,
+
+[01:15:20] yeah, in a way the future? So for how long or kind of one way to think about money is to say, okay. If I earn money, then I did something in the past for essentially society, and that gives me a claim in the future. And now the question is, how long should we look back? So kind of just as a thought experiment, let's say,
+
+[01:15:44] I don't know, the English king pound is is around for a couple of hundred years, I I believe. So let's just as a thought experiment, say two hundred years ago, some English king at the time had the right to kind of quote unquote create pounds, mint pounds, created the coin, and the coin says, this money is worth £2,000,000,000,000.
+
+[01:16:07] Kind of just technically, they could have done it. And and now someone finds it in in the what whatever. Somehow someone finds it there and says, oh, wow. I have this this this coin. This is £22,000,000,000,000. Would we accept it? We would say, yeah. Stupid. Kind of two hundred years ago, this is this is and kind of in a in a in a similar thought experiment, let's say, we are kind of hyper Bitcoin
+
+[01:16:31] thing. And then in two hundred years, the whole world runs on Bitcoin, and then suddenly Satoshi wakes up and finds 10% of all the existing Bitcoins or kind of his his how Finney is put into this brain. I I think his brain is frozen, he has remembered to see whatever whatever. So suddenly, kind of a single guy claims or has then 10 of the global world money supply.
+
+[01:16:59] Would we as society accept that claim or would we say, nah. So I I would say it is useful for for a money system to have a kind of this function to forget or in a way to burn old old money. And actually, frankly, that is what we have in in the dollar and in the euro.
+
+[01:17:22] There we just make it through inflation. So kind of through inflation, essentially, money that earned fifty years ago is almost irrelevant. Right? If if you just kept it in the form of money because it's kind of inflated away. It's it's worth the the the $5 you earned hard for many hours of work fifty years ago are worth today almost nothing. In circles, we just make this very explicit, not through inflation, but through this demurrage. But ultimately,
+
+[01:17:48] I would say the mechanism is very similar. Okay. I have a few more questions, but I'll talk about this later. Sure. Hi, Martin. Also have a question. In terms of users and adoption beyond crypto, like outside crypto, what do you think where are the communities that really had have like already have similar solutions or have been building technology
+
+[01:18:15] or non technology that is similar to Circles, but could really benefit from this work? Where could this add value across the globe outside our bubble? Yeah. I try to be always extremely cautious with those things because because
+
+[01:18:38] I am well, I know a tiny part of the world, and and I always have some doubts about people that say, oh, yeah. That should be work in Africa and that that and and and so on, and they have essentially no idea about. So we did very practically, did we or the the
+
+[01:19:01] we had a local team in Bali that was running or that that that essentially invited people to to to use circles and and was there specifically branded as a as a temporary thing. So kind of decisions, okay, we are trying this for a couple of months.
+
+[01:19:26] That went well, it's well, I I think it's hard to hard to judge ultimately, but but I think it went well in the sense that that many ideas resonated, that people I I I I visited there shortly and kind of had a bunch of conversations. I I I felt like
+
+[01:19:55] people had an intuitive understanding of of of of some of the concepts and it fitted well with their generic culture. I would say but again, trying to be super careful with about those assessments. So ultimately, would say time time will tell. But,
+
+[01:20:19] yeah, it's certainly it's certainly there are certain two ends of the spectrum, so I think there are communities that are very well, I guess, aware about being a community and and maybe very deliberately wanting to say, okay, we want to reach also some level of independence and or some level of we don't want to use US dollars that are
+
+[01:20:42] or that that deliberately say that are really kind of that that, yeah, whatever, passionate or or or deliberate about independence or or resilience that they want to use their own money. That's certainly a small a small group globally. Of course, there is still the the very yeah. I guess,
+
+[01:21:07] very simple thing of, okay. There's the app. I get free tokens. Okay. I do it. And and I think that will be the majority of of users, and I think that's also fine. I also don't think that you need to be yeah. You need to be ideology aligned to be Circle's user.
+
+[01:21:31] I would say the again, the the protocol is very slim. So kind of if you just look at again, I shared those three rules, that's that's essentially all there is. But I would still say that those three rules, in my view, could bring important values into the world. So it has this element of radical openness, radical decentralization,
+
+[01:21:53] and yes, it has to some extent is you can call it redistribution or or fairness aspect, but essentially trying to to make everyone equally benefit from yeah. So one way I I I see it is that if a society coordinates on using something as money, that act alone
+
+[01:22:17] already creates value. And currently, that act is not or the value creation of that act is not, in my view, equally distributed to those who are kind of participating in the social contract that is money and circles tries to to do that. Sorry. Sorry to stay so abstract. No no super good answer, I guess. No. Makes sense. Happy to discuss more async, But yeah, I really appreciate that not not to impose it on anyone and absolutely agree.
+
+[01:22:45] But still, I believe there are powerful entities who do impose things on others, pretend that it is what they the others want. Maybe if this could be a white level product that could be sort of convincing to others or I would imagine it's hard for societies who are not technical to fully understand that this is in their own interest and you are not, you know, tricking them. So so we had we had luckily or we have already
+
+[01:23:12] well, we we used to come a little bit out of the out of the UBI community. I deliberately I'm trying to be careful with that because if you if you looked at the numbers and even the best case scenario where where where circuits is fully adopted as money, even then that seven that that that
+
+[01:23:35] value will not be enough to finance a full UBI. So in a way to have a full UBI, you will certainly need other taxes like whatever transaction tax or I mean, kind of whatever taxes they are. So in a way, it can be a basis for UBI, but still we were therefore in touch with the broader UBI community and and kind of there is a network of mayors for UBI.
+
+[01:23:59] And, of course, it and we have all those things. And I think finally finally after ten over ten years of trying to develop stuff, I think now the technology is is finally reaching the point where where those things can be. So if you have a mayor and they are up for it and they say, okay. Our local we have we have certain assets that we as a as a as a town, as a whatever public transport
+
+[01:24:26] that we offer anyhow, and they are currently underutilized. So kind of if if public transport kind of most seats are empty, then it's relatively low cost for them to say, you can you can use this underutilized resource for circles. And then, of course, that could be a great a great way to to help bootstrap
+
+[01:24:51] circles in in yeah. Just like, if we imagine that, for example, in a in a pop up village or something like that, most people are not on circle. Like, people coming to the the village are not gonna be on circle, And some people are making food in, like, communication. They're they wanna sell it for 10 USD or, you know, 10 circles.
+
+[01:25:17] And, you know, let's say that everyone is interested in joining circles. Like, isn't like the the limited issuance too limited to actually let everyone new enter the the system? Or like may I guess my question more generally is what happens if the issuance is growing the Yeah. Actual economical activity?
+
+[01:25:41] Yeah. Yeah. No. That that that is a fair point, and it's true. If if you would, from one day to another, decide to say, okay, we all now want to fully use circuits, it wouldn't really work. Or it would at least wouldn't work in that because, yeah, by design,
+
+[01:26:04] money is only issued over over time. I think I think if that really would become a problem, then, of course, you can you can but, of course, you can design design systems on top that say, okay. We we
+
+[01:26:26] want to over twenty years or something, then this whole system become goes into a stable equilibrium where this supply of of of a 120. So we have this this this cold start problem. And, yes, if that really would become a problem, then I think it would be reasonable to say, okay. We somehow write a contract that group that can issue additional circuits outside of the regular rule and those will kind of disappear over time and then kind of over time
+
+[01:26:58] yeah. Wouldn't a simple fix to that would be to create in a in a group money, like a group liquidity pool, like a group money to whatever, USDC. Sure. Then and then, like, the the the group might find, like, the, like, a price equilibrium that is higher
+
+[01:27:23] than, rest of the world. And then, you know, that then that those are just numbers so that they could use it. And and also, like, incoming persons could, like, buy those Yeah. No. Tokens out of this Yeah. I mean okay. I mean okay. So so, again, all of us decide today we want to kinda fully live on circuits and all of us kind of and then then there will be still kind of after two days, there will only be well, how many are here?
+
+[01:27:51] Whatever. Small number of circuits. Now if we would say, okay, that small number of circuits needs to contain the full value that we need, then the price of those circuits would be very high. And that is a problem because that high price will not be sustainable because the issuance will go on and kind of after two days, kind of the issuance doubled, and after four days, doubled again, and after eight days, doubled again, and we will not be able so so essentially,
+
+[01:28:21] I yeah. There is there is simply this this cold start problem that in the beginning, the ratio of new issuance compared to already existing money is rather high, and that will only stabilize. So if you but but but I think that's fine because I do think it will take some time until we
+
+[01:28:45] converge to a circuits economy. Yeah. But we we can basically, we can bring money before. So we just make new money and we know the issues in the future. Yeah. So we we we basically we give a credit, basically. Exactly.
+
+[01:29:14] So so, yes, we we can or yeah. If if such a group exists, then can definitely find solutions to say, okay, we are converting our existing money into or or packing it to to suck its debt or something like that. Whatever. I I I think that is the solve of the problem. Let's first find communities that really actually wants to
+
+[01:29:38] wants to try suck it. I think in terms of adoption, there's, like, this question I have. I'm not sure if it's, like, very relevant, but there's two different type of communities here. There's one where you have very repeated, like, trust games among people that live together closely, their neighbors, they trade like goods, so on. So that's a repeated day by day game. And then there's this context where, for example, I invited him to circles, and now we're looking at each other a little bit adversarial.
+
+[01:30:07] You know? Can we trust each other on the long road? You know? So, like, in terms of adoption, like, what kind of setting would be best and, like, if if one is sustained more sustainable and one is less so? Right. I mean, frankly, my hope would be right. There are two different versions of circles possible. So one is where it's really treated as
+
+[01:30:31] as IOUs. So kind of each circle is really specific claim against him. And and then, of course, yeah, it it really depends on what he's willing to do or not. That that is that is the one end of the spectrum. And I think also in money or yeah. You you can have a situation where
+
+[01:30:56] where money or or you can also kind of have various mechanisms where an IOU turns into something much more fungible that just feels like money. So kind of if we just look at our our existing euro dollar system, then it actually also starts with I go to the bank, I get a loan for for a house I want to buy, and in that moment money is issued. And that money is is
+
+[01:31:27] or that loan is extremely dependent on the value of my house or or my ability to pay back this loan. So that's actually how most of money in the fiat system originates. But as soon as I spend then this money, then we have all kind of mechanisms in in I don't even know the English words or kind
+
+[01:31:51] of insurances between banks and whatever. But essentially, as soon as I spend this money, then the person that received my money doesn't really need to worry about my specific loan because there are all kind of agreements between entities that make sure that even if my loan fails, that money that originated there is good. And so so essentially, there's a spectrum from an IOU to that that is not fungible to something that is actually fungible. And my goal for circuits would be that we end up more here in this space. So my goal would be that it's relatively easy for him to join a specific group and and and therefore,
+
+[01:32:30] there are kind of all those mechanisms that you can can, without issue, accept, his circuits and whatever. It will just be fine, regardless of what he very specifically does. For the resilience of the ecosystem, you would need kind of both types of communities ideally? I
+
+[01:32:53] I I would say I would say I would say my goal would be that it is that that we can reach this point where it's just so widely accepted and there are all the kind of mechanisms that that to me would be the goal. Of course, that's more more difficult. So if there are resilient communities
+
+[01:33:15] that say, I don't know. I don't trust that. I rather kind of keep it here in my closed closed groups, then this is absolutely possible, and I think that's also useful to have. So I do think it is useful to have some communities that are very deliberate about it and kind of not just trust anyone who seems to have a face and seems to be around, but but rather say, okay. This is this a is serious thing we are doing here, or or we we are somewhat serious about or we are serious about
+
+[01:33:45] challenging the dollar, and that's that is a big thing. I I shared a link with you in a in a DM about, an article I wrote a few years ago, but it was, yeah, looking at individuals
+
+[01:34:07] issue. More focused on my experience with DAOs, especially on a volunteer side that, there wasn't that much accountability for taking up people's, opportunity cost and so their their time. So this one is the idea is that you people have a certain number of tokens for their whole lifetime. And then so if a DAO has a lot of those tokens and it hasn't produced very much, then it's
+
+[01:34:33] a a drag on society. It's taking all this life force and not, you know, making anything out of it. But then say somebody does become accomplished and say a name in the space, and then those tokens could become something of value. So it also encourages investing in in in in in yeah. In in that there's there's two sides. You can either have a side that it somebody their tokens aren't ever worth very much, and but there's a lot of those tokens in the Dow, and so that's an unfortunate use of LifeForce or or the other one where the Dow also gets a big chunk of the upside if that person ends up being the next,
+
+[01:35:07] I don't know Yeah. Jimenez or something. Yeah. So so I think, again, also here, I would say there are very different versions of of circles imaginable and one is and frankly, that's not the one I I I want. One would be kind of that each that each circle of a of a single person is kind of like a personal share. So kind of that that that the circles of, I don't know, some Cristiano Ronaldo are like
+
+[01:35:40] 10,000 times more worth than the circles of of everyone else. That that would be in theory possible, but not not the thing I'm trying to build. So I'm trying to build or we are trying to build in circles is it also kind of also this this this whole concept of I mean, we we can make super concrete. So we can make it super concrete and look at this graph here
+
+[01:36:09] or look look at at those numbers. So you would see each of those circles have or or some of those circles have a price. And now let's go to let's go to my circles. Let's see. And actually
+
+[01:36:32] actually, it's not it's it's already not exactly showing what I wanted to show you. So what I wanted to show you is that they all have the same price, and and that's currently not the case, but but I I I want to make the argument why they will have the same price or very similar prices. So this is this is my circle. I can go here to Cowswap
+
+[01:36:56] and literally buy my circles. And I think right now they I believe they have a price of of 3¢. And liquidity is not great. So even a tiny tiny trade of of $10.10 dollar, 10 xDai already increases the price by
+
+[01:37:19] 40%. So let's do this for the fun. Where can I do xDai? I should have no. Okay. Let me I need to switch my MetaMask one. Okay. So $10.
+
+[01:37:45] Let's do this. So I accept the warning that this trade will move the price significant significantly. Confirm. So before this trade, the price of my circles was around at 3 at 3¢
+
+[01:38:08] and most people's circles are at at 3¢. Now, I just did the trade and again, it's not really that that's not really how it would how how it should work in practice, but I just did it to demonstrate. And I moved up my price probably now to 4¢, which is for money, of course, a dramatic movement. So you don't want usually your money to be valued 50% more or less kind of with
+
+[01:38:34] so what do you expect to happen now? Anyone has an idea? Arbitrage. Exactly. Exactly. Because I trust all people, I trust roughly a 100 people and therefore I trust or kind of my Circles account even with me with with me being involved. I hold a bunch of my Circles.
+
+[01:38:59] And and what I expect now is that an arbitrage button would will we we open sourced some. And again, usually you should be smarter about trading circles and you should trade group circles. So usually you shouldn't even do this straight, but but whatever. Just to demonstrate. So yes, there will be arbitrage that essentially now
+
+[01:39:23] the arbitrage bot will buy circles from people that I trust for 3¢, then uses passfinder or transitive transfer to kind of send those circles to my account, get my circles, and sell and sell my circles then for for for 4¢. What will be will be the result of this arbitrage? My price will go down again, and everyone else's or I mean, not exactly, of course, this $10 won't won't be enough to kind of affect the whole network, but at least a tiny bit kind of those
+
+[01:39:56] those accounts I'm connected with, they will all increase by half a whatever. I mean, again, it's all still test mounts, but but but a little bit kind of everyone who's connected to me will be in a way lifted up and I will be brought down until it's again in equilibrium. Now, of course, there are limits to this. So kind of
+
+[01:40:21] so ultimately, there are only, I I believe, 20,000 Martin circles. And, of course, if I really kind of buy them all up, then, yeah, I guess I could move this price and then kind of at some point, this this effect that this spreads out will stop. Although even then it continues because
+
+[01:40:44] because then still as continuously new margin coins are issued, the question is how do you get those margin coins? Well, by holding someone, some circles of of of people I trust. So kind of in that theory, then you would start up the arbitrage, but would start up buying all all all those up and then in a way,
+
+[01:41:07] I think and then it's, of course, much better to think about this in terms of groups. So a group with a 100 member and somehow this this this this group circuits are in demand, then essentially that will be brought brought up, kind of all the circuits will kind of flow into this group, and it will affect not only this group, but it will affect kind of, let's say, again, it's all the people in the room are a group, then it will also kind of
+
+[01:41:33] affect outwards of the group. So each of us has probably connections within the group, but also some connections outside of the group, and then essentially everyone who's connected to the group will also kind of their circuits will also kind of flow into the to the accounts of the people that are members of the group, and and their circuits will go into the group. And, yeah, one one mechanism we had that was different, I'll I'll pass it over, is that we we didn't have pools and we had transferability
+
+[01:42:01] toggle. So I I assume you don't have a, like, toggle off transferability. Say again? Like, if majority says, oh, we're gonna have this be non transferable token. Yeah. No. Yeah. Yeah. No. So so circuits yeah. No. That sense circuits are much more like, well, traditional money. So kind of let's say around so so yeah. So the the issuance is is is in or is in limited control of of of a single person, but once you issued your circles and someone else holds them, then you have no
+
+[01:42:33] right over the you had initially the right to issue them, but then it's kind of up to the people who hold it. I mean, just like money, you you can you can preset or you cannot stop that or yeah. You can what yeah. Sure. So so yes. So in a way, if somehow yeah. If somehow I do something yeah. The the worst I can do or let's say you hold my tokens,
+
+[01:43:03] then in principle, I can do nothing that affects you. The only thing I could do is become malicious and create 10 more accounts and say, this is my actual Martin account, and then people would question, should I actually trust this account or should I address that account and then maybe untrust this account and that would certainly affect you. So and yes. Yes. So And just to understand the swap that you just did, what is your
+
+[01:43:30] like, what did you pair your token with on Balancer? Stuff. I don't know. Ether, Gino, Astai, kind of so, you know, more concretely, so in the in the in the the app, when we release again two weeks,
+
+[01:43:54] there will be roughly the flow. K. You need to get invited. You need to have one trust. Next step is you need to get two more trusts, and then then you can start to invite others. And then there will be an option to back your own circles, and the interface will say to you, you might want to use a $100 or that that that is or I mean, this is technically, you can do whatever you want, but kind of that's what the interface will suggest to you, use a 100 USDC.
+
+[01:44:22] But then it will not pair it against USDC, but it will allow you to choose one reserve asset. And I think the the the assets that are you could choose are Ether, Bitcoin, Esteris, so interest earning dollars, and I believe yeah. I think do you know what we also have? Yeah. I just wanted to know because I'm wondering, like, what would happen in the opposite direction.
+
+[01:44:46] Like, for example, let's say we trust each other and I I I'm sending you all of my tokens to get yours, and then I just dump it for ETH. And then at this point, you know, the the price would be will go lower. And so Exactly. What like, is it at at that moment, does the, like, arbitragers find people you trust and Yeah. Yeah. No. No. Exactly. Exactly. Exactly. So let's go through it. So
+
+[01:45:14] I trust you. You let's say you are even longer in the system, you already have a couple of thousand circles. You decide to specifically I mean, again, you should do this because that then you get a bad price, but let's just say you do it. You exchange your circuits against mine and then you use all my circuits to dump my price from 3¢ to 0.5 a cent, whatever. Again,
+
+[01:45:39] then it goes in the other way around. Arbitrage put would see, oh, wait. I can buy margin for 0.5 a cent. All those five people trust margin, so I can essentially exchange margin circles for maybe Julian circles or Paul circles, and they still trade at 3¢. So basically, I can do the arbitrage in the other direction, so it will lead to a situation
+
+[01:46:03] where my price would slowly go back to well, maybe not 3¢, but 2.9¢ and kind of the my my network is also dragged a little bit down because because yeah. Because obviously it's it's selling. So we we call the whole the whole thing I mean, way to look at it is separate banks, they usually have reserves and they are usually also not used or or well, I mean, kind of at least not most and and in circuits,
+
+[01:46:32] the whole thing of backing your circuits, we we call it the decentralized circuits reserve because there's not one entity kind of doing the reserve. It's really kind of spread out, and it's in even individual choices of what do you want to use as a reserve asset. Are you kind of a Bitcoin maxi and say, yeah, that should be the reserve asset and kind of circuits is then the more transactional money, or are you, I don't know, kind of have you some tokens in whatever project, so you can use whatever you want.
+
+[01:46:59] And but in a way of of of yeah. Ideally, that's our goal. We have thousands of those small pools. We'll in aggregate stabilize system and ideally kind of people will use different collateral. And in addition to those personal backing, you will also have groups. So, yeah, just for fun today in the morning, we also put $100
+
+[01:47:24] behind this Switzerland group and and again, different collateral. And so so in a way, you have this yeah. In my view, or to me that's a goal, there's this extremely resilient system out of many connected actors and the trust connections kind of essentially lead to a stabilization of along within specific limits, within specific
+
+[01:47:48] you are not necessarily or if if you back your circles, you are in a way indirectly also backing everyone you trust and vice versa. I have one question. If you think so the end game basically, so what's the goal? So you mentioned you this gets like the dominant money. And, would it work?
+
+[01:48:12] I I normal normally, there's monetary there's, like, nation state who's, like, basically managing the money supply and the things. And so what's the what's your vision on this? So I mean, one one simple catchy phrase is eradicate absolute poverty from the planet. That's one. I mean, kind of, if everyone has, their sockets income, then I hope that it's enough that no one will have to starve.
+
+[01:48:39] Yeah. But the issue is much more, is it stable or is it deflationary or inflationary or you you just you in a way, you took like the US dollar as a baseline and you said that's the way it should be, but is that the fact or can it be changed or who who's who's able to change that? I mean, year in decisions of circles is the rules I laid out. What the value will be,
+
+[01:49:05] time will tell. I'm at least getting my concentration level is getting down, so let's do maybe a last, then let's close it. Thank you all for sticking so long with me. And Sorry. Yeah. Last question from So
+
+[01:49:30] in my current understanding, I see circles as more of like social tokens or community tokens. If I'm wrong, what are the differentiating features? Say say again. You you say circles are more So I think right now, in my current understanding, that circles are social tokens. Mhmm. And I think this this thing in crypto, we came up with social tokens previously where celebrities and all these people started using it. If I'm wrong,
+
+[01:50:00] or are there any differentiating features? Yeah. So so, again, I I I would say there is yeah. At its core, circuits is really just those three rules, and ultimately what people make out of it, I don't know. So so, yes, it is possible that it will be used as a social token. But then at least this this this this trust connections
+
+[01:50:23] don't really make that much sense because then you couldn't really trust or or at least the trust connections are a strong, very strong force that within a network where people trust each other, all circuits are valued equally because of the arbitrage stuff we just discussed. So again, I don't really see circuits as a social token. I see it more as or if
+
+[01:50:47] I I rather see or one way to look at circuits is to say it is it is mutual credit, a mutual credit system. So one way to look at it is to say, okay, we trust each other and I issue my tokens, you issue your tokens, but at this moment nothing really had happened because one way to look at money is debt
+
+[01:51:10] and if if I have debt against myself, so margin tokens would be debt that I own someone and if I hold my own tokens or I hold my own debt, that's kind of meaningless. So let's say we have both issued a thousand tokens, both of us, then one way to look at circuits is what to say our balance is is actually zero because we issued
+
+[01:51:33] and only if I send Julian a 100 circles, then really kind of then only then kind of money is in a way created because now I'm in a way at minus 100 and he is at at at plus 100. So at that moment, he in a way gave me some stuff, accepted my credit. In that process, we in a way issued money. So we kind of the process of deciding whom to give credit or that that is how money is created.
+
+[01:52:04] And that is and that that's one way to look at circuits to say the the in a way, the the number you have of circuits you have issued, that that is not get really money. That that is only your ability or or or or that is a that's kind of a credit line. That is the maximum credit that other people accept from you.
+
+[01:52:27] Now, again, they then if we look at it at this level, then it would purely be IOU and kind of but now if if others also start to accept my my my so if it's just a thing between me and you, then it's an IOU. But as soon as you also start to accept my credit and you can pay him with my credit,
+
+[01:52:51] and then you have even a group and kind of you have those layers on top, then it kind of transforms from individual IOUs to an overall money system. So again, to me, so it is not really social tokens. It's more yeah. A system that in a way can emerge from mutual credit to a
+
+[01:53:18] general money system. Partially. Partially. So it is backed by, hopefully, anything. So it is backed so what are my circuits worse? So they are worse what I specifically I do, but that alone would would not make it money because then but it's
+
+[01:53:45] a pool, it's my trust connections, it's pools of the trust connections. It's the groups. It's the pools of the groups and so on and so on. So yeah. I just wanted to say, so I'm also on the cycles team and a little break. I'm gonna be here, and I'm happy to get anybody who's interested on creating a Metri account to give it to you and also to get you onto the new Switzerland group,
+
+[01:54:08] which means that you can then create circles and dump them on the market against real money. No kidding. But anyway, I'm gonna be around. And also there's a white paper. Maybe, you seem to be the right person to to read the 50 page white paper where we go into some of the economic modeling and stuff behind this. Cool. Yeah. I mean, maybe I can sue maybe just as the last thing,
+
+[01:54:37] can share share all those different things that I I shared here. Can I so number one, yes, that's the app where you can circumvent the waitlist and already get the Circuits account right now? This is our old wallet from four years ago. If you still have an old Circuits account, you should absolutely migrate.
+
+[01:55:00] About Circuits is the website will be updated soon. Here is a link to the white paper. Here is a tool to manage and create groups. This is just a Circuits Explorer. This is a a tool to visualize pass as a so so you can define a source someone who's sending money and someone who's receiving money and then it will show you this
+
+[01:55:23] how how this Pathfinder works. And finally, yeah, he has bunch of more more more more more stuff. Yes. I can do this. Thank you very much. So thank you all for sticking so long with me. Let's
+
+[01:55:46] let's let's see what we can do. Hello.
