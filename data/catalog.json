@@ -490,13 +490,14 @@
     "id": "1GQ8F-ZerTliURQnNKjCwCMxrIua6Wdc5",
     "kind": "video",
     "size": 0,
-    "stream": true
+    "stream": true,
+    "hosted": "https://pub-3d88701638314a20ad2241ee26e6824f.r2.dev/audio/1GQ8F-ZerTliURQnNKjCwCMxrIua6Wdc5.mp3"
    }
   ],
-  "transcript": null,
-  "duration": null,
+  "transcript": "1GQ8F-ZerTliURQnNKjCwCMxrIua6Wdc5",
+  "duration": "00:01:46",
   "quality": "ok",
-  "transponder": false,
+  "transponder": true,
   "thumb": "thumbs/1GQ8F-ZerTliURQnNKjCwCMxrIua6Wdc5.jpg",
   "speakers": []
  },
@@ -577,13 +578,14 @@
     "id": "1h4VgnBEW2qBZWEnvAyWyhX_rLq6befrd",
     "kind": "video",
     "size": 0,
-    "stream": true
+    "stream": true,
+    "hosted": "https://pub-3d88701638314a20ad2241ee26e6824f.r2.dev/audio/1h4VgnBEW2qBZWEnvAyWyhX_rLq6befrd.mp3"
    }
   ],
-  "transcript": null,
-  "duration": null,
+  "transcript": "1h4VgnBEW2qBZWEnvAyWyhX_rLq6befrd",
+  "duration": "00:02:46",
   "quality": "ok",
-  "transponder": false,
+  "transponder": true,
   "thumb": "thumbs/1h4VgnBEW2qBZWEnvAyWyhX_rLq6befrd.jpg",
   "speakers": []
  },
