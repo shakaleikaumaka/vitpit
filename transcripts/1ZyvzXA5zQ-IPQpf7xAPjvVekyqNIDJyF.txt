@@ -1,0 +1,201 @@
+# Vitalik Buterin (remote): "Let's Bring Back More Governance Experiments"
+
+Date: 
+Source video: Vitalik Buterin (remote): "Let's Bring Back More Governance Experiments"
+Drive: https://drive.google.com/file/d/1ZyvzXA5zQ-IPQpf7xAPjvVekyqNIDJyF/view
+Duration: 00:42:05
+Transcribed: 2026-07-27 · deepgram nova-3 · PIT BULL harvest fleet v3
+
+---
+
+[00:00] So first of all, thank you guys, you know, for, I mean, just, continuing to keep up all of the, hard work on, you know, like, running and do these kinds of events and just continuing to do interesting, things. So the thing I wanted to talk about, today, is, governance experiments. Right? And,
+
+[00:24] I hope that we can do more governance experiments and more, interesting governance experiments. So, to start off, right, maybe one natural thing to start with is, let's talk about ICOs. Right? And, so this is, you know, a chart of, some of the ICOs that happened, back in 2017.
+
+[00:46] Right? So I'm sure some of you guys remember, you know, we had things like Filecoin. We had things like, you know, all being the DAO, of course. So that one, did end up failing quite famously. You know, like Tezos, the various different, Ethereum related projects,
+
+[01:10] you know, like, also things like Status, Omisego, and, like, Gnosis and, you know, the list goes on and on. Right? And I think what's interesting to me about the, ICO period is, that's, while I think, ICOs had flaws, but, at the same time, they had a couple of advantages. Right? So
+
+[01:33] a a really big one is that they were fair, and anyone could participate on kind of an equal footing. Right? And there were some ICOs that, like, came close to being completely fair, and but then, some of them did end up getting discounts to, like, privileged investors and, exchanges and people doing marketing and so on. Right? But, I think even there, it was still much better than today. Right? And, the other really beautiful thing that they did is I think they created
+
+[02:02] genuinely global and widely distributed communities. Right? Because, the way the economics of an ICO work is, like, you wants to get money from, wherever it is. Right? And some people are in The US, some people are in Europe, some people are in Asia. And, you know, you hire the community lead for Europe. You hire a community lead for China. You hire a community lead for Japan. Hire a community lead for Turkey.
+
+[02:26] And, like, you really try to reach out to people everywhere. Right? And and people everywhere can put in money. And then a lot of the time putting in money translates into, like, being an actual productive member of the community. Right? And if you fast forward to, like, some of the more VC driven projects that we see over the last few years, I think they tends to be much
+
+[02:48] more, like, single country focused. Right? Like, the more institutional something gets, the more it tends to get single country focused. Right? And, you know, we see, yeah, a lot of, recent blockchain projects that are being, like, very America specific. I mean, we also see, yes, similar things for other countries and for other and in other
+
+[03:11] continents. And I don't really think we have anything like a similar type of generator for global communities. Right? And, one of the dreams that, I had for a long time is, base the basically, yeah, can we take this concept of, an ICO and, can we come up with a structure that's, both preserves the benefits that it has
+
+[03:37] and that's, at the same time tries to do some more interesting things to mitigate the downsides. Right? And so, back in, 2018, I, came up with this concept called a, DAICO. By the way, are people still seeing the slides? Just wanna check. All good? Okay.
+
+[04:00] I I should have the the Venn diagram here. Right? Mhmm. Okay. So, DAICOs, they, can basically yeah. The idea is that it's a type of DAO, where people, are prover prover to speak in a project or putting in money. And by default, the team can do, what they want to do with those funds, but they have some limit, to how quickly they can withdraw.
+
+[04:29] And the project the the participants in the project at any time have the ability to vote, to basically take the funds back. Right? And the goal of this is basically to try to create a check against the like, a lot of the types of, fraud or, like, some of the failure modes of ICOs that we saw, right, where sometimes the team would just disappear with the money completely,
+
+[04:56] or sometimes the team would, like, raise $70,000,000, and then they realize that, like, wait. Maybe they don't actually need to hire many people. They just, basically, yeah, come up with excuses for why what they wanna do will take a very, very long time. And then they basically just use the money to give their team and their friends a pension for life. Right? And so, in those kinds of situations, the idea is that the participants in the DAICO would just be able to vote and would be able to claw the funds back. Right? Now this isn't, like, the only kind of mechanism that you can do, but, to me, it's like an example. It's meant to be a starting point for, thinking.
+
+[05:34] And, it's, I think, recently, there's been a lot of interest in coming back to things that are similar to this. Like, I even know that a lot of Aragons are thinking about DAOs recently. It's been much more about, like, giving the team discretionary power by default, but, basically giving the distributed community more veto power.
+
+[05:58] And, I mean, it they he doesn't you know, Anthony doesn't really call it a DAICO, but it's functionally, yeah, a very similar concept. Right? So this is, like, one example of a thing that could be done. Right? And, I mean, this type of model was originally invented for, like, token projects, basically, of the type that launched in 2017. But, theoretically, yeah, it could be applied to
+
+[06:24] just lost the Sir? We lost the What was that? Sorry. We lost the slides, accidentally. The slides. Heck. Oh, I see. Are we still hold on. Stop presenting. Window. Share. Okay.
+
+[06:49] You good now? Okay. Perfect. Now you see it. Okay. Good. Yeah. So I think, like, I but I think, like, this type of model and just, in general, this kind of idea of, more sophisticated governance models that try to more explicitly give the community, yeah, like, more kinds of rights. Like, I think it's,
+
+[07:13] something that can be applied in many more different types of, types of contexts. Another, thing that's, I mean, I've been working on recently, and, Devanche has been really, taking charge of, together with you know, like, David Dow and, you know, Gaskell and, like, Clemont and and his group is,
+
+[07:37] deep funding. Right? And, deep funding is basically this public goods funding, mechanism that, has two of these, different, ideas to it. Right? One of the ideas is basically to, use AI and, to use AI in a way where, like, you're not enshrining one single AI, but, you're creating an open market where anyone can, provide AI generated or potentially even, human generated,
+
+[08:09] values. And then you have a spot checking mechanism that random where you have a jury that, does a much smaller number of, random checks. And, basically, yeah, the incentives for the, people providing the answers with AI or to score as high a score on the, yeah, human jury spot checking, part as possible. Right? And the problem that deep funding is trying to solve is basically that's,
+
+[08:35] like, one of the big problems with AI is that humans don't wanna make lots of decisions. Right? And once, like, you you need to do more than, you know, like, a single digit number of decisions, like, people's eyes tends to glaze over and they just, like, click no, yes, no, no, yes for everything based off of, like, a one second look. And it ends up just leading to very low quality decision making. Right? So here, we basically say, well, you have a jury and then you feed the jury a very limited number of randomly sampled questions that's limited enough that they can afford to think deeply about them. And then you,
+
+[09:12] basically, yeah, you, allow anyone to come in with AI models and to try to predict them. And you take the, you you take the the values that are the most compatible with with the spot check-in those in those places where the spot check is made. So this is one of the ideas. Right? And then the second part of this idea is
+
+[09:37] the the graph structure. Right? And, basically, the idea here is that a lot of the previous public goods funding ideas, things like quadratic funding, they were sort of inherently global in scope in some ways. Right? Like, if you look at the mathematical reasoning behind you know, like, quadratic funding, like, it basically says, well, we it's a mechanism that assumes that that's
+
+[10:00] people have a prob a a coordination problem or, like, a a pro one of these tragedy of the common situations where they're they all want us some things to be funded, but they're not willing to, like, cover the full cost individually. And the problem is that at the same time, you don't know which things are actually valuable and which things are not. And so you let people donate, and then you use the donations themselves as a signal.
+
+[10:30] And then you provide matching where the matching increases the more people donate to try to, like, correct for the inefficiencies of just the raw donation mechanism. Right? And what's interesting about quadratic funding is, like, it is, in some sense, completely unopinionated and neutral. Right? And so when you have Gitcoin quadratic funding rounds, like, basically, that what that means is that there is a separate
+
+[10:56] entity that's basically going in and saying, like, this is approved. This is not approved. This is on topic. This is not on topic. This is good. Or this is okay. This is bad. Right? And the the challenge basically is that, like, it assumes funders who are willing to fund public goods in the in this very abstract way, which is also not the reality. Right? Like, funders themselves tends to be more opinionated about what kinds of things they want to support.
+
+[11:26] And so the idea here is basically that the values that deep funding provides are base are weights in on edges of this kind of graph. Right? And so we have a graph that basically says, well, you have a bunch of projects, and then the edges represents, well, what share of credits does one project deserve for another project? Right? So it's not trying to come up with a global score of, like, how much did this Geth library contribute to humanity, how much it or even how much did it contribute to Ethereum. Right? You're answering a much more local question of 1% of the credit for x belongs to y. And then
+
+[12:02] as a funder, like, you even have a choice. Like, you have a choice of which basically, which node is defined. And then when you find the node, then based on the weights that are done by the deep funding mechanism, like, the the funding automatically propagates. Right? And so it's a mechanism that is similarly, like, very, yeah, kind of neutral and applicable to, like, the entire,
+
+[12:26] you know, like, a graph of projects on the Internet, but we are decisions are much more locally scoped, both for the funders and for the participants. And so this is I mean, I like, again, I think deep funding is definitely not the only, yeah, like, funding mechanism, but I think the underlying ideas of, like, taking AI seriously as a solution to the problem of, well, how do you actually make a large number of decisions, but at the same time not blindly trusting AI, but, like, actually thinking about how to incentivize or how to constrain it. And also
+
+[13:03] thinking about, like, instead of public goods in an absolute sense, thinking about dependencies and the graphs of dependencies. Like, these are, I I think, valuable ideas. And, like, you can work and build more things on top of them. One other trend is privacy preserving voting. Right? One of the other big problems of DAO voting is that who you vote for and what you vote for and against turns into a social game. And,
+
+[13:31] like, in regular democratic elections, I mean, we have a secret ballot. And so we should have secret ballots for Dallas as well. And, Aragon is, actually doing this now. Right? And so they're taking technology that was started by PSC, and they're continuing to, like, you know, apply it and improve the user experience on it. So I I hope that we can see more private DAOs as well where
+
+[13:57] participation in voting can be private. I mean, I think also even there should be an option for participation in a discussion to be anonymous, but still proving that you're a member of the community. Right? And this is actually it is something interesting that Zoosalibid did a couple of years ago. Right? Where in the original one, you know, we had Zoo poll and Zoo forums. And so people could post as a member, like, in a way that there's zero knowledge prove that they're members without revealing which one.
+
+[14:28] Also, multi house designs. Right? I think, like, I'm I've always been a big fan of moving beyond coin voting because I think coin voting is attackable in a lot of ways and coin voting only uplifts one set of constituents. And so optimism, I think, did a good job of having these two houses, token house and citizen house.
+
+[14:50] And, basically, you have token holders and you have this sole bound, like, non transferable class of citizenships that and, like, these different houses, they have different responsibilities. Right? So I think these are all, like, just examples of, different kinds of mechanisms that, we could use. Right? And the I think all of them are, in this
+
+[15:20] at different stages, but they're generally at stages where they've already been worked on quite a bit. But there is still an opportunity to, like, really take the next step and push them into practice and roll them out in the real world and iterate on all of them much more. Right? So why is this relevant, to pop ups in particular? Right? I think,
+
+[15:43] it's the same problem again. Hold on. Click. Click. Click. Mhmm. There we go. That's the the multi house design. Yeah. So, basically, why is the so why is this relevant for Zoom pop ups? Right? Is that lost it again. I don't know what happened. Yes. But there there we go. Yeah. I just ring edit.
+
+[16:13] Basically, yeah, I think, like, I've become convinced that, like, a lot of this like, a lot of the most valuable stuff that can happen in Azure nodes, basically, can only happen if they become, like, permanent, fixed nodes to some extent. And, I think the reason why I believe this is basically that,
+
+[16:38] like, doing the pop up thing is too high cost, for everyone. It's a high cost for people to put their constantly move around. It's high cost for so, like, to rent the spaces for shorter periods of time. It's high cost to negotiate with new groups for the first time without of just already knowing who you're dealing with. It's
+
+[17:03] generally a high cost to constantly reset your relationships. And, also, if he wants to do really interesting things, especially, so you using as you know, it's as an opportunity to experiment on the hardware side, then constantly moving it around every forty two days just does not make any sense. Right? And so the challenge though is that's like, a pop ups are very light on governance. Right? And,
+
+[17:32] like, in some ways, ups are easy mode because there is a governance mechanism that has proven to work relatively fine, which is basically you have a dictatorship of the core team. And then if the core team does things that the community dislikes, then, you know, they get the community realizes this, and then they just next time, they don't go to that pop up or they, yeah, potentially leave early. And then it's just a very low cost for them to go to someone else's pop up instead. Right? But this is something that's does not work so effectively in a permanent note. Right? And so governance challenges become, greater.
+
+[18:09] And, I think, also pop ups, they have this, kind of interesting triangulation in terms of, what their what their goals of, governance for a, yeah, permanent node are. Right? One of them is basically that you need to raise capital without the capital raising turning into an over centralized form of governance. Right? And then another one is that you need to balance execution
+
+[18:35] ability with giving a, yeah, pretty complex set of guarantees for citizens. Right? Like, in a corporation, the guarantees that you need to give for to shareholders are, like, actually pretty simple. Like, basic mean, often complex to interpret, but in principle, like, basically, yeah, minority shareholders don't want us to get rugged. But in
+
+[18:57] this case, like, the specific things that property is that, like, Citizens wants to ensure a permanent know it upholds. Like, there's often a lot of them. They're complex. They might even be evolving. And so, essentially, yeah, need to, like, have a structure that actually provides more guarantees, but at the same time, you need to have execution ability.
+
+[19:21] And importantly, at the same time, you need to have something that can hold capital without it getting corrupted and captured. And so here, I think some examples of, like, concepts that are interesting here. So ownership shares in a land. Obviously, if you have a permanent node, a permanent node will have land, and that land gets more valuable the more successful the the, yeah, permanent node is, at least well, it it actually depends. Right? Because potentially, yeah, the permanent node might expand physically. And so the lands might not get more valuable or maybe, like, some of the land more central lands does, but then, like, the the periphery keeps expanding.
+
+[20:06] Right? But, like, land is one type of thing that's it can economically becomes, like, part of the structure and part of people's calculations. Also, a popular one that that I've seen come up again and again from people thinking about this is ownership shares in startups that are created in the node. So this is basically thinking of nodes as, like, actually being a type of community incubator.
+
+[20:32] And then that node would have ownership shares in these startups. And then, like, this is an asset that's, you know, like, where it needs to be governed. And, also, it needs to be, yeah, given to, like, initial investors in the per permanent node that needs to get some kind of a reward that comes out of this.
+
+[20:58] Then I think the the concept of citizenships. Right? So, like, I think once again, interesting about, citizenships and per in permanent notes. Right? So first of all, like, I do think that citizenship should not be fungible. Right? And, like, to me, yeah, you know, like, citizenship is about loyalty, loyalty and fungibility are opposites. Right? This is also, by the way, why, like, turning loyalty points into ERC 20 tokens on the blockchain never works because,
+
+[21:28] like, then, basically, whenever you get loyalty points, you just dump them on Uniswap, and it just becomes equivalent to, like, a discount but with worse UX. But, I mean, I personally would actually prefer to see, yeah, a world without loyalty points, and just give, like, give me proper discounts for most businesses. But I think, in this particular context,
+
+[21:52] right, so so, like, you will want, some way to recognize, like, who as individuals have been contributing to and, taking part in a, permanent node for a long period of time. And, like, people in that position should have more of a say in governance. Though so you can make it non transferable.
+
+[22:16] Also, you can potentially make it partially transferable. So this is the idea that, like, well, maybe you can transfer it, but then the thing that the recipients gets is less valuable than the thing that you lose. Or maybe it's, like, only only yeah. You have some class of, like, asset that's only transferable after a lockup period or maybe, you know, you have alternatively, you have, like, a token. But then if he wants to turn the token into giving you benefits, you have to lock it up for some long period of time. So there's a lot of ways to make,
+
+[22:49] like, concepts of membership that are partially transferable. Also, I think it needs to be scalar rather than being binary. Right? So in a country, citizenship tends to be binary. I mean, it's like a little bit of a scaler because for people coming in from abroad, you know, you have the traditional kind of leveling pathway. You know, you have temporary residency, permanent residency, renew the permanent residency, and then, like, you can take the citizenship test in n years. But, generally, it's, like, pretty on the binary side. I think zoo nodes are fundamentally different,
+
+[23:22] and I think citizenship is something that actually should be a scaler rather than a binary. Basically, yeah, regular visitors need to be recognized more than guests, but full timers need to be recognized more than regular visitors. And and so, like, these are just some of the unique
+
+[23:44] considerations to think about. Right? But I think in general, right, like, one of the initial, yeah, motivations for this whole concept is basically that's like, these are opportunities to, like, really, yeah, actually do more of these kinds of experiments. And, you know, there was a lot of excitement about DAOs in Ethereum.
+
+[24:08] I mean, like, in 2015 to 2020, a lot of excitement about, you know, ICOs, of course. And the interest in DAOs has definitely, yeah, like, dropped off quite a lot recently, and I think there's basically a couple of reasons. Right? One of them is that's basically, everyone forked compound and, like, compound style governance has a
+
+[24:34] lot of flaws to it. But, like, this includes, like, vulnerability to financial attacks. This includes, like, voter apathy. They'll include I I don't know. Just, like, low voter participation. Thus, it includes a low quality decision making. Like, it includes all kinds of issues. Right? And the other one is, of course, that there realistically
+
+[25:01] were a lot of projects that were only decentralizing because they wanted to, you like, not be under the eye of Gary Gensler. And so now Gary Gensler is gone. And so those kinds of projects are just proudly, yeah, you know, taking off the mask and saying we're going full centralized now. And so I but at the same time, like, the reason why I'm optimistic about this space is that I do think that,
+
+[25:27] you know, there are needs for this kind of stuff. And at this you know, like, basically yeah. I mean, like, a dictator governance has a lot of flaws to it, and dictator governance is sort of what you get by default if you just don't have brain cycles on this problem and you get lazy. And also token holder governance is the other thing that people fall
+
+[25:53] fall into when they get lazy, and that also has a lot of problems. Right? But at the same time, like, we have new tools. Right? And to me, I think the two big new tools are ZK and AI. And ZK, the the reason why is basically because it it gives you privacy. And by giving you privacy in governance and in communication, you have a lot more leeway to solve the problem that
+
+[26:19] governance turns into, like, a very toxic type of social game. And with AI, I basically see AI as a solution to the problem of how do you respect a person's intention while at the same time answering a making decisions at a very high volume. Right? And, like, this was also the sort of thing that's, you know, like ten and twenty years ago, it was solved by liquid
+
+[26:46] democracy and the whole concept of delegation. Right? And, like, Dallas obviously used delegation, but then, like, we've discovered that delegation well, delegation is also very disempowering in its own way. Right? And so, like, you basically only have one decision bid at the beginning, and then you just, like, check out, and then you stop thinking about it. And then delegates themselves accumulate a huge amount of power. Right? And I think to me, AI is all it's is a different way of scaling
+
+[27:16] up the ability to interpret human preferences on specific situations. But at the same time, it needs to be used in the right way. Right? And used in a way where it does the thing that's valuable, but at the same time, like, you're not just entrusting everything to one single thing that, like, might get, you know, like, attacked with a jailbreak or
+
+[27:38] that, like, might actually be interpreting your goals very incorrectly. Right? And so those are the kinds of things that, you know, like things like deep funding try to correct for. Right? And so we have these powerful new tools. We also have the experience over the last decade where we saw what succeeded and failed. And so I hope that, you know, like Zucas and other nodes can really be part of this and be part of, like, thinking of and
+
+[28:05] experimenting with, like, the next wave of these kinds of governance ideas. So thank you. Thank you so much, Vitalik, for this inspiration to all all all the contribution. And maybe we can make a small QA session. Maybe there's some question from committee. And is there any question?
+
+[28:45] Thank you so much for the insightful talk. Actually, I have two question. The first one is related with this one. So voting is mostly we see that transparent or coercible in some ways. And if they are private, they may be, in most most of the cases, off chain. If privacy preserving voting could be made native,
+
+[29:07] what new mechanisms or incentive models do you think become possible? This is my first question. Mhmm. If you would like to answer it. Or the other one is, so we also know that Ethereum has made transparency programmable, and we have been working on protocols on privacy solutions. Do you think Ethereum's features and game includes privacy being a first class primitive
+
+[29:32] on par with programmability and scalability? Thank you so much. Yeah. So for the first question, like, I don't see privacy as, like, directly enabling new types of, voting mechanisms because any voting mechanism that can be done private theoretically can be done transparent. I do see it as a way to take these mechanisms
+
+[29:55] and, like, basically eliminates a large class of ways in which they break down and in which participants end up inputting into the mechanism something other than their honest, well considered opinion. And so I think this applies for regular voting. I think this applies for quadratic voting. I think this applies for jury deep funding. I think it
+
+[30:20] applies in all kinds of different situations. For the second question, you know, so, like, the long term role of privacy in Ethereum. Right? So I I generally believe that privacy is important. And, I think, to me, the balance between privacy and transparency yeah. I mean, I think it's a it's a subtle question, and, it differs a lot case by case. But one of the principles is, basically,
+
+[30:49] like, transparency for how the wires are laid out and privacy for what goes through the wires. Right? So, you want people to be confident in, what the mechanism is and, like, how the thing that they are participating in works. But at the same time, you don't necessarily want, like, every individual contribution
+
+[31:11] that goes into the calculation and all of the intermediate steps to be publicly visible. And so in terms of, like, a level of enshrinement, historically, the challenge has just been that this technology is not mature enough to enshrine. Right? And up until, like, maybe about about even now potentially, like, the the challenge was just, like,
+
+[31:37] what algorithm. Right? Because, basically, you have this problem that, like, you realize that like, a couple of times it happens that we designed a bunch of features around the assumption that people would be using specific curves, specific types of fields, specific primitives, and then a year passes. And then, like, the whole
+
+[31:59] game of, like, what changes and, like, what types of Synarcs or Starcs people use changes completely. Right? And so, like, the whole concept of, like, making blobs be based on 256 bits, like, that's something that's going to have to change at some point. So a lot of things that will, need to change. Right? And so that
+
+[32:23] was probably the big arguments for saying, well, okay. If it's rapidly changing, let's meet let's, like, add features into Ethereum to support people working on privacy. So things like elliptic curve precompiles, but let's do an application layer. And I think now, privacy like, snark and stark protocols are still evolving, but they've gotten to the point where, theoretically,
+
+[32:47] if we choose one and we choose the right one and we just say we're done, we're enshrining it forever, like, that's not a bet a great choice, but it's also not a fatal choice. Like, three years ago, it would have been a fatal choice. Right? Like, now it's, like, finally, actually not a fatal choice. Right? You know, like, we literally have proving algorithms that can do proofs over hash functions where the overhead factor of proving it is less than the overhead factor of the EVM compared to an properly
+
+[33:20] efficient VM. Right? Which is, like, incredible. It's mind blowing. Right? You know, like, even just, like, naive one dimensional Starks now for proving Poseidon hashes, you know, with a particular sets of parameters, the overhead is under 100 x. Right? And then there is other, prohibitive cycle even lower. So the reason why
+
+[33:42] enshrining privacy today now is still a bad idea, in my opinion, is safety. Right? Like, basis so if, for example, Ethereum added EIP seven five zero three, this is, the wormhole EIP today, then if someone could hack the mechanism, they would be able to print an infinite amount of money. And, like, this is bad. Right? And so
+
+[34:05] and the problem is they'll be able print an infinite amount of money, and we would not even be able to know that the that it it had been hacked until it's, like, way too late and there's months, months, and months of history during which a bunch of bad coins are being created. So the like, at some point, I think proofs will get safe enough that, it will be safe for us to rely on them, but,
+
+[34:29] I think, like, that still not for the next couple of years. And so the short term priority for Ethereum l one is to do things like Fossil and things like account obstruction that can, like, be basically, yeah, provide greater guarantees that privacy protocols can work with, Ethereum without needing to, you know, like, take some centralized compromise
+
+[34:54] as, like, relying on relay networks and then, you know, like, being vulnerable to, like, having to ask builders for permission. So that's, kind of how I view, enshrinements. I do think that over the next couple of years, we are going to make a, yeah, very serious push toward standardizing privacy features for us at the wallet layer, And then, like, think about l one,
+
+[35:18] over time on a longer schedule. Right? Because l one is the more risky and irreversible thing. Thank you. Thank you so much for the answers. Yeah. I believe we can get one more question, Vitalik, if you have time. And, Vith, do you want to or Michelle? Okay. One. Hello, Vitalik. Good
+
+[35:42] to see you again. We will see each other in Singapore on the network state conference on the stage very shortly. And Liberland is again open for business. We're very welcome to have you guys. Multiple events that we're building. So it's a lot of fun. It's the fact that you also have a basically full sovereignty, not just in blockchain sovereignty, but but we are Mhmm. Of course, having some issues with Croatia, but it's getting much better than than it was before.
+
+[36:05] So my question about the citizenship concepts and turning Zuzalu. You really think about, like, building whole cities under the zoo concept and granting people citizenships in under these cities, under the zoo concept. And where is the first pilot project that you want to do? That that's my question because you're really turning to this, I would say, enclaves of zoo zoo cities. Yeah. So
+
+[36:31] yeah. So I, like, I still believe in the distributed model. Right? Like, I believe that people in the community should go and make their own things. And, like, I think, when they make their own pop ups, like, I think concepts of citizenship is, something that is going to be valuable to have. So I don't think this needs to be, yeah, like, pushed in a top down way across the ecosystem.
+
+[36:57] I think, like, I would want to see some different pop ups having some different models. I would also love to see, like, some degree of interoperability, and that could mean technical interoperability. It could even mean figuring out, like, different forms of economic cross alignments between between different pop ups. It could even mean, like, some kind of partial recognition of
+
+[37:19] each other's citizenships. So I think I mean, like, these and so I think these kinds of concepts are, like, valuable to start thinking about and doing at a small scale. I mean, I think, I mean, Liberaland's like, what what is the, yeah, kind of active population of it, right now? Do you have more time? I'm not sure about Yeah. I mean, I'm happy to keep going for a few minutes. Mhmm. Yeah. Well, right now, we have grown to 12, but it's just a matter of really people stop being fearful and and moving into the territory and building something. So we're Yeah. Right. Right. Four more four more buildings now so we will be able to have more permanent permanent population.
+
+[38:00] That's good. Yeah. Well, I think yeah. I mean, I'm looking forward to you guys getting to a 150. Hi, Vitalik. This is Michel Bowens. Yes. Hi, Michel. Hi. So, you know, I'm dreaming of this moment where this connection between Ethereum and which, you know, I see as a coordination of coal and capital,
+
+[38:23] and that it actually goes down to the ground where all the people doing community land trust and bioregionalism. And so do you have any ideas about it? How do we can create more of a junction between the physical and people kind of healing the land and their soils and then actually the capacity of mobilizing capital and code, you know, at the kind of the service more of the real world and not just like staying at the level of,
+
+[38:50] code and money. So that's kind of my dream. Don't know if you share it or not, but, you know, I think there's a huge potential for Ethereum to become a coordination engine, you know, for more than just code and capital and actually going to the, you know, in the physical world. Yeah. I agree. I mean, are there any, like, particular, types of, like, Ethereum coordinating
+
+[39:14] things in the in the physical world that you think makes sense or at least are are worth trying to do? Well, I'm thinking of tools of the commons as a potential project. I I can't pronounce the name of the guy doing it. Hugo Makovich, I'm, I'm guessing. So the idea here is to combine, you know, regenerative projects, create a current digital identity,
+
+[39:37] and then basically start behaving like a like a nation and and doing like, you know, bonds and stuff. Right? And then you could attract, you know, the floating web three capital into like entangled forms of common property where you'd have, you know, local people billing their infrastructure, but they could also then accept investments,
+
+[40:01] but in a way that is comfortable with local values. And doing that, like Right. Micro, you know, forms of capital, like, I haven't studied it like material sounds interesting to me, but things that are similar to that. Right? I see it. So, like, real world assets, but, like, instead of just, like, hyperscaling dollars in S and P 500, like, have lots of little assets that have,
+
+[40:23] like, much more interesting and complex, I mean, like, rules about, like, what kind of ownership they have and what you can do with them. Yeah. Exactly. Yeah. Yeah. I I mean, I definitely support those things. I think I mean, this is also part of why I just, like, want these, different kinds of experiments to happen. Right? Because I think it's a natural type of grounds of,
+
+[40:47] like, basically, yeah, blockchain people who are faced with, like, needing to figure out the economics of a physical space. And then, like, hopefully, we'll even start to quickly see examples of, look, where these kinds of things make sense. And then I think at the same time, you know, we should also run the experiments in the other direction. Right? And take, you know, people who have already
+
+[41:11] spent a lot of time thinking about these kinds of, local economics and basically see, you know, like, are there pain points, that are particularly well fitted to, like, either blockchains or other types of cryptography. Right? And I think, I mean, I suspect, like, they will want some kind of, like, a long distance interoperability. And, I mean, both with each other and, potentially with
+
+[41:37] crypto capital. Right? And so I think, like, thinking about it from, that side is really valuable too. Thank you. Thank you. Well Thank you so much. People wanna more question, but I know your schedule is tight. And thank you for your contribution, and thank you you are here with us at least as online maybe. And Mhmm. See you later. Yes.
+
+[42:01] Thank you very much. Yep. Enjoy your Zukaus. Thank you.

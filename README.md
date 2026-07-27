@@ -1,62 +1,62 @@
-# 🏔️🕳️ The ZuitzPIT
+# 💎🕳️ The VitPit
 
-**Public Information Transmission, alpine edition** — a demo P.I.T. Protocol instance.
-**The first fork of [The Esmeralda P.I.T.](https://esmeraldapit.com)** — the protocol working as designed.
+**Public Information Transmission — celebrating the wisdom & leadership of Vitalik Buterin.**
+**The 7th fork · the 9th P.I.T.** — divine numbers. ✨
+**A consent-first demo: the pit that asks first.**
 
-🌐 **Live:** https://shakaleikaumaka.github.io/zuitzpit/
+🌐 **Live:** https://shakaleikaumaka.github.io/vitpit/
 🚪 **P.I.T. universe front door:** [publicinform.com](https://publicinform.com)
-🧬 **Forked from:** [shakaleikaumaka/esmeralda-pit](https://github.com/shakaleikaumaka/esmeralda-pit) (genesis arm pit #1)
+🧬 **Forked from:** [shakaleikaumaka/zuitzpit](https://github.com/shakaleikaumaka/zuitzpit) (lineage: esmeralda-pit → zuitzpit → vitpit)
 
 ---
 
 ## What this is
 
-[Zuitzerland](https://zuitzerland.ch) — the Swiss network-state sandbox, May 2025: ~200 builders
-in the Alps prototyping "700 years of Swiss democracy rewired for the web3 era."
-Shaka helped the gathering and ran its A/V — and when the tents came down, the session
-recordings shouldn't vanish. So the bard shared the drive, and the pit was forked.
+Some gatherings are places. This one is a **person**.
 
-This repo is a **demo instance** of the P.I.T. Protocol, forked in one day from the
-Esmeralda genesis — now running the **full genesis Knowledge Transponder UX** (v2.0):
-synced glowing transcripts, tap-to-seek, deep search, Patrick's speaker bubbles.
+Across Zuzalu's orbit, the Swiss Alps, the Aegean coast, and wherever the family
+gathers, one voice keeps showing up with d/acc optimism, pluralist depth, and
+meme-lord humility. The VitPit is where that voice gets its own Knowledge
+Transponder — synced glowing transcripts, tap-to-seek, deep search, the ≈$0
+static architecture of the Esmeralda genesis.
 
-- **39 sessions cataloged** — d/acc morning with Vitalik Buterin & Glen Weyl, Balaji Srinivasan,
-  the Cypherpunk Sessions (DarkFi), "How to Run a Country On-Chain", Swiss Democracy,
-  Permanent Hub Visioning, Buildathon Submissions, and 32 more
-- **Full Knowledge Transponder UX** — press play, the words glow (transcripts land as the harvest fleet completes)
-- **Speaker tags** where known (real names only where verifiable; @handles otherwise — radical honesty)
-- **≈ \$0 infra** — static site, recordings stream from the source Drive folder
+## The consent-first soul 💎
 
-## Protocol status (honest ledger)
+Every P.I.T. lives by five stages — crawl, harvest, audit, publish, and the
+fifth, the soul: **consent-first governance**. Most pits inherit consent from
+their gatherings. The VitPit celebrates **one person** — so it asks that one
+person directly.
 
-| Stage | Status |
-|---|---|
-| 1 · CRAWL | ✅ done — 39 recordings, public Drive folder, no API keys |
-| 2 · HARVEST | 🟡 demo — catalog curated; full Whisper transcription **declared, not yet done** |
-| 3 · AUDIT | ✅ done — titles verified vs. source listing; truncations & stream artifacts flagged |
-| 4 · PUBLISH | ✅ done — this static site |
-| 5 · CONSENT-FIRST | ⏭️ next — nothing enters a permanent archive without explicit organizer + speaker consent |
+- **This demo IS:** two talks already public at their home pits
+  ([The ZuitzPIT](https://shakaleikaumaka.github.io/zuitzpit/) ×
+  [The KasPIT](https://shakaleikaumaka.github.io/kaspit/)), gathered with aloha
+  to show exactly what a VitPit feels like.
+- **This demo ISN'T:** an archive. A dedicated drive of Vitalik recordings is
+  being prepared — and **none of it transmits until Vitalik himself says yes.**
+  Declared means declared, not done. If the blessing never comes, the demo
+  stands as the whole pit, honestly labeled, forever.
 
-🔇 **Silence canon:** this pit has no music player. Pits listen, they don't sing.
+## The demo exhibits
 
-## Repo layout
+| session | provenance | duration |
+|---|---|---|
+| d/acc Morning — Vitalik Buterin × Glen Weyl | Zuitzerland, Swiss Alps · May 2025 · via The ZuitzPIT | 02:06:02 |
+| "Let's Bring Back More Governance Experiments" (remote) | ZuKas 2025, Kaş Türkiye · via The KasPIT | 00:42:05 |
 
-```
-index.html          the whole ZuitzPIT app (single-page, zero build step)
-data/catalog.json   the 39-session catalog (ids, titles, speakers, Drive links)
-pipeline/           🛠️ the working harvest→publish scripts inherited from the Esmeralda fork
-LICENSE             CC0 — no rights reserved
-GIFT.md             🎁 the original "Dear Edge City" letter, inherited from the fork parent
-```
+Both with full Knowledge Transponder: synced transcript glow, tap-to-seek,
+karaoke audio.
 
-## Fork it again
+## Lineage (the Registry of Living Pits)
 
-Everything is **CC0**. This pit is itself a fork — forking it again is the design, not the exception.
-Every village, every camp, every gathering deserves a pit.
+esmeralda-pit (genesis) → zuitzpit (1st) → patagoniapit (2nd) → 4seaspit (3rd)
+→ praguepit (4th) → zuberlinpit (5th) → kaspit (6th) → **vitpit (7th)** 💎
 
-👉 Protocol white paper & the registry of living pits: **[publicinform.com](https://publicinform.com)**
+## Fork it
+
+Everything here is open-sourced **CC0 — no rights reserved**. Fork this repo,
+enable GitHub Pages (main, root), and you have your own pit. Fork me like crazy. 🍴
 
 ---
 
-*The pit provides 🕳️ · forked with aloha by PIT BOY 🕳️😤 · recordings shared by the bard who ran their A/V ·
-part of the P.I.T. universe → [publicinform.com](https://publicinform.com)* 🌺🤙🏔️
+*The pit provides. Arm pit strong.* 💪🕳️ · 🔇 silence canon: pits listen, they
+don't sing — no music player, ever.

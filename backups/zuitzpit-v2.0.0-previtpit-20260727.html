@@ -4,31 +4,31 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
-<!-- build: vitpit v1.0.0 · 2026-07-27 · THE VITPIT — the 7th fork, the 9th P.I.T. 💎 a consent-first demo celebrating the wisdom & leadership of Vitalik Buterin · full genesis UX (unified-transponder v5.3): Knowledge Transponder modal, synced glowing transcripts, tap-to-seek, deep search, speaker bubbles, service-worker range shim · restyled ether-indigo + wisdom gold, Fraunces wordmark, procedural diamond · 2 demo exhibits (via zuitzpit × kaspit, already public there) · THE SOUL: no further content without Vitalik's explicit consent · SILENCE CANON: no music player, ever · CC0 — fork me like crazy · forked from zuitzpit v2.0.0 (preserved in backups/) -->
-<title>The VitPit 💎🕳️ — Public Information Transmission · celebrating the wisdom of Vitalik Buterin (consent-first demo)</title>
-<meta name="description" content="A P.I.T. Protocol instance celebrating the wisdom and leadership of Vitalik Buterin — the 7th fork, the 9th P.I.T. A consent-first demo: two talks already transmitted at sibling pits, and a full archive that awaits one thing — its subject's blessing.">
+<!-- build: zuitzpit v2.0.0 · 2026-07-26 · THE FIRST FORK goes FULL TRANSPONDER — complete port of the Esmeralda genesis UX (unified-transponder v5.3): Knowledge Transponder modal, synced glowing transcripts, tap-to-seek, deep search, Patrick's speaker bubbles, week tabs, service-worker range shim — restyled alpine (deep navy + cyan + magenta, Pirata One wordmark) · parent build: unified-transponder v5.3 (The Esmeralda P.I.T., genesis arm pit #1) · demo: 39 Zuitzerland sessions · HARVEST live: faster-whisper transcription fleet running · karaoke activates per-session as hosted audio lands · SILENCE CANON: no music player, ever · CC0 — fork me like crazy -->
+<title>The ZuitzPIT 🏔️🕳️ — Public Information Transmission · the Zuitzerland knowledge archive (demo fork)</title>
+<meta name="description" content="Every Zuitzerland session, every transcript — the Swiss network-state sandbox preserved as a P.I.T. Protocol instance. The first fork of The Esmeralda P.I.T. Press play, the words glow.">
 <!-- share cards: how the gift travels 🌺 -->
 <meta property="og:type" content="website">
-<meta property="og:url" content="https://shakaleikaumaka.github.io/vitpit/">
-<link rel="canonical" href="https://shakaleikaumaka.github.io/vitpit/">
-<meta property="og:title" content="The VitPit — the pit that asks first 💎">
-<meta property="og:description" content="Celebrating the wisdom and leadership of Vitalik Buterin. The 7th fork, the 9th P.I.T. — a consent-first demo: the full archive awaits its subject's blessing.">
-<meta property="og:image" content="assets/vitpit-diamond.png">
-<meta name="twitter:image" content="assets/vitpit-diamond.png">
-<link rel="icon" type="image/png" href="assets/vitpit-diamond.png">
-<link rel="apple-touch-icon" href="assets/vitpit-diamond.png">
+<meta property="og:url" content="https://shakaleikaumaka.github.io/zuitzpit/">
+<link rel="canonical" href="https://shakaleikaumaka.github.io/zuitzpit/">
+<meta property="og:title" content="The ZuitzPIT — Public Information Transmission, alpine edition">
+<meta property="og:description" content="40 sessions from the Swiss Alps — d/acc morning with Vitalik & Glen Weyl, Balaji, the Cypherpunk Sessions — cataloged and transcribed as the protocol's first fork.">
+<meta property="og:image" content="assets/zuitzpit-logo.jpg">
+<meta name="twitter:image" content="assets/zuitzpit-logo.jpg">
+<link rel="icon" type="image/jpeg" href="assets/zuitzpit-logo.jpg">
+<link rel="apple-touch-icon" href="assets/zuitzpit-logo.jpg">
 <meta name="twitter:card" content="summary">
-<meta name="twitter:title" content="The VitPit — the pit that asks first 💎">
-<meta name="twitter:description" content="Celebrating the wisdom and leadership of Vitalik Buterin — a consent-first demo. The 7th fork, the 9th P.I.T.">
+<meta name="twitter:title" content="The ZuitzPIT — Public Information Transmission, alpine edition">
+<meta name="twitter:description" content="700 years of Swiss democracy, transmitted. The first fork of The Esmeralda P.I.T.">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link href="https://fonts.googleapis.com/css2?family=Pirata+One&family=Fraunces:ital,opsz,wght@0,9..144,300;0,9..144,600;0,9..144,900;1,9..144,400&family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;600&display=swap" rel="stylesheet">
 <style>
 :root{
-  --bg:#070714; --bg2:#0c0c22; --card:#121230; --card2:#181840;
-  --ink:#eef0ff; --ink-dim:#a8a8d4; --ink-faint:#6a6a98;
+  --bg:#050c16; --bg2:#081524; --card:#0b1b30; --card2:#0e2240;
+  --ink:#eaf6ff; --ink-dim:#9db8d4; --ink-faint:#5f7a99;
   --w1:#5eead4; --w2:#93c5fd; --w3:#f0abfc; --w4:#fcd34d;
-  --sun:#a5b4fc; --coral:#f0c464; --aloha:#c7d2fe;
-  --line:rgba(199,210,254,.1);
+  --sun:#38bdf8; --coral:#f04e9b; --aloha:#8fe0ff;
+  --line:rgba(143,224,255,.1);
   --radius:18px;
 }
 *{margin:0;padding:0;box-sizing:border-box}
@@ -38,21 +38,21 @@ body{background:var(--bg);color:var(--ink);font-family:'Inter',system-ui,sans-se
 
 /* ---------- HERO ---------- */
 .hero{position:relative;min-height:92vh;display:flex;flex-direction:column;justify-content:center;align-items:center;text-align:center;padding:6rem 1.5rem 4rem;overflow:hidden;
-  background:radial-gradient(ellipse 80% 60% at 50% 120%, #1e1b4b 0%, transparent 60%),
-             radial-gradient(ellipse 60% 50% at 80% -10%, #1e1e4d 0%, transparent 55%),
-             radial-gradient(ellipse 50% 40% at 10% 0%, #3d2f10 0%, transparent 50%), var(--bg)}
+  background:radial-gradient(ellipse 80% 60% at 50% 120%, #12294d 0%, transparent 60%),
+             radial-gradient(ellipse 60% 50% at 80% -10%, #0e2a4d 0%, transparent 55%),
+             radial-gradient(ellipse 50% 40% at 10% 0%, #3d1030 0%, transparent 50%), var(--bg)}
 .hero::before{content:"";position:absolute;inset:0;background:
-  radial-gradient(circle at 50% 115%, rgba(165,180,252,.28) 0%, transparent 45%);
+  radial-gradient(circle at 50% 115%, rgba(56,189,248,.28) 0%, transparent 45%);
   animation:breathe 9s ease-in-out infinite}
 @keyframes breathe{0%,100%{opacity:.7}50%{opacity:1}}
 .sun{position:absolute;bottom:-16vh;left:50%;transform:translateX(-50%);width:min(60vh,520px);height:min(60vh,520px);border-radius:50%;
-  background:radial-gradient(circle, #eef0ff 0%, #a5b4fc 35%, #f0c464 60%, transparent 72%);
+  background:radial-gradient(circle, #c8efff 0%, #38bdf8 35%, #f04e9b 60%, transparent 72%);
   filter:blur(2px);opacity:.6;animation:rise 2.4s ease-out both}
 @keyframes rise{from{transform:translate(-50%,30%);opacity:0}to{transform:translate(-50%,0);opacity:.6}}
 .hero-inner{position:relative;z-index:2;max-width:900px}
 .badge-gift{display:inline-flex;align-items:center;gap:.5rem;font-size:.8rem;letter-spacing:.14em;text-transform:uppercase;color:var(--aloha);
   border:1px solid rgba(143,224,255,.35);border-radius:999px;padding:.45rem 1.1rem;margin-bottom:1.8rem;background:rgba(143,224,255,.06);backdrop-filter:blur(6px)}
-h1.logo{font-family:'Fraunces',serif;font-weight:900;font-size:clamp(3.2rem,9vw,6.5rem);letter-spacing:.01em;line-height:1;
+h1.logo{font-family:'Pirata One',serif;font-weight:400;font-size:clamp(3.2rem,9vw,6.5rem);letter-spacing:.01em;line-height:1;
   padding-bottom:.14em;margin-bottom:-.14em; /* descender room: the g's tail lives below the line box, and background-clip:text would paint over it */
   background:linear-gradient(115deg,#fff 20%,var(--aloha) 45%,var(--sun) 65%,var(--coral) 90%);
   -webkit-background-clip:text;background-clip:text;color:transparent}
@@ -405,11 +405,11 @@ footer a{color:var(--ink-dim)}
    bottom, so what you point at is never covered. desktop cursors only;
    text fields keep the I-beam, Drive's iframe keeps its own. */
 
-/* 🖱️ cursor canon (Shaka, 2026-07-27): every pit has its own mouse —
-   the VitPit points with a gem 💎. desktop cursors only (pointer:fine);
-   links, buttons & cards keep the hand, text fields keep the I-beam. */
+/* 🖱️ cursor canon (Shaka, 2026-07-27): this pit has its own mouse —
+   alien at the tip. desktop cursors only (pointer:fine); links, buttons & cards
+   keep the hand, text fields keep the I-beam, Drive's iframe keeps its own. */
 @media (pointer:fine){
-  body{cursor:url('assets/vitpit-gem-cursor.png') 16 2,auto}
+  body{cursor:url('assets/zuitz-alien-cursor.png') 16 2,auto}
 }
 </style>
 </head>
@@ -419,47 +419,48 @@ footer a{color:var(--ink-dim)}
 <header class="hero">
   <div class="sun"></div>
   <div class="hero-inner">
-    <div class="badge-gift">🍴 the 7th fork · the 9th P.I.T. · ✧ a demo awaiting its subject's blessing</div>
-    <img src="assets/vitpit-diamond.png" alt="The VitPit diamond — an ether-crystal over indigo night" style="width:96px;height:96px;object-fit:contain;filter:drop-shadow(0 12px 34px rgba(165,180,252,.45));display:block;margin:0 auto 1rem">
-    <h1 class="logo">The Vit<br><em>Pit</em></h1>
-    <div class="tagline">Public Information Transmission — celebrating the wisdom &amp; leadership of <b>Vitalik Buterin</b></div>
-    <div style="font-size:.78rem;color:var(--ink-dim);margin-top:.6rem;letter-spacing:.08em">the 7th fork · the <b>9th</b> P.I.T. — divine numbers 💎✨ · the pit that <b>asks first</b> 🕳️</div>
-    <a href="https://github.com/shakaleikaumaka/vitpit" style="display:inline-block;margin-top:.9rem;font-family:'JetBrains Mono',monospace;font-size:.85rem;letter-spacing:.14em;color:var(--aloha);text-decoration:none;border:1px solid rgba(199,210,254,.35);border-radius:999px;padding:.45rem 1.1rem;background:rgba(199,210,254,.06)">🍴 github.com/shakaleikaumaka/vitpit</a>
-    <p class="sub">Some voices bend the arc of a whole ecosystem toward thoughtfulness — toward <b>defensive acceleration</b>, pluralism, and long-term wisdom. This pit gathers one such voice. It opens with <b>two demo exhibits</b>, already transmitted at sibling pits — and its full archive awaits one thing before it transmits a single further word: <b>Vitalik's own consent</b>. The pit that asks first. 💎</p>
+    <div class="badge-gift">🍴 a P.I.T. Protocol instance · the first fork · open source forever</div>
+    <img src="assets/zuitzpit-logo.jpg" alt="The ZuitzPIT — mint Z over alpine night" style="width:96px;height:96px;object-fit:cover;border-radius:50%;box-shadow:0 12px 34px rgba(0,0,0,.45);display:block;margin:0 auto 1rem">
+    <h1 class="logo">The Zuitz<br><em>PIT</em></h1>
+    <div class="tagline">Public Information Transmission — the Zuitzerland knowledge archive · the Swiss Alps, 2025</div>
+    <div style="font-size:.78rem;color:var(--ink-dim);margin-top:.6rem;letter-spacing:.08em">700 years of Swiss democracy, <b>transmitted</b> 🏔️📡 · forked with aloha from <b>The Esmeralda P.I.T.</b> 🕳️</div>
+    <a href="https://github.com/shakaleikaumaka/zuitzpit" style="display:inline-block;margin-top:.9rem;font-family:'JetBrains Mono',monospace;font-size:.85rem;letter-spacing:.14em;color:var(--aloha);text-decoration:none;border:1px solid rgba(143,224,255,.35);border-radius:999px;padding:.45rem 1.1rem;background:rgba(143,224,255,.06)">🍴 github.com/shakaleikaumaka/zuitzpit</a>
+    <p class="sub">One sandbox in the Alps. ~200 builders prototyping the civilization of tomorrow. Every session cataloged, every word transcribed — a <b>knowledge transponder</b> for the sandbox: press play, and the words glow as they're spoken. Free for everyone to relive, remix, and carry forward.</p>
     <div class="stats">
-      <div class="stat"><b id="st-sessions">—</b><span>demo exhibits</span></div>
+      <div class="stat"><b id="st-sessions">—</b><span>sessions</span></div>
       <div class="stat"><b id="st-videos">—</b><span>recordings</span></div>
       <div class="stat"><b id="st-transcripts">—</b><span>transcripts</span></div>
-      <div class="stat"><b>2</b><span>source pits</span></div>
-      <div class="stat"><b>1</b><span>blessing awaited</span></div>
+      <div class="stat"><b>26</b><span>days</span></div>
+      <div class="stat"><b>1st</b><span>fork</span></div>
     </div>
     <div class="hero-cta">
-      <a class="btn btn-sun" href="#watch">▶ &nbsp;Enter the Demo</a>
-      <a class="btn btn-ghost" href="#consent">The Consent-First Soul 💎</a>
+      <a class="btn btn-sun" href="#watch">▶ &nbsp;Enter the Archive</a>
+      <a class="btn btn-ghost" href="#gift">The Fork 🍴</a>
     </div>
   </div>
 </header>
 
 <nav>
   <div class="wrap">
-    <span class="brand">The VitPit 💎</span>
+    <span class="brand">The ZuitzPIT</span>
     <a class="nl" href="#watch">Watch &amp; Read</a>
-    <a class="nl" href="#consent">Consent-First</a>
+    <a class="nl" href="#daily">The Dispatch</a>
     <a class="nl" href="#gift">The Fork</a>
     <span class="spacer"></span>
-    <a class="nl" href="https://github.com/shakaleikaumaka/vitpit">🍴 GitHub</a>
+    <a class="nl" href="https://drive.google.com/drive/u/0/folders/1c3mf90sMoM9RaCA7P_NTRZ0ByZoTfrB2">Source Drive ↗</a>
+    <a class="nl" href="https://github.com/shakaleikaumaka/zuitzpit">🍴 GitHub</a>
   </div>
 </nav>
 
 <!-- ============ ARCHIVE ============ -->
 <section id="watch">
   <div class="sec-head reveal">
-    <div class="sec-kicker">The Knowledge Transponder · the demo exhibits</div>
+    <div class="sec-kicker">The Knowledge Transponder</div>
     <h2 class="sec-title">Press play. The words glow.</h2>
-    <p class="sec-sub">Two talks, transmitted with the full Knowledge Transponder experience 🌊 — a <b>tiny window</b> plays the talk in the corner, small on purpose, and below, the <b>transcript glows paragraph by paragraph</b> as it's spoken — calm, no chasing. Tap any paragraph to jump there. These two exhibits already live at their home pits — <a href="https://shakaleikaumaka.github.io/zuitzpit/" style="color:var(--aloha)">The ZuitzPIT</a> and <a href="https://shakaleikaumaka.github.io/kaspit/" style="color:var(--aloha)">The KasPIT</a> — gathered here with aloha to show what the VitPit will become. The words carry everything.</p>
+    <p class="sec-sub">Every session opens the same way 🌊 — a <b>tiny window</b> plays the talk in the corner, small on purpose (alpine wifi forgives small pictures), the alpine night breathes behind it, and below, the <b>transcript glows paragraph by paragraph</b> as it's spoken — calm, no chasing. Tap any paragraph to jump there. Want the big picture? Expand the window — with love and aloha, forgive a little latency. The words carry everything.</p>
   </div>
   <div class="week-tabs reveal" id="weekTabs">
-    <button class="wtab active" data-w="all">✦ The Demo Exhibits</button>
+    <button class="wtab active" data-w="all">✦ All Sessions</button>
   </div>
   <div class="week-note" id="weekNote"></div>
   <div class="toolbar reveal">
@@ -472,19 +473,12 @@ footer a{color:var(--ink-dim)}
   <div class="grid" id="grid"></div>
   <div id="deepResults"></div>
 </section>
-<!-- ============ CONSENT-FIRST — THE SOUL OF THIS PIT ============ -->
-<section id="consent">
+<!-- ============ THE DISPATCH ============ -->
+<section id="daily">
   <div class="sec-head reveal">
-    <div class="sec-kicker">💎 The Consent-First Soul</div>
-    <h2 class="sec-title">The pit that asks first.</h2>
-    <p class="sec-sub" style="max-width:680px">Every P.I.T. lives by five stages — crawl, harvest, audit, publish, and the fifth, the soul: <b>consent-first governance</b>. Nothing enters a permanent public archive without the explicit consent of the people it belongs to. Most pits inherit consent from their gatherings. The VitPit is different: it celebrates <b>one person</b> — so it asks that one person directly.</p>
-  </div>
-  <div class="gift reveal" style="margin-bottom:1.2rem">
-    <h2>What this demo is — and what it isn't. 🕯️</h2>
-    <p><b>It is:</b> a full demonstration of the protocol — two talks by Vitalik, already public at their home pits (<a href="https://shakaleikaumaka.github.io/zuitzpit/" style="color:var(--aloha)">The ZuitzPIT</a> · <a href="https://shakaleikaumaka.github.io/kaspit/" style="color:var(--aloha)">The KasPIT</a>), gathered here so the world can see exactly what a VitPit would feel like: the Knowledge Transponder, the synced glowing transcripts, the radical honesty, the ≈$0 architecture.</p>
-    <p><b>It isn't:</b> an archive. Not yet. The bard of this family holds recordings of Vitalik from gatherings across the world — Zuzalu's orbit, ZuKas, Zuitzerland, and beyond — and a dedicated drive is being prepared. <b>None of it transmits here until Vitalik himself says yes.</b> Declared means declared, not done.</p>
-    <p>And to Vitalik, if these words ever find you: this pit was built with aloha and asks nothing but permission. Your ideas have already traveled further than any archive could carry them — this one simply promises to travel <em>with your blessing, or not at all</em>. 💎</p>
-    <p style="font-size:.9rem;color:var(--ink-faint)">Consent isn't a checkbox in this protocol — it's the foundation. If the blessing never comes, the demo stands as the whole pit, honestly labeled, forever.</p>
+    <div class="sec-kicker">The Alpine Dispatch</div>
+    <h2 class="sec-title">Dispatches from the sandbox</h2>
+    <p class="sec-sub">Written from the pit's own transcripts as the harvest fleet delivers them — the news, the bangers, the verse, and the comic relief of the Swiss sandbox. 📰🏔️</p>
   </div>
   <div id="dispatches"></div>
 </section>
@@ -513,15 +507,15 @@ footer a{color:var(--ink-dim)}
 <section id="gift">
   <div class="gift reveal">
     <h2>This pit is a fork. 🍴</h2>
-    <p>Some gatherings are places. This one is a <b>person</b>. Across Zuzalu's orbit, the Swiss Alps, the Aegean coast, and wherever the family gathers, one voice keeps showing up with d/acc optimism, pluralist depth, and meme-lord humility — and the bard who runs the A/V keeps pressing record. The VitPit is where that voice gets its own transponder.</p>
-    <p>This is the lineage's <b>seventh fork</b> — and the <b>ninth P.I.T.</b> overall. Divine numbers, and we don't take them lightly. 💎 From <a href="https://esmeraldapit.com" style="color:var(--aloha)">The Esmeralda P.I.T.</a> genesis (149 sessions · 122 hours · 138 synced transcripts · ≈$0), through <a href="https://shakaleikaumaka.github.io/zuitzpit/" style="color:var(--aloha)">ZuitzPIT</a>, <a href="https://shakaleikaumaka.github.io/patagoniapit/" style="color:var(--aloha)">PatagoniaPIT</a>, <a href="https://shakaleikaumaka.github.io/4seaspit/" style="color:var(--aloha)">4SeasPIT</a>, <a href="https://shakaleikaumaka.github.io/praguepit/" style="color:var(--aloha)">PraguePIT</a>, <a href="https://shakaleikaumaka.github.io/zuberlinpit/" style="color:var(--aloha)">ZuBerPit</a>, and <a href="https://shakaleikaumaka.github.io/kaspit/" style="color:var(--aloha)">KasPIT</a> — same DNA: the Knowledge Transponder, the radical honesty, the ≈$0 static architecture.</p>
-    <p>Everything here is open. Watch it, read it, quote it, teach with it, remix it. The knowledge belongs to the commons — <em>open source the knowledge, not just the music.</em></p>
+    <p>In May 2025, ~200 builders gathered in the Swiss Alps for Zuitzerland — a network-state sandbox prototyping the civilization of tomorrow. Shaka helped the gathering and ran the A/V. The sessions shouldn't vanish — so the pit forked.</p>
+    <p>This is the <b>first fork</b> of <a href="https://esmeraldapit.com" style="color:var(--aloha)">The Esmeralda P.I.T.</a> — the genesis archive where the protocol was proven (149 sessions · 122 hours · 138 synced transcripts · ≈$0). Same DNA, alpine blood: the Knowledge Transponder, the radical honesty, the ≈$0 static architecture.</p>
+    <p>Everything here is open. Watch it, read it, quote it, teach with it, remix it into your own sandbox. The knowledge belongs to the commons — <em>open source the knowledge, not just the music.</em></p>
     <p>And if you want to <em>build</em> with it — the whole pit is on GitHub: this site, the data, the transcripts, and the pipeline that harvested them. Everything open-sourced CC0. <b>Fork me like crazy.</b> 🍴</p>
-    <div class="sig">— PIT BOY 🕳️😤, herald of the P.I.T. Protocol<br><span style="font-size:.85rem;color:var(--ink-dim)">forked with aloha from the Esmeralda genesis · built by order of Shaka, who loves Vitalik · heart first, always · consent first, forever</span></div>
+    <div class="sig">— PIT BOY 🕳️😤, herald of the P.I.T. Protocol<br><span style="font-size:.85rem;color:var(--ink-dim)">forked with aloha from the Esmeralda genesis · recordings shared by the bard who ran their A/V · heart first, always</span></div>
     <div class="links">
-      <a class="btn btn-sun" href="https://github.com/shakaleikaumaka/vitpit">🍴 Fork this P.I.T. on GitHub</a>
-      <a class="btn btn-ghost" href="https://shakaleikaumaka.github.io/zuitzpit/">🏔️ The ZuitzPIT (provenance)</a>
-      <a class="btn btn-ghost" href="https://shakaleikaumaka.github.io/kaspit/">🌊 The KasPIT (provenance)</a>
+      <a class="btn btn-sun" href="https://github.com/shakaleikaumaka/zuitzpit">🍴 Fork this P.I.T. on GitHub</a>
+      <a class="btn btn-ghost" href="https://drive.google.com/drive/u/0/folders/1c3mf90sMoM9RaCA7P_NTRZ0ByZoTfrB2">📁 Residency Drive</a>
+      <a class="btn btn-ghost" href="https://drive.google.com/drive/u/0/folders/19NeUKjf1wxpuzTSzYyYEyS4WO6JShWcs">📁 2025 Summit Drive</a>
       <a class="btn btn-ghost" href="https://esmeraldapit.com">🕳️ The Esmeralda P.I.T. (genesis)</a>
       <a class="btn btn-ghost" href="https://publicinform.com">📡 The P.I.T. Protocol</a>
     </div>
@@ -529,9 +523,9 @@ footer a{color:var(--ink-dim)}
 </section>
 
 <footer>
-  <b>The VitPit</b> 💎 · Public Information Transmission · celebrating the wisdom &amp; leadership of Vitalik Buterin · the 7th fork · the 9th P.I.T. · a consent-first demo — the archive awaits its subject's blessing<br>
-  <span style="font-size:.85rem">🕳️ The pit provides · forked with aloha from <a href="https://publicinform.com" style="color:var(--aloha)">publicinform.com</a> · demo exhibits via <a href="https://shakaleikaumaka.github.io/zuitzpit/" style="color:var(--aloha)">zuitzpit</a> × <a href="https://shakaleikaumaka.github.io/kaspit/" style="color:var(--aloha)">kaspit</a> · genesis: <a href="https://esmeraldapit.com" style="color:var(--aloha)">esmeraldapit.com</a> · part of the P.I.T. universe 🌺🤙<br>
-  🍴 everything open-sourced CC0 — fork me like crazy → <a href="https://github.com/shakaleikaumaka/vitpit" style="color:var(--aloha)">github.com/shakaleikaumaka/vitpit</a> · 🔇 silence canon: pits listen, they don't sing — no music player here.</span>
+  <b>The ZuitzPIT</b> · Public Information Transmission · the Zuitzerland knowledge archive · Zuitzerland residency, May 2025 · the Swiss Alps · a demo P.I.T. Protocol instance<br>
+  <span style="font-size:.85rem">🕳️ The pit provides · forked with aloha from <a href="https://publicinform.com" style="color:var(--aloha)">publicinform.com</a> · recordings shared by the bard who ran their A/V · genesis: <a href="https://esmeraldapit.com" style="color:var(--aloha)">esmeraldapit.com</a> · part of the P.I.T. universe 🌺🤙<br>
+  🍴 everything open-sourced CC0 — fork me like crazy → <a href="https://github.com/shakaleikaumaka/zuitzpit" style="color:var(--aloha)">github.com/shakaleikaumaka/zuitzpit</a> · 🔇 silence canon: pits listen, they don't sing — no music player here.</span>
 </footer>
 
 <!-- ============ MODAL ============ -->
@@ -544,7 +538,7 @@ footer a{color:var(--ink-dim)}
         <div class="mmeta" id="mmeta"></div>
       </div>
       <div class="ux-isle" aria-hidden="true">
-        <img class="ux-isle-img" src="assets/vitpit-diamond.png" alt="" style="border-radius:50%;width:64px;height:64px;object-fit:cover">
+        <img class="ux-isle-img" src="assets/zuitzerland-aliens-mascot.jpeg" alt="" style="border-radius:50%;width:64px;height:64px;object-fit:cover">
         <div class="ux-isle-tag">with aloha 🌺 from the first fork — sorry for the wifi &amp; the latency…
           the Alps forgive small pictures.
           <b>the pit provides 🕳️🏔️</b></div>
@@ -558,7 +552,7 @@ footer a{color:var(--ink-dim)}
 <!-- ============ THEATER: now stage-scoped, built inside #uxStage by openTheater() ============ -->
 
 <script>
-const WEEKS = {}; /* VitPit demo: two exhibits, one honest tab — the archive forms when (and only when) consent lands */
+const WEEKS = {}; /* Zuitzerland: source drive gives upload dates, not session dates — one honest "All Sessions" tab until the Summit folder opens */
 const DRIVE = id => `https://drive.google.com/file/d/${id}/view`;
 const PREVIEW = id => `https://drive.google.com/file/d/${id}/preview`;
 const STREAM = id => `https://drive.usercontent.google.com/download?id=${id}&export=download&confirm=t`;
@@ -580,7 +574,7 @@ async function boot(){
 }
 
 function fmtDate(d){
-  if(!d) return 'The VitPit demo';
+  if(!d) return 'Zuitzerland 2025';
   return new Date(d+'T12:00:00').toLocaleDateString('en-US',{weekday:'short',month:'short',day:'numeric'});
 }
 
@@ -604,7 +598,7 @@ function render(){
   const list = filtered();
   const grid = document.getElementById('grid');
   document.getElementById('countNote').textContent = `${list.length} session${list.length===1?'':'s'}`;
-  document.getElementById('weekNote').textContent = state.week==='all' ? '✦ Two demo exhibits · via The ZuitzPIT × The KasPIT · the archive forms when consent lands 💎' : (WEEKS[state.week]?.note||'');
+  document.getElementById('weekNote').textContent = state.week==='all' ? '✦ The Zuitzerland residency, May 2025 · the 2025 Summit joins when its drive opens' : (WEEKS[state.week]?.note||'');
   if(!list.length){ grid.innerHTML = '<div class="empty">Nothing here yet — try another week or search 🌅</div>'; return; }
   grid.innerHTML = list.map((s,i)=>{
     const _vids = s.media.filter(m=>m.kind==='video');
@@ -731,7 +725,7 @@ function showUnified(s){
             ${hasVideo && !vidDead ? `<button class="mini-expand" id="uxExpand" title="watch the video big 🌊">⛶ video</button>`:''}
           </div>
         </div>
-        <div class="ux-artwrap"><img class="ux-art" src="assets/vitpit-diamond.png" alt="The VitPit diamond" style="border-radius:18px"></div>
+        <div class="ux-artwrap"><img class="ux-art" src="assets/zuitzerland-aliens-mascot.jpeg" alt="The Zuitzerland aliens — Ethereum is goood"></div>
       </div>
       <canvas class="ux-viz" id="uxViz"></canvas>
     </div>
@@ -919,7 +913,7 @@ function showUnified(s){
     document.querySelector('.ux-controls').style.display='none';
     document.getElementById('uxRetry').onclick = ()=>showUnified(s);
     const hint = document.querySelector('.ux-hint');
-    if(hint) hint.innerHTML = 'the Drive is catching its breath (quota resets daily) — press ⟳ in the corner to retry the synced stream, or read along below 🌺';
+    if(hint) hint.innerHTML = 'the sandbox Drive is catching its breath (quota resets daily) — press ⟳ in the corner to retry the synced stream, or read along below 🌺';
   });
 
   const expandBtn = document.getElementById('uxExpand');
@@ -1084,7 +1078,7 @@ function openTheater(){
       <iframe id="stFrame" src="${PREVIEW(vidEntry.id)}?autoplay=1&t=${t0}s" allow="autoplay; fullscreen" allowfullscreen></iframe>
       ${hosted ? '<div class="ux-shield st-shield" id="stShield" title="tap to play / pause · tap low to skip — the words follow 🌊"></div>' : ''}
     </div>
-    <div class="st-note"><b>with love &amp; aloha 🌺</b> — a small picture forgives slow connections, so a picture may carry a little latency. the words carry everything.${MOBILE_T ? ' on some phones Google asks for a sign-in before the video plays — ✕ shrink brings you back to the 🎧 transponder, which always carries the sound.' : ''}</div>`;
+    <div class="st-note"><b>with love &amp; aloha 🌺</b> — alpine wifi forgives small pictures, so a picture may carry a little latency. the words carry everything.${MOBILE_T ? ' on some phones Google asks for a sign-in before the video plays — ✕ shrink brings you back to the 🎧 transponder, which always carries the sound.' : ''}</div>`;
   stage.appendChild(ov);
   document.getElementById('stClose').onclick = ()=>closeTheater();
   /* theater shield: same sync invariant as the tiny window —
@@ -1290,7 +1284,7 @@ async function deepSearch(q){
       }
       if(!hits.length){ box.innerHTML = `<div class="deep-none">no spoken matches for “${esc(q)}” in ${SEARCH_IDX.length.toLocaleString()} spoken chunks 🌙</div>`; return; }
       const fmtS = t=>{const h=Math.floor(t/3600),m=Math.floor(t%3600/60),s=t%60;return (h?h+':':'')+String(m).padStart(2,'0')+':'+String(s).padStart(2,'0');};
-      box.innerHTML = `<div class="deep-head">💎 heard in the pit — ${hits.length}${hits.length>=24?'+':''} spoken moment${hits.length===1?'':'s'} for “${esc(q)}”</div>` +
+      box.innerHTML = `<div class="deep-head">🌊 heard in the sandbox — ${hits.length}${hits.length>=24?'+':''} spoken moment${hits.length===1?'':'s'} for “${esc(q)}”</div>` +
         hits.map(([si,t,x])=>{
           const s = SESSIONS[si]; if(!s) return '';
           const hl = esc(x).replace(new RegExp('('+q.replace(/[.*+?^${}()|[\]\\]/g,'\\$&')+')','ig'),'<b class="hl">$1</b>');
@@ -1309,7 +1303,7 @@ document.querySelectorAll('.chip').forEach(c=>c.onclick=()=>{
   c.classList.toggle('on'); state.f[c.dataset.f] = c.classList.contains('on'); render();
 });
 
-/* ---------- dispatches (dormant: the VitPit publishes no dispatch until consent lands) ---------- */
+/* ---------- dispatches: The Alpine Dispatch ---------- */
 function renderBlock(b){
   switch(b.type){
     case 'lead': return `<p class="lead">${esc(b.content)}</p>`;
@@ -1377,6 +1371,6 @@ document.querySelectorAll('.reveal').forEach(el=>io.observe(el));
 
 boot();
 </script>
-<!-- 🕳️ SILENCE CANON (inherited from the Esmeralda genesis, Shaka's order 2026-07-25, supersedes ALL prior player orders): NO music player on any P.I.T. — ever. "thats for listening to the community." The archive stays silent by design: the only sound here is the community's own sessions. The pit listens. · VitPit v1.0.0 2026-07-27: the 7th fork / 9th P.I.T. — consent-first demo for Vitalik Buterin · full genesis UX · ether-indigo restyle 💎 · 2 demo exhibits via zuitzpit × kaspit -->
+<!-- 🕳️ SILENCE CANON (inherited from the Esmeralda genesis, Shaka's order 2026-07-25, supersedes ALL prior player orders): NO music player on any P.I.T. — ever. "thats for listening to the community." The archive stays silent by design: the only sound here is the community's own sessions. The pit listens. · ZuitzPIT v2.0.0 2026-07-26: full genesis-UX port — Knowledge Transponder modal, synced glowing transcripts, tap-to-seek, deep search, Patrick's speaker bubbles — alpine restyle 🏔️ -->
 </body>
 </html>
