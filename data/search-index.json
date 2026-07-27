@@ -1,5 +1,3755 @@
 [
  [
+  1,
+  1,
+  "Testing. Testing. Okay. Thanks everyone for joining. So this is the first session for the future of living track. We'll we'll mention a litt"
+ ],
+ [
+  1,
+  13,
+  "le more of that after these two sessions. I'll do a brief introduction, to our two speakers, and then we will have two sessions, and we'll k"
+ ],
+ [
+  1,
+  26,
+  "ind of take it as it goes. We'll do a presentation"
+ ],
+ [
+  1,
+  30,
+  "discussion, and then after that, we can begin the next one depending on when that finishes. So I'm super excited to introduce the upcoming s"
+ ],
+ [
+  1,
+  38,
+  "peakers both for the actual sessions they'll do, but also just to introduce them to Switzerland and the wider Zuzulu community. I think ther"
+ ],
+ [
+  1,
+  47,
+  "e's a lot of interesting alignment there and mutual interests in a way that is quite serendipitous, I think. One simple way I like to think "
+ ],
+ [
+  1,
+  55,
+  "about Zuzulu and the pop up city or pop up village movement is it's it's fundamentally like a an innovation around clustering people. So it'"
+ ],
+ [
+  1,
+  64,
+  "d be a simple way to think of it is"
+ ],
+ [
+  1,
+  66,
+  "x number of people in y location for z duration. I think that's a nontrivial innovation, in the twenty first century to bring these people t"
+ ],
+ [
+  1,
+  75,
+  "ogether. And it you can see by the testament to how many. There's something like 40 to 60 of these that have happened since the first Suzulu"
+ ],
+ [
+  1,
+  83,
+  " and Montenegro two years ago, which is pretty insane. But they're a bit of a crossroads, I think, the movement now into what's next. You kn"
+ ],
+ [
+  1,
+  92,
+  "ow, 40 to 60 of these pop ups all around the world, pretty incredible, but I think it's clear that there's some roadblocks there. You know, "
+ ],
+ [
+  1,
+  100,
+  "not being super plugged into a jurisdiction."
+ ],
+ [
+  1,
+  103,
+  "Are we contributing to places? And also from an innovation perspective, there's only so much you can do in a in a short duration if people a"
+ ],
+ [
+  1,
+  112,
+  "re dispersing after that can that just has big questions around can you what what are the lengths that you can actually, what things you can"
+ ],
+ [
+  1,
+  121,
+  " commit? So with that in mind, I think Shaje and Alicia both fit at this wonderful intersection"
+ ],
+ [
+  1,
+  127,
+  "of, big ideas and also appreciation of trade offs, which is to say they actually build things in real life and have been doing so for a whil"
+ ],
+ [
+  1,
+  137,
+  "e. And so they can really perfect for to meet this community now. So a little bit more about each and then we'll get started. So Alicia is t"
+ ],
+ [
+  1,
+  146,
+  "he founder of the Circular Factory, and anybody here been to Prospera"
+ ],
+ [
+  1,
+  151,
+  "in Rota, Honduras? Yes. Some. People who've been there, we all have seen the Circular Factory, the big robotic arm. That is Alicia's company"
+ ],
+ [
+  1,
+  160,
+  " that is in robotic construction. And also professor of architecture at the University of Calgary, and I I thought I'd add this in to really"
+ ],
+ [
+  1,
+  169,
+  " give a sense of what I mean by alignment. Here's a paper title from Alicia from last year."
+ ],
+ [
+  1,
+  175,
+  "Decentralized data informed robotic based digital timber micro factories. I feel like there's any paper title that would fit the wider Zoozu"
+ ],
+ [
+  1,
+  185,
+  "lu community. That is it. And so and next moving on to Shaje. Shajeh is an architect at Zahadid Architects and cofounder of CODE, z a g d h "
+ ],
+ [
+  1,
+  196,
+  "a's computational design research group. So also quite aligned here."
+ ],
+ [
+  1,
+  201,
+  "So I'm super excited to introduce Shajeh to start. Thank you. So thanks a lot, Chance, and also to Una even though, like, in in this particu"
+ ],
+ [
+  1,
+  213,
+  "lar instance, like, the introduction to Zuzulu came through Chance, like but I know Una from the time I was doing my PhD at ETH here"
+ ],
+ [
+  1,
+  225,
+  "in Switzerland. And, like, between Alicia and myself, like, we're hoping to, as Chan said, introduce or convince most of you that, like, arc"
+ ],
+ [
+  1,
+  238,
+  "hitecture should be as integral part of the Zuzulu mindset as as the rest of the topics of, you know, longevity, crypto"
+ ],
+ [
+  1,
+  249,
+  "cryptography, and cryptoeconomics, and so on. Because, like, we we do think, like, the the architecture as a discipline has evolved consider"
+ ],
+ [
+  1,
+  258,
+  "ably and has a lot of alignments as Chance just mentioned with with with the ambitions and and also the technologies that are powering ZooZu"
+ ],
+ [
+  1,
+  268,
+  "lu and and decentralized communities. So we're gonna and that's the context of where we are saying a architectural stack that can talk to th"
+ ],
+ [
+  1,
+  277,
+  "e rest of the"
+ ],
+ [
+  1,
+  278,
+  "the stack in terms of, like, physically making some of these communities happen. As like and why we come come to this, like, as a company at"
+ ],
+ [
+  1,
+  288,
+  " Zadid Architects, like, we're also aligned with this mode of thinking, technology enabled urbanism and architecture. Because for the last f"
+ ],
+ [
+  1,
+  299,
+  "ifty years, we have now built over 20 in 25 different countries, about a 100 projects,"
+ ],
+ [
+  1,
+  305,
+  "deeply impact the urban environment and deeply impact the economy in in which they're situated, like, across across the g 25 countries, let'"
+ ],
+ [
+  1,
+  315,
+  "s say. And one of the things that this enables, like 50 here runway in a way, is for us to begin to think about, like, connecting back with "
+ ],
+ [
+  1,
+  324,
+  "the twentieth century paradigm, like, which transformed the planet both for good and, like, not so good reasons"
+ ],
+ [
+  1,
+  332,
+  "or outcomes. Like, so there was this movement called the Bauhaus, like, in it was a short lived movement from 1918 to to about 1930 where a "
+ ],
+ [
+  1,
+  342,
+  "lot of in like, it was quite similar to Zuzulu in that sense that there was a lot of investment into new modes of knowledge and new modes of"
+ ],
+ [
+  1,
+  351,
+  " production. Here is, like, Joseph and Annie Albers, like, talking about curved origami"
+ ],
+ [
+  1,
+  357,
+  "introduced into a design curriculum. And and so even though it was a short lived design movement, like, had, like, deep it helped prepare, l"
+ ],
+ [
+  1,
+  367,
+  "ike, the architectural and urban fraternity to to rebuild nations immediately after the second world war, like, with these iconic showcase b"
+ ],
+ [
+  1,
+  376,
+  "uildings that were enabling nations to, like, commit people to come come together and back into cities"
+ ],
+ [
+  1,
+  383,
+  "and rebuild rebuild their culture, let's say. And so architecture was an instrument of change. And and and we also enabled a lot of innovati"
+ ],
+ [
+  1,
+  392,
+  "ons to be tried and tested, which later made its way into the mass buildings that we see across the globe, including mass residential buildi"
+ ],
+ [
+  1,
+  401,
+  "ngs like the like like these that we now see across the world. And and therefore, it also impacted urbanization"
+ ],
+ [
+  1,
+  408,
+  "throughout the twentieth century. So what started as like a small, like like minded people, like, from various disciplines actually coming t"
+ ],
+ [
+  1,
+  417,
+  "ogether and with the interest in technology and interest in new forms of inquiry, like, by the end of the century, completely transforming t"
+ ],
+ [
+  1,
+  427,
+  "he planet. So we we we believe, like, we're in a similar moment of cumulative,"
+ ],
+ [
+  1,
+  432,
+  "collaborative enrichment, like, which would potentially lead to disruption. Right? Like, so we start with simple idea ideas that experiments"
+ ],
+ [
+  1,
+  442,
+  " which we already seen in the last fifteen, twenty years, like things that we did in 2008 in India, like like as experiments, like $1,000, $"
+ ],
+ [
+  1,
+  451,
+  "2,000 experiments. Like now feeding, like, large projects like stadiums,"
+ ],
+ [
+  1,
+  456,
+  "museums, and so on, which and then further on to houses and cities. So in in in all of these, like, we found, like, kind of first principle "
+ ],
+ [
+  1,
+  466,
+  "exploration, the key to to collaboration, and, like, not to have, like, a deeply structured education, but, like, just to explore collaborat"
+ ],
+ [
+  1,
+  475,
+  "ively from first principles. So largely, like, I've experienced in the last twenty years of my career at Zahid Architects, like, four distin"
+ ],
+ [
+  1,
+  485,
+  "ct episodes, like, retrospectively, if I think about it."
+ ],
+ [
+  1,
+  489,
+  "A deep interest in, like, computational geometry. So, and second, like, application of that to to robotic fabrication. And the one topic tha"
+ ],
+ [
+  1,
+  499,
+  "t I will talk about today more in-depth is games, video games for consensus building, and and how that kinda also leads to the next immediat"
+ ],
+ [
+  1,
+  508,
+  "e topic of, like, AI for cities. And so here's, like, a kind of visual sense of, like, what these first principle experiments were like for "
+ ],
+ [
+  1,
+  518,
+  "like, when we started in 2004."
+ ],
+ [
+  1,
+  520,
+  "Like, there was a lot of excitement around computer graphics, you know, like tooling, like processing, and so on, which were coming out of M"
+ ],
+ [
+  1,
+  529,
+  "IT around that time. Like so we had it introduced architects to these kind of ideas from computer graphics and computational geometry. And s"
+ ],
+ [
+  1,
+  538,
+  "imilarly, like, around the 2012 period, there was, like, interest in robotic"
+ ],
+ [
+  1,
+  543,
+  "application of robotic processes to non industrial non auto not non automobile domains like architecture and so on. So digital fabrication, "
+ ],
+ [
+  1,
+  555,
+  "which the NCCR, which in ETH came came about at around the same time, like around 2012. And and and also, there was a distinct period, like,"
+ ],
+ [
+  1,
+  566,
+  " around leading up to the COVID"
+ ],
+ [
+  1,
+  569,
+  "pandemic, like, from, like, around 2016. There was a deep interest in Unity and, Unreal Engine, like, and all these kind of games and how ar"
+ ],
+ [
+  1,
+  578,
+  "chitecture could interface with that and and particularly for consensus building, which is what I will talk about, as I said. And and that k"
+ ],
+ [
+  1,
+  586,
+  "inda leads to this this this topic of, like, AI for new cities, like, which is something that we are beginning to invest collaboratively"
+ ],
+ [
+  1,
+  595,
+  "across most professional circles in architecture. So why why this interest in cities? Like, because architecture is a very social domain dis"
+ ],
+ [
+  1,
+  606,
+  "cipline as much as it's technological. And cities, like, even the word comes from, like, roots share its roots with, like, other words like "
+ ],
+ [
+  1,
+  617,
+  "civilization,"
+ ],
+ [
+  1,
+  618,
+  "other words like citizens, and so on. And so and cities, like, it might not be as prominently known outside of architecture in urban circles"
+ ],
+ [
+  1,
+  628,
+  " that, like, they do actually fundamental contributor to GDP. So you can see that, like, all the high GDP countries, like, are actually deep"
+ ],
+ [
+  1,
+  638,
+  "ly very much urbanized, like and so and it's it's almost like a linear graph. Like, the more urbanization,"
+ ],
+ [
+  1,
+  646,
+  "more more GDP. And that's also one of the main reasons why China brought it like a large amount of its population out out of poverty through"
+ ],
+ [
+  1,
+  655,
+  " through city building, a very deliberate city building exercise. And and what's interesting also if you compare New York and London, like, "
+ ],
+ [
+  1,
+  665,
+  "city building is is is a deliberate act, like, which can have a deep impact not only in the economy, but also in the sociology of a city. So"
+ ],
+ [
+  1,
+  674,
+  " London, thousands of years of evolution,"
+ ],
+ [
+  1,
+  677,
+  "and New York, not so many, like, just two centuries. Right? Like and so population roughly similar, eight eight to 9,000,000. GDP about four"
+ ],
+ [
+  1,
+  686,
+  " times three times more in New York. But what's more interesting is, like, GDP per square kilometer, so called economic density is, like, fo"
+ ],
+ [
+  1,
+  696,
+  "ur orders more. Right? Four factor of four more. So there that's the extent of impact you can have if you deliberate about, like, the decisi"
+ ],
+ [
+  1,
+  705,
+  "ons, like, the way New York did about, like, two centuries ago."
+ ],
+ [
+  1,
+  709,
+  "And and which we now believe this is a very exportable prosperity enhancing invention. Right? Like that for some strange reason, The US neve"
+ ],
+ [
+  1,
+  718,
+  "r repeated that experiment. But, like, places like Hong Kong have taken some parts of it. And, like, there are definitely others other count"
+ ],
+ [
+  1,
+  727,
+  "ries that are looking at New York as a case study. Like and and what did New York get right? Like, one of the key things they got right, lik"
+ ],
+ [
+  1,
+  736,
+  "e, was the idea of fungibility."
+ ],
+ [
+  1,
+  738,
+  "Like so, like, land was, like like, broken down into these fungible packets, like, plots, like, that, like, enable developers to bid for lan"
+ ],
+ [
+  1,
+  747,
+  "d and develop templates, like, that they can rapidly scale up the city, like, which is not the case in London, like, where every plot is uni"
+ ],
+ [
+  1,
+  756,
+  "que and, like, it's non very non standardized. And they also came up with, like, lots of innovations built so called air rights or alienable"
+ ],
+ [
+  1,
+  765,
+  " rights, like, which is what air rights is. Like, you you can sell your air rights to your neighbor,"
+ ],
+ [
+  1,
+  771,
+  "and that promoted a lot of kind of unique ways to encode, like, health of a city so that you don't, like, block light to somebody else. And "
+ ],
+ [
+  1,
+  781,
+  "and so and the other innovation they did was also zoning, like, not not always right, but because they segregated zoning, there was resident"
+ ],
+ [
+  1,
+  791,
+  "ial areas and then industrial areas and so on. In some areas leading to, like, kinda decay."
+ ],
+ [
+  1,
+  798,
+  "But the zoning map of New York is, like, is one of its also imminent a good example of its innovations. And all of these were deliberated am"
+ ],
+ [
+  1,
+  807,
+  "ong groups of people. Some were architects and urban urbanists, but most of them were actually general people from various walks of life, in"
+ ],
+ [
+  1,
+  815,
+  "cluding politicians and so on. So that I think, like, alludes to the importance of, like, thinking about these things, like, collectively."
+ ],
+ [
+  1,
+  824,
+  "And also, like, the Central Park, like, and was a competition for creation of public space, like investing in public space and including the"
+ ],
+ [
+  1,
+  834,
+  " libraries around that Central Park and so on. And and not only that, like, got the standardized template designs. Like, they had a template"
+ ],
+ [
+  1,
+  843,
+  " for high rise, and they had template for various kinds of houses, like tenements, like, for multifamily housing,"
+ ],
+ [
+  1,
+  851,
+  "young people like artists, like studio housing, and so on. So there are six or seven types of houses all across New York, like, you can stil"
+ ],
+ [
+  1,
+  860,
+  "l to date see. And so all of these together is why, like, kinda New York really was able to build very quickly in about two two two centurie"
+ ],
+ [
+  1,
+  869,
+  "s and, like, kinda supersede like New York in in a in a short supersede like London despite its much longer history."
+ ],
+ [
+  1,
+  876,
+  "So broadly, we can think about this urban planning, urban design, and architectural design all in it and deliberated in in one integrated sy"
+ ],
+ [
+  1,
+  886,
+  "stem. Right? So that's that's what we like want would like to to bring bring about in this allow for people to think about the trade offs in"
+ ],
+ [
+  1,
+  896,
+  "volved in planning, think about understand trade offs involved"
+ ],
+ [
+  1,
+  900,
+  "in urban design, architectural design, and so on. Because we do, as I said, believe our cities are a recent architectural invention with som"
+ ],
+ [
+  1,
+  909,
+  "ething we should, as architects, be all very proud of because it really affects like almost all of the population of the world, like it only"
+ ],
+ [
+  1,
+  919,
+  " occupy cities only occupy 1% of the surface area of the planet, and it accounts for more than 80% of the wealth of our civilization. So and"
+ ],
+ [
+  1,
+  928,
+  " by extension also, like, most of the pollution problems. Right? Like and so and the world needs, like, you know, 250 plus more Londons or m"
+ ],
+ [
+  1,
+  937,
+  "ore New Yorks."
+ ],
+ [
+  1,
+  938,
+  "And, like, places like India, Africa, like, definitely need more cities to to uplift its populations. So the the expectation is by 2050, the"
+ ],
+ [
+  1,
+  949,
+  "re will be about two and a half, roughly 2,000,000,000 more people in cities than than they currently exist today. So and that's where we th"
+ ],
+ [
+  1,
+  959,
+  "ink, like, AI could have a very critical role, like, people"
+ ],
+ [
+  1,
+  964,
+  "and community of the complex trade offs between economy, ecology, prosperity of citizens, and and so on That the built environment, like, ki"
+ ],
+ [
+  1,
+  974,
+  "nda intangibly controls, like, if we and we wanna make that more tangible. Right? That and that's where we think games have, like, a enormou"
+ ],
+ [
+  1,
+  983,
+  "s potential to make that happen because games already do make complex information"
+ ],
+ [
+  1,
+  989,
+  "more accessible, and and it's it's a way of thinking about trade offs without being an expert in one of the the domains. Right? And and, tra"
+ ],
+ [
+  1,
+  997,
+  "ditionally, if you think about cities, like, as you you will soon think about, like, a permanent hub, like, the way is to think about a loca"
+ ],
+ [
+  1,
+  1006,
+  "tion and then, like, you think about an energy source and then you think about some housing and then you think about services, and then thin"
+ ],
+ [
+  1,
+  1014,
+  "k about transport, and then last comes culture."
+ ],
+ [
+  1,
+  1017,
+  "So this is a very linear way like most cities have been thought of in the twentieth century, but we can flip all of this and, like, gonna br"
+ ],
+ [
+  1,
+  1026,
+  "ing all of it like, integrate all of it from the get go. And and many people have thought of talked about this, like, just, you know, Alin B"
+ ],
+ [
+  1,
+  1034,
+  "ertau, like, order without design, kind of thinking about cities as labor markets, Jane Jacobs, like urbanist, urban geographer,"
+ ],
+ [
+  1,
+  1042,
+  "urban economist who's who's written and and and was a great advocate for Greenwich Village in in New York and like many other aspects of New"
+ ],
+ [
+  1,
+  1053,
+  " York. And and she eventually retired in Montreal. And and also Frei Otto who is like a architect. He's he kinda thought about simulating ho"
+ ],
+ [
+  1,
+  1064,
+  "w cities grow and how human"
+ ],
+ [
+  1,
+  1066,
+  "beings occupy and connect within territories. And that these are all kind of phenomena that could be understood equally in a scientific way "
+ ],
+ [
+  1,
+  1077,
+  "as as any other natural science topic. And so many of these ideas are embedded in, like, SimCity and Cities Skyline, like, which is a succes"
+ ],
+ [
+  1,
+  1089,
+  "sor to SimCity"
+ ],
+ [
+  1,
+  1090,
+  "series where, like, you as a mayor or, like, a player have to maximize the welfare of the citizens, like, within within your game. Right? Li"
+ ],
+ [
+  1,
+  1099,
+  "ke and and and and and when we look at the literature that, like, goes into design of these city builder games, like, they're referring to e"
+ ],
+ [
+  1,
+  1108,
+  "xactly all the topics that I just mentioned, like architectural design, urban planning, urban zoning."
+ ],
+ [
+  1,
+  1114,
+  "And, like, when you play the game, you're not actually thinking about these topics, but you're intuitively engaged with that, and you're rea"
+ ],
+ [
+  1,
+  1122,
+  "lly engaged with the trade offs that are involved. And so in that sense, like, the city builder games, think of land and communal resources "
+ ],
+ [
+  1,
+  1130,
+  "as, like, a kind of farming. Right? Like, where do you put towers? Where do you put, like, residential buildings?"
+ ],
+ [
+  1,
+  1137,
+  "Because all of it, like, has a effect on the net GDP or the net welfare of of the citizen. Right? Like, because if you get any of these thin"
+ ],
+ [
+  1,
+  1147,
+  "gs wrong, like, maybe, like, you will end up with, a less prosperous city. So that's the that's what's at stake. Like, if you it's extremely"
+ ],
+ [
+  1,
+  1156,
+  " path dependent. Like, if you first put a hospital, like, it becomes a hospital city like Philadelphia."
+ ],
+ [
+  1,
+  1163,
+  "Or if you're if you have a financial institution that comes in first like London, then, you know, because of the port and like it it takes o"
+ ],
+ [
+  1,
+  1172,
+  "n a different culture. Right? So and through games, you can accelerate that time and kind of predict this economic dimension and the social "
+ ],
+ [
+  1,
+  1181,
+  "dimension of the built environment. And how they do it is is is like it's also a beautifully abstract"
+ ],
+ [
+  1,
+  1188,
+  "system, like, allows us to reason about the urban environment. Right? Like, so first is you as a player, like, assign so called land use, me"
+ ],
+ [
+  1,
+  1197,
+  "aning where our residences, where our offices, where our green areas, where our energy supply, and so on. So you make this layout and then a"
+ ],
+ [
+  1,
+  1205,
+  "ssign land use, which is what urban planners do. And then you also have to grapple with, like, economics,"
+ ],
+ [
+  1,
+  1212,
+  "like, because for every road that you lay down, you need to, you know, have a you'll have to take a loan, and then you have to generate reve"
+ ],
+ [
+  1,
+  1220,
+  "nue to pay back the loan, and which is also how cities work. Right? And what's what's beautiful about these games is like the idea of The Si"
+ ],
+ [
+  1,
+  1229,
+  "ms. So every citizen is actually has a life within within the game. They wake up and they go to office or they have go go go to recreational"
+ ],
+ [
+  1,
+  1237,
+  " areas and they complain about, like, roads being too long. So they there's a mechanism by which to evaluate citizen happiness within within"
+ ],
+ [
+  1,
+  1246,
+  " what you're doing, the way you're laying out the roads actually affects the end citizen."
+ ],
+ [
+  1,
+  1251,
+  "And all of this is simulated by literal human agents that are walking around in the city having a life. Right? Like, a accelerated life. Lik"
+ ],
+ [
+  1,
+  1260,
+  "e, so so that that's that mechanism is, like, very beautiful, like, something that we can build on and and and explore the bottom up emergen"
+ ],
+ [
+  1,
+  1270,
+  "t aspects of cities, which which is deeply emergent and nonlinear."
+ ],
+ [
+  1,
+  1274,
+  "So it's not it's not an optimization problem. Right? Like, it's it's more a path dependent forecasting problem. And so we we've been trying "
+ ],
+ [
+  1,
+  1284,
+  "to build on this idea of, like, okay. Rather than have one mayor, like, why can't we have, like, representative players? Like, each each pla"
+ ],
+ [
+  1,
+  1294,
+  "yer has a representational constituency, like so a player has to take"
+ ],
+ [
+  1,
+  1299,
+  "care of all the residential buildings, another player has to take care of all the commercial, and then there's also a fifth player which is "
+ ],
+ [
+  1,
+  1306,
+  "about citizen welfare. So we can take this single player game and make it a five player game. And eventually, we can make it a multiplayer, "
+ ],
+ [
+  1,
+  1314,
+  "hundreds and hundreds of player game. But, like, this is sufficiently complex enough, like, for us to begin to reason about games and our it"
+ ],
+ [
+  1,
+  1321,
+  "s architectural use. So each of these players has a kind of profile and a tendency to do certain things,"
+ ],
+ [
+  1,
+  1327,
+  "like invest in if you're a residential developer, you will invest in land which is closer to green areas or, like, further away from noisy a"
+ ],
+ [
+  1,
+  1336,
+  "reas and so on. And if you're a commercial developer, you're aligned close closer to the roads and and and things like this. And with just t"
+ ],
+ [
+  1,
+  1344,
+  "his mindset, like, you can play this monopoly on any kind of, like, urban like, this happens to be in London."
+ ],
+ [
+  1,
+  1351,
+  "And you can, like, kind of see it's, turn by turn game playing, and you can begin to forecast, like, you know, what are the what are the thi"
+ ],
+ [
+  1,
+  1359,
+  "ngs that are important to the various players. Like and and these these could be likely future scenarios in in which the city might grow. Ri"
+ ],
+ [
+  1,
+  1368,
+  "ght? Like and so this is just a computational thinking. We are not literally coded it up. Like, we just play"
+ ],
+ [
+  1,
+  1374,
+  "played like, four four of us got together and played this game. And so have it's students from the design research lab at AA in London. And "
+ ],
+ [
+  1,
+  1384,
+  "and so that's that's the context in which, like, we're we're framing the architecture and urbanism as a including, you know, like, the game "
+ ],
+ [
+  1,
+  1394,
+  "theoretic principles of incentive design. And all of this can come into play. And what's exciting for us is, like,"
+ ],
+ [
+  1,
+  1402,
+  "you know, since 2024, there is a resurgence of interest in reinforcement learning and agentic AI and so on. So it it it aligns very well wit"
+ ],
+ [
+  1,
+  1410,
+  "h, like, the fact that we are been trying for the last six, seven years to make this into a game. So it it kind of like, now we can just get"
+ ],
+ [
+  1,
+  1419,
+  " the AI agent to play the game, and and kind of look at, like, all these trade offs, that that might emerge. Right? Like and so this is a il"
+ ],
+ [
+  1,
+  1427,
+  "lustration of, like, a potential kind of mark off sequence that, like, the reinforcement agent can discover."
+ ],
+ [
+  1,
+  1434,
+  "Like, where to put what? Each each toke each color is like a kind of building, like residential, like commercial. And and so every time you "
+ ],
+ [
+  1,
+  1443,
+  "place a building, there's a cost benefit analysis. So it could be simplified into a kind of Markov chain. Right? Like and that's that's the "
+ ],
+ [
+  1,
+  1452,
+  "idea, like, for the for for what we are now trying to explore. And and once so the idea is to predict win win situations for both for the ci"
+ ],
+ [
+  1,
+  1461,
+  "ty and the citizen."
+ ],
+ [
+  1,
+  1462,
+  "And and once we have that, like, could also convert, like, the exact same tiles into physically buildable architectural tiles. So we have id"
+ ],
+ [
+  1,
+  1472,
+  "ea of how much it will cost, how much material you would need, how much carbon it will take, and so on. So it doesn't need to be only boxes."
+ ],
+ [
+  1,
+  1483,
+  " Like, it can truly be inhabitable"
+ ],
+ [
+  1,
+  1485,
+  "virtual spaces, which can then later be physically realized. So we can convert those box actions into actual geometry. And and so we can exp"
+ ],
+ [
+  1,
+  1494,
+  "lore many scenarios like this. Right? Like, agent could, like, think, okay, maybe I should build three towers or six towers or no towers. An"
+ ],
+ [
+  1,
+  1503,
+  "d so all of this becomes possible future outcomes and and a three-dimensional"
+ ],
+ [
+  1,
+  1508,
+  "use of land, not just two dimensional use of land. And and so that is the context in which, like, we I will leave you with this project, lik"
+ ],
+ [
+  1,
+  1520,
+  "e, which is the first project that we were looking into physically realizing some of these ideas, like a pilot project in in Rwatan, which i"
+ ],
+ [
+  1,
+  1531,
+  "s a island"
+ ],
+ [
+  1,
+  1532,
+  "off of the mainland Honduras, like and and it's a startup city called Prospera Honduras. And, when we first met, like, the developers, like "
+ ],
+ [
+  1,
+  1543,
+  "like, you know, they they said they wanna create a city and, like, they have, like, less than a million dollars. Like, we've you know, we we"
+ ],
+ [
+  1,
+  1554,
+  " we both love that ambition, but also,"
+ ],
+ [
+  1,
+  1557,
+  "you know, more we're aligned with this kind of naive way of thinking that, like, you know, yeah, we could kinda make it happen. So, it's tak"
+ ],
+ [
+  1,
+  1565,
+  "en a long time and we have still not realized the first even buildings, but, but that's that's the global vision that, like, once that red a"
+ ],
+ [
+  1,
+  1573,
+  "rea is built a pilot project, like, there's also ambition to build out, like, a much bigger, let's say, development."
+ ],
+ [
+  1,
+  1580,
+  "And so to to make these two things happen, like, we propose these hypothetical companies called Configurator Company and and Circular Factor"
+ ],
+ [
+  1,
+  1591,
+  "y. And Prosper has actually invested and built Circular Factory, Alicia will talk about more, how much effect it's already having. But, like"
+ ],
+ [
+  1,
+  1602,
+  ", the the left side, like, the configurator company didn't actually"
+ ],
+ [
+  1,
+  1607,
+  "make its way to be a company, but, like, a lot of that thinking really has evolved quite a lot since. So so on the configurator side, like, "
+ ],
+ [
+  1,
+  1617,
+  "built this used the unreal engine game engine and built this browser based game. So you would go in, select some pixels, like, in three d, a"
+ ],
+ [
+  1,
+  1628,
+  "nd also customize the interior of your house"
+ ],
+ [
+  1,
+  1631,
+  "and and, you know, get, like, whether you want, like, a two bedroom layout, a five bedroom layout, and so on. And and then also walk around "
+ ],
+ [
+  1,
+  1639,
+  "and take a look at, like, how much of the ocean you can see from your house and who your neighbors are. That's the key part of the configura"
+ ],
+ [
+  1,
+  1646,
+  "tor is less about configuring the interior spaces, but, like, configuring the community, which is unlike a car configurator. Right? Like, a "
+ ],
+ [
+  1,
+  1654,
+  "car configurator, you only"
+ ],
+ [
+  1,
+  1655,
+  "configure, like, the trim and, like, so on. But here, you can actually choose where who you want to be neighbors with and what you wanna sha"
+ ],
+ [
+  1,
+  1663,
+  "re with your neighbor. Like, you wanna share some parts of your house with the neighbor. So that was the intention of calling it configurato"
+ ],
+ [
+  1,
+  1671,
+  "r is like configuring like the spatial layout of your of your of your community. And and then in the in the meantime, also get trade"
+ ],
+ [
+  1,
+  1679,
+  "feedback about trade offs involved like how much it's gonna cost. So you don't build stuff like in the sky and then without thinking that yo"
+ ],
+ [
+  1,
+  1688,
+  "u need to put columns underneath and so on. So so just making visible these kind of intangible trade offs that would otherwise be difficult."
+ ],
+ [
+  1,
+  1697,
+  " And so this is enabled with borrowing ideas from like three d air rights that from New York where, like, users who are non expert in archit"
+ ],
+ [
+  1,
+  1706,
+  "ecture, they just purchase"
+ ],
+ [
+  1,
+  1708,
+  "using tokens like these. Well, not DeFi tokens, but, like, just tokens, like monopoly tokens, these three d pixels. Like and, behind the sce"
+ ],
+ [
+  1,
+  1718,
+  "nes, we calculate what kind of buildings could actually fit within the pixel world. Right? Like, so corner units, like middle units, tall un"
+ ],
+ [
+  1,
+  1728,
+  "its, horizontal units, all of this is done taken care by the architectural"
+ ],
+ [
+  1,
+  1733,
+  "system and not a burden on the on the on the community or the non expert. And so in order to do that, it's a lot more work for us as archite"
+ ],
+ [
+  1,
+  1742,
+  "cts. Like, we have to create create this kit of parts, and each kit has to be then, costed. And we also need to know that these kits will co"
+ ],
+ [
+  1,
+  1751,
+  "mbine reasonably well. Of course, some of the combinations will be meaningless. Like, you know, you might have the roof on the ground and an"
+ ],
+ [
+  1,
+  1760,
+  "d and columns on the sky. But,"
+ ],
+ [
+  1,
+  1762,
+  "also, we have to test that, like, most of the combinations will result in meaningful outcomes. And and so this is another scope for a kinda "
+ ],
+ [
+  1,
+  1771,
+  "AI assistance. And what we what one of the benefits of this was that, like, we knew ahead of time, like, which of the layouts would be prefe"
+ ],
+ [
+  1,
+  1781,
+  "rred by that particular community. Like, you know, two bedroom units or, like, a tall studio unit, like so so we had, like, nine or 10 layou"
+ ],
+ [
+  1,
+  1790,
+  "ts that we had"
+ ],
+ [
+  1,
+  1791,
+  "a short list of. And within that, like, most people only preferred one or two. So there's also kind of interesting outcome. So now we can, l"
+ ],
+ [
+  1,
+  1800,
+  "ike, kinda design these in greater detail. Right? Like, which is flipping the flipping the design process usually. And so, again, like, all "
+ ],
+ [
+  1,
+  1810,
+  "of these are enabled by a kit of parts, can be physically constructed, which Alicia will talk more about"
+ ],
+ [
+  1,
+  1817,
+  "using using the circular factory. But, like, because, like, we have the circular factory, we know how much effort it takes and how much how "
+ ],
+ [
+  1,
+  1826,
+  "much it costs to convert raw material into the finished product. Right? Like, it's a near near side factory that converts raw material into "
+ ],
+ [
+  1,
+  1834,
+  "into the finished building. We also know how much labor is involved, like how much machine time is involved, like and so all of this can be "
+ ],
+ [
+  1,
+  1843,
+  "fed back into the early stages into the configurator."
+ ],
+ [
+  1,
+  1846,
+  "And one of the other benefits of, like, this integrated system is that you don't have to design only one unit and stack stack the units. You"
+ ],
+ [
+  1,
+  1855,
+  " can now think of all the units together as one single building. And this has many benefits like in the sense that when you integrate struct"
+ ],
+ [
+  1,
+  1864,
+  "ure across the building, you can save, you know, up to 50%"
+ ],
+ [
+  1,
+  1868,
+  "in material because you can design the bottom part of the house to be stronger because it's carrying more weight and the light upper parts o"
+ ],
+ [
+  1,
+  1878,
+  "f the houses can be much lighter. So so there's economic benefit, there's a material benefit, and so on because you have you configured it a"
+ ],
+ [
+  1,
+  1887,
+  "head of time. So you don't have to make a universal unit which is over designed for most"
+ ],
+ [
+  1,
+  1893,
+  "most users. Right? Like and so that's the so this is where we are at, like, where we hope to realize this little cluster, that red blob that"
+ ],
+ [
+  1,
+  1903,
+  " you saw in few slides ago. But if that is successful, like, we, you know, we could expand it out to other building types, co living, studen"
+ ],
+ [
+  1,
+  1913,
+  "t housing, and so on. And so these ideas like the"
+ ],
+ [
+  1,
+  1917,
+  "physical realization, Alicia will talk more about how the social innovation angles as well, like and yeah. And I will leave you with this li"
+ ],
+ [
+  1,
+  1928,
+  "ttle video of, like, some of these ideas. Alongside, we made a Fortnite demo, which half a million people played in, like, the first five da"
+ ],
+ [
+  1,
+  1939,
+  "ys. And you will see that what's"
+ ],
+ [
+  1,
+  1941,
+  "in this video, as you can see in, like, about three to five minutes, people can spray these three d pixels and visualize how their spaces co"
+ ],
+ [
+  1,
+  1952,
+  "uld be like, and it's also collaborative. It has a four player idea and it's a residential versus offices. And and and all of this was creat"
+ ],
+ [
+  1,
+  1963,
+  "ed by kids as young as seven or eight."
+ ],
+ [
+  1,
+  1966,
+  "And it's truly, in that sense, a wisdom of the crowd. Everything you see here created by kids, very young players. And and a lot of them are"
+ ],
+ [
+  1,
+  1976,
+  " very architecturally meaningful. Right? Like and, yeah. So that's that's the kind of AI that we also think about, like a kind of wisdom of,"
+ ],
+ [
+  1,
+  1986,
+  " like, human AI. Right? That so, yeah. Like, with that, I I will take pause here and invite any questions."
+ ],
+ [
+  1,
+  1993,
+  "Otherwise, I can keep talking for for a very long time. So yeah. Thank you for your presentation. Your comparison of New York and London was"
+ ],
+ [
+  1,
+  2012,
+  " very much on economical value and comparison only"
+ ],
+ [
+  1,
+  2019,
+  "based on this cash flow creation in New York without taking into account other kind of parameters of the city. So I'm curious since we're he"
+ ],
+ [
+  1,
+  2033,
+  "re, the idea is to build a hub more for value driven and based on specific mission,"
+ ],
+ [
+  1,
+  2042,
+  "how can architecture actually help in creating something mission driven to maximize that part not economical? Yeah. Good good good question."
+ ],
+ [
+  1,
+  2056,
+  " I mean, it's like, I mean, GDP or economic measures are, you know, a proxy for I mean, it's just a unit of account. Right? Like that and"
+ ],
+ [
+  1,
+  2069,
+  "you could measure other things, like like if you want to include within this metric, you could have, like, you know, ecological measures lik"
+ ],
+ [
+  1,
+  2079,
+  "e carbon footprint and carbon credits. And my the point I'm trying to make is that, like, architecture is important. You used to think about"
+ ],
+ [
+  1,
+  2088,
+  " planning and forecasting the effect of the built environment on the welfare of the city, like economic welfare, ecological welfare. You cou"
+ ],
+ [
+  1,
+  2098,
+  "ld think about social welfare as well, like of,"
+ ],
+ [
+  1,
+  2101,
+  "you know, how may you could measure how how frequently you interact with, how frequently these agents interact, between their places of work"
+ ],
+ [
+  1,
+  2110,
+  " and their traveling to places of living. How how how often do they meet others? Like so that could be one of the ways, like, you can measur"
+ ],
+ [
+  1,
+  2118,
+  "e things like, you know, how lonely a person could be in a city. Like, for example, Los Angeles, most of the time, like, the city is so spar"
+ ],
+ [
+  1,
+  2127,
+  "se."
+ ],
+ [
+  1,
+  2127,
+  "Like, most of the time, people are in their cars. Right? Like and or there's not that high frequency of interaction. Whereas, like, both New"
+ ],
+ [
+  1,
+  2136,
+  " York and London, like, you all likely to meet a lot of people on the streets. Like and so the the built environment has a deep impact on al"
+ ],
+ [
+  1,
+  2145,
+  "l the things that, like, are important, like, to including, you know, welfare of, the community"
+ ],
+ [
+  1,
+  2151,
+  "interaction density. And so the idea is to, like, you only use the economic density as a as a example. And I'm not saying New York is better"
+ ],
+ [
+  1,
+  2162,
+  " than London in all dimensions. I'm just saying, like, thinking about the implications of design and thinking about how to capture some of t"
+ ],
+ [
+  1,
+  2173,
+  "hese metrics is is a important"
+ ],
+ [
+  1,
+  2175,
+  "activity. I will clarify my question. If we have zones and the standard building template templates as a kind of good options to create fast"
+ ],
+ [
+  1,
+  2191,
+  "er economical growth, do we have the same thing like pre researched"
+ ],
+ [
+  1,
+  2199,
+  "architectural templates to kind of develop community and mission driven organizations? Yes. I I I would think so. Like, for example, London "
+ ],
+ [
+  1,
+  2210,
+  "also had some templates. Templates. Like, it had the live work template. Like, it was called the Topshop. So you would live and you would ha"
+ ],
+ [
+  1,
+  2221,
+  "ve your carpenter or have the shop in the same same building and and that created"
+ ],
+ [
+  1,
+  2227,
+  "a lot of guild like communities. And yeah. So there is definitely and Amsterdam similarly has architectural templates that enable a certain "
+ ],
+ [
+  1,
+  2237,
+  "kind of urban fabric and a certain kind of urban community. And also New York, like, these templates enable a kind of worker community, like"
+ ],
+ [
+  1,
+  2246,
+  ", high density tenements. Like, some of it was horrible living conditions, but, like, some of it is actually now worth, like, thousands of d"
+ ],
+ [
+  1,
+  2256,
+  "ollars in rent. Like, the studio apartment,"
+ ],
+ [
+  1,
+  2259,
+  "you know, with the tall ceilings and so on, it was designed for artists, like, to to and that's why they became, like, quite expensive over "
+ ],
+ [
+  1,
+  2269,
+  "time. And yes. So definitely, there are architectural templates that you can the history of it, but you can also design specifically for out"
+ ],
+ [
+  1,
+  2280,
+  "come in mind with"
+ ],
+ [
+  1,
+  2281,
+  "if you want a social fabric that you wanna create. Like, if if you wanna encourage, like, this kind of co living, you can definitely create "
+ ],
+ [
+  1,
+  2291,
+  "smaller rooms like, but more shared spaces. Right? So your people are kinda not gonna be like in their own rooms because their rooms are so "
+ ],
+ [
+  1,
+  2301,
+  "big, but they're kind of want to come out more often. So which is the case in Hong Kong, for example, like, the rooms are, like, so small."
+ ],
+ [
+  1,
+  2311,
+  "Most of the people are always outside, like, and and so yeah. There's actually a tool called Reality OS developed by the same guy that creat"
+ ],
+ [
+  1,
+  2326,
+  "ed the CryEngine, And he is now exploring the ability to, like, layer on, like, your digital identity onto the digital twin. So, like, depen"
+ ],
+ [
+  1,
+  2341,
+  "ding on, like, what attestations"
+ ],
+ [
+  1,
+  2344,
+  "you have with your digital identity, they can, like, do, like, clusters. This is where, like, persons with this type of identity is and so f"
+ ],
+ [
+  1,
+  2355,
+  "orth. So there's, like, tooling being designed. Really fascinating presentation. When you mentioned querying AI to kind of simulate what typ"
+ ],
+ [
+  1,
+  2366,
+  "e of development may be needed and"
+ ],
+ [
+  1,
+  2369,
+  "would it be possible to kind of query the AI and tell us where to build new cities around the world depending on economic factors. Will that"
+ ],
+ [
+  1,
+  2380,
+  " be possible in the future? Yes. I mean I mean, as Balaji says, like, all the things that are needed for network states including the archit"
+ ],
+ [
+  1,
+  2392,
+  "ectural technology exist today."
+ ],
+ [
+  1,
+  2394,
+  "We just need to rehash it to to for one of the it's a very important question as to, like, where to build new cities or if to build new citi"
+ ],
+ [
+  1,
+  2404,
+  "es. Right? Like and and one of the ways we think that could happen is if you re reduce the threshold for experimentation. And so, like, you "
+ ],
+ [
+  1,
+  2415,
+  "you know, like, it it should be okay to, like, try building as many new cities and some of them may not work like so you don't you try to re"
+ ],
+ [
+  1,
+  2425,
+  "duce the threshold of experimentation"
+ ],
+ [
+  1,
+  2428,
+  "and and this is these kind of technologies are definitely one way to do that like where you try to typically, a new city will cost like, you"
+ ],
+ [
+  1,
+  2439,
+  " know, in the order of billions of dollars of investment, but that's maybe with like nodes like Zuzulu, like, that could be, you know, broug"
+ ],
+ [
+  1,
+  2449,
+  "ht into the order of magnitude of millions. Right? Like and and a few millions"
+ ],
+ [
+  1,
+  2455,
+  "everywhere, like, will then enable the communities to discover these synergy clusters. Right? Like, where to build, what kind of city. If th"
+ ],
+ [
+  1,
+  2465,
+  "ere are a thousand experiments happening in each each region of the world, like, then some of them might not succeed and the others will, kn"
+ ],
+ [
+  1,
+  2475,
+  "ow, aggregate like all the citizens of other experiments. And so"
+ ],
+ [
+  1,
+  2480,
+  "AI is definitely helpful, like but the real AI is actually human with human crowds that, like, kind of take these exploratory decisions and "
+ ],
+ [
+  1,
+  2491,
+  "and experiments like these. Like, I mean, it it might, you know, sustain itself and become like a bigger city or it might have to pair up wi"
+ ],
+ [
+  1,
+  2503,
+  "th like, you know,"
+ ],
+ [
+  1,
+  2504,
+  "Zoo Switzerland might have to pair up with Zoo Berlin. I don't know. Like, you know, like that that might happen. Right? Like yeah. So to re"
+ ],
+ [
+  1,
+  2515,
+  "duce cost of experimentation is a key, I think, in our before before enabling AI. AI can actually help, like but the bigger help would be to"
+ ],
+ [
+  1,
+  2526,
+  " reduce cost for implementation. Hi."
+ ],
+ [
+  1,
+  2529,
+  "So I believe the real reason your company is interested in cities is that your, I guess, now former boss, Patrick Schumacher, became an anar"
+ ],
+ [
+  1,
+  2539,
+  "cho capitalist, you know, in the early nineties. Right? And, you know, that must have been a very, I guess, let's say, it must have been ver"
+ ],
+ [
+  1,
+  2550,
+  "y contrary to what most of the other employees"
+ ],
+ [
+  1,
+  2553,
+  "and managers, you know, believed in. And I'm just curious, like, how it affected the company internally. You know, was there a war of any ki"
+ ],
+ [
+  1,
+  2564,
+  "nd? Like, how has that affected recruitment? How has that affected client relations? Just give us the insider story, please. Well, yeah. We "
+ ],
+ [
+  1,
+  2574,
+  "we are employee benefits trust, and,"
+ ],
+ [
+  1,
+  2577,
+  "and that's something that Zaha encoded in in our will. And and all of Patrick's opinions are his opinions, and and many of us are actually w"
+ ],
+ [
+  1,
+  2589,
+  "e have affinity to certain certain of his architectural ideas, certain of his entrepreneurial ideas, like and and since we are not most of t"
+ ],
+ [
+  1,
+  2600,
+  "he employees are not from Europe,"
+ ],
+ [
+  1,
+  2603,
+  "and so we don't have any background in the kind of ideological aspects of of this discourse. Like, so I I I wouldn't know what anarcho capit"
+ ],
+ [
+  1,
+  2613,
+  "alism is. I mean, I wouldn't even know what really capitalism is, like, because my my idea of it is, like, colored by where I'm from. Simila"
+ ],
+ [
+  1,
+  2624,
+  "rly, many others in the company are from, like, Peru or China, like so so our 95%"
+ ],
+ [
+  1,
+  2630,
+  "of the company is, like, non native to to The UK and which is what, like, Zaha actually really enabled. Like and and and to the large credit"
+ ],
+ [
+  1,
+  2641,
+  ", it's also, like, Patrick who enabled that bringing the most interesting characters together. And so, yeah, there's always disagreement, no"
+ ],
+ [
+  1,
+  2652,
+  "t only now,"
+ ],
+ [
+  1,
+  2653,
+  "but it's always been disagreement is our way of being successful, like and because every every idea is deeply contested within within the pr"
+ ],
+ [
+  1,
+  2665,
+  "actice before I mean, it might seem that we're unified on the outside, which which is true because we are employee benefits trust like and s"
+ ],
+ [
+  1,
+  2677,
+  "o"
+ ],
+ [
+  1,
+  2677,
+  "which means that the brand of the company is a collective asset, like so and and if we lose a client, like, everybody loses a client. Right?"
+ ],
+ [
+  1,
+  2688,
+  " Like and so so that's why, like, Patrick's opinions are independent of how the company runs and the clients we make. He he does he has a vo"
+ ],
+ [
+  1,
+  2699,
+  "te as any other senior director."
+ ],
+ [
+  1,
+  2701,
+  "And and this is something that is not particularly new within the company, which is all like, there's a precedent also in Foster and Partner"
+ ],
+ [
+  1,
+  2711,
+  "s, like, you know, which became it's not an employee benefits trust, but they they also have a similar structure where partners have equity."
+ ],
+ [
+  1,
+  2721,
+  " And and so that's that's the incentive mechanism"
+ ],
+ [
+  1,
+  2725,
+  "by which, like, the company is making sure that no one opinion, like, supersedes others. Like and so so that's one. And, like, a lot of thes"
+ ],
+ [
+  1,
+  2737,
+  "e ideas actually coming from Patrick. Not not so much from a kind of kinda ideological perspective, but to promote innovation and invention "
+ ],
+ [
+  1,
+  2750,
+  "in"
+ ],
+ [
+  1,
+  2750,
+  "in in our profession. Because if we don't build, if we don't experiment constantly, we are not getting good as architects, which is unfortun"
+ ],
+ [
+  1,
+  2760,
+  "ately the case for most of, most of Europe. Like, most architects in in in European nations, like, they get to build one building in five ye"
+ ],
+ [
+  1,
+  2770,
+  "ars. So it's clearly you're not gonna get as good as somebody in Indonesia building, like, 50"
+ ],
+ [
+  1,
+  2777,
+  "in a year. So so some of what Patrick says is to kinda really, you know, goad people out of like this kind of decelerated trajectory, which "
+ ],
+ [
+  1,
+  2789,
+  "is very detrimental to to our profession. Yeah. A quick one and then a deeper one. Like, is this Fortnite build still on? Yes. Can you share"
+ ],
+ [
+  1,
+  2800,
+  " the island code on the on the telegram as soon Yes. I will send it to Chance and yes. Thank you. That that will be fun. I I forgot my Ninte"
+ ],
+ [
+  1,
+  2812,
+  "ndo though, so but but still, it'll happen later. The other one is"
+ ],
+ [
+  1,
+  2817,
+  "I'm it it it's it's always fun to see, like, Jane Jacob and and this this this name's up on the screen, but, like, I'm very curious, and thi"
+ ],
+ [
+  1,
+  2825,
+  "s is not a fully formulated question, but I'm very curious about how you see these network staking things coming up because it's like a kind"
+ ],
+ [
+  1,
+  2833,
+  "a like a kind of mindset applied without leveraging this Jane Jacobs kind of narrative. So I'm very curious if you see any dangers of these "
+ ],
+ [
+  1,
+  2841,
+  "gated communities sprouting across the world"
+ ],
+ [
+  1,
+  2844,
+  "taking over, like, this narrative of, like, oh, we're in community and we're doing this and that. So yeah. It can be a coffee later also. Bu"
+ ],
+ [
+  1,
+  2853,
+  "t Yeah. No. It is a deliberate choice like and many people point point this out like to me and and others also that, you know, how how I can"
+ ],
+ [
+  1,
+  2862,
+  " take Jane Jacobs in the same breath as Kouhuzi. Right? And"
+ ],
+ [
+  1,
+  2866,
+  "because they seem mismatched, which is true on the outside, like but in reality, like, when you think about making cities, like, you need, l"
+ ],
+ [
+  1,
+  2877,
+  "ike, clearly people with, like, a kinda insane vision to overcome, like, the many, many, many hurdles that will definitely come up. Right? A"
+ ],
+ [
+  1,
+  2889,
+  "nd and at the same time, like Jane Jacobs is is very important,"
+ ],
+ [
+  1,
+  2894,
+  "counter figure to also consider, like that that, like we shouldn't become we shouldn't think of cities as optimization problem. Right? Like "
+ ],
+ [
+  1,
+  2905,
+  "as was pointed out by the first question. But it is a kind of effective resource utilization problem. Right? Like, if you think about societ"
+ ],
+ [
+  1,
+  2915,
+  "al resources"
+ ],
+ [
+  1,
+  2916,
+  "as something that like should benefit as many people as possible. Right? Citizen welfare maximizing. So so that's where we think like these "
+ ],
+ [
+  1,
+  2929,
+  "two potentially contradicting polls are very useful to always have in mind because city building is in some sense"
+ ],
+ [
+  1,
+  2940,
+  "a kind of activity of imposing a kind of will on onto the land and so on. But at the same time, there's a societal aspect that we should pay"
+ ],
+ [
+  1,
+  2951,
+  " heed to. So, yeah, it's just to have these two poles and remind ourselves like that city building is it requires both for sure. Like, becau"
+ ],
+ [
+  1,
+  2962,
+  "se we want one cannot really exist without the other. In"
+ ],
+ [
+  1,
+  2967,
+  "games, life is different than the real reality. And when you build in Skyline, you can really demolish everything and rebuild because citize"
+ ],
+ [
+  1,
+  2978,
+  "ns are aren't, happy. How can you reconcile that with real life? How can we rebuild without affecting people? Yeah. Good question. Like, it "
+ ],
+ [
+  1,
+  2989,
+  "is I mean, there's not exactly reality obviously, like, but there's a abstraction of the"
+ ],
+ [
+  1,
+  2996,
+  "critical processes at play. And, like, for example, I was talking talking to Chance this morning, like Tokyo is a constantly rebuilding city"
+ ],
+ [
+  1,
+  3007,
+  ". Right? Like, it's not build once and, like, stuck there forever. Like, there because of their earthquake code, because of their, other eve"
+ ],
+ [
+  1,
+  3017,
+  "n societal"
+ ],
+ [
+  1,
+  3018,
+  "ownership processes, like not many people own buildings and houses in in Tokyo. The building has a life cycle of, like, fifteen years. Right"
+ ],
+ [
+  1,
+  3029,
+  "? Like, so, you know, like parts of Tokyo change every fifteen years kind of like rapidly because of this. But the negative effect of that i"
+ ],
+ [
+  1,
+  3040,
+  "s that like nobody really invest in the architecture"
+ ],
+ [
+  1,
+  3044,
+  "of a building. Like you will never you would unlikely to find like really they'll be well maintained buildings, but they're not extraordinar"
+ ],
+ [
+  1,
+  3053,
+  "y buildings, you know, very few. And some which are extraordinary are likely to be temples or like something from like six, seven centuries "
+ ],
+ [
+  1,
+  3062,
+  "ago. Right? Like and so it is possible to reconcile cities do grow"
+ ],
+ [
+  1,
+  3066,
+  "through in phases. Right? Like, the first wave of urbanization is usually these dingbat houses, which are like made cheaply and and then aft"
+ ],
+ [
+  1,
+  3076,
+  "er that, like, the next wave will be a better set of houses and better set of buildings. So yeah. Like, Skyline Cities is is in that sense c"
+ ],
+ [
+  1,
+  3086,
+  "apturing that process of regeneration"
+ ],
+ [
+  1,
+  3089,
+  "that is always happening in cities. Like, we might not pay attention to it. And maybe in Europe, it's it's a bit more static. But most North"
+ ],
+ [
+  1,
+  3098,
+  " American cities even even though North America is almost 100% urbanized, there's constant re urbanization happening all the time. Like mall"
+ ],
+ [
+  1,
+  3108,
+  "s get torn down, new houses come in, yeah. So so yeah. Architecture that recognizes"
+ ],
+ [
+  1,
+  3113,
+  "that buildings need to be torn down will be better. So, design for disassembly is a key topic because disassembly and destruction is constan"
+ ],
+ [
+  1,
+  3124,
+  "t in our cities. We'll cap questions for now. Thanks a lot, Sanjay. Sure. Let's have a few minutes. Everyone has to go to the bathroom and t"
+ ],
+ [
+  1,
+  3135,
+  "hen we'll start in"
+ ],
+ [
+  1,
+  3136,
+  "five minutes for the next session. Okay. If we could start to sit down, please."
+ ],
+ [
+  1,
+  3381,
+  "Testing. Okay. We're gonna get started. Okay. I did the introduction before, but,"
+ ],
+ [
+  1,
+  3408,
+  "just a quick reminder for anyone who just came. Alicia is going to give a a session now and cover some of the things you saw in Chajes, and "
+ ],
+ [
+  1,
+  3417,
+  "particularly the circular factory in Honduras. Thank you. Yeah. Thank you, Chase, very much, Chance, for the introduction. And I'm very happ"
+ ],
+ [
+  1,
+  3426,
+  "y to be here and share a little bit of, our inspiration"
+ ],
+ [
+  1,
+  3430,
+  "on how we came to Circular Factory and where we are at right now on the on on our path. So I have been working on the path of, like, digital"
+ ],
+ [
+  1,
+  3439,
+  " fabrication, robotic construction for the last fifteen years and kind of being really interested in how can we build new geometries, new sh"
+ ],
+ [
+  1,
+  3449,
+  "apes that could that could be similar to, like, maybe a more efficient structures that we used to have in the past. But that's since moderni"
+ ],
+ [
+  1,
+  3458,
+  "sm,"
+ ],
+ [
+  1,
+  3458,
+  "we have left behind, and we don't see in our build environment anymore. And that part led me to start in to work with robotics to look at ot"
+ ],
+ [
+  1,
+  3467,
+  "her techniques and other ways of describing geometry, of using material, and of building geometries. And I think that one of the big questio"
+ ],
+ [
+  1,
+  3475,
+  "ns that we have as we think about new cities and as we think as as the evolution of our of the built environment"
+ ],
+ [
+  1,
+  3482,
+  "is, for example, how, like, in the car industry, cars look different now than how they used to look in the nineteen hundreds. And they have "
+ ],
+ [
+  1,
+  3490,
+  "evolved according to the technology that is used to build them and the resources that are used to build them. And differently than that, on "
+ ],
+ [
+  1,
+  3497,
+  "the built environment, we don't really see that kind of difference. We really see, that the buildings look very much the same or sometimes e"
+ ],
+ [
+  1,
+  3505,
+  "ven worse than,"
+ ],
+ [
+  1,
+  3506,
+  "than 1,900 or a long time ago. So the main question is when we when we are looking at new cities, at new at new developments, can we build i"
+ ],
+ [
+  1,
+  3514,
+  "n a different way that is more efficient, that is more sustainable, and that also is more aligned to human life and and to and to more ambit"
+ ],
+ [
+  1,
+  3522,
+  "ious architectural pursuits? And, something for me, like, very interesting as we work through this is when we find that, the ways that we bu"
+ ],
+ [
+  1,
+  3530,
+  "ild right now into the 2,025"
+ ],
+ [
+  1,
+  3532,
+  "are based on patents that are coming from the nineteen hundreds. For example, reinforcement, bars for, for concrete or, this is, also from t"
+ ],
+ [
+  1,
+  3542,
+  "he 1866 when this patent was, filed. Or if we see it like kind of CLT, mass timber, all of what we talk about now these days about timber, a"
+ ],
+ [
+  1,
+  3552,
+  "lso we can go to the nineteen twenties when this was invented. So the idea on the on on circular factory and of what we're pursuing is how c"
+ ],
+ [
+  1,
+  3562,
+  "an we"
+ ],
+ [
+  1,
+  3562,
+  "what will be the modern version of this? How how will this look? And how can we make this more accessible, more customized, and more distrib"
+ ],
+ [
+  1,
+  3569,
+  "uted? And, of course, we use a we we know that AI can give us a lot of good ideas. We love generating stuff with AI. However, at the end of "
+ ],
+ [
+  1,
+  3577,
+  "the day, to be part of the built environment, we do have to build all of these structures, and we have to build, all of these geometries. So"
+ ],
+ [
+  1,
+  3584,
+  " how do we manufacture and build these ideas that when we talk to groups, when we talk to people that, they they are really fascinated by fo"
+ ],
+ [
+  1,
+  3591,
+  "rms and shapes that they don't see normally in the built environment."
+ ],
+ [
+  1,
+  3595,
+  "How can we make this accessible, affordable, and efficient, and also participatory for everyone involved? And those are the the kind of tene"
+ ],
+ [
+  1,
+  3603,
+  "ts of what we have been working on. Why do we use robots? And why we have been shaping circular factory on robots is because they are really"
+ ],
+ [
+  1,
+  3611,
+  " accessible machines. They are very cheap, compared to other larger fabrication machines that are that are on the industry for, like,"
+ ],
+ [
+  1,
+  3619,
+  "traditional orthogonal construction or panelized construction or mass timber. So, so we we focus a lot on robotic arms. We know that there h"
+ ],
+ [
+  1,
+  3627,
+  "as been a lot of work since, the '19, early two thousand with the gray matter and collar at the ATH and a lot of other universities and inst"
+ ],
+ [
+  1,
+  3635,
+  "itutions really looking at robotic fabrication as an alternative. And the other thing is also that we know that the machines are very are ve"
+ ],
+ [
+  1,
+  3642,
+  "ry flexible. So, like, whatever you can hold on your hand, whatever tool you can have, robot arm can also hold on their hand. They can also "
+ ],
+ [
+  1,
+  3650,
+  "use the same"
+ ],
+ [
+  1,
+  3651,
+  "chainsaw, bandsaw, gripper, pencil, marker, whatever you can think of. And, and and that's kind of, we kind of started to to play with this "
+ ],
+ [
+  1,
+  3660,
+  "and to see, okay, what what are the the different, kinematics, different solvers, the different, ways that we need to program robotics, but "
+ ],
+ [
+  1,
+  3669,
+  "also how can we build geometries that have a different language, but that also is reflective of the robot, of how the robot works as opposed"
+ ],
+ [
+  1,
+  3678,
+  " to of how the human works. And also how can these geometries be built in an efficient way? So, this is kind of some experiment that we did "
+ ],
+ [
+  1,
+  3688,
+  "at the DRL, at the AA."
+ ],
+ [
+  1,
+  3689,
+  "On a master's studio, I was leading with for five years. And we're kind of really all all the ornamentation is coming from the robot arm. An"
+ ],
+ [
+  1,
+  3696,
+  "d, also, how can we mix a lot of these methods of construction with traditional methods of construction? So not, you know, not not making ev"
+ ],
+ [
+  1,
+  3704,
+  "erything new, but also taking expertise from things that are very well established that people know how to do, that people are comfortable d"
+ ],
+ [
+  1,
+  3711,
+  "oing, and just bringing that layer of innovation on top to be able to to make it different, to make a difference."
+ ],
+ [
+  1,
+  3717,
+  "So that's kind of the thing that really interest us. And something that that we know is, like, the design for manufacturing and assembly, th"
+ ],
+ [
+  1,
+  3725,
+  "e main percept of the industry, the FMA, came on the nineteen eighties when a lot of the on-site construction, a lot of the of the of the fa"
+ ],
+ [
+  1,
+  3734,
+  "brication basically got moved into into factories, into shops. And the and a lot of the built environment of what we see around those today "
+ ],
+ [
+  1,
+  3742,
+  "is made of construction seen as manufacturing,"
+ ],
+ [
+  1,
+  3745,
+  "which basically means that the houses, buildings are produced off-site in a in a remote location in factories and are they transported to si"
+ ],
+ [
+  1,
+  3752,
+  "te to to where they are going to be deployed. What that means on the one hand is that, we have a lot of repetition, a lot of standardization"
+ ],
+ [
+  1,
+  3760,
+  " as opposed to normal housing where where you kind of have your own personality or individuality. And also it also means that, that is on th"
+ ],
+ [
+  1,
+  3767,
+  "e on the hands of very centralized and very few companies that can afford these very expensive machines,"
+ ],
+ [
+  1,
+  3773,
+  "that can afford the largest spaces of where these machines are are are are positioned and also the knowledge to operate these machines. So w"
+ ],
+ [
+  1,
+  3782,
+  "hat we are trying to do is how can we reduce the the initial cost to use the machines and also the knowledge and the learning curve to enabl"
+ ],
+ [
+  1,
+  3791,
+  "e more people to participate in this digital space of fabrication. And and also, a lot of the work, especially,"
+ ],
+ [
+  1,
+  3798,
+  "we will see with Prospera, but with cities is like, how can we also get engaged with the small medium companies that kind of, are like aroun"
+ ],
+ [
+  1,
+  3806,
+  "d 98 of the contracting firms on construction industry as opposed to have it centralized on on also be on only being offices and big constru"
+ ],
+ [
+  1,
+  3814,
+  "ction companies. So from this, from DFMA, concept from the nineteen eighties, design for manufacturing and machines, We are trying to move t"
+ ],
+ [
+  1,
+  3822,
+  "o this new preset of what we call, from design for manufacturing"
+ ],
+ [
+  1,
+  3826,
+  "to design for robot factoring, DFR, which is like flexible robotic cells that can robot factor high quality products, using a single arm mac"
+ ],
+ [
+  1,
+  3834,
+  "hine, simple machines that are cheaper and more easy to use. So human or what we call human compatible digital fabrication. So how can we mo"
+ ],
+ [
+  1,
+  3842,
+  "ve from a concept of design for manufacturing and assembly towards a concept of design for robot factoring? And,"
+ ],
+ [
+  1,
+  3849,
+  "some of the things is like, okay. How can we move from, like, these large machines centralized to distributed, micro factories that they can"
+ ],
+ [
+  1,
+  3857,
+  " be placed in remote locations, that they can be placed all over the world, and that are based on, like, machines that are more flexible and"
+ ],
+ [
+  1,
+  3864,
+  " more affordable. So this is, what we're trying to do. And, also, how can we get closer to the tradespeople, closer to the design team, clos"
+ ],
+ [
+  1,
+  3872,
+  "er to the developer, closer to the investors in a way that all of these, different trades, all of these different, participants"
+ ],
+ [
+  1,
+  3879,
+  "are engaged together within the same digital platform, and they can have transparency and visibility towards the whole fabrication process. "
+ ],
+ [
+  1,
+  3887,
+  "It's not only, that you kind of receive an invoice, receive an estimation, and then you have to pay that. Well, how can we make this very tr"
+ ],
+ [
+  1,
+  3895,
+  "ansparent to everyone involved? And, again, we use the robot for a special scanning, milling, assembly, three d printing. So we do have a lo"
+ ],
+ [
+  1,
+  3903,
+  "t of different processes embedded in our machines in the in in the circular factory."
+ ],
+ [
+  1,
+  3908,
+  "Place pick and place pick and place, three d printing. So these are some of the tools that we also use. And, of course, something that we ar"
+ ],
+ [
+  1,
+  3916,
+  "e also starting to see now after two years of operation is how it can start to benefit the local economy. Because, as opposed to factory mad"
+ ],
+ [
+  1,
+  3923,
+  "e, construction, all the all the materials that we source are local are are from, in the in the case of Prosper are from Honduras,"
+ ],
+ [
+  1,
+  3930,
+  "but also all the the local people, all the local trades that we are using, that we are training, that we are upscaling are local, to the com"
+ ],
+ [
+  1,
+  3937,
+  "munity where the micro factory is based. So that is a very critical part of what we want to do. And and and and all you also I mean, and the"
+ ],
+ [
+  1,
+  3945,
+  "re are also, additional or periphery industries that get benefited. For example, we have a person that has a kitchen cooking for the workers"
+ ],
+ [
+  1,
+  3952,
+  ". So it really kind of starts to to bring construction, it starts to bring benefits to a bit of a bigger ecosystem than what we expected. An"
+ ],
+ [
+  1,
+  3960,
+  "d that has been, like, something very interesting for us to see how we have now additional industries serving our factory."
+ ],
+ [
+  1,
+  3966,
+  "So something that we also are looking at and we have also very engaged with is cyber physical platforms. And we know, like, think Shay menti"
+ ],
+ [
+  1,
+  3975,
+  "oned Jane Jacobs, but, like, how the point of cities is to have this multiplicity of choice. So how can we we engage the user, the the the b"
+ ],
+ [
+  1,
+  3983,
+  "uyer to into the decisions of design of the design that is being fabricated. So it's not only the architect and the designer, but also peopl"
+ ],
+ [
+  1,
+  3992,
+  "e can have a choice."
+ ],
+ [
+  1,
+  3993,
+  "And, we have developed a platform. For example, in this case, this is a facade in Canada that we were designing where there are multiple opt"
+ ],
+ [
+  1,
+  4001,
+  "ions. Everything is differentiated. Every component is based on, like, is a is a conversion from a office building into residential. So this"
+ ],
+ [
+  1,
+  4008,
+  " used to be offices. Now there are flats. How in your flat, you can decide what what is the view you have, the facade, the transparency, the"
+ ],
+ [
+  1,
+  4016,
+  " different, opaqueness of the panels. So you can have many decisions,"
+ ],
+ [
+  1,
+  4020,
+  "whereas you want to have, more more solar gains, less solar gains. But how can people actually understand this and be part of the design? So"
+ ],
+ [
+  1,
+  4028,
+  " for that, we develop, a a game. It's in Unreal. What what we are trying to do is give people feedback. So, like, as they are kind of select"
+ ],
+ [
+  1,
+  4035,
+  "ing and and choosing, we are getting them well. That will take more manufacturing time, that will take more robotic time, that will have mor"
+ ],
+ [
+  1,
+  4043,
+  "e thermal gains,"
+ ],
+ [
+  1,
+  4044,
+  "that will create, what is your, thermal comfort, but also solar gains. What is your view? And the idea is to make a lot of these parameters "
+ ],
+ [
+  1,
+  4052,
+  "accessible for for a common user. So, like, we we kind of work into how do we group these into terms that are that make sense, like radiatio"
+ ],
+ [
+  1,
+  4060,
+  "n, sky view, fabrication. And people can be selecting, moving, and the same and and a little bit like when you go to a supermarket, you buy "
+ ],
+ [
+  1,
+  4068,
+  "food, you can see the calories, carbs, proteins, etcetera. Can you see the manufacturing time, the machine time, the electricity consumption"
+ ],
+ [
+  1,
+  4076,
+  "that every single decision that you make on the built environment have? And does that actually help you make decisions or people doesn't rea"
+ ],
+ [
+  1,
+  4083,
+  "lly care at all? So that's part of the work we have been doing. Of course, on the background of the platform, we are doing all of the simula"
+ ],
+ [
+  1,
+  4090,
+  "tions. So we are running all the simulations of, like, for example, thermal analysis. People don't see these, but also what is acceptable fo"
+ ],
+ [
+  1,
+  4097,
+  "r construction, what is acceptable for the the formation of the curvature of the different,"
+ ],
+ [
+  1,
+  4102,
+  "of the different, glue laminations for the facade. So so we so people are only allowed to pick between things that we know can be made, alth"
+ ],
+ [
+  1,
+  4109,
+  "ough they will have different costs and they will have different implications. So between what is acceptable, they can have an option to dec"
+ ],
+ [
+  1,
+  4116,
+  "ide. And this is kind of something ongoing research that we have been going and and testing it with expert users, like designers, non expert"
+ ],
+ [
+  1,
+  4123,
+  " users, like maybe developers, people, or just like like clients, right, just people that will inhabit the building"
+ ],
+ [
+  1,
+  4129,
+  "and kind of giving them all of these options as as feedback information into their decisions. And also, of course, when when the whole aggre"
+ ],
+ [
+  1,
+  4137,
+  "gations come, oops, this starts to be, what will happen there. So, yeah, maybe this is not working. And then sorry. And all of this data is "
+ ],
+ [
+  1,
+  4145,
+  "also based on fabrication. So we are also at the same time using the robots, using the fabrication system to know understand to know, okay, "
+ ],
+ [
+  1,
+  4154,
+  "what is the maximum deflection? What is what is allowed? What is what is not allowed? How long the robot takes to do it? Our robots are also"
+ ],
+ [
+  1,
+  4162,
+  " running on, like,"
+ ],
+ [
+  1,
+  4163,
+  "generators. So we know the electricity consumption. So we are trying to capture as more as much data of every single step as possible so tha"
+ ],
+ [
+  1,
+  4171,
+  "t you can know exactly how much not only machine time, but electricity consumption your decision could have on on on how the the the compone"
+ ],
+ [
+  1,
+  4180,
+  "nts are produced. And then the robots are, also same machine again. So bends, then it's kind of also milling."
+ ],
+ [
+  1,
+  4186,
+  "It's also doing all of, the mitering, all of the cutting. So single machine, a lot of multiple processes embedded at the same time. So tryin"
+ ],
+ [
+  1,
+  4195,
+  "g to reduce the the trying to make them as flexible and customizable as possible for all all of the different requirements that the clients "
+ ],
+ [
+  1,
+  4203,
+  "might have or or the or developers might have or the people using the these buildings. There's something funny."
+ ],
+ [
+  1,
+  4210,
+  "Yeah. And then this is, for example, one of the prototypes, full scale prototype that we are building. Another thing that we are also that t"
+ ],
+ [
+  1,
+  4218,
+  "hat we have built based on user decisions and feedback. And something that we also are using in the shop is kind of looking at machine learn"
+ ],
+ [
+  1,
+  4226,
+  "ing as a way of, like, understanding material that are heterogeneous, that are not like like wood, for example, like timber that has a lot o"
+ ],
+ [
+  1,
+  4233,
+  "f different characteristics,"
+ ],
+ [
+  1,
+  4235,
+  "a lot of different, natural, processes, like, for example, knots, grain directions. So how can we detect all of these before we do our lamin"
+ ],
+ [
+  1,
+  4242,
+  "ations so we also can have the more efficient kind of use of the material. And our workers at the shop, they although they don't know any of"
+ ],
+ [
+  1,
+  4250,
+  " these, when they are laying out the laminations, when they are laying out the pieces, they can get a visual feedback of where to place them"
+ ],
+ [
+  1,
+  4257,
+  ", how to place them to avoid any imperfections or to make the process more efficient. So this is also things that we implement"
+ ],
+ [
+  1,
+  4264,
+  "and also, dynamic milling, like, like, how can we change our speeds, our feeds to be able to have the best results, as as we go. So a lot of"
+ ],
+ [
+  1,
+  4272,
+  " these are the kind of inner works of the platform and the research that we are doing to incorporate on the platform before doing the circul"
+ ],
+ [
+  1,
+  4281,
+  "ar factory and what what we kind of are are are offering as part of our cyber physical platform. Then"
+ ],
+ [
+  1,
+  4287,
+  "and and a lot of different wood also. So we also work in, like, how can you have different combinations of wood, especially, like, for examp"
+ ],
+ [
+  1,
+  4294,
+  "le, in in a place like Honduras, they do have timber, which is pine, the more normal construction material, but they also have, like, walnut"
+ ],
+ [
+  1,
+  4302,
+  ", like, mahogany, like, very precious woods. So can we have hybrids where we have the precious woods maybe on the outside for a water resist"
+ ],
+ [
+  1,
+  4309,
+  "ant for, like, make them less"
+ ],
+ [
+  1,
+  4311,
+  "less affected by, like, termites and bugs and all of these, but keeping the core, like, lightweight. So we are also looking at a lot of thes"
+ ],
+ [
+  1,
+  4319,
+  "e hybrid compositions to make the best use of the material available. They also have a lot of thick, a lot of, like, really, really expensiv"
+ ],
+ [
+  1,
+  4327,
+  "e and really nice wood that we are really trying to to to make these, compositions. So, like, trying to to to, promote for all of that. And "
+ ],
+ [
+  1,
+  4335,
+  "for, like, the expression of the construction. So, again, in this case, like the laminations, if we have a lot of laminations, how can we ma"
+ ],
+ [
+  1,
+  4343,
+  "ke that very expressive in the final process? So we are trying to combine all of these into into single offering."
+ ],
+ [
+  1,
+  4350,
+  "And, also, like as I mentioned before, engage with local materials. And this is something that we try to do because we know that also people"
+ ],
+ [
+  1,
+  4357,
+  " we're we're upskilling people. We are really working in reskilling, in building local knowledge, and also in making people proud of what th"
+ ],
+ [
+  1,
+  4363,
+  "ey are doing. And that's something very important when we engage with communities. When we arrive to a community, we want to become part of "
+ ],
+ [
+  1,
+  4370,
+  "that community. I mean, it's a new city, but we need to use a local labor. We want them to get excited and also to get better opportunities "
+ ],
+ [
+  1,
+  4376,
+  "as they move on in life. So kind of,"
+ ],
+ [
+  1,
+  4378,
+  "And some of the things is different to Swiss wood. Wood from from Honduras is not perfect. It's not really key. It's not really precise. Rig"
+ ],
+ [
+  1,
+  4386,
+  "ht? It has a lot of imperfections. So we really need to have a very adaptable adaptable platform to deal with all of the twists and is at th"
+ ],
+ [
+  1,
+  4393,
+  "is crooked and and all of the issues with the wood. So so we kind of really try to work to that. And this is a project that we did, for exam"
+ ],
+ [
+  1,
+  4401,
+  "ple, in in Ratan, just like using wood from trees that are, like, leftover that they don't want, that are there. And just like by scanning t"
+ ],
+ [
+  1,
+  4408,
+  "hem, getting all the information of the of the interior of the wood, of the knot, of the composition, and then trying to use that to build s"
+ ],
+ [
+  1,
+  4416,
+  "omething. So also showing them that there should not be leftover. Right? That we can also use these pieces to build something interesting"
+ ],
+ [
+  1,
+  4423,
+  "through through our digital platform. So this was going done with the locals, and we built, like, this little pavilion using, like, leftover"
+ ],
+ [
+  1,
+  4432,
+  " logs and also finally, dimensional lumber on the top. So the main aim is how can we leverage technology to create sophisticated, dynamic, a"
+ ],
+ [
+  1,
+  4440,
+  "nd customizable processes and have technology for social innovation. So the so one of the first mandates, of course, I talked a little bit a"
+ ],
+ [
+  1,
+  4449,
+  "bout BejaBu. So this project by Zaha did a very,"
+ ],
+ [
+  1,
+  4452,
+  "very ambitious project, but also one of the main things was that it was really customizable. So I think as you saw on the platform, people h"
+ ],
+ [
+  1,
+  4459,
+  "ad tons of tons of options that they could pick from, that they want, that they that they could, like, configure in different ways. So we ha"
+ ],
+ [
+  1,
+  4467,
+  "d to design Circular Factory to be able to deal with all of these variations of very complex geometry and to be able to fabricate all of the"
+ ],
+ [
+  1,
+  4474,
+  "se decisions made by by the people playing the the game."
+ ],
+ [
+  1,
+  4477,
+  "And these are some of the keyed off parts or of the components that were initially so we have different balconies, different facade elements"
+ ],
+ [
+  1,
+  4485,
+  ", a lot of different louvers. The the palapa roof or the curved, boulder roof, the flat roof. So there was really a very, interesting, reper"
+ ],
+ [
+  1,
+  4493,
+  "toire of pieces and of different elements that we had to be able to fabricate and that we know that if people pick them, it shouldn't be the"
+ ],
+ [
+  1,
+  4501,
+  " case that they picked something. And then he's like, well, sorry. That that that was a bad decision. Right? We need to offer, a possibility"
+ ],
+ [
+  1,
+  4509,
+  "."
+ ],
+ [
+  1,
+  4509,
+  "So based on this kit of parts, we designed the circular factory, with the idea of having a factory mainly geared towards, supply chains, tow"
+ ],
+ [
+  1,
+  4518,
+  "ards localized supply chains on, on the island, but also towards fabrication that is complex, that is curvature, that is highly ambitious ar"
+ ],
+ [
+  1,
+  4528,
+  "chitectural formations, and that everything is designed so that you can make all of these, different modules."
+ ],
+ [
+  1,
+  4535,
+  "One of the main things is that the the fabrication of the main module was not, was made out of a lightweight construction, like a stick fram"
+ ],
+ [
+  1,
+  4543,
+  "e construction. So we started by making that, hierarchical analysis of the different components of the building. And a lot of those componen"
+ ],
+ [
+  1,
+  4550,
+  "ts, for example, were very, linear, very like like, it could be done by the locals. So those ones we kind of left for the locals. We still q"
+ ],
+ [
+  1,
+  4558,
+  "uantify all of that to know what is the amount of material that is required. And then we kind of focus on a lot of the curve of the curvatur"
+ ],
+ [
+  1,
+  4565,
+  "e of the most complex shapes, how can we fabricate them still by having a very understanding of all the different elements."
+ ],
+ [
+  1,
+  4572,
+  "And then, the panels on the inside, they are fitted with, like, pipes for insulation, all the pipes and all of the, HVAC, all of that is kin"
+ ],
+ [
+  1,
+  4580,
+  "d of inside, each of the panels as they are fabricated. So each panel, of course, is not only using the robot, but is using a lot of differe"
+ ],
+ [
+  1,
+  4588,
+  "nt machines in the process from, like, the planar jointers going to storage, going to glue. So really using a range of machines that we need"
+ ],
+ [
+  1,
+  4596,
+  " to have on the shop, and we also need to have the correct process to know that we can have an efficient, fabrication workflow."
+ ],
+ [
+  1,
+  4603,
+  "And for the modules that are curved, they are more reliant on the on the robot, on the CNC, or on the different, parts that have to be curve"
+ ],
+ [
+  1,
+  4611,
+  "d for them. So we can, kind of spend quite a bit of time analyzing and getting our inventory all of all of, all of these components to have "
+ ],
+ [
+  1,
+  4618,
+  "a clarity into into the building sequences and processes. This is the same the same model that you saw before, but now rationalize. Some of "
+ ],
+ [
+  1,
+  4626,
+  "the things that also were important for us in the case of, of the circular factory is that they don't have any planes, for example. They onl"
+ ],
+ [
+  1,
+  4634,
+  "y have telehandlers."
+ ],
+ [
+  1,
+  4635,
+  "So the maximum, weight that you can carry is two and a half tons. So how can we ensure that there are no any panel that will be heavier than"
+ ],
+ [
+  1,
+  4642,
+  " that? So a lot of this is adapting to the local resources because it's not only, building things, but this well, what what what what wood i"
+ ],
+ [
+  1,
+  4649,
+  "s is, what machines are there, what capabilities they have. We cannot just bring large cranes or something like this. It's just impossible. "
+ ],
+ [
+  1,
+  4656,
+  "So these are some of the complexities that maybe we didn't see at the beginning. But as we started to develop the project and to really enga"
+ ],
+ [
+  1,
+  4664,
+  "ge into how we're going to fabricate this, it became really, really critical into our distribution of elements and distribution of the diffe"
+ ],
+ [
+  1,
+  4671,
+  "rent load and of the different fabrication processes. So these are all the all the components into elements that we know are not heavier tha"
+ ],
+ [
+  1,
+  4678,
+  "n"
+ ],
+ [
+  1,
+  4678,
+  "two and a half tons can be lifted and carried on-site. This was the first test that we did for the fabrication of the components. So this wa"
+ ],
+ [
+  1,
+  4686,
+  "s a test that we did in London using the robots there at the hook part and kind of before moving into Prospera and and to building them. And"
+ ],
+ [
+  1,
+  4693,
+  " then here again, you can see same robot, different tools such as milling, then the bandsaw to create these corner elements, in this case, c"
+ ],
+ [
+  1,
+  4701,
+  "reating a cross laminated"
+ ],
+ [
+  1,
+  4702,
+  "cross lamination. After this, we kind of started to also have, like, how can we go from this mega factory to the micro factory that we'll be"
+ ],
+ [
+  1,
+  4710,
+  " able to do to handle all of these processes? So there was a large part of research into what is the size of the module, what will be how ho"
+ ],
+ [
+  1,
+  4719,
+  "w will it come into the shop, what are the different stages that it has to go through, and how will it then be actually be able to be picked"
+ ],
+ [
+  1,
+  4727,
+  " up, moved away, be stored, and be assembled on-site"
+ ],
+ [
+  1,
+  4730,
+  "without creating, like, like, I mean, bottlenecks anywhere in the process. And this is more or less the the easy to come up. Composition of "
+ ],
+ [
+  1,
+  4738,
+  "the factory is a very small factory in terms of footprint is is is is and and all the production is inside there. So you can see the robot a"
+ ],
+ [
+  1,
+  4747,
+  "rms on the truck, two big robots. We also have planar jointers, CNC machines, also a storage space, gluing space, and a painting finishing r"
+ ],
+ [
+  1,
+  4755,
+  "oom. So it's"
+ ],
+ [
+  1,
+  4756,
+  "around 500 square meters, but not all of that is ours. We only have, like, 300 of those, and and that's where we kind of have everything. As"
+ ],
+ [
+  1,
+  4764,
+  " I mentioned before, we also have, the the the computer vision there to be able to detect where the timber is, what are the variations, how "
+ ],
+ [
+  1,
+  4772,
+  "does it work, and all of the simulation files, all of that adapt to the actual realities of the material that we find in Honduras. So what a"
+ ],
+ [
+  1,
+  4781,
+  "re the different timber"
+ ],
+ [
+  1,
+  4782,
+  "timber four by fours or timber lamps that we get their calibration? And and then the the the idea of the flexibility was that we can have th"
+ ],
+ [
+  1,
+  4792,
+  "e the setup is enabled ideally to is to have, like, processing either collaborative processing, individual processing panel, large large, be"
+ ],
+ [
+  1,
+  4802,
+  "ams and also small beams and the more bulk part of the of the of the houses. So all of this was considered on the setup."
+ ],
+ [
+  1,
+  4811,
+  "And and as I mentioned before, one of the main things that we wanted to have is a very transparent workflow where we know that the design te"
+ ],
+ [
+  1,
+  4818,
+  "am can have access to our platform, the same as the assembly team, the fabrication team, which are our machines and workers, and also all th"
+ ],
+ [
+  1,
+  4825,
+  "e management where we are looking at logistics cost, time, data analysis. And also the developers, they can have access to the platform. So "
+ ],
+ [
+  1,
+  4832,
+  "all of this has been connected and integrated into a single digital platform that then kind of talks also to all the machines. And we have, "
+ ],
+ [
+  1,
+  4839,
+  "like, tablets, for example. So these are all the different machines. We have a tablet at each station where, like, the workers can log in, c"
+ ],
+ [
+  1,
+  4846,
+  "an see, can download the code, can work, and then can,"
+ ],
+ [
+  1,
+  4849,
+  "feedback whereas a part have been processed, is not processed, or is, has an error. They had any difficulty. So all of this we can be loggin"
+ ],
+ [
+  1,
+  4856,
+  "g. At this stage, we, we have done three three different projects in circular factory. We are still collecting data on humans and how they u"
+ ],
+ [
+  1,
+  4864,
+  "se because, unfortunately, there is not a lot of data of human processes. There and even machine process data is very proprietary. We are tr"
+ ],
+ [
+  1,
+  4871,
+  "ying to collect more data to start to really understand"
+ ],
+ [
+  1,
+  4874,
+  "how to make this more efficient or actually make better, improve our time time analysis and time cost projections. So all of this is connect"
+ ],
+ [
+  1,
+  4884,
+  "ed through the platform. Everything on the shop is also connected to the same digital platform. And, here, like, this is the one of the init"
+ ],
+ [
+  1,
+  4894,
+  "ial videos we did. So from the original geometry, for example, one the the different people, the different, players,"
+ ],
+ [
+  1,
+  4902,
+  "they make their selection of the house, and then it then it comes to us. We we receive this geometry from the architects. We rationalize it "
+ ],
+ [
+  1,
+  4909,
+  "into those panels that we know, have the correct dimensions to be transported, to be lifted, to be put on-site. And then from there, we use,"
+ ],
+ [
+  1,
+  4917,
+  " like, a principal component analysis. We start to analyze them. How can we fabricate them? How many, what number of different laminations y"
+ ],
+ [
+  1,
+  4924,
+  "ou require, what is the dimensions of those different boards,"
+ ],
+ [
+  1,
+  4927,
+  "then all of these gets, assembled on the shop. So this is when the workers kind of come to the shop, they will see what are the different, n"
+ ],
+ [
+  1,
+  4935,
+  "umber of panels and number of, components that they need. Then this is the CNC process, three axis CNC milling for the different laminations"
+ ],
+ [
+  1,
+  4943,
+  ". After all of them get, then they get to the gluing station where you have all of them being glued together again, assembled into a full pi"
+ ],
+ [
+  1,
+  4951,
+  "ece, then it goes into the robot station where finally they get milled into their final configuration. And for every single piece, we have t"
+ ],
+ [
+  1,
+  4959,
+  "he same workflow where everything gets where where it's like a step by step analyze, simulate it, and then upload"
+ ],
+ [
+  1,
+  4966,
+  "it into the platform. And then from there, they can download and they can have access to every to the different steps. At the same time, you"
+ ],
+ [
+  1,
+  4973,
+  " have all the instructions. So this is also our instruction piece where you have that we do have the robot cells. We have the planers. We ha"
+ ],
+ [
+  1,
+  4980,
+  "ve the jointers. We also have the glue set the gluing stations, the storage stations, the painting stations. And then here, you can access a"
+ ],
+ [
+  1,
+  4987,
+  "ll of the components. So the architects can have access to the but we also have, like, like, the the the developer has access. The other con"
+ ],
+ [
+  1,
+  4994,
+  "tractors have access to this. So they can see the different pieces where where in the process they are, when are they going to prefabricate "
+ ],
+ [
+  1,
+  5001,
+  "it, if they are done or they are not done. And we just want to really have these not as a black box, but have these as something that that p"
+ ],
+ [
+  1,
+  5008,
+  "eople can query and can get information back. Also, can query them by unit. They can also see by, like, the different units."
+ ],
+ [
+  1,
+  5014,
+  "What is the piece? Like, it's a corner piece. It's a it's a it's a balustrade. It's a it's a it's a brissell ale. The bullnose, like, is a f"
+ ],
+ [
+  1,
+  5021,
+  "lat. So they can also query them based on their position on the building. These are the different units that that exist on the on the Beyavu"
+ ],
+ [
+  1,
+  5029,
+  " project. We have this for for every project that we have done also, but this is the same platform. It works on the same way. And this is, f"
+ ],
+ [
+  1,
+  5036,
+  "or example, if you want to also see the bill of materials,"
+ ],
+ [
+  1,
+  5039,
+  "the the machining time that it will take So you can also access the the the the identity of those pieces. Here you see, okay, where are they"
+ ],
+ [
+  1,
+  5046,
+  " located on the on the on the building or your assembly and have have access to to the bill of materials, the wood pieces, a DC brackets, sc"
+ ],
+ [
+  1,
+  5054,
+  "rews, dowels as much as we can. And then what are the different steps on the fabrication that this piece will require? So it's not like a bl"
+ ],
+ [
+  1,
+  5061,
+  "ack box that suddenly you get a a piece and no one knows what happened. We really want this to be we can hear see, okay, if it's in progress"
+ ],
+ [
+  1,
+  5069,
+  ", whereas it's finished, whereas there was an error on the piece. And, you can and, the the workers on the shop, they can download the"
+ ],
+ [
+  1,
+  5076,
+  "if if required for CNC or for robot files. If not, they can only see and visualize what they need to do. And here, these are our estimates. "
+ ],
+ [
+  1,
+  5083,
+  "Human time, machine time is very precise. Human time is not so precise. We are kind of working on collecting more data to make that a lot mo"
+ ],
+ [
+  1,
+  5091,
+  "re precise. It's just because some people are better, some people are worse, some people are disaster. So so human time is something that we"
+ ],
+ [
+  1,
+  5098,
+  " really, really need to to work with. And especially when you have our own skill labor or people that are just upskilling and training is so"
+ ],
+ [
+  1,
+  5106,
+  "mething that we are working on improving, from estimate. These estimates are based on on working with on on our own work. So that means when"
+ ],
+ [
+  1,
+  5113,
+  " when yeah. It it changes a lot when people don't know what they are doing."
+ ],
+ [
+  1,
+  5117,
+  "And and then here, you go to the piece. You can see fabrication progress, for example, how much longer this piece will require. In this case"
+ ],
+ [
+  1,
+  5124,
+  ", you know, 72% is done. So maybe it already has been caught glued. It's in storage. It's only missing the final robot process. And you can "
+ ],
+ [
+  1,
+  5131,
+  "see, when is that scheduled to be done? When when when will that be happening? And you can also see, what, like, for example, in this case, "
+ ],
+ [
+  1,
+  5138,
+  "the glue up. Okay. There was an error. What happened there? Right? And then it also gets dynamically rescheduled"
+ ],
+ [
+  1,
+  5144,
+  "to then be done on, like, a different, time. This is, the shop actually when the robots kind of came into Prospera. This was the initial pla"
+ ],
+ [
+  1,
+  5152,
+  "ce where we were, so it was like a dirt road. Think I know some of you have already been there. We had these, like, big robots coming. I was"
+ ],
+ [
+  1,
+  5161,
+  " I was a bit, like, terrified when they were downloaded, download from the truck. And this is our the the robot track"
+ ],
+ [
+  1,
+  5168,
+  "also kind of coming down from the truck. We had, like, it is a very kind of interesting ecosystem where you really are in a in a kind of are"
+ ],
+ [
+  1,
+  5177,
+  "a where this is really weird. But we were kind of having all of our machines delivered on-site. This was 2023, like, I think around May 2023"
+ ],
+ [
+  1,
+  5187,
+  ". We spent from 2020 to 2023 to kind of get to this stage. So,"
+ ],
+ [
+  1,
+  5191,
+  "we also have a robot dog that we use for scanning for the site. So it also allows to get a lot of information, with a LiDAR scanner of data "
+ ],
+ [
+  1,
+  5199,
+  "of the side of the of the composition. So it allows to to rectify a lot of the level level. So it's also something that we are using as so t"
+ ],
+ [
+  1,
+  5208,
+  "his is a road into Prospera. And then this is the final configuration of the shop. So you can see, we have the two robot arms there, the two"
+ ],
+ [
+  1,
+  5216,
+  " large robot arms."
+ ],
+ [
+  1,
+  5217,
+  "And then we also have the different, like, CNC machines, the different stations on on our on on on on on our configuration for the Beyaboo p"
+ ],
+ [
+  1,
+  5225,
+  "roject, but also for some of the other projects. So that jointer planar, table zone, and the panel zone, and all of them there. And then thi"
+ ],
+ [
+  1,
+  5232,
+  "s is, for example, louvers that we did for tower. So same platform, but it can also dynamically adapt for, like, this is at the the Duna Tow"
+ ],
+ [
+  1,
+  5240,
+  "er. I don't know if if you're going to Duna Tower. These are the louvers for the Duna. So we build all of that inside the shop. These are th"
+ ],
+ [
+  1,
+  5247,
+  "e different stations when we have the people working on those louvers."
+ ],
+ [
+  1,
+  5251,
+  "And this is for the two years ago for the Venice Biennale twenty twenty three. We built a balcony, like a prototype of the Beiaboo project. "
+ ],
+ [
+  1,
+  5260,
+  "So this is the buildup of that part. This is the curve the curve areas all using the same digital informed platform. And that was an exhibit"
+ ],
+ [
+  1,
+  5268,
+  "ion right now. This is in London on an exhibition at the office. But that's, that's kind of the balcony with the balustrade"
+ ],
+ [
+  1,
+  5276,
+  "and the and and all of the different steps of the process for one of the Bejavu units. We are also building other projects. So this is, for "
+ ],
+ [
+  1,
+  5284,
+  "example, glamping cabins that we are currently doing. The the first one is is, is already finished. Again, trying to really look at these, d"
+ ],
+ [
+  1,
+  5292,
+  "ifferent shapes or different geometries that could, that could be amenable for, like, being, on on on nature that could be holistically inte"
+ ],
+ [
+  1,
+  5300,
+  "grated"
+ ],
+ [
+  1,
+  5300,
+  "into the build environment that could also give us that that sense of, of cocoon kind of or, like, of being there. So this is a this is a on"
+ ],
+ [
+  1,
+  5309,
+  "e bedroom unit currently. You have a kitchen, a fully en suite bathroom, the and the bedroom, and then, like, a study or, like, working area"
+ ],
+ [
+  1,
+  5319,
+  ". And so these ones are, are, being deployed, near the golf club."
+ ],
+ [
+  1,
+  5323,
+  "And and these are, like, more for, like, maybe this kind of events when they have the the the cities and and when they have people coming in"
+ ],
+ [
+  1,
+  5330,
+  ". So this is, again, the working process. So these are all the the interiors of the cabin, exterior with the different louvers. And, we have"
+ ],
+ [
+  1,
+  5337,
+  " the the the robots kind of working on them. This is all transported through all the roads that you see there. So this is also a bit of a ch"
+ ],
+ [
+  1,
+  5344,
+  "allenging process,"
+ ],
+ [
+  1,
+  5345,
+  "but, they are being now deployed. They are all prefabricated on panels. All the panels are coming out of the shop going directly into the go"
+ ],
+ [
+  1,
+  5352,
+  "lf club near Verandas, and they are being assembled on-site to to to deploy the cabins. So it's like a bit of a combination between very dig"
+ ],
+ [
+  1,
+  5359,
+  "itally advanced techniques and more like the craft and the knowledge of of where we are trying to upscale and to get people to do. This is o"
+ ],
+ [
+  1,
+  5367,
+  "ne of the guys who has been working for us for, like, two years now. Now he's using the robots. For example, he's a total local guy from Cra"
+ ],
+ [
+  1,
+  5374,
+  "wfish. So we are really kind of really trying to bring this also, to an aspect of social innovation."
+ ],
+ [
+  1,
+  5379,
+  "And, this is the cabin. So this is, some of the views is unfinished. It's still missing some paint, but that's some views of the bedroom and"
+ ],
+ [
+  1,
+  5387,
+  " and and the area and and and some of the sidings. So so, basically, the main idea is to have decentralized distributed democratic digital f"
+ ],
+ [
+  1,
+  5396,
+  "abrication through the engagement with, like, flexible and adaptable micro factories, software that enables a stakeholder participation wher"
+ ],
+ [
+  1,
+  5404,
+  "e, like, designers,"
+ ],
+ [
+  1,
+  5405,
+  "contractors, everyone can have access to see how things are being fabricated in which stage of the process they are. And also, micro credent"
+ ],
+ [
+  1,
+  5416,
+  "ialing, upskilling, training local communities, and and and really kind of engage with them. So those are kind of the main, tenants of what "
+ ],
+ [
+  1,
+  5426,
+  "we are doing and what we believe is a is a kind of valuable thing into into micro factories, for construction. Yeah. Thank you. Are there an"
+ ],
+ [
+  1,
+  5437,
+  "y questions? Thank you. Any questions?"
+ ],
+ [
+  1,
+  5440,
+  "Hello. Hello. As as a business model, like, sustainability in the long way, they all the pride of the circular factory, how is going? Becaus"
+ ],
+ [
+  1,
+  5451,
+  "e I understand that the demand of the services come from the real estate projects in Prospera. So that's the the long way vision or and that"
+ ],
+ [
+  1,
+  5462,
+  "'s the long way vision. And who is working until now?"
+ ],
+ [
+  1,
+  5466,
+  "No. So, actually, that's not the vision. The vision is to really be able to, like, export some of them. I think that, the the initial concep"
+ ],
+ [
+  1,
+  5474,
+  "tion was, to to kind of for example, for the cabins, we do have clients in other islands that are interested on that. So kind of really brin"
+ ],
+ [
+  1,
+  5481,
+  "g detailed fabrication to, like, to to The Caribbean. In terms of currently, the demand is is led by our prosper projects, but we are kind o"
+ ],
+ [
+  1,
+  5489,
+  "f expanding into, like, exporting them to Colombia potentially. We also have talking to people in on Costa Rica and other places. So the ide"
+ ],
+ [
+  1,
+  5496,
+  "a is to export the finished product, but also the the the main thing will be eventually,"
+ ],
+ [
+  1,
+  5501,
+  "we want to not be on the we want to not be in circular factory. I mean, we want the factory to transition into being operated by locals. And"
+ ],
+ [
+  1,
+  5509,
+  " then we go and set up a different micro factory. So our model is not so much into creating the finished product, but into creating the micr"
+ ],
+ [
+  1,
+  5517,
+  "o factory, enabling it, and then being able to transition out of that and just being operated basically by locals to produce,"
+ ],
+ [
+  1,
+  5524,
+  "whatever they want. Right? So we have louvers. We have done furniture. We have done the cabins like the the so so kind of having this repert"
+ ],
+ [
+  1,
+  5531,
+  "oire that enables them to have different, capabilities. And I think, ideally, they we only we we kind of operate as a service model where we"
+ ],
+ [
+  1,
+  5538,
+  " can come and and check if something happens, but we don't are directly involved on Ziggler factory one anymore. We are we are trying to get"
+ ],
+ [
+  1,
+  5546,
+  " now enabled into Ziggler factory two. It's more like a micro factory as a service for the locals. And I think that that is the ideal scenar"
+ ],
+ [
+  1,
+  5553,
+  "io"
+ ],
+ [
+  1,
+  5553,
+  "where is they they get all the benefits from it. Do you have a question? One question I have is I'm curious what are the biggest, roadblocks"
+ ],
+ [
+  1,
+  5564,
+  " that you found so far to the the idea and the concept? Yeah. I mean, I think that, well, of course, the the bringing of the machines, all t"
+ ],
+ [
+  1,
+  5576,
+  "he the roadblocks are some are the supply chains. So supply chains,"
+ ],
+ [
+  1,
+  5581,
+  "in when you are in a remote location is they are complex. Right? So we need to be super organized. Everything has to be very planned in adva"
+ ],
+ [
+  1,
+  5589,
+  "nce. Like, even, like, sandpaper, you take two weeks to get. Right? So you cannot really build have a system that operates, like, on demand "
+ ],
+ [
+  1,
+  5597,
+  "or, like, a, just in time system. You cannot have that kind of operation. So that has been, supply chains are a problem. And, also,"
+ ],
+ [
+  1,
+  5604,
+  "of course, some of the of the, situations with the government have created a bit of friction. But in general, I think, and and and the and t"
+ ],
+ [
+  1,
+  5612,
+  "he and the the action of, like, of skilling and training people because it's not so easy. It's it's not easy. And it's kind of getting the s"
+ ],
+ [
+  1,
+  5620,
+  "ophisticated technology for them to learn and to be able to use. So that has been, an issue. I think we we were lucky of, like, we got all t"
+ ],
+ [
+  1,
+  5627,
+  "he machines and we got all of our setup when,"
+ ],
+ [
+  1,
+  5630,
+  "there wasn't, the government was any friction. So that was really good for us. But I think that a lot of that is is related to to kind of op"
+ ],
+ [
+  1,
+  5639,
+  "erating in remote locations. So it's supply chains, machine availability, and and and availability of a skill availability. So when you're g"
+ ],
+ [
+  1,
+  5648,
+  "etting freight traffic coming in, from boats to these things, they have to clear customs in Mainland Honduras first, or can you get them qua"
+ ],
+ [
+  1,
+  5657,
+  "rter things from abroad or by plane?"
+ ],
+ [
+  1,
+  5659,
+  "Yeah. They they they they depend from where they come from. So most of our stuff is coming from The US. So they, they clear customs in Ratan"
+ ],
+ [
+  1,
+  5667,
+  ", and then they come directly from Miami. So we bring most of the stuff from Miami. Some of the things, for example, if we are getting, most"
+ ],
+ [
+  1,
+  5675,
+  " of the all the lumber is local. So all of the lumber, all of that is coming from Mainland Honduras. Some of the machines only only the CNC "
+ ],
+ [
+  1,
+  5682,
+  "machines,"
+ ],
+ [
+  1,
+  5683,
+  "they came from, from China. So those one, they clear customs in Puerto Cortez, is in the Pacific Coast Of Honduras, and then they came to to"
+ ],
+ [
+  1,
+  5694,
+  " circular factory, through land land and and and a boat at the end. So it depends where they are coming from, but most of our stuff, is eith"
+ ],
+ [
+  1,
+  5705,
+  "er is coming from from The US. Any other questions?"
+ ],
+ [
+  1,
+  5709,
+  "Yep. How do you foresee the tariffs? So you mentioned that a lot of things are coming to The US. How do you foresee that the tariffs will im"
+ ],
+ [
+  1,
+  5717,
+  "pact the service, the factory? Yes. That's something we are kind of looking into or really closely monitoring. We don't know in terms of in "
+ ],
+ [
+  1,
+  5726,
+  "terms of raw material, like, because, I mean, it's local, but but only the the lumber. Right? Everything else we we have to import. So that'"
+ ],
+ [
+  1,
+  5734,
+  "s something that we are monitoring closely. We we don't know. So far, there's no any effect yet. As as of today, we can keep manufacturing t"
+ ],
+ [
+  1,
+  5742,
+  "he the the cabins on the same"
+ ],
+ [
+  1,
+  5744,
+  "costs, but it's something that definitely we don't know how long will that last. There are issues also. In the case of being on the island, "
+ ],
+ [
+  1,
+  5751,
+  "we cannot just suddenly bring a lot of stuff, right, because we are in a very tropical climate. So so things just get not get deteriorated. "
+ ],
+ [
+  1,
+  5758,
+  "Something that we are do that we do are getting with all of the onshoring of manufacturing is that a lot of people, that, from The US, for e"
+ ],
+ [
+  1,
+  5765,
+  "xample, they have we have received a lot of talent calls recently, people that want to move out, not The US, but want to fabricate"
+ ],
+ [
+  1,
+  5772,
+  "near site or, like, in Honduras. So we have a lot of applications now of people that want to come from Boston mainly. They want to come run "
+ ],
+ [
+  1,
+  5779,
+  "to Honduras to work with us. So that has been a positive impact, I guess, that that we get people trying to escape. But also we also get peo"
+ ],
+ [
+  1,
+  5787,
+  "ple that are looking, we are talking to, like, panel manufacturers in Pittsburgh. They are looking at how can if they can import from Hondur"
+ ],
+ [
+  1,
+  5794,
+  "as as opposed to from wherever they are doing now, which might be China or other places which have worse tariffs. So I think that there is a"
+ ],
+ [
+  1,
+  5802,
+  " it's a interesting situation right now because some people are also looking at, can we manufacture in Prosper and then bring it over? And w"
+ ],
+ [
+  1,
+  5809,
+  "ill that be better than bringing from other places? So we are, it is all new, but we are really,"
+ ],
+ [
+  1,
+  5814,
+  "we have received calls in kind of all directions. So we are looking at expanding maybe into some of these panels that then could go to Pitts"
+ ],
+ [
+  1,
+  5822,
+  "burgh for, like, some of the construction industry there, which so so and, yeah. So so I think it's a it's a interesting moment that we are "
+ ],
+ [
+  1,
+  5830,
+  "really just looking closely at how it develops. Okay. Alright. Thanks a lot everyone for coming. And, just as an FYI, we're probably gonna h"
+ ],
+ [
+  1,
+  5837,
+  "ave dinner around 6PM at Camino. If anyone has further questions, you can join us."
+ ],
+ [
+  1,
+  5842,
+  "And I'll get Una and Chris will come up for a couple minutes to talk about the next stages for future living track. Thanks a lot, Alicia. He"
+ ],
+ [
+  1,
+  5854,
+  "y, guys. Yeah. Just wanna say thanks again to Alicia and Shaje for coming and kinda setting the scene here for the future living track, will"
+ ],
+ [
+  1,
+  5866,
+  " be unfolding over over the week ahead. And just very briefly, an overview of what we're we're gonna be looking at. We'll be thinking about,"
+ ],
+ [
+  1,
+  5877,
+  " like,"
+ ],
+ [
+  1,
+  5878,
+  "neighborhoods and governance and how we might move from these kind of pop ups into permanent hubs, what that might look like, and also movin"
+ ],
+ [
+  1,
+  5887,
+  "g beyond just the the governance and coordination piece to think about the actual systems that we need around energy, food, water, and also "
+ ],
+ [
+  1,
+  5896,
+  "just homes in general, like accommodation. What would that what might that look like? How how might we"
+ ],
+ [
+  1,
+  5902,
+  "create environments that that can kinda move these pop ups into to physical physical hubs? So we'll be kind of looking at that in in detail "
+ ],
+ [
+  1,
+  5912,
+  "throughout the week. And, yeah, we'd love to to see some of you there. We've also got a hardware hack that's kinda like a mini hardware hack"
+ ],
+ [
+  1,
+  5921,
+  " with Kyle towards the end of the week. We'll be looking at kind of biodiversity and also, like, yeah, we'll find out as the week goes on, b"
+ ],
+ [
+  1,
+  5931,
+  "ut it's"
+ ],
+ [
+  1,
+  5931,
+  "it's gonna be fun. I'm looking forward to it. Anything you wanna add? Or Yeah. One small piece is also that we're we're going to have collab"
+ ],
+ [
+  1,
+  5940,
+  "oration with locals. One thing we want to break the silos of us being visitors and with the local locks. So awesome Victoria. I don't know i"
+ ],
+ [
+  1,
+  5948,
+  "f Vic is here, but she organized, for example, two tours, in the week that we can have a conversation with the resort owners of the local lo"
+ ],
+ [
+  1,
+  5957,
+  "cks, and we have a tour in Flims, for example. And then maybe we'll have a we're developing also the program because this week, it's already"
+ ],
+ [
+  1,
+  5966,
+  " really packed. But if we see enough traction, we might"
+ ],
+ [
+  1,
+  5969,
+  "call call, like, with you guys and redesign labs together based on, for example, certain, biodata that will be collected, for locals and inp"
+ ],
+ [
+  1,
+  5979,
+  "ut from resort. And we can, for example, use, Shaji's, city engine or similar play gameplay and to redesign the region for, let's say, imagi"
+ ],
+ [
+  1,
+  5989,
+  "ne imagine a future Switzerland hub here, for example, just as a brainstorm and a fun thing to co participating."
+ ],
+ [
+  1,
+  5997,
+  "Yeah. Yeah. So we'll be dropping the timetable in the app every day. So, yeah, look forward to seeing you guys during the week. Cheers. Yeah"
+ ],
+ [
+  1,
+  6011,
+  ". Thank you. Now there's at least a fifteen minute pause until the next session, but I'll check with Ayla about the next one. Ayla?"
+ ],
+ [
+  1,
+  6025,
+  "Sorry. Are you doing a session at 2PM? In here. Alright. 2PM. Right. 2PM. Next session. Minute help. Future vision. Something of the sort."
+ ],
+ [
   2,
   0,
   "They asked me to talk about ideas to, you know, grow Switzerland and turn it into a hub. And, you know, if I had one hour, two hours, I woul"
