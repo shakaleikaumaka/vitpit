@@ -351,13 +351,14 @@
     "id": "1op-Yt9DXXmFz_blO2rbjaOryb-QA2uvt",
     "kind": "video",
     "size": 1432681275,
-    "stream": true
+    "stream": true,
+    "hosted": "https://pub-3d88701638314a20ad2241ee26e6824f.r2.dev/audio/1op-Yt9DXXmFz_blO2rbjaOryb-QA2uvt.mp3"
    }
   ],
-  "transcript": null,
-  "duration": null,
+  "transcript": "1op-Yt9DXXmFz_blO2rbjaOryb-QA2uvt",
+  "duration": "00:41:11",
   "quality": "ok",
-  "transponder": false,
+  "transponder": true,
   "thumb": "thumbs/1op-Yt9DXXmFz_blO2rbjaOryb-QA2uvt.jpg",
   "speakers": [
    "@sejal_rekhan",

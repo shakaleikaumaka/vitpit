@@ -6753,5 +6753,1515 @@
   13,
   2987,
   "hesitate to approach me if you somehow want to be part of this endeavor which I'm in for the longer run. Thank you very much. Thank you."
+ ],
+ [
+  14,
+  0,
+  "Hi everyone, thanks for joining. So today's session is Deep Governance, Digital Democracy with Configurable AI Politicians. That is super in"
+ ],
+ [
+  14,
+  11,
+  "teresting. So I am Sejal, I have with me David Dow and Marie Claire, MC. MC, thanks for joining us. So we have limited time, so as we come, "
+ ],
+ [
+  14,
+  21,
+  "we'll introduce ourselves"
+ ],
+ [
+  14,
+  23,
+  "and then we'll talk through everything. We will take the questions in the end, right, so that we can cover this 20 slides presentation. I'm "
+ ],
+ [
+  14,
+  33,
+  "Sejal. I work with Gitcoin, which is a company that builds software for capital allocation. And today I'm here to talk about deep governance"
+ ],
+ [
+  14,
+  43,
+  ", which is one of the mechanisms that we used"
+ ],
+ [
+  14,
+  46,
+  "in the Gitcoin grants program to allocate capital. So, yeah. So where does it start? So I think this is my favorite part, which I always tak"
+ ],
+ [
+  14,
+  56,
+  "e in the presentation, which is the story of Takahiro Anno. So who is Takahiro Anno? Has anyone heard of this story or anyone heard of this "
+ ],
+ [
+  14,
+  65,
+  "guy before? No? Okay, great. So Takahiro Anno is a 33-year-old software engineer"
+ ],
+ [
+  14,
+  71,
+  "who ran for the position of governor in Tokyo last year with no historical background of anyone in his family being a politician or himself "
+ ],
+ [
+  14,
+  82,
+  "doing any sort of politics, right? and it's really interesting that the results of you know i'll go through the process later but i want to "
+ ],
+ [
+  14,
+  92,
+  "say like he was fifth in the position like he was the one of the most um he was the candidate"
+ ],
+ [
+  14,
+  99,
+  "who had the highest number of votes right and the four candidates above him were established japanese politicians right so how did he get th"
+ ],
+ [
+  14,
+  109,
+  "at right how did he um get there so this is his playbook so there are three phases phase one broad listening phase two which is I like to ca"
+ ],
+ [
+  14,
+  119,
+  "ll it brush up and phase three is deliver so phase one broad listening right so what he did was in broad"
+ ],
+ [
+  14,
+  127,
+  "listening he scraped the public comments from twitter from youtube from news sites right everywhere he scraped that data to understand who i"
+ ],
+ [
+  14,
+  136,
+  "s the public and you know what are the concerns of this public right if he had to run for a politician and had to address those concerns rig"
+ ],
+ [
+  14,
+  145,
+  "ht who are these people and what are their concerns right so that is what broad listening is and so what he did was after getting all this d"
+ ],
+ [
+  14,
+  155,
+  "ata he made sense of this data right so he already"
+ ],
+ [
+  14,
+  158,
+  "had a manifesto which he updated with all the concerns and all the things that he got from broad listening because broad listening and i jus"
+ ],
+ [
+  14,
+  167,
+  "t want to mention that he used this tool called talk to the city which helped him cluster these opinions and concerns right in themes where "
+ ],
+ [
+  14,
+  176,
+  "let's say one of the themes was we need more stem education we need"
+ ],
+ [
+  14,
+  180,
+  "you know more companies we need more industrial zones right so that helped him sort of update his manifesto that was broad listening then ph"
+ ],
+ [
+  14,
+  189,
+  "ase two which is brush up which means that when he updated the manifesto he actually put it up on GitHub where he wanted citizens to come an"
+ ],
+ [
+  14,
+  198,
+  "d propose changes. Like he wanted citizens to weigh in on his goals and policies, right?"
+ ],
+ [
+  14,
+  204,
+  "So when phase two happened, he had another set of like proposals, which came in from the citizens, which he again used AI to merge together,"
+ ],
+ [
+  14,
+  214,
+  " the ones that were similar. And then the third part is deliver. So once he had everything, um, like all the data from broad listening and f"
+ ],
+ [
+  14,
+  224,
+  "rom brush up he created an ai avatar which was trained"
+ ],
+ [
+  14,
+  228,
+  "on those proposals and concerns like all the data he had collected in first two phases right so this ai avatar was now equipped to answer an"
+ ],
+ [
+  14,
+  237,
+  "y citizens questions and like he was the avatar was fully updated on the manifesto which was actually all about what citizens want right so "
+ ],
+ [
+  14,
+  247,
+  "he created this avatar which was answering citizens questions and like going through basically making citizens"
+ ],
+ [
+  14,
+  254,
+  "feel confident with his policies and goals that he wants to achieve if he becomes the governor right so this is although he did not win the "
+ ],
+ [
+  14,
+  263,
+  "elections but this was one of the most um you know innovative and powerful ways of doing a political campaign in the history and uh actually"
+ ],
+ [
+  14,
+  272,
+  " want to tell that um i just read that you know there are two politicians already in japan who who have created their AI avatars using his p"
+ ],
+ [
+  14,
+  280,
+  "laybook."
+ ],
+ [
+  14,
+  281,
+  "So the idea is when we learned about this, and Audrey Tang has a big role to play because she gave the concept of broad listening. So we wan"
+ ],
+ [
+  14,
+  292,
+  "ted to see how we can apply this in Web3 right How we can understand what community wants and use that to allocate capital So yeah And I wan"
+ ],
+ [
+  14,
+  304,
+  "t to invite David to talk about how this was built"
+ ],
+ [
+  14,
+  308,
+  "how we ran it in Gitcoin Rans program, what were the results, and then I'll have MC talk about can we do this for Switzerland? Can we have a"
+ ],
+ [
+  14,
+  318,
+  "n AI politician? So, yeah, David. Thank you, Sejal. So this is a really interesting experiment. because we wanted to see if that idea of bro"
+ ],
+ [
+  14,
+  328,
+  "ad listening and configurable AI politicians can be used to allocate capital."
+ ],
+ [
+  14,
+  333,
+  "So we pitched that to Avoki a week before GG23, and he gave us $25,000 to allocate to open source projects with this method of broad listeni"
+ ],
+ [
+  14,
+  343,
+  "ng, configurable AI politicians, and what we added on top, inspired by Vitalik's plurality of AI agents, a voting system where you can vote "
+ ],
+ [
+  14,
+  352,
+  "for your favorite AI agent. So how it works is we do broad listening on the public goods community."
+ ],
+ [
+  14,
+  359,
+  "We identify opinion groups. These opinion groups then define a constitution that is defining. It's kind of a system prompt in a chat GPT or "
+ ],
+ [
+  14,
+  367,
+  "Claude when you're using it. So it defines a certain kind of value sets and biases. And it's linked to a Telegram bot that then is serving a"
+ ],
+ [
+  14,
+  375,
+  "s this configurable AI politician that you can communicate with. And over a span of two weeks, we had an election process, quadratic voting,"
+ ],
+ [
+  14,
+  383,
+  " where people above a passport score of 15 can then vote and choose their favorite AI politician that then allocates the capital according t"
+ ],
+ [
+  14,
+  391,
+  "o its prediction system."
+ ],
+ [
+  14,
+  392,
+  "So when we did the policy on the public goods community, we in fact had three opinion groups that came out. So the old survey you can still "
+ ],
+ [
+  14,
+  401,
+  "see here. We asked simple principles like public good should prioritize immediate committee needs or long-term systematic change. And then y"
+ ],
+ [
+  14,
+  410,
+  "ou can see this kind of statistic coming up of people voting in similar behaviors or not."
+ ],
+ [
+  14,
+  416,
+  "In the end, we had more than 70 answers from contributors, and then it dissolved into three natural groups. These three natural groups we la"
+ ],
+ [
+  14,
+  425,
+  "beled open source capitalist, capitalist, gitcoin communist, and regenerator, defining the region community, the max impact community, and t"
+ ],
+ [
+  14,
+  433,
+  "he socialist communist community that we have in our region that we identified through the policy survey."
+ ],
+ [
+  14,
+  440,
+  "And then we linked that to a data engine that queries a lot of the gitcoin application data their karma data their milestone data also hyper"
+ ],
+ [
+  14,
+  450,
+  " search data into one data platform that these LM agents are looking at with their specific opinionated view. For example, Gitcoin communist"
+ ],
+ [
+  14,
+  459,
+  " cares a lot about community-driven initiatives, and it analyzes it according to its perspectives."
+ ],
+ [
+  14,
+  466,
+  "So the really beautiful thing about this is it's all open source and it's all on GitHub. So you can see the model spec is hosted on GitHub, "
+ ],
+ [
+  14,
+  474,
+  "And when you as a citizen, and this is the pressure phase, are unhappy with what we came up with, you can always create a PR to change it. Y"
+ ],
+ [
+  14,
+  481,
+  "ou can issue a comment on GitHub to basically issue your concerns. Or if you really are screwed up and think all these three politicians"
+ ],
+ [
+  14,
+  489,
+  "don't align with my value sets, you can run for Office yourself. So you can fork the whole repository, and you can host your own kind of mod"
+ ],
+ [
+  14,
+  497,
+  "el spec in it. And the idea is that when we also have these Telegram bots, they allow a certain kind of feedback loop to the communities. So"
+ ],
+ [
+  14,
+  504,
+  " a big difference between DeepGov and DeepFunding is that purple feedback loop. In DeepFunding, you have all these AI agents"
+ ],
+ [
+  14,
+  511,
+  "that basically classify and predict allocation for projects. But you don't have a feedback loop where the AI agents can actually teach you a"
+ ],
+ [
+  14,
+  519,
+  "s a participant something about their value sets, about their opinions, right? And in DeepGov, we have this because we have these Telegram b"
+ ],
+ [
+  14,
+  527,
+  "ots that can communicate in a two-way street with you and hopefully teaches you some, or convinces you on their arguments."
+ ],
+ [
+  14,
+  534,
+  "And we saw this actually happening, and I will show you some data. So this is, for example, how model spec looks like. This is for the open "
+ ],
+ [
+  14,
+  541,
+  "source capitalists. It's a constitution hosted on GitHub, and you can see 20 principles, like maximization principles here, where you choose"
+ ],
+ [
+  14,
+  548,
+  " the response that prioritizes the maximum number of people benefiting it, and so on and so forth. So it's very transparent, and people who "
+ ],
+ [
+  14,
+  554,
+  "don't have any technical expertise"
+ ],
+ [
+  14,
+  556,
+  "can contribute to it, which is the beauty of it. Then we developed, according to like a normal election, you can learn a lot from it, we dev"
+ ],
+ [
+  14,
+  564,
+  "eloped voting assistant tooling. If you're not sure who you vote for, you can answer exactly that set of questions. And then it aligns very "
+ ],
+ [
+  14,
+  572,
+  "nicely with, OK, how did the other AI agents answer on similar questions? And then you can see and calculate alignment to it."
+ ],
+ [
+  14,
+  579,
+  "So we use that tool called compass.deepgov.org, where people can just figure out kind of their alignment with the AI agent. We have the Tele"
+ ],
+ [
+  14,
+  588,
+  "gram bots where you can just talk to Luna, talk to Grant, talk to Panda, and just check out, hey, why should I vote for you instead of votin"
+ ],
+ [
+  14,
+  598,
+  "g for Panda? And then hopefully she or he or it comes with a really convincing argument for that."
+ ],
+ [
+  14,
+  604,
+  "Questions in a second? And then in the end, we have quadratic elections. So we do quadratic voting, where you have assigned 100 credits natu"
+ ],
+ [
+  14,
+  612,
+  "rally. And you can assign this credit to what's the candidate you like. You also get more credits, depending on how much you have donated in"
+ ],
+ [
+  14,
+  620,
+  " the past in Gitcoin. So we calculate through GMV. Like if you donated a lot of money, you get additional"
+ ],
+ [
+  14,
+  626,
+  "credits. So we wanted to give more influence to people who have donated and impacted a lot of the system. So some results. Panda won. It was"
+ ],
+ [
+  14,
+  636,
+  " a close race between Luna and Panda. Panda led for a while, but then after a while, Luna led. In the end, Panda the regenerator has won the"
+ ],
+ [
+  14,
+  646,
+  " election, the inaugural election, the 43 total elections voters, and everyone passport score"
+ ],
+ [
+  14,
+  653,
+  "above 15. We had more than 820 Telegram chats. People have been talking to it. One thread was 168 messages just talking to one. So this is t"
+ ],
+ [
+  14,
+  664,
+  "he distribution of the Telegram chat messages to these agents. And the average conversation is 15 messages long. These are the topics that w"
+ ],
+ [
+  14,
+  675,
+  "ere discussed during the Telegram."
+ ],
+ [
+  14,
+  678,
+  "A lot of questions on proper checks and proposals. We saw a lot of people asking, how much money would I get if I vote for you? like really "
+ ],
+ [
+  14,
+  686,
+  "interesting behavior. But then a lot about AI and automation, about governance, about community, about values and principles. So we had a lo"
+ ],
+ [
+  14,
+  695,
+  "t of this. This is an analysis of our longest conversation. So this is a user who talked more than 90"
+ ],
+ [
+  14,
+  701,
+  "times with Ultra Grant, the communist. And you can see how he kind of like started to agree slowly with the communist. So starting with, oka"
+ ],
+ [
+  14,
+  710,
+  "y, I disagree with how you work. And then he's asking in turn 7 what is this whole election thing? Ah, okay, makes sense. How do you allocat"
+ ],
+ [
+  14,
+  719,
+  "e the 25K? Ah, okay, okay, I see, I see. And then it evolves over time."
+ ],
+ [
+  14,
+  724,
+  "And this is what we talk about when we talk about feedback loops. Here are some specifics, positive feedback loops. Someone here was skeptic"
+ ],
+ [
+  14,
+  732,
+  "al about Luna and we can see voting change behavior as well. Someone voted for Panda and then they changed the votes to someone else after a"
+ ],
+ [
+  14,
+  740,
+  " while. And we correlate this towards talking to these telegram bots. So someone talked for example to Luna hey I actually don agree with wh"
+ ],
+ [
+  14,
+  748,
+  "at you see Isn the capitalist just maximizing benefits And then she like giving her the reframing and like the user like I like it"
+ ],
+ [
+  14,
+  755,
+  "Then we have also a lot of gamification mechanisms. People like, be honest, what would you rate my project with? How can we get my project t"
+ ],
+ [
+  14,
+  763,
+  "o number one? Even people asking for help. How can I get paying customers for my public goods? Asking to Luna as well. So yeah, this is some"
+ ],
+ [
+  14,
+  771,
+  " data that we did for GG23. we are now in the last phase of allocating capital and distributing out and just super excited that it worked re"
+ ],
+ [
+  14,
+  779,
+  "ally well."
+ ],
+ [
+  14,
+  780,
+  "And now I want to give, yeah, and then I want to open up some time for the questions and we can go to the next phase. Okay, I have a questio"
+ ],
+ [
+  14,
+  795,
+  "n. So this was an experiment, right? but you have a winner in the end, and in this system, so the winner gets, like, how, well, after the, s"
+ ],
+ [
+  14,
+  810,
+  "o what do the results mean, basically, I'm asking."
+ ],
+ [
+  14,
+  815,
+  "Yeah, so this is the steering part of the whole system. There's the data engine part that we have to skip because of time, but we can go dee"
+ ],
+ [
+  14,
+  827,
+  "per in the next session. In the data engine, the agents are looking at each application. I will show it to you. Reviews.tc.org. So this is t"
+ ],
+ [
+  14,
+  839,
+  "he data engine where basically every single,"
+ ],
+ [
+  14,
+  843,
+  "let's use Gainforest, because that's the project I know the most. And we have the reviews coming from these agents, reading through all the "
+ ],
+ [
+  14,
+  853,
+  "data that it can collect. And there's also scoring internally between one to 10, and a confidence scoring between one to five. And that scor"
+ ],
+ [
+  14,
+  864,
+  "ing determines the ranking of this project"
+ ],
+ [
+  14,
+  867,
+  "compared to all the other projects. And according to the ranking, we then distribute funds. OK. So do you think it's efficient or good to se"
+ ],
+ [
+  14,
+  880,
+  "parate agents based on these kind of limited or maybe, I don't know, I don't want to say rigid, but let's say rigid categories, so"
+ ],
+ [
+  14,
+  893,
+  "very three different agents and then you have a winner in the end Is that the best way to because then do you end up in the end with left an"
+ ],
+ [
+  14,
+  902,
+  "d right you know with with I think it the best way And I can explain to you why. So first of all, we don't want one centralized AI agent tha"
+ ],
+ [
+  14,
+  911,
+  "t rules the world. That's the worst case scenario. We want a plurality of perspectives"
+ ],
+ [
+  14,
+  916,
+  "that can join together to get a consensus. And here, the voting system, what is really beautiful about this is everything is transparent and"
+ ],
+ [
+  14,
+  923,
+  " configurable. And in fact, we would like to encourage people to run and host their own agents. And that's something we want to try out in S"
+ ],
+ [
+  14,
+  930,
+  "witzerland, where these are the three agents that we created because of the data that we collected from the opinion groups. But of course, t"
+ ],
+ [
+  14,
+  938,
+  "here's way more than this."
+ ],
+ [
+  14,
+  939,
+  "And we hope actually that someone is frustrated and think this is not representing me, this election, and I would like to create a fourth ag"
+ ],
+ [
+  14,
+  949,
+  "ent or fifth agent. And then the election process becomes more fair and democratic, and I think this is actually really good process. Yes. A"
+ ],
+ [
+  14,
+  959,
+  "nd also if any of you want to answer. So I saw the data. Do you think that interaction is correlated with agreement from the larger data set"
+ ],
+ [
+  14,
+  969,
+  "s from"
+ ],
+ [
+  14,
+  969,
+  "all the interactions that you've taken? You mean if interaction within the chats is correlated to how much people agree? Yeah. I picked one "
+ ],
+ [
+  14,
+  978,
+  "of the bots and you know the more I interact with it it would slowly figure out how to change my opinion Is that something that you have not"
+ ],
+ [
+  14,
+  988,
+  "iced? We haven't specifically analyzed for that's this signal, but I do think persuasiveness does correlate with"
+ ],
+ [
+  14,
+  995,
+  "If you like someone you talk to this person more and so I think there tend to be a bias for this But we haven't really analyzed this specifi"
+ ],
+ [
+  14,
+  1007,
+  "c signal signal. I'm confused a little bit. So here's the question. In the deep funding that you mentioned, the idea of what happens there w"
+ ],
+ [
+  14,
+  1019,
+  "hen it comes to AI is pretty"
+ ],
+ [
+  14,
+  1021,
+  "straightforward. So you have like a human-made input on the partial preferences, and then you use AI models, agents, whatever, to have, I do"
+ ],
+ [
+  14,
+  1036,
+  "n't know, like an aggregated utility that represents those partial utilities by the people best So basically you seeking for the aggregation"
+ ],
+ [
+  14,
+  1050,
+  " of the preferences that matches the input best"
+ ],
+ [
+  14,
+  1055,
+  "And the input is numerical, because you have those human agents or arbiters or whoever who rank the projects, whether they like them more or"
+ ],
+ [
+  14,
+  1066,
+  " not. Now, in your case, as I understand that, and correct me if I'm wrong, the input is not quantitative but qualitative. So this is kind o"
+ ],
+ [
+  14,
+  1076,
+  "f like a chatting with the agents."
+ ],
+ [
+  14,
+  1079,
+  "And then those agents have some, they try to aggregate utility as well. How do you know that it even makes sense if you have only like a qua"
+ ],
+ [
+  14,
+  1093,
+  "litative input? I guess that's the question. How do you know that what the model proposes makes sense?"
+ ],
+ [
+  14,
+  1103,
+  "How do you judge that? Because just to give other people context, with deep funding this is kind of simple, because you have this fragments "
+ ],
+ [
+  14,
+  1114,
+  "of the people voting, and you can see that the final aggregation somehow resembles that with this example by Vitaly. Okay, if everyone says "
+ ],
+ [
+  14,
+  1124,
+  "that Frodo contributed most to defeating the Lord of the Rings,"
+ ],
+ [
+  14,
+  1129,
+  "then we kind of can see that that's the final outcome. And then we may not be sure about everything else that happens inside. But in your ca"
+ ],
+ [
+  14,
+  1137,
+  "se, how do you know that it even makes sense, what the model produces? It's actually very similar to deep funding. If you think about the vo"
+ ],
+ [
+  14,
+  1145,
+  "ting process, let's assume this voting process is not just quadratic voting. It could be exactly how Vitalik votes."
+ ],
+ [
+  14,
+  1151,
+  "Then in many ways this is similar because then you'll have this kind of alignment hidden in that. The reason we decided not to connect votin"
+ ],
+ [
+  14,
+  1159,
+  "g directly towards performance of the data is because of Goodhart's law. We believe that when you vote, for example, in deep funding, and th"
+ ],
+ [
+  14,
+  1168,
+  "is is one of the bottlenecks of deep funding, when you vote for each kind of project and the preferences,"
+ ],
+ [
+  14,
+  1174,
+  "you create a really rich signal where you can align and see and check these models. But then you need to do this. Then after six months, you"
+ ],
+ [
+  14,
+  1182,
+  " have to redo it again, because obviously the landscape is dynamic and it changes. maybe a project stops existing, then you have to do all e"
+ ],
+ [
+  14,
+  1190,
+  "verything against statistically, and that doesn't scale. So the reason we removed it is because we believe that, okay, we trade off black bo"
+ ],
+ [
+  14,
+  1198,
+  "x AI models where we don't know"
+ ],
+ [
+  14,
+  1200,
+  "what they do, but we can check the results later through labels. We trade this off with transparent AI models that are easy to understand be"
+ ],
+ [
+  14,
+  1209,
+  "cause they have this configurable, like, way it calculates, and they also showcase, like, predictions. During the process, you can also see "
+ ],
+ [
+  14,
+  1218,
+  "kind of like the scoring they give to projects. So you as a human do the judging, like, intuitively already by looking at some of the exampl"
+ ],
+ [
+  14,
+  1227,
+  "es."
+ ],
+ [
+  14,
+  1227,
+  "some of the examples. Male Speaker 1 But how models score the projects? Because the scoring of the project is done by models, right? Male Sp"
+ ],
+ [
+  14,
+  1235,
+  "eaker 2 Yeah. Male Speaker 1 So how is it done? Male Speaker 2 So it's done through a generative model. It looks, it's using LLM as a judge,"
+ ],
+ [
+  14,
+  1243,
+  " basically. So it reads as an LLM according to its constitution. It reads the data it has. And for example, when Panda cares about that some"
+ ],
+ [
+  14,
+  1251,
+  " model doesn't have, some projects don't"
+ ],
+ [
+  14,
+  1253,
+  "some projects don't have any fraud, it checks, for example, for the hyperset data. It checks if there are attestations that show potential f"
+ ],
+ [
+  14,
+  1260,
+  "raud. And then it flags the system, for example, and would score it really low. Or like it would, if one principle is like, I prefer data pr"
+ ],
+ [
+  14,
+  1268,
+  "ojects that have a lot of data, it would just look at the number of comma, for example, and it looks, oh, OK, this comma looks really rich. "
+ ],
+ [
+  14,
+  1275,
+  "I score this positively."
+ ],
+ [
+  14,
+  1276,
+  "Yeah. So in a way, the difference is that here, the input is like a value set for humans, and this is like an AI agent job to translate that"
+ ],
+ [
+  14,
+  1289,
+  " value set into like a metric that can be interpreted against the project. While in the deep funding scenario, this is actually humans who h"
+ ],
+ [
+  14,
+  1302,
+  "ave to judge the project against"
+ ],
+ [
+  14,
+  1305,
+  "each other using some obscure value set different for every human. And the only thing that then, so in a way you need like a much weaker AI "
+ ],
+ [
+  14,
+  1314,
+  "that doesn't understand values in the case of deep funding. And in your case, like AI has to understand values, right? Is that correct? Yes,"
+ ],
+ [
+  14,
+  1324,
+  " exactly. I mean, in the case of deep funding, the AI model is anything, right?"
+ ],
+ [
+  14,
+  1329,
+  "It could be deep funding models. It could be like a random walkway. Yeah, exactly. If only it matches the preferences. Yeah, but the problem"
+ ],
+ [
+  14,
+  1337,
+  " with deep funding is it comes with a rule of autocracy. Again, like it's the judges who decide it, right? It like the 200 people that are s"
+ ],
+ [
+  14,
+  1344,
+  "uper selective and then the models are only developed by the technical expertise And all the people that contribute to the space that are no"
+ ],
+ [
+  14,
+  1352,
+  "n they cannot contribute to it So if you limit the amount of model sets"
+ ],
+ [
+  14,
+  1356,
+  "and you allow it to be like this powerful model, but like easy ways to contribute to it, we believe this is richer than having a weaker mode"
+ ],
+ [
+  14,
+  1363,
+  "l that is intransparent and then a way of judging that is really hard to scale. So that's the trade-off space that we're talking about here."
+ ],
+ [
+  14,
+  1370,
+  " Yeah. I think that both models have their weaknesses and strengths. OK, I don't want to take too much time. I have more questions. Thank yo"
+ ],
+ [
+  14,
+  1376,
+  "u so much. Afterwards, we open for questions as well."
+ ],
+ [
+  14,
+  1379,
+  "Yeah. I want to ask, firstly, how did you come from data scraping to clustering? And in connection to that, did you actually check if you ma"
+ ],
+ [
+  14,
+  1391,
+  "de good clusters with similar status, for example, made by MetaGov? So how we do this is we leverage existing tooling for this. So here, how"
+ ],
+ [
+  14,
+  1403,
+  " Paulist does this internally is a simple k-means clustering algorithm that"
+ ],
+ [
+  14,
+  1410,
+  "they are able to kind of dissect the opinion groups here. But we also outlined it with several kind of other mechanisms like Talk to the Cit"
+ ],
+ [
+  14,
+  1420,
+  "y that uses more advanced LN judge-based clustering. But we personally don't do our own clustering algorithms. We rely on tooling that exist"
+ ],
+ [
+  14,
+  1431,
+  "s and has been used in the past for this."
+ ],
+ [
+  14,
+  1434,
+  "Yeah. Female Speaker 1 I mean I also had second part of the question if you compared that to other studies made on clustering of crypto crow"
+ ],
+ [
+  14,
+  1444,
+  "d in different spaces. Male Speaker 1 No. Female Speaker 1 Like Metagav did one and published paper on that. Male Speaker 1 Yeah, that would"
+ ],
+ [
+  14,
+  1453,
+  " be something cool to do for sure. do this."
+ ],
+ [
+  14,
+  1456,
+  "Male Speaker 1 Who is funding this work and will they accept the decision of an AI model? Male Speaker 1 So the 25K come from Oboki and Gitc"
+ ],
+ [
+  14,
+  1466,
+  "oin. Male Speaker 1 And will their ultimate decision makers accept the decision of an AI model? Male Speaker 1 I mean that's the trade off w"
+ ],
+ [
+  14,
+  1476,
+  "e go here for, right? Like we, this is the spicy part of the whole thing."
+ ],
+ [
+  14,
+  1481,
+  "Male Speaker 1 Very. Male Speaker 1 Like the election itself is, there's something at stake which makes the lessons so exciting. One of the "
+ ],
+ [
+  14,
+  1489,
+  "things I also want to emphasize is something that this, DeepGov doesn't have this. It kind of this kind of pulse check of the community whic"
+ ],
+ [
+  14,
+  1498,
+  "h I really like But will the ultimate decision makers accept the decision Like has that already been implemented In terms of not where the m"
+ ],
+ [
+  14,
+  1506,
+  "oney is allocated that has been raised for allocation"
+ ],
+ [
+  14,
+  1509,
+  "but rather the individuals who have an economic stake in the success of this project. You mean the grantees that receive money? Or the peopl"
+ ],
+ [
+  14,
+  1521,
+  "e who pay out the money? Because we are already paying out the money right now. So there is presumably somebody who is funding this research"
+ ],
+ [
+  14,
+  1532,
+  " and this project,"
+ ],
+ [
+  14,
+  1534,
+  "and they are funding research, this project, in terms of a way to allocate money. I'm not talking about that. I'm not talking about the pers"
+ ],
+ [
+  14,
+  1545,
+  "on who is paying, for example, your salary. I'm talking about the person who is running this entire experiment or this startup. Will they th"
+ ],
+ [
+  14,
+  1556,
+  "emselves accept the decision of an AI model?"
+ ],
+ [
+  14,
+  1559,
+  "Like, in essence, has this been dogfooded at the highest levels of the organization in which you work? Yes. Thank you. So is this the same a"
+ ],
+ [
+  14,
+  1574,
+  "ctual AI model? So AI models, they contain multitudes, right?"
+ ],
+ [
+  14,
+  1581,
+  "And so usually it's personas that we have just one model and we're running different personas on. Is that what this is? Or is it actually co"
+ ],
+ [
+  14,
+  1589,
+  "mpletely different models, like Anthropic versus OpenAI? And then, of course, in each one of those, there's multiple models in there. So I'm"
+ ],
+ [
+  14,
+  1598,
+  " just wondering how you're managing that. So the base model is the same for all of them. So right now we're using Entropic for the scoring,"
+ ],
+ [
+  14,
+  1606,
+  "but we hope to have this actually self-hosted, like in true DX spirit. And then the only thing that changes is really the constitution and t"
+ ],
+ [
+  14,
+  1616,
+  "he system prompt and the style of it. And the data pipeline. Some of these models are using different kind of data pipeline ingestions. pref"
+ ],
+ [
+  14,
+  1626,
+  "er to and customize to their needs and interests."
+ ],
+ [
+  14,
+  1630,
+  "So for example, GitCon communist, no, for example, Luna checks on karma gap data a lot. They all check on ethical data. So we all check on a"
+ ],
+ [
+  14,
+  1641,
+  "ttestations and hypersets if there something sketchy that was flagged But then others have have some small differences For example Panda che"
+ ],
+ [
+  14,
+  1651,
+  "cks for example on region specific data that is interesting for us"
+ ],
+ [
+  14,
+  1656,
+  "So we're already in compression now. Yes, correct. Yeah, just one comment. I opened the QR code to check the values and principles of Switze"
+ ],
+ [
+  14,
+  1669,
+  "rland. And it's very interesting. So I basically have 20 statements to agree, disagree, or pass on."
+ ],
+ [
+  14,
+  1678,
+  "And I was wondering why you made it kind of binary, or almost like disagree or actually non-binary, because I can also not care about it. I "
+ ],
+ [
+  14,
+  1689,
+  "think the politics is about compromise, right? Like you have allocated resources of attention or resources to do something. And it's always "
+ ],
+ [
+  14,
+  1700,
+  "relative."
+ ],
+ [
+  14,
+  1701,
+  "So comparing different statements and ranking them is probably much more important. You can just compare on a spectrum or allocate some kind"
+ ],
+ [
+  14,
+  1710,
+  " of a coin, et cetera, so that's just a recommendation. Yeah, totally. I mean, the reason we do agree and disagree is because we use Polis, "
+ ],
+ [
+  14,
+  1718,
+  "and that's how Polis works. That's simply the reason. Maybe that's a good, maybe Julian, one more question?"
+ ],
+ [
+  14,
+  1725,
+  "I think we got all the questions right so far. I mean, there was some more. I think Julian wants one more question. No, no, like a very shor"
+ ],
+ [
+  14,
+  1734,
+  "t one because I just thought about that and wanted just to say that and got confirmation or maybe not confirmation. Would you say that it is"
+ ],
+ [
+  14,
+  1744,
+  " true that in case of DeepGov, like the weakness is the input that the model gets about the project and so humans can basically play that by"
+ ],
+ [
+  14,
+  1753,
+  " providing"
+ ],
+ [
+  14,
+  1754,
+  "like the wrong data on the project. And in case of the deep funding, the weakness is basically like the arbiters, like being biased. I think"
+ ],
+ [
+  14,
+  1764,
+  " that could be summarized like that. When I thought, of course, I'm thinking about the practical uses and where it may go wrong. So coming f"
+ ],
+ [
+  14,
+  1775,
+  "rom machine learning research,"
+ ],
+ [
+  14,
+  1777,
+  "I think you're on the right track, but both projects suffer that at a different level. suffers this a little bit more in the first phase bec"
+ ],
+ [
+  14,
+  1785,
+  "ause everything's transparent. So you can, you can, and you can interact with them in the chat so you can actually test out very much until "
+ ],
+ [
+  14,
+  1793,
+  "like, or maybe this is a good, this is a good prompt or not. So definitely it suffers from Goodhart's law. Like trying to gain."
+ ],
+ [
+  14,
+  1800,
+  ". Deep funding will suffer it in the second time it runs the whole thing. Because once the jury votes are out, people will just train on the"
+ ],
+ [
+  14,
+  1807,
+  "se jury votes. And people will, the models will, for example, just train on the past jury votes and optimize on this, and you will lose the "
+ ],
+ [
+  14,
+  1815,
+  "signal, actually. And you do need to redo the jury votes, but you need to kind of make sure that they don't correlate. So there's a way for "
+ ],
+ [
+  14,
+  1822,
+  "deep funding to basically also"
+ ],
+ [
+  14,
+  1824,
+  "have the same problem, potentially. Gotard's law is really hard to trick. What I really like about DeepGov, I mean, yes, 100% I agree on the"
+ ],
+ [
+  14,
+  1833,
+  " disadvantage, but what I like about the advantage is we can iterate much faster in the voting, and so the steering process has a much faste"
+ ],
+ [
+  14,
+  1843,
+  "r feedback loop because you don't need to relabel all the projects"
+ ],
+ [
+  14,
+  1847,
+  "in the Ethereum space and spot check them. You can just run another vote like in two months again and re-change the responsibilities of the "
+ ],
+ [
+  14,
+  1856,
+  "agents, and so that's something that is a benefit, but it comes with the concern of It's super transparent and it's easier to gamify. And I "
+ ],
+ [
+  14,
+  1866,
+  "think we should move to the next session. One more short question. Is it possible to compare how closely the AI rating matches"
+ ],
+ [
+  14,
+  1874,
+  "mine? Can I just select, for example, five random projects, assign score myself, and check if the AI agent that supposedly is most closely t"
+ ],
+ [
+  14,
+  1883,
+  "o my preferences actually matches them closely. Have you tried this? It is a really good idea. This is actually a hybrid between DeepGov and"
+ ],
+ [
+  14,
+  1892,
+  " DeepFunding. And I think this is something we've been also discussing"
+ ],
+ [
+  14,
+  1897,
+  "a little bit with Audrey as well. Because there's this way of voting, independent of voting for projects, that opens up the ability of the A"
+ ],
+ [
+  14,
+  1906,
+  "I's convincing you. But then, of course, it's also nice to have what Julian and you said, like kind of an objective measure of accuracy. rig"
+ ],
+ [
+  14,
+  1915,
+  "ht, and that could be something integrated in the new kind of phase as well."
+ ],
+ [
+  14,
+  1920,
+  "Thanks for that feedback, that's really good. Cool. Let's move to the next one. I'm here. Are you concerned about any multiple attack vector"
+ ],
+ [
+  14,
+  1932,
+  "s in the model? I mean, when we ran the experiment, we saw several kind of interesting attacks, right? People are like, people are trying to"
+ ],
+ [
+  14,
+  1944,
+  ","
+ ],
+ [
+  14,
+  1944,
+  "if for example if the scoring would have been already integrated into the Telegram bots people would have tried to extract it because people"
+ ],
+ [
+  14,
+  1952,
+  " care obviously and maybe potentially want to bribe the agent and see okay, I vote for you if you rate me the highest, and you can basically"
+ ],
+ [
+  14,
+  1959,
+  " ask each agent, are you rating me the highest? So this is a potential attack vector that we saw. But I think it's a trade-off space, right?"
+ ],
+ [
+  14,
+  1967,
+  " We trade off a lot of transparency for the..."
+ ],
+ [
+  14,
+  1969,
+  "...to game fight, yeah. Sorry for that. Good. Well, we also thought how can we make this relevant for this space here, as we believe that th"
+ ],
+ [
+  14,
+  1979,
+  "ere are many different potential applications to how we can use this. So that's why we put together a short polly with 20 questions, which a"
+ ],
+ [
+  14,
+  1990,
+  "re all rooted in"
+ ],
+ [
+  14,
+  1991,
+  "some principle of Swiss governance. Maybe at this point I'll say that I actually studied political science, specifically Swiss governance sy"
+ ],
+ [
+  14,
+  1998,
+  "stems. I'm currently working in the multilateral environmental negotiation space. have been a former negotiator for Switzerland. So I'm kind"
+ ],
+ [
+  14,
+  2005,
+  " of very much rooted in the real world diplomacy and politics. If you have any questions, I'm very happy to answer them as well. But I alrea"
+ ],
+ [
+  14,
+  2011,
+  "dy know that you had already some lectures about the Swiss political system,"
+ ],
+ [
+  14,
+  2015,
+  "which is quite unique. But what we did, and I fully agree with the comment of the colleague sitting in the back, that how we kind of structu"
+ ],
+ [
+  14,
+  2022,
+  "re the police questions are not an ideal way. On the other hand, if you actually vote in Switzerland, and I know you had an introduction to "
+ ],
+ [
+  14,
+  2029,
+  "voting system, we can only agree or disagree, which I do personally believe is not the best system. And there could be kind of like a slide "
+ ],
+ [
+  14,
+  2037,
+  "on how much you align with something, but that's"
+ ],
+ [
+  14,
+  2039,
+  "currently not possible because our ballots have basically only agree or disagree. And that's also how the police works. But maybe in the fut"
+ ],
+ [
+  14,
+  2047,
+  "ure we can actually be more innovative, especially when we also bring more technological tools. But as the time is advancing, I would actual"
+ ],
+ [
+  14,
+  2055,
+  "ly welcome you to scan the QR code up here and go through the questions. While you maybe go through a question,"
+ ],
+ [
+  14,
+  2062,
+  "you can also think what principle are they rooted in Swiss politics and governance systems. And then afterwards, we can see the results on t"
+ ],
+ [
+  14,
+  2072,
+  "he police live. And we can also talk through maybe some of the results. But yeah, just basically you can agree, you can disagree. And you ca"
+ ],
+ [
+  14,
+  2082,
+  "n actually also propose further questions, which"
+ ],
+ [
+  14,
+  2085,
+  "we then can include in the future. Maybe I give just some three minutes for everyone to vote. It should be quite simple. The QR code is up h"
+ ],
+ [
+  14,
+  2134,
+  "ere If you have any challenges just raise your hand Thank you."
+ ],
+ [
+  14,
+  2155,
+  "Thank you."
+ ],
+ [
+  14,
+  2185,
+  "Thank you."
+ ],
+ [
+  14,
+  2215,
+  "Well, we already see your answers coming in."
+ ],
+ [
+  14,
+  2240,
+  "Feel free, everyone's still on it? Because it's always hard to judge if you answering your emails or if you doing the police so Well again t"
+ ],
+ [
+  14,
+  2250,
+  "his is like just a very short kind of short 20 questions Maybe you already kind of could link them to some of your learnings from the Swiss "
+ ],
+ [
+  14,
+  2261,
+  "governance system."
+ ],
+ [
+  14,
+  2262,
+  "So we try to really kind of see what are the principles rooted in Swiss democracy, which could be relevant for the space and created these q"
+ ],
+ [
+  14,
+  2270,
+  "uestions. We can now already see life. And again, this might not be the best questions. This might not be the best procedure. But I think wh"
+ ],
+ [
+  14,
+  2278,
+  "at is super interesting that we actually can see the clustering also like life on police, which I think has a lot of value as well"
+ ],
+ [
+  14,
+  2285,
+  "to the community itself. We can see some very interesting clusterings here, especially this group down here. Of course, this takes more time"
+ ],
+ [
+  14,
+  2294,
+  " to analyze, also cross-reference with the statements we have here to see how you have been voting. And we would love to kind of co-work wit"
+ ],
+ [
+  14,
+  2304,
+  "h you or the ones who are interested, as well as with the team"
+ ],
+ [
+  14,
+  2308,
+  "to see how could we potentially use such tools or such iterations based on broad listening, based on the inputs by the community to actually"
+ ],
+ [
+  14,
+  2318,
+  " write kind of a more community-oriented constitutional document of what Switzerland is, could be, because we believe that one of the fundam"
+ ],
+ [
+  14,
+  2327,
+  "ental elements also of Swiss kind of culture is our constitution,"
+ ],
+ [
+  14,
+  2332,
+  "which you learn that we can actually change so people can vote and change. And it's quite unique that we have the opportunity to do so. And "
+ ],
+ [
+  14,
+  2341,
+  "we also believe that in contrary how it was done back in 1848, when the Constitution was written, very was written by some very high educate"
+ ],
+ [
+  14,
+  2349,
+  "d men only, there were no female inputs, that we actually can do better today"
+ ],
+ [
+  14,
+  2354,
+  "and that we actually can use tools such as police and others to co-write a constitutional document, which we believe has also more ownership"
+ ],
+ [
+  14,
+  2361,
+  " from the community itself, because again, it's incorporating the values, which for example is part of how we are running our parliaments, h"
+ ],
+ [
+  14,
+  2369,
+  "ow we are running our federal council, where we have people from different, or in this case in our federal council, where we have seven kind"
+ ],
+ [
+  14,
+  2376,
+  " of presidents"
+ ],
+ [
+  14,
+  2377,
+  "who all represent different values. And we as a council come together to make decisions, and we believe we can harvest and harness this kind"
+ ],
+ [
+  14,
+  2384,
+  " of power also to write something which hopefully could guide Switzerland. But for this, we of course need all your critical inputs and feed"
+ ],
+ [
+  14,
+  2392,
+  "backs and all your questions, which we already had a lot. We would love to stay in contact. We will also be here. Maybe David, you can talk "
+ ],
+ [
+  14,
+  2399,
+  "afterwards."
+ ],
+ [
+  14,
+  2400,
+  "You have also to engage with the team throughout the next couple of days as well, but also afterwards. So the intention is really to strengt"
+ ],
+ [
+  14,
+  2407,
+  "hen these models for now. So they have many different use cases, and one of them could be then for Switzerland. But also we would love to as"
+ ],
+ [
+  14,
+  2415,
+  "sist your work with you together to see how you can use this for anything else where you might feel that it's important. Thank you so much f"
+ ],
+ [
+  14,
+  2422,
+  "or all your questions."
+ ],
+ [
+  14,
+  2423,
+  "We will analyze it and then also get back to your maybe handing over. Thank you everyone for joining. I just want to say like keep an eye ou"
+ ],
+ [
+  14,
+  2434,
+  "t on the calendar. So we'll host follow up sessions where we will dive deeper into it. And we are hosting a paper reading session also tomor"
+ ],
+ [
+  14,
+  2445,
+  "row on impact evaluator paper."
+ ],
+ [
+  14,
+  2447,
+  "So you're welcome. Today, because with governance and deep gov sort of intersection in the evening. So I'll keep you all posted. Thank you."
  ]
 ]
