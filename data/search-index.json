@@ -5990,6 +5990,2541 @@
   "w for 15 minutes into the cypherpunk evening sessions. Thank you again. Thank you."
  ],
  [
+  8,
+  0,
+  "Okay. Sorry. So, yeah, again, welcome for this presentation. And so I will let Kyle introduce himself and Freomorphic OS from Zama and some "
+ ],
+ [
+  8,
+  18,
+  "more details into freomorphic encryptions. Great. Thank you for the introduction, Antoine."
+ ],
+ [
+  8,
+  30,
+  "Good to see everyone. Sorry I couldn't be on-site. I just got back to Paris from from New York City yesterday, and so it was a little too co"
+ ],
+ [
+  8,
+  39,
+  "ndensed of a travel window to get out to to Switzerland, I'd love to be there next year. So today, I'm gonna be talking about what we at Zam"
+ ],
+ [
+  8,
+  48,
+  "a call the state operating system. In other words, how to run a country on chain. But as I found out yesterday,"
+ ],
+ [
+  8,
+  55,
+  "I've got a fair amount of time here. So I'm gonna pack in a little bit more than just our point of view on network states and and how to run"
+ ],
+ [
+  8,
+  64,
+  " countries on chain and give you some more context on Xama, on fully homomorphic encryption, the state of the ecosystem, and and then we can"
+ ],
+ [
+  8,
+  73,
+  " dovetail directly into the topic at hand. So to get started, my name is Kyle O'Brien. I am the chief of staff and director of corporate dev"
+ ],
+ [
+  8,
+  82,
+  "elopment at Zama."
+ ],
+ [
+  8,
+  83,
+  "I have somewhat of a unique role in the sense that I do a little bit of everything at Zama. I report directly to Rand, who's our founder and"
+ ],
+ [
+  8,
+  93,
+  " CEO. And I actually met Rand before I knew anything about Zama and joined him to manage his private investment practice. So he became a ver"
+ ],
+ [
+  8,
+  102,
+  "y active angel investor in 2020. I joined him to be the managing partner of his fund."
+ ],
+ [
+  8,
+  108,
+  "And after investing for a couple of years together, he brought me on at Zama as chief of staff in addition to managing the the investing pra"
+ ],
+ [
+  8,
+  116,
+  "ctice. And so I I kind of wear two hats. I'm an operator at a deep tech startup called Zama, which I'll tell you a little bit more about sho"
+ ],
+ [
+  8,
+  124,
+  "rtly. And we invest very actively, something like 10 or 15 deals per year, predominantly in early stage deep tech, frontier science, a littl"
+ ],
+ [
+  8,
+  132,
+  "e bit of blockchain"
+ ],
+ [
+  8,
+  133,
+  "infrastructure, and and crypto. And I can share more details on our investment practice later on in the talk. So today, we're gonna cover a "
+ ],
+ [
+  8,
+  141,
+  "few different topics. The first is just an overview of Zama. So, hopefully, some of you are aware of Zama. Maybe you've seen something on Tw"
+ ],
+ [
+  8,
+  149,
+  "itter, visited our GitHub, been to one of our events around the world. But if not, I'll give you a nice overview of of what it is we're buil"
+ ],
+ [
+  8,
+  158,
+  "ding."
+ ],
+ [
+  8,
+  158,
+  "And next, I wanna talk about the state of FHE. So the product we work on at Zama is is called fully homomorphic encryption or FHE for short."
+ ],
+ [
+  8,
+  167,
+  " And we recently published a document articulating what exactly is going on in the ecosystem. We shared a bit on the market maps and predict"
+ ],
+ [
+  8,
+  176,
+  "ions for the the coming years in the space, and we'll review that report."
+ ],
+ [
+  8,
+  181,
+  "And then I wanna focus more specifically on our blockchain product. And at the end, we can cover what we call, again, the the state operatin"
+ ],
+ [
+  8,
+  190,
+  "g system or the idea of building public infrastructure or civic infrastructure on chain using fully homomorphic encryption. I think that's r"
+ ],
+ [
+  8,
+  199,
+  "eally kind of the the the crux of the talk today, I think what's most relevant for"
+ ],
+ [
+  8,
+  204,
+  "the the the topic at hand in Switzerland. So let's get started with part one, Zama. So Zama is a company that is building a fully homomorphi"
+ ],
+ [
+  8,
+  218,
+  "c encryption, state of the art cryptography, for blockchain and machine learning, developers. And"
+ ],
+ [
+  8,
+  227,
+  "fully homomorphic encryption, it's a it's a bit of a mouthful. So I'll refer to it as FHE for the remainder of the talk. But FHE is an encry"
+ ],
+ [
+  8,
+  236,
+  "ption scheme that allows you to run compute over encrypted data without ever decrypting the data. So you might be familiar with something li"
+ ],
+ [
+  8,
+  245,
+  "ke end to end encryption, the idea that you encrypt a message and you send it"
+ ],
+ [
+  8,
+  250,
+  "to a to a receiver. And in transit, it's encrypted. And then, eventually, the receiver receives the message and they decrypt it in order to "
+ ],
+ [
+  8,
+  258,
+  "read it. The the the the idea there is that, you know, no one can can tamper with the message in between, and that's kind of the the foundat"
+ ],
+ [
+  8,
+  267,
+  "ion of our our modern Internet protocols. But but the challenge is at some point, when you have to run compute over the data or when somebod"
+ ],
+ [
+  8,
+  275,
+  "y needs see the data, there's a decryption that takes place and it it reveals,"
+ ],
+ [
+  8,
+  280,
+  "you know, the the the underlying data. And the beauty of fully homomorphic encryption is that you can actually compute over this underlying "
+ ],
+ [
+  8,
+  289,
+  "data without decrypting it. So for instance, I could encrypt, a query and I could send it to something like an encrypted chat GBT. And that "
+ ],
+ [
+  8,
+  298,
+  "encrypted chat GBT could run compute over the encrypted data without ever decrypting it and send me back an encrypted response that only I h"
+ ],
+ [
+  8,
+  307,
+  "ave permissions"
+ ],
+ [
+  8,
+  308,
+  "to view. And in that case, we've preserved my privacy. ChatGPT doesn't know, for instance, the query that I asked, and it doesn't know the r"
+ ],
+ [
+  8,
+  318,
+  "esponse that it's giving me back. And so it isn't collecting this set of data on my intents, my desires, my interests. And, really, that's t"
+ ],
+ [
+  8,
+  328,
+  "he the kind of overarching goal for for something like FHE. It's a it's a privacy enhancing"
+ ],
+ [
+  8,
+  334,
+  "technology. And at Zama, we're a fully open source company, and we are pretty widely adopted by developers. I mean, we're one of the first, "
+ ],
+ [
+  8,
+  345,
+  "first companies in the FHE space. And, essentially, we work on kind of four different products. So TFHE RS is the it's the the high performa"
+ ],
+ [
+  8,
+  357,
+  "nce FHE library or scheme"
+ ],
+ [
+  8,
+  359,
+  "written in Rust. Think of this as, like, the the baseline foundation layer. And then on top of that kind of scheme, that that foundation, we"
+ ],
+ [
+  8,
+  367,
+  " we have a few different products that we've built on top that are developer friendly and make it simple for noncryptographers to use. So th"
+ ],
+ [
+  8,
+  374,
+  "e the first is what we call ConcreteML. It's our machine learning product where you can you know, developers can can take these open source "
+ ],
+ [
+  8,
+  382,
+  "libraries and build confidential"
+ ],
+ [
+  8,
+  384,
+  "machine learning programs in in Python. We have what's called the FHEVM, which enables developers who code in Solidity to write confidential"
+ ],
+ [
+  8,
+  395,
+  " smart contracts for EVM chains. And then we have a threshold KMS system or key management system, which is effectively a a threshold MPC pr"
+ ],
+ [
+  8,
+  406,
+  "otocol"
+ ],
+ [
+  8,
+  406,
+  "that allows for FHE key generation and decryption. And so these are all these building blocks that developers have access to in order to cre"
+ ],
+ [
+  8,
+  416,
+  "ate, confidential smart contracts, confidential machine learning algorithms, or or confidential, decentralized applications. And in the case"
+ ],
+ [
+  8,
+  426,
+  " of the blockchain, FHE unlocks quite a few use cases that"
+ ],
+ [
+  8,
+  430,
+  "were not possible prior to bringing confidentiality on chain. Specifically, we see a lot of interest in the world of decentralized finance, "
+ ],
+ [
+  8,
+  441,
+  "DeFi, tokenizing real world assets. But more and more, we're encountering use cases around decentralized AI, things like digital identity, e"
+ ],
+ [
+  8,
+  453,
+  "nabling KYC and compliance,"
+ ],
+ [
+  8,
+  455,
+  "running queries against encrypted identities on chain, governance, which is a topic that I think is relevant in, of course, the crypto world"
+ ],
+ [
+  8,
+  465,
+  ", but more specifically in the world of of network states and building building countries on chain. Perhaps you want to take a vote for your"
+ ],
+ [
+  8,
+  474,
+  " DAO or you wanna take a vote for an elected official"
+ ],
+ [
+  8,
+  478,
+  "in some sort of network state. Perhaps you wanna run some sort of census while preserving the privacy of the the the population. And then, o"
+ ],
+ [
+  8,
+  490,
+  "f course, marketplaces to enable decentralized, you know, decentralized trading. But beyond blockchain, FHE has"
+ ],
+ [
+  8,
+  500,
+  "quite quite a few use cases that I think are are pretty generally applicable. Things like preventing data breaches in the cloud because not "
+ ],
+ [
+  8,
+  511,
+  "only is data encrypted in transit and at rest, but during compute. So there's really zero point in time where the data is unencrypted, and s"
+ ],
+ [
+  8,
+  522,
+  "omeone could someone could"
+ ],
+ [
+  8,
+  524,
+  "break in and and steal the data. In health care, obviously, there's a a ton of sensitive medical records. It becomes very difficult to, for "
+ ],
+ [
+  8,
+  533,
+  "instance, train a large language model on private health information due to HIPAA laws, for instance. This could be an interesting workaroun"
+ ],
+ [
+  8,
+  543,
+  "d where you keep the the data encrypted end to end. In advertising,"
+ ],
+ [
+  8,
+  547,
+  "this might be an example where you preserve the privacy of the users. So these big tech companies aren't harvesting all of your data, but th"
+ ],
+ [
+  8,
+  555,
+  "ey can still give you advertisements that are are relevant and and useful for the end user. Government, which we'll talk about a little bit "
+ ],
+ [
+  8,
+  563,
+  "later today, digitizing government services or issuing government identities in in a privacy preserving manner. And, of course, in defense, "
+ ],
+ [
+  8,
+  571,
+  "there's a number of applications for secure communications between government agencies."
+ ],
+ [
+  8,
+  576,
+  "And, so just to to be clear, blockchain is really kind of the killer first use case for FHE for a couple of reasons that I'll get into. And "
+ ],
+ [
+  8,
+  585,
+  "we view the future as, you know, FHE will will have the opportunity to really cover quite a bit of surface area. So that that that first kin"
+ ],
+ [
+  8,
+  595,
+  "d of core use case that I mentioned in in blockchain is is already a a a fairly meaningful"
+ ],
+ [
+  8,
+  601,
+  "business opportunity. The the the secondary business opportunity here is around finance. And in some ways, you can kind of glom together blo"
+ ],
+ [
+  8,
+  611,
+  "ckchain and traditional finances. Many of you probably are aware, traditional finance is is kind of fleeing to crypto rails quite quite quic"
+ ],
+ [
+  8,
+  622,
+  "kly and quite dramatically."
+ ],
+ [
+  8,
+  624,
+  "And so I I really view them hand in hand. There's a there's there's kind of the the crypto native DeFi oriented projects, and then there's t"
+ ],
+ [
+  8,
+  633,
+  "raditional financial institutions that are eager to adopt crypto rails. But they have, you know, regulatory and compliance concerns around w"
+ ],
+ [
+  8,
+  642,
+  "hat what they can and cannot put publicly on chain. And then, of course, the use cases that I mentioned earlier, cloud,"
+ ],
+ [
+  8,
+  650,
+  "AI use cases, things like health care, defense, software as a service. But but, ultimately, you know, between now and, the next, you know, f"
+ ],
+ [
+  8,
+  659,
+  "ive or ten years, there's a there there's quite a a substantial business opportunity, and and we're really excited to to go after each each "
+ ],
+ [
+  8,
+  668,
+  "one of these verticals. And, ultimately, the endgame for us is to make FHE the new Internet protocol,"
+ ],
+ [
+  8,
+  675,
+  "ensuring that apps are private and confidential by design. We think of this much like what HTTPS did for the Internet. So in the early Inter"
+ ],
+ [
+  8,
+  684,
+  "net days, nothing was encrypted. Everyone could see everything. A savvy hacker could find your credit card information, for instance. And it"
+ ],
+ [
+  8,
+  692,
+  " made it very difficult to adopt, things like ecommerce. No one wanted to put their credit card information online."
+ ],
+ [
+  8,
+  699,
+  "But once you had, you know, secure transmission of data and, you you you were able to onboard all of these new use cases. And just like HTTP"
+ ],
+ [
+  8,
+  711,
+  "S, we think what we call HTTPZ, this kind of overarching vision of of of privacy, kind of trustless Internet will be enabled as a result of "
+ ],
+ [
+  8,
+  722,
+  "of bringing FHE online and on chain."
+ ],
+ [
+  8,
+  725,
+  "But the big problem is that, FHE is, you know, somewhat, complex and unusable in practice, or at least historically, it has been. Most of yo"
+ ],
+ [
+  8,
+  734,
+  "u who have heard of FHE probably are thinking, well, FHE is too resource intensive, too complex, too slow. Oftentimes, they're limited. So t"
+ ],
+ [
+  8,
+  742,
+  "he the solutions that are out there only allow kind of basic mathematical operations and and don't cover a a full suite of mathematical oper"
+ ],
+ [
+  8,
+  751,
+  "ations that enable, you know, kind of real world use cases. And, oftentimes,"
+ ],
+ [
+  8,
+  756,
+  "they're they're quite complicated. So if you don't have a PhD in cryptography, good luck getting anything set up. And that's really kind of "
+ ],
+ [
+  8,
+  766,
+  "the premise on which Zama was built. The idea was that Zama was going to take what is effectively kind of, like, academic r and d and make i"
+ ],
+ [
+  8,
+  776,
+  "t more performant, easier to use, better, faster, cheaper, and widely adopted through, open source."
+ ],
+ [
+  8,
+  783,
+  "And that's really kind of what we we've spent our time doing. In the past five years, we've built the most fast, and and most versatile FHE "
+ ],
+ [
+  8,
+  794,
+  "library on on the market. This is getting a little bit into the weeds here, but there's a couple of different FHE schemes. The one that we p"
+ ],
+ [
+  8,
+  804,
+  "ropose is called TFHE. There's a couple others, CKKS and BGV."
+ ],
+ [
+  8,
+  809,
+  "Every scheme has its trade off. Right? But what's really compelling, one of the best properties of TFHE, is its ability to produce exact res"
+ ],
+ [
+  8,
+  819,
+  "ults. And so while it's a little bit slower, you are guaranteed to get exact results on the computation over the encrypted data. With the ot"
+ ],
+ [
+  8,
+  829,
+  "hers, you get what are called polynomial approximations."
+ ],
+ [
+  8,
+  833,
+  "And this can be useful and often error corrected AI use cases. But in cases like the blockchain where there's an exchange of of value, it's "
+ ],
+ [
+  8,
+  845,
+  "often important that exactness persists. So with Zama's TFHE libraries, you get unlimited operations, you get exact results,"
+ ],
+ [
+  8,
+  856,
+  "multiplication is a little bit slower. But as I'll mention a little bit later down the line, this is something that we're spending quite a b"
+ ],
+ [
+  8,
+  865,
+  "it of time and energy on, which is speeding up the algorithms and making it faster and and and, effectively, each step unlocking additional "
+ ],
+ [
+  8,
+  874,
+  "use cases. So we spend a majority of our time actually fine tuning the algorithms that make the computation faster."
+ ],
+ [
+  8,
+  881,
+  "But in conjunction with the algorithmic improvements, there are a number of people, including Zama, that are working on custom hardware. So "
+ ],
+ [
+  8,
+  890,
+  "much like what GPUs did for AI, there are a number of companies working on what are called cryptographic accelerators, which are just custom"
+ ],
+ [
+  8,
+  900,
+  " chips designed to make FHE go faster, for lack of a better better phrase."
+ ],
+ [
+  8,
+  905,
+  "As you can see here, you know, the projections are are are pretty substantial. At the moment, you know, we are performance enough to effecti"
+ ],
+ [
+  8,
+  915,
+  "vely cover any blockchain application, and that's without any sort of custom hardware And without sharing any of the kind of newest benchmar"
+ ],
+ [
+  8,
+  925,
+  "ks because they're not published yet,"
+ ],
+ [
+  8,
+  928,
+  "the GPU and custom f FPGA numbers are are are quite impressive, and we are projecting orders of magnitude improvements over the course of th"
+ ],
+ [
+  8,
+  937,
+  "e next couple of years. I spent quite a bit of time with our partners. You see a couple of them listed at the bottom. Companies like Optalys"
+ ],
+ [
+  8,
+  947,
+  "is that are building photonic a chip for FHE acceleration. You've got customers"
+ ],
+ [
+  8,
+  952,
+  "like partners rather like Kornomi working on generalizable FHE compute technology. You've got Fabric working on ZK and FHE accelerators. The"
+ ],
+ [
+  8,
+  962,
+  "re's a number of other companies that are are working on this, and we we spend quite a bit of time getting a a clear understanding of their "
+ ],
+ [
+  8,
+  972,
+  "projections and how they think they can impact the market. But as you can see, at each one of these benchmarks, a new"
+ ],
+ [
+  8,
+  981,
+  "new use case is unlocked. Right? Blockchain happens to be relatively slow, and so it's a a nice kind of entry point or beachhead for FHE. Fi"
+ ],
+ [
+  8,
+  991,
+  "nance becomes little a bit more, compute heavy as well as, consumer oriented. So you need speeds that are a little bit more aligned with exp"
+ ],
+ [
+  8,
+  1001,
+  "ectations from from consumers. You know, if you think of something like Visa is doing maybe 500 transactions per second,"
+ ],
+ [
+  8,
+  1010,
+  "you know, if we we we hit that if we can hit that threshold, we we can start to kind of compete in that area. And then once you get up towar"
+ ],
+ [
+  8,
+  1019,
+  "ds cloud and and AI, you you really need some some serious compute resources in order to make that work. But as I mentioned, I I think that'"
+ ],
+ [
+  8,
+  1028,
+  "s that's that's coming down the pipeline relatively soon, thanks to a lot of the the hard work on the on the the custom hardware side."
+ ],
+ [
+  8,
+  1037,
+  "So a little bit more about Zalma. The founders are are Rand Hindi, as I mentioned earlier. Rand is a PhD in bioinformatics, started and sold"
+ ],
+ [
+  8,
+  1047,
+  " a machine learning company in 2019, and and Zama is his second company. Pascal Paillet is the CTO and cofounder of Zama. If you know anythi"
+ ],
+ [
+  8,
+  1056,
+  "ng about cryptography or have spent any time doing some research, you probably have come across his name. He wrote one of the seminal papers"
+ ],
+ [
+  8,
+  1066,
+  " on"
+ ],
+ [
+  8,
+  1066,
+  "FHE in the nineties. He's got a Wikipedia page to his name. So he's I guess you could kind of characterize him as one of the godfathers of t"
+ ],
+ [
+  8,
+  1075,
+  "his this particular sector. And the slide's a little bit outdated. We've got roughly 90 or so employees now, so the team has grown quite sub"
+ ],
+ [
+  8,
+  1084,
+  "stantially, 35 of whom are PhDs. So we we really do spend quite a bit of time"
+ ],
+ [
+  8,
+  1089,
+  "working on the r and d kind of labs section of the product, and it's a it's a super smart team. You know, they're they're publishing papers "
+ ],
+ [
+  8,
+  1098,
+  "on a on a regular basis, and we're we're really thrilled with the progress that we've made. We've also got a really fast growing developer c"
+ ],
+ [
+  8,
+  1107,
+  "ommunity. As I mentioned, we're an open source company. So everything we do is open source."
+ ],
+ [
+  8,
+  1113,
+  "You can find all of the information around what we've done, what we've published, all of our code base in GitHub. We've got, you know, 5,000"
+ ],
+ [
+  8,
+  1121,
+  " or so developers, 4,000 plus GitHub stars. We've got a big Discord community. So if this is something that interests you, you're a develope"
+ ],
+ [
+  8,
+  1128,
+  "r that's curious about privacy preserving applications on blockchain or otherwise, don't hesitate to to check out kind of the community spac"
+ ],
+ [
+  8,
+  1136,
+  "es. There's there's a ton of opportunity. We're excited to to to to partner with with eager"
+ ],
+ [
+  8,
+  1141,
+  "and talented individuals. And just to to kind of close out here, we do a bounty every, I don't know, three to to four months, a bounty progr"
+ ],
+ [
+  8,
+  1150,
+  "am. We're on season eight now. And we host all of the demos from the the bounty program on our GitHub. So there's a ton of resources there. "
+ ],
+ [
+  8,
+  1158,
+  "You can get inspired. You can take a look. Again, it's kind of a quick plug call to action. If you're a developer that's interested in this "
+ ],
+ [
+  8,
+  1167,
+  "space, take a look at the bounty. Feel free to play around. Everything's open source. Some examples"
+ ],
+ [
+  8,
+  1173,
+  "of of the bounty bounties that have been done. Encrypted genomics. This is actually a very cool one where you can effectively get, like, a 2"
+ ],
+ [
+  8,
+  1182,
+  "3andMe test fully encrypted so that 23andMe doesn't have access to your your genome. It's a particularly relevant subject. As many of you ma"
+ ],
+ [
+  8,
+  1191,
+  "y know, they filed for bankruptcy, and there's a lot of concern around selling"
+ ],
+ [
+  8,
+  1196,
+  "genomic data of US citizens to foreign adversaries. And so this has been a a hot topic where privacy is really the crux of the issue. You've"
+ ],
+ [
+  8,
+  1205,
+  " got things like a a DataVault, where, basically, you can, input a bunch of personal information or data, encrypt it, and then use this Data"
+ ],
+ [
+  8,
+  1213,
+  "Vault when you interact with other applications so they can tailor the experience for you without actually,"
+ ],
+ [
+  8,
+  1220,
+  "having to reveal all of your underlying, you know, personal data. Got another nice example here with, encrypted image filtering. So this is "
+ ],
+ [
+  8,
+  1228,
+  "like an Instagram style example where the client side, you submit some sort of image. The image is encrypted. And then on the server side, i"
+ ],
+ [
+  8,
+  1236,
+  "t receives an encrypted image and is able to apply a filter without actually seeing the underlying image. And then it sends you back,"
+ ],
+ [
+  8,
+  1244,
+  "you know, an an an image with the filter applied, and and only you're able to to decrypt it. So a lot of cool use cases here. People get ver"
+ ],
+ [
+  8,
+  1252,
+  "y creative, on the on the bounty program, and we do a lot of the, creative demos internally as well. So if there's something here that spark"
+ ],
+ [
+  8,
+  1261,
+  "s, some inspiration, let me know. We're eager to work with, with folks that are excited about this, this technology."
+ ],
+ [
+  8,
+  1268,
+  "Okay. So part two. As I mentioned, we've been around for about five years. The technology has been commercialized for a little over a year, "
+ ],
+ [
+  8,
+  1278,
+  "and we decided, that the ecosystem had to hit a a a threshold where it made sense to evaluate what exactly was going on, do some market mapp"
+ ],
+ [
+  8,
+  1289,
+  "ing, get a sense of how big,"
+ ],
+ [
+  8,
+  1291,
+  "the the industry really was, and to put that on paper, publish it, and then ideally do follow-up reports on a regular cadence. And that came"
+ ],
+ [
+  8,
+  1299,
+  " in the form of the state of FHE report. I've pulled together an excerpt today from, the report that we published at the beginning of this y"
+ ],
+ [
+  8,
+  1308,
+  "ear, end of last year, beginning of this year. We have another one coming up soon, and, actually, the focus is gonna be on hardware. So so t"
+ ],
+ [
+  8,
+  1316,
+  "ake a look, keep an eye open for that."
+ ],
+ [
+  8,
+  1318,
+  "But I'm gonna walk through just some of the some of the findings that we we discovered in our research. So first, the market map. I think th"
+ ],
+ [
+  8,
+  1326,
+  "is is pretty telling. If you think you know, again, most people I interact with, even people that are quite deep in blockchain, crypto, mach"
+ ],
+ [
+  8,
+  1333,
+  "ine learning, tend to think that FHE is still five to ten years away. And I think that by taking a look at this market map, you get a a pret"
+ ],
+ [
+  8,
+  1341,
+  "ty clear sense that that's not really the case, that"
+ ],
+ [
+  8,
+  1344,
+  "FHE is already here. People are already building applications, and it's improving by the day. We've broken it down into, kind of a standard "
+ ],
+ [
+  8,
+  1353,
+  "stack here. You've got the hardware providers that are working on accelerating these FHE schemes. You've got the platforms or libraries that"
+ ],
+ [
+  8,
+  1362,
+  " are effectively building the tooling or the infrastructure for developers to use and incorporate into their applications."
+ ],
+ [
+  8,
+  1370,
+  "These are the companies like Zama that really, the the goal here is to abstract away the complex cryptography so that any developer that dev"
+ ],
+ [
+  8,
+  1378,
+  "elops in Python or Solidity is able to incorporate privacy into their application without getting a PhD in cryptography. You get the big, b "
+ ],
+ [
+  8,
+  1385,
+  "to b enterprise companies. It's probably no surprise that a lot of these companies have research labs, the Amazons, the Googles, the Metas o"
+ ],
+ [
+  8,
+  1393,
+  "f the world. And there's a number of startups also that are working in this space. TuneInsight"
+ ],
+ [
+  8,
+  1398,
+  "actually is a is a privacy start up that's based in Switzerland where you guys are at the moment. Perhaps they're on-site there somewhere to"
+ ],
+ [
+  8,
+  1406,
+  "day. A lot of companies are are working in this space building custom solutions that are targeted at the enterprise, specifically around col"
+ ],
+ [
+  8,
+  1414,
+  "laborative computing, the idea of running compute across different enterprises or within a big company where there's some sort of"
+ ],
+ [
+  8,
+  1422,
+  "division or segmentation of data where privacy is quite important. And then you've got the top layer, which are the end users, the applicati"
+ ],
+ [
+  8,
+  1430,
+  "on layer. So you'll see the vast majority of them are are, at least from our point of view, are in the blockchain space at the moment. But t"
+ ],
+ [
+  8,
+  1438,
+  "here's a number of people working in AI and machine learning, a number of companies that are experimenting, with financial traditional finan"
+ ],
+ [
+  8,
+  1446,
+  "cial use cases,"
+ ],
+ [
+  8,
+  1447,
+  "namely, JPMorgan. We did a coproduced study with them that I'll I'll lead to a little bit later. And then, of course, in health care, govern"
+ ],
+ [
+  8,
+  1456,
+  "ment, defense use cases. These are relatively, small and and kind of niche use cases within, large organizations, but they're gaining tracti"
+ ],
+ [
+  8,
+  1464,
+  "on. And as people become more and more familiar with the technology, they're implementing,"
+ ],
+ [
+  8,
+  1470,
+  "and and experimenting, more and more. It's important also to zoom out and get a sense of the the numbers. So the the the typical timeline th"
+ ],
+ [
+  8,
+  1482,
+  "at people refer to in FHE is really 2009 was the the kind of the demarcation or the the the start date for the FHE industry."
+ ],
+ [
+  8,
+  1493,
+  "There's a, an academic turned founder named, Craig Gentry, who's credited with writing the kind of first practical implementation, first whi"
+ ],
+ [
+  8,
+  1504,
+  "te paper back in 2009. And since then, it's been a a steady uptick in in search. This is actually pulled from from Google Trends, of course,"
+ ],
+ [
+  8,
+  1514,
+  " in search around FHE. So you you can see that it was a relatively"
+ ],
+ [
+  8,
+  1519,
+  "unknown back in 2008. And now we have a, you know, a fairly meaningful search volume as of just last year. But I think more indicative than "
+ ],
+ [
+  8,
+  1529,
+  "just general search around FHE is the usage of the main libraries, that are providing FHE, FHE tech. So you can see here we've listed a numb"
+ ],
+ [
+  8,
+  1539,
+  "er. A few of them are ours. A few of them are from some other companies, that that have popular open source libraries like TuneInsight, like"
+ ],
+ [
+  8,
+  1549,
+  ", Google, like Apple."
+ ],
+ [
+  8,
+  1551,
+  "And you can see that all of them are are moving up into the right, which is, indicative of the fact that developers are adopting them. They'"
+ ],
+ [
+  8,
+  1560,
+  "re they're starring the GitHub's. They're using them to build proof of concepts, applications, and this upward trend is really just reflecti"
+ ],
+ [
+  8,
+  1570,
+  "ve of of the the the the growth in the industry. And I think lastly,"
+ ],
+ [
+  8,
+  1574,
+  "taking it from kind of a third dimension here is that the, since that original paper in 2009, the scientific literature has really exploded."
+ ],
+ [
+  8,
+  1584,
+  " So you can see that there was virtually nothing, back in 2008, big paper in 2009. And from then on out, it's, increased, again, up into the"
+ ],
+ [
+  8,
+  1593,
+  " right. You know, if we if we look at the details there, we're, like, looking at maybe, you know, less than less than, 50 papers over ten ye"
+ ],
+ [
+  8,
+  1603,
+  "ars ago, and now we've got, you know, over 200 published in 2024."
+ ],
+ [
+  8,
+  1607,
+  "So I think this suggests, that, you know, the academic world is also interested in the tech. So not only has it jumped from academia into ki"
+ ],
+ [
+  8,
+  1615,
+  "nd of commercial markets, but academia has also doubled down on its interest in homomorphic encryption and and privacy enhancing tech, which"
+ ],
+ [
+  8,
+  1624,
+  " I I think is a net positive because, a, it advances the it advances the the the field of research. It also spins out a number of academics"
+ ],
+ [
+  8,
+  1632,
+  "who get interested in moving into the commercial space and will either join a company like Zalma or others that are working on on this techn"
+ ],
+ [
+  8,
+  1641,
+  "ology. But if we pivot from kind of the academic research general interest into the the money markets, the capital markets, I think this is "
+ ],
+ [
+  8,
+  1650,
+  "also quite indicative of how the space has evolved. So as I mentioned, I focus quite a bit on the venture ecosystem at Zama. I also run a sm"
+ ],
+ [
+  8,
+  1659,
+  "all fund investing in early stage tech."
+ ],
+ [
+  8,
+  1662,
+  "And this is a a nice chart illustrating how many investors are actively investing in the FHE space and what kind of numbers they're putting "
+ ],
+ [
+  8,
+  1671,
+  "up. Again, this, kinda mimics the the the the few charts you saw before. We're getting developer adoption. We're getting academic adoption. "
+ ],
+ [
+  8,
+  1679,
+  "We're getting general interest from search queries, and then we're getting, you know, people are putting their money where their mouth is, w"
+ ],
+ [
+  8,
+  1688,
+  "hich is to say that, investors are writing checks into FHE companies."
+ ],
+ [
+  8,
+  1692,
+  "And so over the course of the past, roughly ten years, over $500,000,000 have been raised for FHE companies. Over a 100 investors have parti"
+ ],
+ [
+  8,
+  1701,
+  "cipated in at least one of those deals. And based on the research we conducted, we we found about 36 deals, which is to say there's there's "
+ ],
+ [
+  8,
+  1710,
+  "quite a few companies that are working in this space. Still relatively small, but I would say a meaningful statistic."
+ ],
+ [
+  8,
+  1717,
+  "In terms of the funding rounds from last year, these are the companies that are are probably worth, worth watching. Obviously, we're we're l"
+ ],
+ [
+  8,
+  1726,
+  "isted on there, but a a number of others that are both partners and customers are are on the list, across hardware, across blockchain. The t"
+ ],
+ [
+  8,
+  1736,
+  "hese are really kind of the the the core focus, in terms of investment thesis for the past year."
+ ],
+ [
+  8,
+  1742,
+  "We also consolidated a bunch of initiatives, really just to give you a sense of who's working on what and what big players are getting invol"
+ ],
+ [
+  8,
+  1752,
+  "ved in FHE space. I think it's always a nice indication or early indicator when some of the name brand big tech companies or big crypto comp"
+ ],
+ [
+  8,
+  1761,
+  "anies are signaling that they're interested in working"
+ ],
+ [
+  8,
+  1765,
+  "with the technology. So as I alluded to earlier, Apple open sourced their homomorphic encryption library. I think that's a that's a good sig"
+ ],
+ [
+  8,
+  1773,
+  "n. They've they've been a kind of a privacy first company for quite some time, so it's nice to see that they're they're dabbling with the te"
+ ],
+ [
+  8,
+  1781,
+  "ch. Circle, the big stablecoin issuer, is working on a a a confidential ERC 20 framework for privacy based transactions using FHE."
+ ],
+ [
+  8,
+  1788,
+  "I mentioned earlier, we worked with JPMorgan on a proof of concept around leveraging FHE in the traditional financial sector. There have bee"
+ ],
+ [
+  8,
+  1797,
+  "n some acquisitions of FHE companies in the blockchain space. Arceum acquired Infer. You get the idea. There there's quite a bit of activity"
+ ],
+ [
+  8,
+  1806,
+  " going on, which, again, is just a strong signal, exciting signal for the market that, not only is FHE here, but people are using it,"
+ ],
+ [
+  8,
+  1814,
+  "and and big companies are are excited about incorporating it into their tech stack. We also interviewed a bunch of industry experts. I don't"
+ ],
+ [
+  8,
+  1823,
+  " think I'm gonna go through each and every one of them. I'll summarize at the end, essentially distill what they said into into some predict"
+ ],
+ [
+  8,
+  1833,
+  "ions. But we did have the chance to speak with, Craig Gentry. I mentioned he was the the gentleman who wrote the seminal paper on FHE."
+ ],
+ [
+  8,
+  1842,
+  "We spoke to David Archer, the CTO of Niobium, another one of these hardware manufacturers who's really excited about, FHE for for AI. We tal"
+ ],
+ [
+  8,
+  1852,
+  "ked to Ingrid. She's the founder and CEO of Bellforge. She's also an academic from KU Leuven. She just launched her company, not too long ag"
+ ],
+ [
+  8,
+  1861,
+  "o working on an accelerator for TFHE, which is the scheme that Zama, is building on."
+ ],
+ [
+  8,
+  1867,
+  "We interviewed Nigel Smart. He's our chief academic officer. Very excited about how FHE is now being applied to real world use cases that ki"
+ ],
+ [
+  8,
+  1877,
+  "nd of jump from academia into the the real world, I think, is a a meaningful one. And we talked to Remy, who's the founder of Inco. They're "
+ ],
+ [
+  8,
+  1886,
+  "a customer and partner of Zama, and, they're one of the the early adopters of, of FHE on chain."
+ ],
+ [
+  8,
+  1893,
+  "So what does this all mean? Well, if you distill all of the information that we collected during the, the the the state of FHE report, it ca"
+ ],
+ [
+  8,
+  1903,
+  "me down to a couple of things. The first was that it feels to us like crypto and FHE is the next narrative. Bringing privacy on chain, has a"
+ ],
+ [
+  8,
+  1912,
+  " lot of implications for a crypto native or DeFi projects, but also quite a bit of promise by,"
+ ],
+ [
+  8,
+  1919,
+  "bringing traditional finance on chain. If you've watched the kind of crypto news lately, the excitement around stablecoins, around tokenizin"
+ ],
+ [
+  8,
+  1928,
+  "g real world assets, around big financial institutions, thinking of crypto rails as the future of finance, it's going to be essential that, "
+ ],
+ [
+  8,
+  1936,
+  "privacy, confidentiality, and compliance can be incorporated on chain. And and so we see this as, a a really strong signal,"
+ ],
+ [
+  8,
+  1944,
+  "for FHE, in in the crypto ecosystem. And we also have a number of projects that are leveraging our technology, that you can see on the scree"
+ ],
+ [
+  8,
+  1954,
+  "n here that are are launching on mid net over the course of 2025. And the second is hardware. So not only is, is is kind of the crypto ecosy"
+ ],
+ [
+  8,
+  1963,
+  "stem adopting, FHE, but hardware providers,"
+ ],
+ [
+  8,
+  1966,
+  "including Zama, are working on making it faster. And the faster it goes, the better it'll be, both for on chain and off chain use cases. But"
+ ],
+ [
+  8,
+  1977,
+  " I think, really, the the excitement is the the ability to move up that latency curve and start to unlock new and interesting use cases as a"
+ ],
+ [
+  8,
+  1987,
+  " result of the performance that we can deliver."
+ ],
+ [
+  8,
+  1991,
+  "So we broke this down into into three predictions, which I I just mentioned. Hardware breakthroughs are going to unlock meaningful performan"
+ ],
+ [
+  8,
+  2000,
+  "ce gains. Both GPUs, coding GPUs, and and and delivering new ASICs and FPGAs is gonna drive this next cycle cycle of adoption. And we expect"
+ ],
+ [
+  8,
+  2010,
+  " a few of these new chips to to go into production in 2025."
+ ],
+ [
+  8,
+  2014,
+  "So I'd say over the next twelve to twelve to eighteen months, we'll we'll we'll see some, some interesting developments. We think FHEs and a"
+ ],
+ [
+  8,
+  2022,
+  "nd privacy is going to be a a key narrative in crypto and web three. We personally are very excited about this and are working hand in hand "
+ ],
+ [
+  8,
+  2030,
+  "with a number of customers and partners to to deliver it this year. And, finally, institutional adoption. I think this is really going to be"
+ ],
+ [
+  8,
+  2037,
+  " a a key driver for growth,"
+ ],
+ [
+  8,
+  2039,
+  "in this sector. And as I mentioned, we partnered with JPMorgan on a report. If you're interested in that, you can go find the report. It's p"
+ ],
+ [
+  8,
+  2050,
+  "ublicly available online. Okay. So let's dive into part three, which is, blockchain. What is, the use here? Well, the problem with blockchai"
+ ],
+ [
+  8,
+  2062,
+  "n is that everything is public."
+ ],
+ [
+  8,
+  2064,
+  "It's hard to build applications that require confidentiality. But Zalma enables you to build confidential dApps on layer ones and layer twos"
+ ],
+ [
+  8,
+  2073,
+  " without actually having to push any sort of change to the code base of the layer ones or layer twos, which is kind of the beauty of of the "
+ ],
+ [
+  8,
+  2082,
+  "the protocol we're offering. So think of Zama as a kind of cross chain, chain agnostic confidentiality"
+ ],
+ [
+  8,
+  2088,
+  "layer that allows you to develop applications on Ethereum, on Base, on Solana, and incorporate, privacy or confidentiality where it makes se"
+ ],
+ [
+  8,
+  2098,
+  "nse. And this unlocks a lot of interesting use cases in in the world of, in the world of, crypto. There's a number of use cases in DeFi, as "
+ ],
+ [
+  8,
+  2108,
+  "I mentioned earlier. We're working with people, around identity,"
+ ],
+ [
+  8,
+  2112,
+  "whether that's a confidential decentralized identity or proof of humanity style applications. There there's a lot of work being done in this"
+ ],
+ [
+  8,
+  2121,
+  " space. There's a bit in AI. There's some in MemeCoins, and we've got governance. There's a ton of use cases here, and we've really only scr"
+ ],
+ [
+  8,
+  2130,
+  "atched the surface. And the way it works is that we offer effectively a dedicated"
+ ],
+ [
+  8,
+  2135,
+  "FHE coprocessor or compute layer that allows you to run these confidential transactions off chain a high throughput environment. And we use "
+ ],
+ [
+  8,
+  2147,
+  "a gateway, which is effectively, you know, an optimistic roll up that is sensing for events on chain that require some sort of confidential "
+ ],
+ [
+  8,
+  2159,
+  "compute."
+ ],
+ [
+  8,
+  2160,
+  "So the gateway is sensing for the events. Anytime an event is triggered, the payment takes place on the gateway. The gateway is a kind of a "
+ ],
+ [
+  8,
+  2169,
+  "routing layer to the FHE coprocessor, which then stores the the the the encrypted result on the gateway and updates the the the state on the"
+ ],
+ [
+  8,
+  2177,
+  " on the layer one chain. And we've got a threshold MVC protocol that allows for key generation and decryption. So, ultimately, if you are a,"
+ ],
+ [
+  8,
+  2186,
+  "let's say, the owner of a wallet, and you have some sort of confidential token there, you're gonna wanna see your balance at some point. It'"
+ ],
+ [
+  8,
+  2195,
+  "s important that there are access controls for the end user in order to see or decrypt, the the results. And so these three pieces working i"
+ ],
+ [
+  8,
+  2204,
+  "n conjunction enable this this confidentiality layer across multiple chains. And we're working on this in a few different ways. We have laun"
+ ],
+ [
+  8,
+  2212,
+  "ched in conjunction with"
+ ],
+ [
+  8,
+  2214,
+  "with some partners, the confidential token association. So we're working on building a new confidential token standard that enables confiden"
+ ],
+ [
+  8,
+  2222,
+  "tial tokens to work and to be standardized such that people can build confidential wallets and portfolios, and auction contracts and all the"
+ ],
+ [
+  8,
+  2231,
+  " other kind of key building blocks for an ecosystem to be built. If you're working on any sort of kind of utility apps that might wanna inco"
+ ],
+ [
+  8,
+  2239,
+  "rporate confidentiality or privacy, reach out to us. We're we're super excited about this space."
+ ],
+ [
+  8,
+  2245,
+  "Okay. So this is the final part and really the, kind of core, element of the talk today. Wanna talk about what we call the state OS or how t"
+ ],
+ [
+  8,
+  2256,
+  "o run a country on chain. So, many of you there are probably familiar with, the idea of network states, so I won't go too deep into that. An"
+ ],
+ [
+  8,
+  2266,
+  "d I would also imagine that many of you are fairly international."
+ ],
+ [
+  8,
+  2271,
+  "I, for one, am an American with an Irish passport, that lives in Paris, France. I'm engaged to a Colombian. And right now, I'm speaking to a"
+ ],
+ [
+  8,
+  2281,
+  " group of people, in Switzerland. I've had my fair share of, unpleasant, bad UX experience with government, and I think there's a real oppor"
+ ],
+ [
+  8,
+  2291,
+  "tunity at the intersection of government network states"
+ ],
+ [
+  8,
+  2295,
+  "and crypto to kind of rearchitect or redesign the way that we run countries. Just to kind of harken back to earlier in the conversation, I, "
+ ],
+ [
+  8,
+  2305,
+  "work at Zalma, of course, as chief of staff, but also run a fund with our founder and CEO, Rand. We invest across blockchain, next gen compu"
+ ],
+ [
+  8,
+  2316,
+  "ting, longevity, and biotech. But recently,"
+ ],
+ [
+  8,
+  2319,
+  "I I would consider this kind of a subcategory within the blockchain and crypto space. We've started to explore what we call the state OS or "
+ ],
+ [
+  8,
+  2327,
+  "state operating system. So people that are leveraging crypto to rearchitect, again, the way that that countries are run, countries are built"
+ ],
+ [
+  8,
+  2335,
+  ", governance takes place. And, I've listed a few of our investments there. So we've invested in Infinita."
+ ],
+ [
+  8,
+  2341,
+  "Many of you are probably familiar with it. They're working on a a special economic zone, in Honduras, in partnership with with Prospera, to "
+ ],
+ [
+  8,
+  2350,
+  "accelerate biotech. So their their focus is bringing biotech founders, and and accelerating and deregulating, biotech research and and start"
+ ],
+ [
+  8,
+  2358,
+  "ups. Investing practice that's Praxis, rather, that's building kind of an online community, and they're looking to source land and and build"
+ ],
+ [
+  8,
+  2367,
+  ","
+ ],
+ [
+  8,
+  2367,
+  "effectively, a a country or nation state from the ground up. We've invested in CivicStack, which is working on basically, net network state "
+ ],
+ [
+  8,
+  2377,
+  "technology, specifically in Argentina and partnering with the government and, working with, OnChainCities, which is based in The UAE. Kim, a"
+ ],
+ [
+  8,
+  2387,
+  "ctually, who may have, spoken in Switzerland,"
+ ],
+ [
+  8,
+  2390,
+  "think, maybe it was yesterday or a couple days ago, is working on, on building this technology as well and has partnered with us to think ab"
+ ],
+ [
+  8,
+  2399,
+  "out how privacy might play a part in, in building digital passports, digital identity, and other digital infrastructure for for countries. S"
+ ],
+ [
+  8,
+  2408,
+  "o in order to think this through, you know, it's important to kind of, like, take a step back and think about what is a country. Oftentimes,"
+ ],
+ [
+  8,
+  2417,
+  " we think of countries as these, like, massive, immovable objects."
+ ],
+ [
+  8,
+  2421,
+  "But in reality, you know, countries are are are just stories. I I love this quote from, Yuval Harari. There are no gods in the universe, no "
+ ],
+ [
+  8,
+  2429,
+  "nations, no money, no human rights, no laws, no justice outside the common imagination of human beings. I think this really speaks to the fa"
+ ],
+ [
+  8,
+  2437,
+  "ct that, you know, at the end of the day, everything is is effectively made up. You know, we live and breathe in, in in this kind of environ"
+ ],
+ [
+  8,
+  2445,
+  "ment, and so we just assume that"
+ ],
+ [
+  8,
+  2447,
+  "things like countries are not malleable, but in reality, they are. I mean, they're they're designed to be changed. It's just our our current"
+ ],
+ [
+  8,
+  2454,
+  " system has been around for so long that it's it's calcified and a little bit difficult a little bit difficult to change. But but, ultimatel"
+ ],
+ [
+  8,
+  2462,
+  "y, a country is a a a story, and a country tells its story through its output. So I like to think of a country in terms of kind of a tech st"
+ ],
+ [
+  8,
+  2469,
+  "ack. Right? You know, I'm a tech guy. I think most of you guys here are are in the tech world to some degree."
+ ],
+ [
+  8,
+  2475,
+  "And at the bottom of the stack, you've got your institutions, you've got governance, things like providing trust, transparency, fairness is "
+ ],
+ [
+  8,
+  2482,
+  "is kind of an essential layer for a government in order to to function and and to serve its people. And once you have that in place, things "
+ ],
+ [
+  8,
+  2490,
+  "like the the justice department and the executive branch, etcetera, you've got to build public services on top of that. So you've got the th"
+ ],
+ [
+  8,
+  2497,
+  "e trust layer, and then on top of that, you've got the service layer."
+ ],
+ [
+  8,
+  2501,
+  "So to make a society functional, you need things like public transportation and health care, education. All of these are are are important s"
+ ],
+ [
+  8,
+  2510,
+  "ervices, oftentimes provided by the government, in some cases provided in kind of public private partnerships. And then on top of these kind"
+ ],
+ [
+  8,
+  2519,
+  " of two foundational layers, you've got the business layer, the economy layer."
+ ],
+ [
+  8,
+  2524,
+  "You're building brands that are global. You export things. You have a job market, and these are all essential for attracting citizens to to "
+ ],
+ [
+  8,
+  2533,
+  "stay and to build and and to work. And then the very top layer is what I call, like, the culture and identity layer. This is the art and the"
+ ],
+ [
+  8,
+  2541,
+  " architecture, the memes, the values, the ideals of a country. What does a country represent?"
+ ],
+ [
+  8,
+  2547,
+  "And when you put this entire stack together, you kind of get a a full picture on what a country is and what it represents. But as you can se"
+ ],
+ [
+  8,
+  2557,
+  "e, most of the UX for government, at least today, is is pretty broken. You know, a country like The US where I'm from, it has a great story."
+ ],
+ [
+  8,
+  2566,
+  " It has, you know, a a judicial system that's respected. It's got free and and and fair elections."
+ ],
+ [
+  8,
+  2573,
+  "But when you go and interact one on one with the government, the experience is pretty poor. I mean, not not something that you would think o"
+ ],
+ [
+  8,
+  2581,
+  "f as, like, a a tier one experience. Going to the DMV, getting your driver's license renewed is a huge pain. You're in this kind of poorly l"
+ ],
+ [
+  8,
+  2589,
+  "it room. There's a huge line. Nothing is really working for you. This this seems like something that could easily be solved. Voting is,"
+ ],
+ [
+  8,
+  2596,
+  "I think, essential for any democracy, but also a pretty backwards experience, writing things on paper, going into some public school down th"
+ ],
+ [
+  8,
+  2604,
+  "e street. This seems like something that could be fixed, in the digital age, online or using crypto. And then things like paying taxes, for "
+ ],
+ [
+  8,
+  2613,
+  "example. Again, tax law changes on a regular basis. Taxes become more and more complex."
+ ],
+ [
+  8,
+  2618,
+  "It's a huge time suck, a huge pain to do every year. There's probably a way that we could kind of rearchitect this on chain to make it simpl"
+ ],
+ [
+  8,
+  2628,
+  "e, transparent, and seamless. And so all this is to say that, basically, our countries, our big institutions are running on legacy code. A l"
+ ],
+ [
+  8,
+  2638,
+  "ot of what was defined in the constitution,"
+ ],
+ [
+  8,
+  2641,
+  "for example, was defined several hundred years ago, and it just doesn't quite apply today in the fast moving tech enabled environment that w"
+ ],
+ [
+  8,
+  2649,
+  "e live in. And as a result, there's been a loss of trust in public institutions that's been declining year over year for decades. And it's r"
+ ],
+ [
+  8,
+  2658,
+  "eally hard to rewrite this, unfortunately. The you know, this is not a a simple code push and update. It's it's quite difficult to to rewrit"
+ ],
+ [
+  8,
+  2666,
+  "e. And this is actually by design. I mean, as I mentioned, the constitution was written"
+ ],
+ [
+  8,
+  2671,
+  "with inertia baked in. The idea was they wanted stability at the expense of of innovation because if you're changing the law, you're changin"
+ ],
+ [
+  8,
+  2680,
+  "g the direction of the country year over year, it makes it really difficult to to survive, especially in the early days. There's also some g"
+ ],
+ [
+  8,
+  2688,
+  "eopolitical implications. I mean, I I probably don't need to make anyone there aware of the the the the current state of political affairs,"
+ ],
+ [
+  8,
+  2697,
+  "But it it appears we're we're kind of moving towards the end of Pax Americana. Social cohesion is no longer what it once was. Social media a"
+ ],
+ [
+  8,
+  2705,
+  "pps are are dividing us. And not only those two things, but there's been quite a bit of resistance in government to incorporate technology t"
+ ],
+ [
+  8,
+  2713,
+  "o make government better. And they have some legitimate reasons. Right? You know, the kind of an anti tech sentiment, fear of tech displacin"
+ ],
+ [
+  8,
+  2721,
+  "g government,"
+ ],
+ [
+  8,
+  2722,
+  "a fear of creating some sort of Orwellian government state. So I I understand the resistance, but we have kinda figured out a way to kind of"
+ ],
+ [
+  8,
+  2731,
+  " marry the two in order to create a more efficient union. But I would argue that now, the Overton window is, burst wide open. Tech used to b"
+ ],
+ [
+  8,
+  2740,
+  "e, kind of this cool thing. Everything was very optimistic in the early two thousands. Right? It wasn't a threat to government. It's like, w"
+ ],
+ [
+  8,
+  2748,
+  "e're gonna unify the world,"
+ ],
+ [
+  8,
+  2750,
+  "kind of a Kumbaya message around, connecting everyone across the world. In the February, as you can see, based on the Zuck index here, was n"
+ ],
+ [
+  8,
+  2759,
+  "ot a great time for tech. A lot of pushback, a lot of antitrust, dragging, tech founders in front of a congress to to berate them and and as"
+ ],
+ [
+  8,
+  2768,
+  "k them why they were an exist an existential threat to our democracy."
+ ],
+ [
+  8,
+  2772,
+  "And then now in the twenty twenties, we've got kind of cool bro tech bro, Zach. He's had his glow up. He's got a new stylist, new haircut. H"
+ ],
+ [
+  8,
+  2782,
+  "e's vibing. And I think government might be vibing as well in the sense that tech might be the only way out of the kind of mess that we foun"
+ ],
+ [
+  8,
+  2792,
+  "d ourselves in, and we need to figure out a way to adopt tech and to incorporate"
+ ],
+ [
+  8,
+  2798,
+  "it into the government stack or the civic infrastructure to make our countries better. And so my kind of proposal here is to think of this a"
+ ],
+ [
+  8,
+  2807,
+  "s an opportunity to rewrite the social contract to build from first principles for a twenty first century democracy, to build on chain for c"
+ ],
+ [
+  8,
+  2816,
+  "ryptographic trust and for efficiency. And, of course, talking our own book here, but we think that FHE is an essential building block here "
+ ],
+ [
+  8,
+  2825,
+  "to enable,"
+ ],
+ [
+  8,
+  2826,
+  "privacy, on these kind of government run, cryptographic projects. And we wanted to be for the people, and and by the people, of course, with"
+ ],
+ [
+  8,
+  2835,
+  " the help of of kind of crypto and and AI. And so what does that mean? It means that there's an opportunity here to build some sort of state"
+ ],
+ [
+  8,
+  2844,
+  " operating system, some sort of, technology that enables network states to run efficiently, and to to build the the technology and the infra"
+ ],
+ [
+  8,
+  2853,
+  "structure for the the twenty first century."
+ ],
+ [
+  8,
+  2856,
+  "I really like this tweet from Antonio Garcia Martinez. Imagine a government that would subject itself to the scrutiny of a of a Dune dashboa"
+ ],
+ [
+  8,
+  2865,
+  "rd. The idea that, like, a government could have OKRs for itself, it could publicly, publish them, and, we could have a real time dashboard "
+ ],
+ [
+  8,
+  2873,
+  "on, I don't know, government spending, tax collection, whatever, legal updates,"
+ ],
+ [
+  8,
+  2878,
+  "things that, you know, things that are passed into law. I think that I think there's something really interesting about this. Obviously, it "
+ ],
+ [
+  8,
+  2885,
+  "it it won't happen overnight, but it it's it's a it's a cool concept and I think something that we should be kind of somewhat aspirational a"
+ ],
+ [
+  8,
+  2892,
+  "bout. But not only is transparency one of these important elements, we we need kind of both transparency and confidentiality in order to mak"
+ ],
+ [
+  8,
+  2899,
+  "e this work. So some of the properties of blockchain that are really interesting are trust, transparency, efficiency, interoperability,"
+ ],
+ [
+  8,
+  2906,
+  "auditability, etcetera. These are really critical. This is something that I think could make the kind of Dune dashboard for government a a r"
+ ],
+ [
+  8,
+  2915,
+  "eality. At the same time, you don't want everything to be public. You need some way to be selectively private or confidential. You don't wan"
+ ],
+ [
+  8,
+  2925,
+  "t the state to have all the information on every citizen in some sort of Orwellian surveillance"
+ ],
+ [
+  8,
+  2931,
+  "state. But you do want it to enable compliance so that people aren't, you know, cheating on their taxes or something like that. So how do yo"
+ ],
+ [
+  8,
+  2939,
+  "u marry the two? How do you how do you create some sort of experience that is both transparent and and trusting, but also confidential and, "
+ ],
+ [
+  8,
+  2947,
+  "you know, preserving of of civil liberties? Our argument is that kind of at the intersection of blockchain and FHE, you you can find that. A"
+ ],
+ [
+  8,
+  2955,
+  "nd the thing is this is not some sort of pipe dream. This is not some sort of kind of futuristic idea."
+ ],
+ [
+  8,
+  2961,
+  "Things like this are already happening. Places like Switzerland are pioneering these concepts and are workshopping them and developing them "
+ ],
+ [
+  8,
+  2969,
+  "alongside people like you who are spending time here and trying to kind of wrap their heads around what new civic infrastructure could look "
+ ],
+ [
+  8,
+  2976,
+  "like, how does that intersect with crypto, how does that intersect with AI, how does that intersect with technology, and and how do we build"
+ ],
+ [
+  8,
+  2984,
+  " these things,"
+ ],
+ [
+  8,
+  2985,
+  "practically speaking? And I think there's really kind of three approaches. There's the idea of taking an existing nation state, like The US,"
+ ],
+ [
+  8,
+  2993,
+  " like Switzerland, or like France where I'm based right now, and refactoring the existing infrastructure. So working hand in hand with gover"
+ ],
+ [
+  8,
+  3002,
+  "nment to improve things. The second is kind of a hybrid where you create a special economic zone or a special jurisdiction."
+ ],
+ [
+  8,
+  3009,
+  "This is something like Infiniti that I spoke about earlier. They worked with the Honduran government to kind of carve out a a special sandbo"
+ ],
+ [
+  8,
+  3018,
+  "x where they can operate and and build their own rules. They inherit things like criminal law, but they can define business law, arbitration"
+ ],
+ [
+  8,
+  3026,
+  ", regulations to make things work faster. So for instance, there, they have Bitcoin as a as a an acceptable currency. You can pay your taxes"
+ ],
+ [
+  8,
+  3035,
+  " in Bitcoin."
+ ],
+ [
+  8,
+  3036,
+  "This is something that would take quite a bit of time to negotiate with the United States government, for example. So these special economic"
+ ],
+ [
+  8,
+  3044,
+  " zones are a nice middle ground, and I think probably the the easiest, lowest hanging fruit at the moment for experimenting with these ideas"
+ ],
+ [
+  8,
+  3051,
+  ". But in the long run, there is certainly ambition from some people to build what you might call, like, a crypto first nation state. This is"
+ ],
+ [
+  8,
+  3058,
+  " something more like Praxis where they're building a community of people online. They're getting people excited about a a cultural identity,"
+ ],
+ [
+  8,
+  3066,
+  "and and particular ambitions. And the idea is to source land and and build your own country from scratch. And this is a pretty ambitious eff"
+ ],
+ [
+  8,
+  3074,
+  "ort, and and, in some ways, a controversial effort because, of course, you have to source land, that is likely owned, by some other country "
+ ],
+ [
+  8,
+  3083,
+  "at the moment. But it is entirely possible, and people are working on the these types of models. And if if these models are gonna work,"
+ ],
+ [
+  8,
+  3091,
+  "you either have to rebuild or build from scratch some civic infrastructure layer. This is the layer of the tech stack I mentioned earlier, t"
+ ],
+ [
+  8,
+  3099,
+  "he kind of the bottom two layers that that make government work and that make countries thrive. And every country has, you know, a couple ke"
+ ],
+ [
+  8,
+  3107,
+  "y building blocks. Right? You need to be able to vote and run elections. You need to be able to issue identity, so that you know who your ci"
+ ],
+ [
+  8,
+  3115,
+  "tizens are, so that you can verify,"
+ ],
+ [
+  8,
+  3117,
+  "I don't know, age. You can run KYC processes. You need things like currency. Right? If you're gonna start a country, you need your own curre"
+ ],
+ [
+  8,
+  3125,
+  "ncy. This is something that crypto, as all of you know, does incredibly well. And then there's all kinds of other tangential use cases that "
+ ],
+ [
+  8,
+  3133,
+  "are a mix and match of identity, voting, and currency. Things like census, business and land registry, as we kinda move further and further "
+ ],
+ [
+  8,
+  3141,
+  "into the AI era, proof of humanity, is gonna be quite important,"
+ ],
+ [
+  8,
+  3145,
+  "tax collection and compliance. So as you can see, there's there's all these primitives that are being built, and you can mix and match them."
+ ],
+ [
+  8,
+  3154,
+  " They're kind of composable in in some way to create, this kind of fully on chain, state or on chain experience. But, again, blockchains are"
+ ],
+ [
+  8,
+  3162,
+  " really bad at keeping secrets. I mentioned this earlier. This is kind of the core premise at Zama. Blockchains are public by design. It's p"
+ ],
+ [
+  8,
+  3171,
+  "ublic ledger. Everything is transparent."
+ ],
+ [
+  8,
+  3173,
+  "This was kind of advertised as a feature early on in kind of the early movement of Bitcoin and and crypto. But as it's become more mature, p"
+ ],
+ [
+  8,
+  3182,
+  "eople have realized that this might be more of a bug than a feature. And I think the easiest way to highlight this is just to think about th"
+ ],
+ [
+  8,
+  3191,
+  "ings you do off chain, and would you want to make them public if they were on chain? So for instance, would you put your pay stub online? Wo"
+ ],
+ [
+  8,
+  3199,
+  "uld you advertise, you know, you know, how much money you make every month to your peers, your colleagues, your neighbors?"
+ ],
+ [
+  8,
+  3207,
+  "Probably not. If you're a company, do you wanna advertise your cap table to the world? You know, some investors might not care, but some mig"
+ ],
+ [
+  8,
+  3216,
+  "ht want to kind of reserve the right to maintain kind of a private stake in your private company. If you're gonna put cap tables or build so"
+ ],
+ [
+  8,
+  3225,
+  "me sort of on chain Carta, you need some some level of of privacy or confidentiality."
+ ],
+ [
+  8,
+  3231,
+  "Things like publicizing your tax return. Obviously, these are sensitive pieces of information. Not everyone wants that to be completely publ"
+ ],
+ [
+  8,
+  3239,
+  "ic. Your Social Security number, at least in The US, is certainly not something that you would advertise. You wouldn't share your vote neces"
+ ],
+ [
+  8,
+  3246,
+  "sarily unless you're, you know, you're willing to, but, you know, that that that's quite critical for free, fair, and open elections, things"
+ ],
+ [
+  8,
+  3254,
+  " like your mortgage. Right? So there's numerous use cases here where, like, on chain, a lot of things are public, and we just kind of accept"
+ ],
+ [
+  8,
+  3261,
+  " the fact that they're public and feel like it's a a core feature of of the crypto ecosystem."
+ ],
+ [
+  8,
+  3266,
+  "But if you if you just look at the mirror image or the analog in the off chain world, all of sudden, you realize, like, this is it's not not"
+ ],
+ [
+  8,
+  3275,
+  " normal necessarily to keep all these things publicly available. And so our goal here is really to normalize privacy on chain, enable privac"
+ ],
+ [
+  8,
+  3284,
+  "y and confidentiality on chain, and to bring use cases in the real world"
+ ],
+ [
+  8,
+  3289,
+  "into the crypto ecosystem. So just to recap kind of our notion of the state OS or the state operating system, we we really do believe that c"
+ ],
+ [
+  8,
+  3297,
+  "ivic infrastructure will be on chain. Right now, we're working very hard in the DeFi world to make this accessible and developer friendly, a"
+ ],
+ [
+  8,
+  3305,
+  "nd the next phase will be kind of the global financial ecosystem. But our kind of hunch, and we're fairly confident, is that the next step b"
+ ],
+ [
+  8,
+  3313,
+  "eyond traditional financial markets is going to be"
+ ],
+ [
+  8,
+  3316,
+  "government and and civic infrastructure. And our belief is that blockchain is gonna be a you know, the the fast track to develop these digit"
+ ],
+ [
+  8,
+  3325,
+  "al first institutions. Bringing our our key institutions on chain will require privacy and confidentiality. And confidentiality is a prerequ"
+ ],
+ [
+  8,
+  3334,
+  "isite for for sovereignty and and independence. And, you know, at the end of the day, we think FHE is gonna be a key building block here."
+ ],
+ [
+  8,
+  3343,
+  "We are by no means FHE maxes. We also use things like zero knowledge proofs, multi party computation, and other privacy enhancing tech kind "
+ ],
+ [
+  8,
+  3352,
+  "of behind the scenes. And we're excited for people that are building in this space to create these primitives that will enable, something li"
+ ],
+ [
+  8,
+  3361,
+  "ke a state operating system, for the future of of government and and and"
+ ],
+ [
+  8,
+  3366,
+  "and state, states on chain. So that's all I have for you. I know I've been speaking for about an hour now, so I, I hope it was clear. I hope"
+ ],
+ [
+  8,
+  3397,
+  " it was interesting, and I'm happy to leave a little bit of time for q and a. Hello. Hello."
+ ],
+ [
+  8,
+  3417,
+  "Anyone still on the other end? I don't see anyone on the other side here. There we are. Can you hear me? I can hear you now. You're back. Pe"
+ ],
+ [
+  8,
+  3430,
+  "rfect. So I just said that I really enjoyed the presentation about the state of FHE. And I hope that next year, we'll be able to bring an FP"
+ ],
+ [
+  8,
+  3443,
+  "GA and"
+ ],
+ [
+  8,
+  3444,
+  "teach some mathematical cryptograph and some cryptography to the audience. So maybe we have some questions. So then I'm gonna start with min"
+ ],
+ [
+  8,
+  3460,
+  "e. Don't you think having ASICs and FPGA will centralize"
+ ],
+ [
+  8,
+  3467,
+  "the use of FHA? Centralize the use. Hold on. I'm getting a little bit of feedback. Do you mind muting while while I speak? Thanks. Yeah. Wel"
+ ],
+ [
+  8,
+  3482,
+  "l, that's a good question. I think I think it's kind of unpredictable"
+ ],
+ [
+  8,
+  3489,
+  "exactly how it's gonna work out. Right? You you saw on the slide there's, like, seven or eight different vendors that are working on this. I"
+ ],
+ [
+  8,
+  3496,
+  " think with, I mean, if you if you just look at, like, an analogous market, like, cloud computing services now, you know, it's it's essentia"
+ ],
+ [
+  8,
+  3504,
+  "lly like an oligopoly. There's gonna be, like, three or four kind of main players that offer, like, a commoditized service, and it will, in "
+ ],
+ [
+  8,
+  3511,
+  "fact, become a commodity. So my sense is that early on, there will be a couple of players working on FPGAs,"
+ ],
+ [
+  8,
+  3517,
+  "a couple of ASICs. Some of them will be, you know, better than others for a particular, FHE scheme, and all of them will have trade offs, an"
+ ],
+ [
+  8,
+  3526,
+  "d then it'll come down to to pricing in the long run. But I I don't think, actually, every FHE operation is gonna need to run on an ASIC. So"
+ ],
+ [
+  8,
+  3535,
+  " there there will be some some split here. But I guess the the short answer is I I don't quite know exactly exactly what it looks like."
+ ],
+ [
+  8,
+  3543,
+  "We certainly don't want to centralize all compute. But if if you think about other projects, I don't know, something like a Jensen that is, "
+ ],
+ [
+  8,
+  3557,
+  "like, decentralizing AI compute. I I I can see a world in which there are projects like that that are built on chain specifically to, yeah, "
+ ],
+ [
+  8,
+  3570,
+  "to to decentralize and and secure FHE compute in the long run."
+ ],
+ [
+  8,
+  3576,
+  "Yes. Hello. I hacked previously on Phoenix l two, and I constructed an FHE AMM. And a lot of these l twos that we have in Ethereum are very "
+ ],
+ [
+  8,
+  3590,
+  "centralized. And I was wondering, more in the spirit of decentralization, are you aware of any l one blockchains that use FHE encryption"
+ ],
+ [
+  8,
+  3603,
+  "on and yeah. Yeah. I think the the that's a good question. So most of the blockchains out there that are using FHE are using Xama's technolo"
+ ],
+ [
+  8,
+  3612,
+  "gy kinda behind the scenes or under the hood, so to speak. So Phoenix is a is a customer of ours. They're they're leveraging our our IP, in "
+ ],
+ [
+  8,
+  3620,
+  "order to make their l two work. We have another customer called Inco. I don't know if you've come across Inco. I mentioned them in the in th"
+ ],
+ [
+  8,
+  3629,
+  "e project. They they they're another"
+ ],
+ [
+  8,
+  3631,
+  "another, FHC blockchain project that perhaps there there's something, worthwhile there to to explore. But for the most part, there there's n"
+ ],
+ [
+  8,
+  3641,
+  "ot any other, there's not any other l ones that I'm, that I'm aware of. I think, as I mentioned, we're we're launching our our own protocol "
+ ],
+ [
+  8,
+  3652,
+  "that's gonna be kind of chain agnostic by design. And so I think we we view the future as less focused on, you know, a specific"
+ ],
+ [
+  8,
+  3661,
+  "l one FHE enabled blockchain and more around developers selectively, you know, choosing the ecosystem they work in or being able to move bet"
+ ],
+ [
+  8,
+  3672,
+  "ween ecosystems depending on what's what's working for them or what their use case is, and then kind of instantiating confidentiality throug"
+ ],
+ [
+  8,
+  3683,
+  "h our protocol on a case by case basis."
+ ],
+ [
+  8,
+  3686,
+  "So I I don't know if that helps or answers answers your question. But but I think in the long run, the goal here is, like, flexibility. Hell"
+ ],
+ [
+  8,
+  3699,
+  "o? This might be a technical question, but there was an interesting hack that I used for fully homomorphic encryption"
+ ],
+ [
+  8,
+  3709,
+  "in order to make it kind of like partially homomorphic and still make it work. To give kind of an example of the problem is division in FHE,"
+ ],
+ [
+  8,
+  3719,
+  " which I think comes from your library in Phoenix, is very, very expensive computationally wise. And so what at least when I was hacking on "
+ ],
+ [
+  8,
+  3728,
+  "it and figured out, is what you can do is you can use straight lines."
+ ],
+ [
+  8,
+  3733,
+  "You move along a straight line, and that requires only addition and subtraction. And then have a conditional operation that switches to a ne"
+ ],
+ [
+  8,
+  3741,
+  "xt straight line. And so you avoid basically curvature. You avoid division. And you what you do is you basically you sacrifice accuracy. But"
+ ],
+ [
+  8,
+  3749,
+  " my my my question is, I use the conditional statement. And so it's like an encryption of a conditional statement. Like, if one,"
+ ],
+ [
+  8,
+  3756,
+  "if a certain value is greater than another, then switch to the next line. And so like, I'm just trying to grasp what is the encryption, what"
+ ],
+ [
+  8,
+  3764,
+  " is the math behind the encryption of the Boolean? At least it wasn't in in a Phoenix and a Splendid Lab. I don't know if you have the answe"
+ ],
+ [
+  8,
+  3773,
+  "r to that question. Yeah. Yeah. I mean, it's it's above my pay grade, to be completely honest. I I probably need to pull in one of our one o"
+ ],
+ [
+  8,
+  3781,
+  "f our developers."
+ ],
+ [
+  8,
+  3782,
+  "I I I don't have a good answer for you. You're you're correct. The division is expensive in FHE, and perhaps you found a a a solid workaroun"
+ ],
+ [
+  8,
+  3791,
+  "d or or shortcut. I I'd be happy to exchange emails or introduce you to one of our our tech team to to discuss that a little bit further. So"
+ ],
+ [
+  8,
+  3801,
+  " then I would have another question for your upcoming protocol."
+ ],
+ [
+  8,
+  3805,
+  "How are you gonna build trust for it? As it will be, like, chain agnostic, so you will be sort of able to act like a bridge, and you will pe"
+ ],
+ [
+  8,
+  3816,
+  "rform, I mean, encrypted computation. But then how do we know that it's the actual computations that we wanted you to perform until you get "
+ ],
+ [
+  8,
+  3827,
+  "FH I mean, ZK, fully homomorphic encryption?"
+ ],
+ [
+  8,
+  3831,
+  "Yeah. So the the key there is around the key management system. So we will be decentralizing the key management system. So well as the copro"
+ ],
+ [
+  8,
+  3841,
+  "cessor operating nodes. So Zama will be operating a portion of the system, but there will also be something like 16 or 17 other entities tha"
+ ],
+ [
+  8,
+  3851,
+  "t will be running both the compute resources"
+ ],
+ [
+  8,
+  3854,
+  "and nodes on the MPC, the threshold MPC protocol. And our goal there is to bring on entities that are both strong in terms of developer oper"
+ ],
+ [
+  8,
+  3866,
+  "ations and and and kind of managing security, but also in terms of reputation. They're all gonna be publicly kind of doxxed. So if they were"
+ ],
+ [
+  8,
+  3877,
+  " to cheat, you know, their their"
+ ],
+ [
+  8,
+  3880,
+  "it it will be revealed to the world. And so not only do they have an on chain incentive not to cheat, meaning, you know, they'll they'll be "
+ ],
+ [
+  8,
+  3888,
+  "slashed and and removed if if, if they do. But everyone will know that they have cheated because they're a white labeled organization that's"
+ ],
+ [
+  8,
+  3895,
+  " running a node. And so in in in essence, their off chain enterprise value is also tied to securing the network. So we have a number of enti"
+ ],
+ [
+  8,
+  3903,
+  "ties that have already committed to this, and we're we're finalizing that. We'll announce it later this year."
+ ],
+ [
+  8,
+  3909,
+  "But the short answer is, yeah, we'll we'll we'll be decentralizing it and and working with a number of reputable players in order to ensure "
+ ],
+ [
+  8,
+  3919,
+  "that. There there's also some speaking of your kind of ZK, FHE, we we do zero knowledge proof of knowledges for the encrypted inputs. So the"
+ ],
+ [
+  8,
+  3929,
+  "re there are some there there's some verifiability. It's not a pure ZKFHE approach, but but there are other proofs that go along with some o"
+ ],
+ [
+  8,
+  3939,
+  "f the computation."
+ ],
+ [
+  8,
+  3940,
+  "Okay. Thanks. And so it will be my last question. You mentioned that you have patterns and IPs over the different cryptographic technologies"
+ ],
+ [
+  8,
+  3953,
+  " that you you developed? And how do you think it would work if, let's say, your network states were to use your technology?"
+ ],
+ [
+  8,
+  3965,
+  "Yeah. I I think it would work in the same way it works with with anyone today. So as we mentioned, every everything is open source. We we've"
+ ],
+ [
+  8,
+  3974,
+  " patented some of the technology, and we have, like, a a kind of a a standard licensing model for that. All the technology is publicly avail"
+ ],
+ [
+  8,
+  3983,
+  "able and usable. It's only if you decide to commercialize it that you have to engage in some sort of contract with us."
+ ],
+ [
+  8,
+  3990,
+  "So, yeah, I I mean, I would imagine we would go through a similar contracting process to anybody that that that uses our tech today. So, lik"
+ ],
+ [
+  8,
+  3998,
+  "e, the the difference between, like, I don't know, the Swiss government and someone like, Phoenix or or Inco is, roughly the same. And we yo"
+ ],
+ [
+  8,
+  4006,
+  "u know, we don't we don't discriminate on on the patents. The the the patents are not there to, you know, select"
+ ],
+ [
+  8,
+  4013,
+  "or gatekeep who can use the technology. It's simply so that we have a business model. Okay. Thanks. Any more questions? No. It seems great. "
+ ],
+ [
+  8,
+  4025,
+  "So thank you, Kyle. And I'll give you a contact to the FHE developer. Great. Thanks a lot. Appreciate your time, everyone. Enjoy the rest of"
+ ],
+ [
+  8,
+  4037,
+  " the conference."
+ ],
+ [
+  8,
+  4038,
+  "Thank you."
+ ],
+ [
   9,
   0,
   "Welcome everybody. This is going to be my presentation on BCIs. It's going to be an intro on them. What I made so far for Think2Earn. And ye"

@@ -210,13 +210,14 @@
     "id": "1_s9TD15CkmVMl-Wn6ZxaH4EgZV7WC3zs",
     "kind": "video",
     "size": 2348298142,
-    "stream": true
+    "stream": true,
+    "hosted": "https://pub-3d88701638314a20ad2241ee26e6824f.r2.dev/audio/1_s9TD15CkmVMl-Wn6ZxaH4EgZV7WC3zs.mp3"
    }
   ],
-  "transcript": null,
-  "duration": null,
+  "transcript": "1_s9TD15CkmVMl-Wn6ZxaH4EgZV7WC3zs",
+  "duration": "01:07:29",
   "quality": "ok",
-  "transponder": false,
+  "transponder": true,
   "thumb": "thumbs/1_s9TD15CkmVMl-Wn6ZxaH4EgZV7WC3zs.jpg",
   "featured": true,
   "speakers": []
