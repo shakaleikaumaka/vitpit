@@ -1,0 +1,553 @@
+# Zuitzerland Buildathon Submissions
+
+Date: 
+Source video: Zuitzerland Buildathon Submissions
+Drive: https://drive.google.com/file/d/14aHOnb9cLYCOQEsxSacUOTQ1Yj7KzcMU/view
+Duration: 02:07:50
+Transcribed: 2026-07-27 · deepgram nova-3 · PIT BULL harvest fleet v3
+
+---
+
+[00:00] I'll put my hand up when you have one minute left. So, like, at the one minute At the one minute mark, I'll put my hand up, and you have one more like this, and you have one more minute to either ask answer questions or keep talking. Alright. Super excited to kick this off. I'm Erin McGinnis and presenting Zupps, which is the Zoo Point system
+
+[00:34] for transparently communicating what the community wants. And this is really designed to enable the creation of value and also the retention of value within the Switzerland ecosystem. It, one, acts as a budget mechanism across all asset classes, not just financial, but also social and human capital. And that prevents the need for external influxes of financial capital to sustain different operations that could be maintained internally.
+
+[01:06] It also elevates relative preferences of what the community wants most now and as different priorities arise. And it's designed to drive participation and engagement, create more transparency around collective decision making, and provide insights through pair pairwise preferences. So how does it work? Every day, each participant gets a 100 zaps.
+
+[01:32] If they aren't used, they're burned and lost. Those different ZEPs can be received for other participation and spent by engaging in the community. Ways to receive more Zupps include, basically, participating, supporting, and engaging with others. That looks like attending sessions, connecting
+
+[01:54] with someone new, and it can also look like hosting sessions and offerings. And then as people find value through things you're hosting or ways you're engaging with the community, then you can receive different subs. Ways they can be spent is voting on things. Basically, having a voice of what's all happening here. And this is through a quadratic voting mechanism.
+
+[02:19] So if you have a lot of zups, you can't override what the rest of the community wants. Thank you. You can also spend ZUPS to add things to the schedule, and that acts as a staking mechanism. So if people find value from what you added, then you'll get ZUPS back. The ZUPS you receive rollover, and then you can spend that or allocate to things you really, really care about and strongly believe in.
+
+[02:48] All of the transactions are viewable, but it's not tied to one address, maintaining your privacy. What else? At the end of each day, you'll receive a prompt encouraging you to spend your Zupps before they're lost forever. You can also have Zuppsers, which are Zupps that are sponsored, So people who are in a better financially economic position can also sponsor financial infrastructure
+
+[03:16] or other people who should be here but can't afford to do so. That's Zupps. Thank you. Cool. Great. Thank you. Thank you. Next up. Next up, Omar Waka. Hi.
+
+[03:41] So I had a small presentation on probably Switzerland governance proposal on focusable governance and maybe future society design. Can you hear me? Yeah. So on focusable governance as a foundational model for cities like Switzerland and Zuzalu hubs,
+
+[04:04] we're drawing from open source software where blockchain principles and real world governance experiments intertwine. So it makes it easy and flexible to participate in systems, prioritizing integrity, adaptability, and cultural plurality as well. So what's about to follow is a bit philosophical.
+
+[04:28] Yeah. It's a bit philosophical. So as societies are becoming more educated and advanced, the flows of centralized authority are becoming more apparent than usual, and hence, the focusable governance is a tool or a model which you can use to maybe solve our issues or differences amicably in in
+
+[04:52] societies like Switzerland. And among the proposals is economic incentivization through diverse thinking where a couple governments governance system is strengthened by incentives that support not only the majority, but also those who bring fresh, diverse, or unconventional perspectives.
+
+[05:14] What do I mean when I say this? So a shared community token that can reward individuals who propose new ideas and challenge the status quo while also ensuring that the minority voices are not just overlooked but hard and valued. And in my examples, I drew lessons from Kenya and Singapore in a way. So Kenya's
+
+[05:39] struggle with economic advancement has give us a lot of thought oh, sorry, to try and maybe catch up to the rest of the world. So we set up things like export process export processing zones, which focused on tax intense incentives. But as needs shifted, we changed our methods into tech techno policies
+
+[06:02] where we have examples like KONZA and TATU, if you've heard of them. So the KONZA and TATU are a private public partnership where we try to maybe accelerate our development through them. And personal experiences are developing nations in democracy is mainly undermined by corruption, manipulation,
+
+[06:24] and inefficiencies. So we decided to maybe make elections more private and easy for the rest of the population. So to cut my story short, sorry, I just came up with a constitution that is based on values for our Switzerland system where we don't have to have a complex document. It can just be simple,
+
+[06:47] which a simple document that protects treating others better than we treat ourselves and also protection for the environment and the sharing of knowledge. Thank you. Thank you so much. Tokenomics, HRT hub reserve token, Europe, and then Switzerland blueprint operational excellence for future sustainable governance on standby. Tokenomics. Are you sharing your screen? Great.
+
+[07:15] And are you in StreamYard? No. What is that? Okay. Just share your screen. Okay. So this is the hub reserve token, v zero.
+
+[07:44] So here's some legal engineering principles. The key one I wanna highlight because we're moving fast is that only one front facing token, and this is after, some Vitalik role advice. And then also the idea of color and colorless design. So the hub reserve token, hubs being things like districts or whatever Switzerland becomes as as a legal entity that we can put bonds or or bond like things in.
+
+[08:10] This mensari solstice is what we also would like all the people that are contributing capital to to apply to, and it's kinda like the Hippocratic Oath. Please look for more details there. Here are some definitions of all the different yeah. So hub reserve token, revenue token, Amanis, Ricardian, and Vitalik's role. So basically, what we're doing is we're engineering
+
+[08:33] the legal infrastructure and financial infrastructure that is going to allow for creating the tokenomics for us to self fund a permanent hub here without having to rely on banks or interest rates or just regular, you know, and, leasing methods? So, yeah. So there's only one token. It's the reserve token, and that's an index fund.
+
+[08:57] And then, we start with a revenue token, just one revenue token, and then we can expand into other utilities. And that revenue goes into the reserve token, which then has yield, and it's the main point of the reserve token. It's over collateralization, so we can put Bitcoin and Ethereum in it, and the fluctuations don't matter too much because it's five, ten year, and those have really great returns. And, basically, this is why it's gonna gonna get a little bit controversial or interesting to explore after, we talk to Vitalik because we wanna increase the total lock value
+
+[09:28] of the, revenue that we can bring in. So there are two options that we can explore. Number one, having one reserve per hub, and number two, having a universal reserve for the entire ecosystem. That would be like Prospera and Switzerland, as an example. Yeah. Okay. So, yeah. So, the basic concept is the reserve token is the whole fruit basket,
+
+[09:51] And then revenue tokens at different kinds of fruit. So pear fruit, that's where we have the royalties or the profits are in pardon me, go up the stream. So from electricity, once we more expanded to different token types to utilities, then finally up to reserve. And then the, more fungi type style is direct into the, reserve. And then yeah. So here's what that looks like.
+
+[10:14] Yeah. So, basically, in a world where we, let's say, have one reserve for all hops, we are able to, in the future, fork different tokens that will communicate to the entire reserve ecosystem. Yeah. So we also then explored the Cyclodo, bonding, curve. It's it's really exciting because it is the fastest way to get from point a to point b. And then it's also when every single,
+
+[10:40] principle matures at the exact same time. And then, so, yeah, so here's the basic way it works. And then here's what we've done. And then, here's our solidity as well. And partners, here's a partner that's gonna present later. Blueprint
+
+[11:05] is up, and standby is path to resolution. Blue Switzerland blueprint, operational excellence for a future sustainable governance. Anyone? Going once? Going twice? Yes? Okay. Are you sharing your screen? No. No. No. Not sharing.
+
+[11:36] So what if oh, sorry. What if governance could be both decentralized and effective, sign not just for consensus, but for real world combination and long term resilience? So and we introduced a modular system for operational excellence combining programmable governance with physical infrastructure and talent incubation.
+
+[11:59] Like, to make it tangible, we bring a set of charts for operation and profit generation. So this is what we're gonna focus on to maximize the return of allocation. And so we design, like, what it would be like the Switzerland Atlas and then different, like, we call stop dials. That each one is, like, autonomous. They have the its own governance,
+
+[12:22] but they are all subject or, like, following this the Switzerland Atlas, which is one transversal for for all of them. And yeah. So we designed, like, the Atlas and all like, and the differential for revenue generation and and the rules that should have and how the governance system should work.
+
+[12:45] So yeah. And it's just a comment. For us, this is more than a hackathon participation, but it's also like the start of the Swiss Army to create a sustainable place to live. Thank you so much. Path to resolution, you're up. And Zuzulu IdeaForge is standby.
+
+[13:09] Let me get another microphone. Are you sharing your screen? Thanks.
+
+[14:49] Oh, there it goes. Yes. There we go. Okay. So we're gonna burn through this really quick. So the other day, we've been doing a lot of discussions throughout the weeks that we've been here. And on governance, the one thing that we seem to file have consensus on is the need for a conflict resolution model. So we came up with a path resolution, which is a fully decentralized, path resolution. So if you have any sort of grievances,
+
+[15:15] the entire thing is going to start essentially, with our conceptual conceptual model here in stage zero, which is where you would come up with a collaborative terms of service, peer led onboarding, into shared norms. The concept here is that this is entirely decentralized. There is no central authority. The entire thing would be open for, people to comment on and to determine,
+
+[15:38] what would go into the terms of service. And so that's your base layer of your conflict management, system going forward. In stage one, this is what we call an anonymous posting board. This is meant to be as frictionless as possible within the community. It's a way for people to basically put something out there that says, hey. This is not going well for me. I have a personal issue. And the issue could be anonymized. In fact, it would be so that no one knows who put out the the complaint.
+
+[16:03] Most importantly, there is no back end here. The idea is that it would be completely fire and forget so that there is no central authority that's, basically playing referee. Once it goes on to the anonymous board, you have AI filters, that would make sure that, the prompts are are followed. In other words, the person has to try to preserve people's privacy. There would be, again, anonymity or pseudonymity of whoever's in there. And then the number one thing is that they have to propose a solution.
+
+[16:28] If they cannot get it resolved through the anonymous post board, the second step would be to go into a direct dialogue and repair stage. Through this, you would have some voluntary peer to peer engagement. We used a lot of inspiration from the Quakers on this one. You have a clearing meeting where everyone has an opportunity to either do it in a digital format or face to face, the opportunity to sit down, with the person or the people that they have issues with and try to work it out that way. If that doesn't work, now we have a peer review, and recommendation stage.
+
+[16:58] And in this one, now you're going to have a little bit more community involvement. You could pull volunteers, from a a rotating RODA. Again, this is entirely decentralized. There is no central authority. So absolutely no one is going to be sitting in judgment. This is entirely voluntary and entirely within the community. If that doesn't work, you go up to stage four, distributed consequences, which is used for unresolved very, very serious issues, requires, now 10% of pure endorsement within the community,
+
+[17:25] and the decision could be made to expel the person or people. Now there's always going to be a path to redemption, so that's part of this as well. So reintegration could be arranged through a clear, number of protocols. Conclusions, we think this provides a clear peer led framework for resolving conflict in decentralized communities without central authority. It embeds transparency, voluntary engagement, self reflection, and ultimately builds long term resilience for empowering communities.
+
+[17:50] I have time for one question, I think. No? Go for it. We need help with the tech stack. That's the there the technology technically could be used here, but we don't have it. So there we go. Thanks. And thank you. Next up is Zuzulu IdeaForge, and standby fungibility is all you need. Zuzlu IdeaForge.
+
+[18:14] Yes. And can you share your screen? Yeah. I also need to plug in here or okay. It
+
+[19:24] works like this? Okay. Cool. Can we turn the lights off? Or Yes. Okay. The four horsemen of institutional rot are approaching. The horsemen of centralization ah, wait a second. That's not working. Yes. Can we restart? Yeah. Let's restart. Yeah.
+
+[19:53] Cool. Good. Should be good. Yeah. So the four horsemen. You have one, censorship. You have centralization, you have corruption, and you have centralization, corruption. Sorry. This completely threw me off. Can we start again from the beginning? Let's I'm sorry for taking the time. So the four horsemen of institutional rot are approaching. You have the horsemen of centralization,
+
+[20:21] the horsemen of corruption, the horsemen of surveillance, and I forgot the fourth one. But the good thing is that they are still not here. We still have time to make up for the advancements that they have made. So so far, only their initial forces are here. We see that every day. Right? So there are government forces. There are also corporations
+
+[20:44] trying to strip away the civil liberties that we have. So what we need to do is to create weaponry against that. That's DEAC aligned weaponry that can fight back against these. They protect they give us defenses, and they also give us offensive abilities. But what should this forge look like? That's what was my main to tackle. I think we need to have a process in place that takes us from idea to execution.
+
+[21:11] So that's what I try to tackle here. So the first step is how do we conceptualize these ideas? Initially, you want to put in an intake form where you get some idea, get an idea about what's the problem statement, what are the solutions, how do you validate those. Then in the next step, you put them in the heat. You put them under heat and scrutinize them to get the all the problems and initial challenges that could be part of that problem, and you then you try to refine it in that process.
+
+[21:38] After that, you create a minimum viable product and you will do extensive user testing. What's important here is that we can do incentive models. So you could have tokens, not necessarily newly created ones, but just stable coins provided to users, residents who would be part of that iterative process so that you already have that as part of your creation of the product. Then the commercial release of the product happens.
+
+[22:02] In this phase, your main focus is to really polish the product and and reach commercial success. Then the last step is to scale it. So initially, you might start out in a small pilot area, and then you might want to expand into different areas, different regions. What I want to point out here is that there are multiple actors here. So you have guilds. There is a coherent governance guild that takes care of all of these gating processes.
+
+[22:27] So between each of these processes, you have separate gates that take care of, okay, did that idea meet the needs of that step? And there are in the document I lay out various different steps that take you through that. There are also cohorts. So other people who are working on these ideas can give ideas to each other. They can scrutinize each other to improve the ideas. You also have experts who take part in that process. So there is a lot that's going that's going on here. And what I would just like to end with is you don't need to start out with the fully fledged thing. You can just start out with the initial part of it and then sort of scale the maturity, and I have that laid out in the document as well.
+
+[23:03] And where that leads us is there are no more daemons. There are no more ints jumping around, and that protects our stronghold if we are able to create these frontier tech technologies. So thanks a lot. I'm sorry. That's completely true. Thank you. Next. Fungibility is all you Fungibility is all you need.
+
+[23:32] But he left. Okay. Then next step. Generalization of plots per token model and standby circles based Switzerland currency. It's ready? Okay. Nice. Okay.
+
+[24:11] So this is brief contribution, not very well structured as a presentation. Just showing a little bit of the writing that was done that is looking to the tokenomic model of n plot of lands multiplied per k tokens and how do we use that to allocate pseudo ownership or the benefits of ownership
+
+[24:34] to participants. The idea here is to look at the initial model that Vitalik brought up on the summit and expand it to look also at not a fixed 1.5 k tokens per plot, but having flexibility on that 1.5 for what I'm calling R for
+
+[24:57] radio of plots available for different ways of use. So we can explore different scenarios on top of those types of tokenomics and how that would give us different amounts of what I'm calling private or collective plots. Ignore private or collective, just we can put any words here, but plots that have a defined ownership or collectively defined ownership, a private or collective choice of how they're managed.
+
+[25:25] The idea is to mainly look at the model and as we are able to vary some of the of the points in here and see how it would give us different usages of what we have, which possibly would have different impacts on revenue or different impacts on governance as we are renting more of those spaces, as we're having more permanent citizens, as we're having more visitor citizens,
+
+[25:50] those have lots of impacts in how we can manage this. So to look at beyond the tokenomics from that perspective would be to not only have a tokenomic model, but actually have a model of tokenomics that is similar to the green support that you use to put LEGO bricks when you're building with building blocks.
+
+[26:16] And then you can understand a bunch of other blocks that you can put on top to imagine what you would do. A few of those modules that were I was very interested in hearing people talking about on their own projects would be modules for how governance can be, how operations can be, how plot allocation can be done, how legal structures permeate all of those,
+
+[26:40] and how managing our natural resources. So each of those things can be a specific module that you put on top of that toponomic when specifying what do you want to do as a permanent hub. So, oh, we're gonna do a permanent hub. We need a lot of stakeholders to get into agreement and into investment towards the same thing. For that, we need clear language. Ten seconds? Well, that's it. I'm gonna show a little bit more on the practical side left there. We have a little web for it, but the idea is just make easy to communicate what we want to see in a permanent hub. Thank you.
+
+[27:46] No. I don't need to connect. Alright. Alright. So I'm going to be presenting to a CIRCOL based Southerian currency. So if you don't know what CIRCOL is, it doesn't matter for this presentation. But the point is that it's just to use their their protocol that already manages currencies. And the idea is to have a local currency to strengthen local commerce, push active participation, and also
+
+[28:11] may maybe mostly reinforce the alignment value alignment between members. And the point of of it would be that it will be a geo fenced community currency. So you only get it if you enter if you're physically present and when you're outside, it decays quickly. And of course, it would be something completely opt in. But I do think that over time, people that are opted in that system end up having a lower cost of living in the hub. And so technically speaking, the idea
+
+[28:39] like, in order to have something geofenced without leaking or doxing people knowing that they're in the the village and knowing when they enter, etcetera, we could have, an NFC check-in that where the NFC device signs through its secret element, signs a leaf that has, like, some info about the user. And then at the end of the day or the week, the you have an aggregator that collects all the leafs, the signatures, and then runs it through a a ZKR SNARK circuit
+
+[29:11] and checks that it has the right routes. And then if that's the case, puts it on a contract, puts the Merkle route on the contract so you don't know who is exactly there. But any off chain or even on chain service can verify that someone, if they have a proof of if they have a proof on their phone, can know that the person is in there. And so the idea behind this community token would be that you would use it only for in village
+
+[29:40] transactions for also UX reasons, mostly also just to have a system where the higher the velocity of money is, the less you actually need to pay for stuff. The less you would need to pay for stuff and the less gets leaked out of the system. And so if you wanted to exit the liquidity, you you could,
+
+[30:02] but it would be maybe through a system like similar to the vouchers that we had for the kitchen where it's basically it basically needs to be an approved transaction when you need to leak the token out, like, for an ex external transaction. And and then, yeah, the idea also like, the main point of this currency is not that you would buy it or or someone will give it to you. It's more that you get it every hour, every minute, whatever,
+
+[30:30] and then you can use it. And so it kinda relies on having highly engaged participants that accept it, but also that back back it in the liquidity pool in kind of in the same way that Switzerland was backing the voucher foods, and that's basically it. Do you need do you need to Why is it okay.
+
+[32:01] Do you need help? Yeah. Yeah. One second. Just oh, yeah. That's alright. Thank you. So hey, everyone. I'm Dasarit, and I'm here to present the Harberger governance for pop up communities. So the story behind Haberger taxes is that, it was introduced by Arnold Haberger in the sixties. And, when he looked at the monopolistic hoarding of resources back in The United States in the '60,
+
+[32:26] he thought that he had to come up with, something to contract this. So the core idea that he introduced was that, you must always set a valuation for any public asset that is present, and you always pay a tax on that valuation. So Vitalik proposed this concept for intellectual property rights last year in April. So what would Harbor rights look like in the context of pop up cities and communities
+
+[32:54] is that your right, it would be like rights to access housing, workspaces, and rules, and influence. And, the key principles are that it is always the self price. You set a valuation, a self determined self assessed value valuation, and you're constantly taxed on that value, and, it's always for sale. Someone can always come in and buy,
+
+[33:17] it for the price. And why, do it? It's because, it constantly forces, people to reevaluate, the value of a particular asset because most pop up cities are very expensive. And to counteract this, we need something that rewards honest pricing and prevents people from squatting on it for for too long. And this, in
+
+[33:42] Vitalik's words, balances allocative efficiency with investment efficiency, which is just another way of saying that, you know, who needs it the most, the resource will gradually move towards them. And, the implementation of this framework, I came up with dynamic city zones, in which, each zone would have like a unique tax rate and price logic.
+
+[34:08] Let's say, you know, we have different zones. Let's yeah. We have different zones such as innovation or community. In the case of ZLSL, and we are looking to foster a dApp technology, so, we would be look looking to incentivize people who are building on that or people who are looking to participate in parties or whatever. So just to make sure that, you know, people
+
+[34:33] do not squat on it for too long and people do not create a mechanism where they just hold on to it for too long by paying more taxes. We introduced a participatory and base free local economy by self correcting prices. And every time there's an edit to resources or city zones, it triggers a proposal which is done by a weighted multisig.
+
+[34:59] The these weights are assigned by active tax contributions. So in Switzerland, I believe this is aligned with the principles. It's introduces civic responsibility and okay. So these are my this is my submission and also the same. Thank you. Okay.
+
+[35:53] Hello? Can you hear me? Do I need to plug in the sound here? Or no? It should be through this. Can you try speaking? Hold on. Yes. Yes. I'm speaking. Okay. Okay. Can we start? Can start? Okay. Okay.
+
+[36:18] So I wrote a piece of this is actually a presentation of. So I'm gonna go through it and try to show some additional things like the the between members and no members. And what forward is what the forward is is what governance is for.
+
+[36:47] Who gives how much for what and for whom is of value and of interest? Everyone is like the signal, the social signal, so on so forth. Resource allocation is the primary governing behavior, most contentious by far. Budgets are always most contentious. Allocative redistributive preferences are long sufficient for governance, and fungibility is only for governance. If you think about it, like, coins
+
+[37:11] are that was in the sense that, for example, I didn't know that there's a CHF5 coin until I entered the body of, like, the Switzerland. The dollar is all our problems, but, like, the Argentinian peso, not really because we're not really concerned about it. We don't live in that. We're not affected by it. And value, how we report to relative to to all economic things, like we don't do that in in in
+
+[37:37] in that currency. The designs that everybody hits proposal. Proposals are geomorphic. They are, transpose parliaments. They're decontext wide. They generate tapathy, and we reproduce, like, existing structures instead of trying to create, like, native blockchain structure that that interact like live things. Paper devices can touch in. That's
+
+[38:01] more or less it. Questions? There's still one minute, seconds left. Oh, okay. Okay. Hold on. Hold on. Baghdad, can you hear us? Yes. Yes. Yes. Examples of this working in the real world already? No. I made it up. But it works in the sense that that that that
+
+[38:25] the economies. I mean, if you would be able to view to get a a an up view of, like, the the Chinese economy and all the interactions of, like, the Chinese one, you'd be you'd it will look kind of like the blood flow in a thing that is alive, and the economy interacts instantly. And so should, like, dows. They should be, like, fully permissionless and, like, look a lot more like a live things than, like, you know, where you where you put in something like a proposal and, like, people vote on it. And, like, that's that's not Internet native. That's not value native,
+
+[38:59] and we can do much better. Actually, it's not really a question, but I have your five, Frank. You have it on your, like, previous slide. I have your five, Frank. Seth has your file. But you have to be here. Don't know what that's up. You
+
+[39:23] Okay. You have to go back to your slide. Time is up. Time is up. Time is up. Okay. Okay. Thank you much. Frank for you. Bye bye. We we gotta go. We gotta go. He's still he's probably still there. I just unplugged my computer. Alright. That's it for governance,
+
+[39:46] collective breath. If everyone wants to stand up, stretch, roll your shoulders, move your neck. We only have two more categories to go. One more round of applause. Governance, great job, everyone. Move. Breathe. Next up is practical tooling. This is still going. Starting with native. Stand by. Native,
+
+[40:10] please come up and get ready. Let's see.
+
+[40:50] Two native. Robert. Two house yes. Zuhauser. Kaya. Robert Zagamba is number three as well. Then ostracism is Thomas. Alright. So then Kaya and Thomas,
+
+[41:13] ostracism on standby. My computer is a bit old, so it can take a bit of effort for it to stream and mirror. It doesn't seem like Alright.
+
+[41:58] It's Just giving me a dark screen. Yep. It's just giving me a dark screen. I can put my computer back in because I can watch it.
+
+[42:42] If you're sharing your screen on here, I'll just connect mine and she shares her screen. Yes. It's okay. It's it's it's not It didn't recognize. Okay. Do I do want me to send you the link to the demo? No. You're just you're still gonna share your screen here, and that's what we're we're gonna present behind what you're sharing. Yeah. Yes. Let me just put it on the screen,
+
+[43:05] and then you can see how it looks. Hold on. Yes. So how is it now? Full screen. Alright. Okay. Give me one second. Do you need help from me? Is he okay? Okay. Wait, Okay. Okay. Listen up because we're gonna be quick about this. I also have a demo.
+
+[43:32] And when in, like, a minute, I'm gonna send it in the build channel. So be there. This is the algorithm that we have worked on. This is a general set matching algorithm, but we are applying it to housing. So it was kinda hard to place our our stuff because it's very much like this is a very practical tool. We have a front end. We're open sourcing that. We're open sourcing the the back end engine. It's also a market making system for housing
+
+[43:57] that because land is not fungible, like, every piece of land is unique and you need a way to make sense of that. So, basically, the and the method of technology is all trustless and it's very like that sort of fits into visionary and we're organizing people together because people are social. And, you know, we have certain preferences. And, you know, we try to get our preferences using markets, but markets have inefficiencies
+
+[44:23] and we need special forms of markets to coordinate people better. Some people like light. Some people like nature. Some people want to live on a certain floor of a house or really care about their sleep or need certain appliances And they're they're not everywhere, all of these things, all at once. And so we can tune in to all of the preferences that you have,
+
+[44:49] entirely privately with an adaptable algorithm, you know, in the in the vein of subsidiarity that it is very adaptable, that we can as we put you into your an affinity group of people who want the same sort of things, who want to live the same sort of way, and then you find the places that are most suited to you and your group and your people. And then we do a second order,
+
+[45:14] a second price auction system which beats a lot of the game theory. It's also known as sealed sender or sealed envelope auctioning. It it it's basically the best system. It it basically incentivizes you to give the actual price that you would pay. So this is so it helps you get what you want across every combination of possible places together with your infinity group. You never pay more than you agree and you can make in commitments and it's entirely trustless.
+
+[45:42] There's the link. Let's get the demo started. There's ways of integrating with Ethereum. Can't get into that. This is about the technology stack, because this is a very complex computational problem that is n factorial. It is very computationally expensive. Secure enclaves are good, they are ephemeral. So this is basically the sort of tech stack that we'd want. Although although it has docker, it uses,
+
+[46:06] build pipelines, and then each of those are verified on the TPMs, on the hardware side, even on the the hard drive and the image side. So going back, this is about social people, and and making sure that people can get what they need. So go to into the demo. Hopefully, you guys have seen the page. Basically, put in your name, put in the the if things are are worth it to you, like, if they're like,
+
+[46:33] if if if you would pay, basically, give your up. Okay. You give your optimal amount, and then that is the amount less. And this is the admin portal. Great job. Thank you, Kaya. Is Robert here? No? Nope. Alright. Next up is ostracism. Thomas? Yeah.
+
+[47:01] Go for it. Ostracism will not come up. Come up. Time up. Time is up. Exactly. Are you sharing your screen? Are you in the StreamYard? Can you click the link? Because then it'll automatically come here. In announcements, it's in build week. It's if you're sharing your screen, log in to this this link.
+
+[47:24] Everyone, if you're planning to submit today, can you go into the announcements channel and check the StreamYard thing and get it set up before you pitch and make it faster? Thank you. Especially now that my computer is just running, then if you are sharing your screen there, it's gonna show up behind. So please you don't wanna share? It's not streaming. It's recording for judges. None of this is not live streamed. This is recording so judges can rewatch.
+
+[47:49] Do you not want it recorded for the you don't mind? Okay. Alright. We're moving we're moving on. And please, it doesn't matter whatever you click.
+
+[48:38] Zoo Perks? We're we're keeping my computer plugged in. They're just sharing their screen. Yep. Chance is ready. Perfect. Amazing. Alright. Ready? Go. Hello.
+
+[49:02] So my project is fairly simple that I hope can expand in interesting ways. The basic idea is I've been puzzling over, networks. If you think of the wider ZooZulu network of all these different Zoo spin offs that's happened, depending on how you calculate them, there's 50 plus that have happened in the last two years, which is pretty incredible. And that number, it's hard to tell how many people there are. But to give you, an idea,
+
+[49:27] there are over 30,000 people that have had been issued a ZooPass. Keep in mind, maybe 10,000 of those might be through DevConnect, DevCon. But that is kind of a fascinating number to think about. If you look around, do the people here, the type of people here, these pop ups attract a certain kind of persona, you know, quite wide ranging in some ways, but very fascinating, I think. So I'm I'm quite interested in how can you play with that. If you think of
+
+[49:56] properties of a network, have latent properties and things that are obvious and visible. You can think about what happens at a pop up. You the latent properties of that network become visible through sessions, through meeting. For example, Aaron did a session recently on how to cook for 200 people or that sort of, you know, 200 plus people. That is like an interesting
+
+[50:19] aspect of the network that you've only gone if you come here. So that is kind of the the playful thing the playfulness that I'm playing with it. And also what you can do with a big number like that. So my original thought was, okay, what about like a simple perks page? If you have 30,000 people, 40,000 people and you can actually show that in a predictable way, you can go to companies, you can go to things, organizations,
+
+[50:41] and say, hey. We have access to this many people. What deal will you give to this community? You can kind of broker deals. So that was the basic idea. I have rigged up a kind of basic version that has ZooPass. So if you are a member of any of these, you can get access. So I one minute. Okay. I went to this one. So I'll verify. Don't know if that show it's not showing you, but it's verifying right now.
+
+[51:04] And I will do that. Bingo, bongo, bango, prove. Okay. So I just proved that I went there. And now you can see traditional perks. So this is an Erolo eSIM perk. Here this is, Punkar's How to DAO cohort, from Winning Community 25% off on that. And one that I moved into that I think is my quite quite interesting is getting into perks from communities like similar to think like Airbnb experiences,
+
+[51:30] skill sharing, this sort of thing. So you could have one like a session with Bob Haywood, maybe book Shaka, that sort of thing. And this could be kind of endless I think. People can come up with ones. So that works. You can also propose them. That one doesn't work for some reason. But, yeah. So that's it. Thank you. Are you ready now, Tomas? Alright. Tomas, ostracism.
+
+[51:57] You're next. Click share screen. Yes. Great. Go.
+
+[52:46] Hey, guys. Everybody, hands up if you heard of ostracism, if you know what it means. Okay. Maybe hands up if you heard of it. Hands up if you know what it means. Great. And hands up if you've ever wanted to not have somebody who has been here, here. I think you guys would put your hands up. Yeah. So we basically know that it is really important who you live with especially if you're committing to live with them long term. Right?
+
+[53:14] And there was a solution for this in the ancient Athens where every year, the citizens came together and if 6,000 plus citizens out of, you know, roughly 30,000 decided that somebody should be ostracized, that person had to leave for ten years. That's what it meant. You could still be a citizen, but
+
+[53:38] you know, you could keep your property but you had to leave the city. And it really was a big deal. So some like major political leaders in Athens were actually exiled. So it was a good protection against sort of charismatic demagogue types. And the hack that I have built for the purpose of this is a telegram bot.
+
+[54:00] So, it allows you to, you know, anonymously, nominate somebody, and, you know, the sort of election cycle is every week. So if you nominate if if you nominate Veronica to be expelled, nobody else will know that you've nominated her, but if other people manage to, well, vote for her in that week, she could be expelled. You can sort of configure the thresholds for like how many people you need to expel somebody.
+
+[54:27] And, yeah, like right now, you know, after seven days, you're allowed to come back, but that can be changed. And, you know, in the future, I'd want to, focus more on the identity solution and, you know, we could get really offensive at how you do the voting. Okay. Hands up if you really love this idea. Okay. Veronica, have her hands. One minute. Okay. Great. Questions?
+
+[54:51] Okay. Okay. Hands up. Okay. No. No. Hands up if you don't like the idea. Let's let's try that. Okay. Interesting. Augusta, why don't you like the idea? I mean, that makes sense. I mean, I guess, in the Agora, the citizens would deliberate, you know, discuss things openly before
+
+[55:16] before, you know, they made a major decision like that. So, you know, that could happen here. But, yeah, I think one of the peel mechanism ideas is to have some kind of a jury that sort of considers, each. Five seconds. There's
+
+[55:42] no Five seconds. In the tool right now, but obviously, you can set that up as a rule. Yes. Time's up. Time's up. Time's up. Next up, Switzerland. Are you sharing your screen? It's not you. Switzerland, are you sharing your screen? Are Are
+
+[56:06] in StreamYard? Then you are in we're moving on. Please go to the StreamYard. You're not next yet. Check announcements. This is not being broadcasted. This is just recording what's in the room. You don't want a recording? This is just for the judges. But you don't want any recording? You
+
+[56:29] can opt out of the recording. I would say it maybe puts you at a disadvantage because I think the judges are going to check the recordings. But but, of course, you do not need to be recorded if you don't want to be. So It's okay. We won't be publishing. Yeah. Alright. Then join StreamYard. And while we wait, next up, Zoom app. Okay. It's too late.
+
+[57:01] Oh, but when did it get added? So okay. Under practical tooling? Okay. It just switched. Zoo pre commitment. So it's being removed from Visionary Tech. It was just the it was a bug. It was the wrong one. Alright.
+
+[57:47] Go. Microphone. Okay. Wait. Wait. Hold on. No. Wait. This is Zoom app, as you can see. Okay. Go ahead. Maybe some of you recognize this space. This is where we are. There are a lot of pins in here that we can see. For example, the images or the text ones. This text one, for example, is so far, it's called a mystery drops away,
+
+[58:12] but it's 42 meters away. We need to be in between twin 20 meters away near the it for discovery. This is, like, location now. And this one we can see, for example, because they are here. It's private keys, for example, and my notes, which are not notes. And,
+
+[58:34] for example, you can leave a PIN whenever you you want in films, for example. And Switzerland people need to go there and check the PINs when he's in the radio. If you want to drop a tracer of a pin, you can it can be text, images,
+
+[58:58] whatever. And you need to select what is the text, what's the meters of reveal distance, and you put it with your GPS whenever you want. The idea is that everyone can host a treasure hunt or leave some NFT or lockable when the point of a cliff, whatever. I think that's all.
+
+[59:23] It's working now. So if you want to try it, it's working only for text because images I'm not going to host your images. Like, that's expensive. Questions? Any questions? Raise your hand if you hate it. Yep. Do you want to do it now?
+
+[59:53] Like, no. No. I I don't have a treasury the idea is that you can do it. You can do the treasury hand. Like, someone enters here, goes to the map, leaves a message, and he can do it. Yep. Why is it important? Why is it important? I think it's important because it's something that we can use as Switzerland that's only available for us because this has a link
+
+[01:00:18] attached, using it. Ideally, you need to be into the VPN. And for one case, it's improving that it's it's it's incentivizing that we use the VPN for support for Switzerland ship. And in the other case, it's for community building and community different kind of ideas that can be hosted. It depends on how how it's used, actually.
+
+[01:00:49] You have Zwitz and Anna. Are you ready now? And you click share screen on StreamYard? I am I am sharing my screen. Great. Alright. Brilliant. And go. Hi, everyone. So the four of us today are gonna present Zudzanon.
+
+[01:01:14] First of all, who likes who wants privacy, Zudzanon? Alright. Great. That's cool. We're building a solution for anonymous, credential logging. I think a few of you just asked for it and we just delivered. And so basically, what we do, what we figured out is that there was no solution, easy solution at least for
+
+[01:01:39] anonymity in forums, in any kind of gated system. And, there's no moderation. That's what we bring also moderation and transparency to these kinds of systems. We want to experiment on banning users. That's something that we haven't done yet, but banning users in a, governance way, with all of the beautiful governance people, keeping on, take a log of actions, for transparency.
+
+[01:02:05] And we implemented that's the demo we're gonna show, on this course for end use form. And what this also could be used for is for, authentication within a set of building moderation. That's gonna be soon TM. And some examples is Zulink with the gated access for people to an exit node or
+
+[01:02:29] getting information access in general. Here's the demo. So as you can see, we are logging in to this course. Here, we are selecting our Gmail account. Google is generating JSON web token that is signed by them. We are currently building a proof that verifies that the this email belongs to you, that this email belongs to the set of allowed email and does not belong to the set of banned email.
+
+[01:03:04] All of this is done client side, so no information revealed. One minute. It will be more than enough. So you can just see that now you are connected. You can post and you are anonymous. Each session is unlinked, so you can generate
+
+[01:03:27] any any amount of message and have them unlinked. So have fun. Have a look at the chimpanzee. Thirty seconds for question. Mhmm. Who built it? Us for. It's
+
+[01:03:52] all local, DRAM. But the proof is the proof is generated client side, so in your browser. And then there's a server that verifies the proof, and this can be hosted by Switzerland. But no information about the user is leaked because the proof is done client side on your web page. Next
+
+[01:04:19] up, z split. Are you sharing your screen? Are you in StreamYard? Yeah. Great. Yes. And standby Thank you. ZooProxy standby followed by AI's integration. No. No. No. Just sharing through this. Oh, okay. My computer stays plugged in. Yeah. You need to share I need to Yep. Perfect.
+
+[01:04:45] Yeah. Alright. Alright. Perfect. So hi, everyone. This is z split. So z split is a Hold the microphone to your mouth, please. ZSplit is a community focused, group expense app. So the idea here is to be able to create and manage expenses,
+
+[01:05:14] track balances by person or group, and, of course, be able to visualize the health and fairness of the expenses. So we're having a great time here. A lot of activities are being put together, whether it be largely, at the organizational level or at a small individual level, being at our apartments and so forth. So the idea here is to be able to solve this by, you know, being able to track these ad hoc expenses,
+
+[01:05:39] uneven splits of who's paying what and when and how, and having transparency about this. So let me switch directly to the demo. So this is a z split here. So in your dashboard, it's very similar to what you're used to with tri count or split wise. You have a full view on, your expenses, total expenses, and also, your group expenses.
+
+[01:06:02] And this is where the differentiator is. In your group expenses, you get to put money in a specific pot. So in your pot, whether this is shared in your apartment or shared across this entire organization, you can see who's paid in, who's paid out, and ideally approve those who have contributed or those who have taken out, and you have a full view
+
+[01:06:25] on, the type of movement that is happening. So, whether it be across a pizza party of who bought the pizza, you can see, you know, who actually, ran the activity, how much was spent. If anyone is connected by wallet, that they can also reach out and, you know, be paid by by their, wallet being connected
+
+[01:06:48] and, also gives you a bird's eye view on the ability to, make decisions. So whether it be in the comfort of your apartment with your friends or even on your own. The idea is to be able to have a good overview on how much you're spending, and also for future decisions on how much we did spend if we organize any other type of events. So
+
+[01:07:11] the big difference here is that you have this rolled up view on all the expenses that you have, but also can break it down to the individual level. So the road map could be to have on chain transactions, ideally have this, of course, sensitive information, privacy safe, and there's always the opportunity to have, you know, future additions like payroll, accommodations, and so forth. So mentors, collaborators, and funding always needed to push this forward.
+
+[01:07:39] The vision is to really have this as a crypto native shared payment system for all communities. And yeah. Thank you. Next up, zoo proxy followed by AI integration and afterwards zwitz bounty. Cool. We'll see how StreamYard works with something playing with the network.
+
+[01:08:14] So so the thought here is one of the things that people are regularly paying for, both residents and then when you're not a resident of a hub, is VPN or access to the external Internet. And so that ends up being a thing that could well move more within hubs and these communities. And it also is one of the layers that web three has not really done nearly as much with.
+
+[01:08:44] You have this IP address that is your how you appear to the rest of the Internet when you send transactions, when you look up stuff. And you often rely on that sort of moving around a bit in the ISP that you happen to be connected to, but we're aware that there's a lot of tracking. VPNs are a way to put that into a different group. But But wouldn't it be great if you could have your group be, you know, the set of people who have been to
+
+[01:09:10] some event that you use one of these zoo and on or zoo to pass or so forth to prove your attendance in? And then you've got a different anonymity set where you can have your network connection showing your ability to, you know, that that you are part of some set. There's another window that popped up here proving zoo pass. And then that gives you a new identity
+
+[01:09:36] that that is how the network sees. And so now you can talk with some authority without really feeling who you are. So I'm connected. I proved this. I can provision it. And this shouldn't give me a new one the next time I reload. First, though, I'll show you that I'm exiting through this. That is my my address is now sort of showing that I am just a Zulink user.
+
+[01:10:02] And then once I reload, hopefully, I get the additional ZulPass. Let's see. And and so you get sort of a new IP address and a new DNS is going to be hopefully what I'm able to show. If not, I'll go to the back end and do it directly. This is on Zulink currently for judges. And
+
+[01:10:27] we ran into a bunch of security things, so we will see if we're able to actually get that. Yep. So yeah. So this is doing the zoo pass to to show events to to get those sub domains. But you could imagine paying for a sub domain, proving it off of, you know, a wallet connection type thing, or paying for premium ones. So segmentation based on these web three things to then get to your external IP address.
+
+[01:10:53] Cool. I will keep debugging. Thank you. Next up, AI integration followed by Zwitz Bounty and afterwards Trustful Bot. Okay.
+
+[01:11:25] So, we did the AIS integration. It can be really hard to get a lot of people to do a long discussion over multiple hours, get really deep into things. And so we tried to do that, Kaya and Augusta and I, but it didn't really work out. We needed, like, twelve hours of people. So we decided that we were gonna do it with AI because that just goes so much faster.
+
+[01:11:47] And so we ended up making the AI's integration software. It's a Node. Js script, and you basically give it two inputs. You ask it your trigger question. So the one we were gonna do in the tent was how to best create a DAC pop up city that could exist permanently. But instead of just shoving people in the tent and making them talk, we did 30 character bios in AI and we made them talk to each other. So it's kind of like David Dow's Gitcoin experiment, if you saw his presentation a couple weeks ago. But instead of having three people, we've got 30 of these different biographies,
+
+[01:12:20] and they all talk to each other. They all debate, and they do all the different steps that you would do in an integration through a bunch of prompts into whatever model you use. So at first, you know, we do 30 prompts when each character generates their three statements of importance, and then we come we sort them through, make sure there's no duplicates, and then they signal and vote on which ones they think are important. Then it runs through a hill climbing algorithm, and it puts them into specific conversations of five people,
+
+[01:12:51] and it sorts them. And it does 12 conversations three times so that all the ideas from different topics get percolated through each different person, but you don't have to actually talk to all 30 people. You only have, you know, 10 people that you're interacting with. So it's less mental overhead, but you still get the benefits of doing an integration of a lot of people. And so
+
+[01:13:16] kind of like, instead of that original prompt that we were gonna put in, we thought if we were gonna use the AIS integration as the hackathon judge, we could paste in the details of everybody's hackathon projects and have, you know, profiles that match us for our biographies. We could fill them out and then say which of these Zwitzerland hackathon projects are most important and useful for our community. Anything
+
+[01:13:40] else? I think I think that covers it. Yeah. We've we've got a front end. We've got the code. It all like, the front end was vibe coded, but the, the actual script, organic, you know, handcrafted JavaScript. Yeah. It's real code. Okay. I guess that's it. Ten ten seconds. Check it out on GitHub.
+
+[01:14:06] Zwitz Bounty. Trustful bot on standby followed by DAO leaks. And finally, Zoo pre commitment. You're just sharing your screen on StreamYard. I'm not sharing Are you in StreamYard yet? No. Okay. Then stand down. Yep. Next up, Trustful bot. Please go to announcements and join StreamYard link. Yeah. Cool.
+
+[01:14:56] So, I didn't prepare anything, so I'll just go with the flow. But the idea is, essentially, we were talking a lot about attestations, and I thought there was a lot of friction to use the app as it was coded. So that's one thing I wanted to reduce because I think, you know, if we are to use tools, they need to be super easy to use for one thing. And the other thing I was really interested in is
+
+[01:15:20] the re reusability of tools across communities. So one example is the z split cache, which is a great idea. But if another community wants to use it, they need to also be able to, I think, control the stack and not be dependent on the implementation or rather the hosting that the original creator had. So
+
+[01:15:43] I just pushed a PR some well, thirty minutes ago. So maybe everything's broken, but let's find out. For those who are not familiar with EAS, it's a public service, Ethereum attestation service that allows you to, yeah, give attestations to people aka badges. So I've
+
+[01:16:07] decreased the friction by creating a little bot that hopefully works and that allows you to attest Zuma. And then I need a title, adviser. There you go, Zuma, which should give to Zuma the
+
+[01:16:31] this badge. When you enter the group, you can set up your account, which will create an abstract account, and that's how you get all the control via Telegram. That's fairly trivial. I think you all understand the concept. The more interesting part, I think, is this bit. So this builds upon the work of Trustful,
+
+[01:16:55] which was created by these two guys or their teams, Blockful. I added on top of that a factory that allows you to use it much easier. Mhmm. So what you would do here is, you know, you need to create a telegram bot, get an API key from BlastNet, which is what controls the abstract
+
+[01:17:18] accounts. Then you can click deploy, which will supposedly deploy the contract itself, which you need for the attestations. That gives you a bunch of variables that it sets up to use that app. And I think the key point here is this button deploy to Vercel,
+
+[01:17:42] which allows you to deploy your own bots on Vercel or, you know, you could download the code base and and host it wherever you want. But if you were to just do that, it'll pre fill it'll pre fill all the environment variables that you need and you just click deploy, and then you have your own app under your control.
+
+[01:18:05] It creates a GitHub repository for you, etcetera. Thank you. Thank you. Next up. Yep. You're ready? Okay. Swiss Bounty. Right? Yep. That's it? Click share screen. Okay.
+
+[01:18:31] Can I see? Yep. Okay. Who has who has been here since the first day? Can you have a chance? Nice. So probably most of you have heard if you don't have if you haven't heard about it, there was a incident in the first days that someone stole a skateboard. And since then, we were talking about it that we want to do, like, a bounty kind of thing about it to to get any information or something like that. So, yeah, I was like, well, might might might as well just build it. So you got me thinking, like, what can we do with more with bounties?
+
+[01:19:06] So, for example, I want to learn how to play on guitar. Like, I cannot go go go go to someone and ask them to, like, give me, like, one hour one hour lesson for it. But I might too I might as well, like, set up a bounty for it. And if they want to, they can teach me. The the same way it's gonna go for the code and etcetera. One thing also could could be done with the boundaries is that, we have really good talent pool here, and maybe we outsource some people from other areas, and they come to us with bounties. And from our pool, we just basically collect on these bounties.
+
+[01:19:34] So I built the whole thing. It looks like this. Okay. Bounty. Let's go test. Test. 0.05. Deadline and create bounty. So I'm using codecs here from Logos to store description and etcetera. Confirm.
+
+[01:19:58] Yep. This new bot has been created. I can go on the live page now. And from my second app, I can basically do something like this. So this is a new one, and I can apply for this bounty. Oh, come on. Bounty site. Come on. Okay. Previous previous thing thing works like this. So, basically, we have here
+
+[01:20:24] someone applied for it. I see the submissions. I can go to view details, and I can also have, like, a Wacom messaging messaging thing here. If I go here okay. Let's let's do from here. Yep. Yep. One minute. Okay. So it should come here. Yep. Hello.
+
+[01:20:51] So, yeah, this is basically it. I used Codex. I used Waku. Really I was really interested in both the technologies, and this project was really good for me to learn this technologies. Yeah. If you have any questions, you can ask. There's thirty seconds for questions. Thank you. Next up, Dow Leaks.
+
+[01:21:17] Dow Leaks? Yep. You're in StreamYard? Yeah. Great. Go ahead and click share screen, please. Oh, Internet Internet problem apparently. Oh, we bet. Continue.
+
+[01:21:40] Yes. Okay. Grab the mic too. Share screen. Okay. Is it sharing? Yes. Oh. Great. Okay. Dalix.
+
+[01:22:02] So accelerate truth finding. WikiLeaks but for on chain organizations express your opinion and facts anonymously while also proving your voice relevance. It creates more transparency, and also in weird political situations, you can have a verifiable truth. And it's all on chain, permissionless,
+
+[01:22:25] and censorship resistant. So how? Well, let's go to demo time. Please, scan the QR code, and let's use Dalix together. It's buggy on Safari on iPhone, so try it on desktop or in the browser from your wallet. It's using token weighted governance,
+
+[01:22:49] and it's on, Dell's oh, sorry. Wait. Here. So this is Dell'Leaks. Let's first connect the wallet. And so what we are seeing here is the home screen where you can see different opinions. And the only see the only thing you can see is the opinion,
+
+[01:23:13] the timestamp, and what's the the category of the voting power. So here, for example, we have one opinion saying, when next Switzerland? And this voice, this person has more than 50 k voting power. So what you'll do is connect your wallet, get test tokens right here. So you'll get these tokens to simulate your your voting power.
+
+[01:23:40] And then here we have cast anonymous message. So here I can I can say like, I still like, yeah, something? Hey. Let's just do it. Sign. And then you sign the message, and then the proof, the ZK proof is generated on the front end client side. And then it will send this One minute. One minute. Okay.
+
+[01:24:04] It will send this ZK proof to the smart contract, which is on base. So the tech here, the front end was vibe coded by our friend our friend Cloud and Cursor, z k z k circuits using OR. The user doesn't need any gas. Z k proof is done on the front end, max privacy, and anyone with sufficient voting power can cast a message.
+
+[01:24:30] Next steps will be adding anonymous likes, adding threads so anyone can start discussions anonymously. And this will and this can work for any type of voting power, token balances, or NFTs. So the goal is to make DAOs or or on chain organizations more efficient and more accountable through privacy and and truth telling mechanisms. That's it. Any questions?
+
+[01:24:53] Ten seconds. Hi. Okay. Yeah. Time up. Time up. Last but not least, do pre commitment. Zoo Precommitment.
+
+[01:25:29] It was in the wrong category before under visionary tech, so but it's under practical 20. It was fixed. You ready? Yep. Go. Alright. So hello again. So okay. I have a few questions. Who here is interested in maybe making a ZOZELU event at some point,
+
+[01:25:52] like organizing. Okay. Do it. Yeah. And and who would be interested, like, to go to that ZOZERO event, like, for for anyone else? Yeah. Sure. But maybe someone didn't like and are like they're they're not gonna want to to come back. But who here like,
+
+[01:26:15] from the people who really want to come back to, like, pop up, who would be interested in actually staking money to show commitment and show, like, maybe how much they're willing to spend. Okay. So the idea here is just to have, like, a group of pre commitments to help organizers
+
+[01:26:37] have an idea of how many people would be interested and especially how many people how much money they would be willing to spend. And so the idea is that they could just anyone could even without any event in mind, could just take some some money. And the idea is that at some point, someone, if they want to make an event, can propose it. And once it's proposed with, like, actual dates, etcetera, once it's proposed, people who staked can decide to withdraw it in case it doesn't suit them, maybe for the dates or whatever,
+
+[01:27:10] or decide to commit. And if they do, then it goes to to to the events. And so I'm gonna try to to do it here. And so this way, this was literally vibrated in, like, ten minutes. So this is the first time I tested. We're gonna see if it works. And the idea is that, like, maybe I think it could help organizers,
+
+[01:27:32] like, they can negotiate better if they know how many people are coming, if they know how much money they're they could spend. So I'm just gonna connect here. One minute. And I'm gonna stake a 100 to USDC. And so for now, the staking I guess you don't see my middle ask. The staking for now is just a signature. But now with the new upgrade on Ethereum, you can do everything with signatures,
+
+[01:27:57] and that's it. So now you've staked it, and the idea is that you you can remove it at if if there's an event and you want to exit, or you can stay committed to it to help organizers gauge the the amount of interest. And thank you. Are you getting ready for the first, the visionary tech?
+
+[01:28:26] Alright. Great. You can go ahead and get ready. We're going to quickly do a straw poll. How many people would want pizza as around improv night tonight over there? We were trying to gauge how much pizza to order, but other alternative is you figure out your own dinner. You feed yourself. We can make we'll be making whatever
+
+[01:28:49] leftover groceries in the kitchen. I'll make fried rice with the rest of the rice, but we'll also order some pizzas. So starting again, raise your hand if you will want pizza. Okay. Hold on. Three, what? Please hold one hand if you want so I can kind of count. Thank you. 1234567891011, And last up, we have Visionary Tech. As a reminder, if you're sharing your screen, please click that StreamYard link so you're ready. At the end of Visionary Tech, then because some people have some announcements that they want to make. There will also be an opportunity to make announcements while we're all here, but that will be very clearly
+
+[01:29:40] separated from the pitches. So at the end of Visionary Tech, we'll say hackathon over, and then anyone can make any announcements, with the mic as well. Thank you all. Hello. The project name is Koopap, don't goat alone. And it's a big improvement on the previous project name which was
+
+[01:30:05] I forgot. But yeah, what we're trying to work with is, trust technology. Right? Like what does this new trust technology actually allow us to do? And it enables us to, you know, sort into hubs. We can take people from all over the world potentially, aggregate their preferences and find some overlap
+
+[01:30:28] and then, build new places where those people would like to live. And how do we do this? So there are two high level product directions options. Right? So the first one is that you first aggregate demand. So people say under what circumstances they would move, who they'd like to live with and so on. And you sort of centrally hold,
+
+[01:30:51] some small refundable deposits that can be returned, you know, credibly because they're held in smart contract escrow. And I think it's actually quite difficult to build. And the second product direction, much easier to build. You first secure land options and you only exercise those land options if you do get enough presales, if enough people make some kind of refundable,
+
+[01:31:16] pre commitment to actually live with you. And, so, know, for this project, I've been looking a lot at the Swiss COP model that we've been talking about here a little bit at the high level. And it surprised me like how good it is. Right? So you put in maybe up to 10 k in Swiss francs and, that is to kind of start a COP. And then as a second step, you as a COP have to raise around 10% of the purchase price of the whole,
+
+[01:31:44] of the whole building or, you know, whatever the real estate is. In Zurich, it's only 6%. So if you've ever got a mortgage, it's usually much, much higher. You know, you would probably need to put down at least 30%. So the other really cool thing is that if you are actually, hands up, who's got a mortgage here? Okay.
+
+[01:32:06] Very few legit people here, I'm afraid. But, yeah, it's it's very difficult if you're nomadic, if you're itinerant to get a mortgage. You do need like long credit history and this, sort of Swiss court mechanism actually enables people who have no credit history to effectively get a mortgage because the mortgage is held centrally by the corp. So you don't need to get approved by the bank at all, as an individual member.
+
+[01:32:30] So, yeah, how would you go about doing this? So you first need to pitch people some kind of high level vision for what you'd like to build as a co op. Then you form a legal entity. Then you take some initial sort of membership fees, commitments from people to to sort of actually build something. And then you look for a site location.
+
+[01:32:52] Right? And like once you find it, you get people to sort of top up the contributions to the 10% of the purchase price. Thank you. Next up is Zoo Food followed by Village Full and afterwards think to earn. So you're not you're you're just sharing on StreamYard? Are you in StreamYard?
+
+[01:33:43] Can you just go to announcements and click the link on StreamYard and you'll go next? Announcements. Next? Visionary. What was this next? Sufud? Village full. Or can you I can use in the telegram announcement as well. Okay. This one. We should which one? ZooFood?
+
+[01:34:10] Think so. Village full. Village full. And then Think to Earn. Okay. Villageful. Okay. Then, thing to earn. Open hardware noninvasive. You have connected to the streaming? Yep. You heard? Great. Okay. Say again? Have you connected? Yeah. Yeah. For, like, five hours. Okay.
+
+[01:34:35] Let me know. You have three minutes time. Hold on. Just a sec. Okay. Do you have a phone so I can see the camera? I connect. I'll I'll let you know when you have one minute. Okay. Okay. I would if you can just I would love it with the appointment. Okay. Are you okay? Yeah. I'm good. You can start. Okay. So, this is just a rundown of what I'm gonna talk about. First problem and opportunity.
+
+[01:35:00] There's a lot of people with diabetes. There's no open hardware continuous glucose monitor for it. And those that exist close to us, they're extremely expensive. So, yeah, my point is open hardware, develop, glucose tracking apps, and then build the MVP software for monetization. There's a lot of peer reviewed research saying that with, devices like the one I manufacture, you cannot track this glucose. And, yeah, noninvasive is good. Open hardware is good.
+
+[01:35:26] Yeah. So I made this one with, a formal collaboration from professors at Vanderbilt University. Basically, got the file, sent them to a manufacturer, and then, made this. The way it works, it does some, light emitters, there's some light detectors, and then what you measure has basically changes in oxygenated and deoxygenated blood flow in your brain. And, I collected data from myself and some other people in Switzerland and then analyzed this data, so voltage readings translated into changes in hemoglobin,
+
+[01:35:55] could observe a difference in between, pre breakfast and post breakfast. And then, when classifying within subjects, so, like, on myself or on somebody else with their own data, I would have good results. And so first part was, yeah, detect the glucose changes. Second part is, yeah, you wanna sell and you wanna monetize your data. How do you do that? I used Codex,
+
+[01:36:19] added NFT gating for it. So, basically, you put up your data on Codex. It's encrypted, and you can set any NFT as, the gateway. If somebody has that NFT that you designate, then they can, unlock, the data. So why Switzerland? Yeah. The classic blue pill, red pill. Do you want to open hardware, open source software, or do you want the yeah. People with diabetes are just people interested in, checking their glucose levels to pay lots of money to close source companies and get the money extracted.
+
+[01:36:52] So, yeah, what would be in it for Switzerland? Yeah. Basically, you have to get a price, get a grant. Thank you. Yeah. If you have a device like this or if you just wanna use the CypherShare component just to monetize your data, you can do that. If you collect it as a group for training a specific model like glucose meters, you can license then your data to Switzerland. Switzerland can sell the aggregate and then sell it to parties like me that wanna sell this continuous glucose monitor or to other parties. Switzerland,
+
+[01:37:22] earns money. So, yeah, create models, sell inference, and then do revenue share. And then finally, so the progress tested this open hardware PCI, the binary classification successful, and gated access. And, yeah, and the longer term vision, collect data from, your brain along with the continuous glucose monitor, make some models, and then, accept code requests and get paid if you do. So, yeah, basically, they ask, scale this, manufacture more, and formalize the data sharing framework.
+
+[01:37:51] And I can do that with, your help, basically. And Vitalik also likes BCIs. Thank you. Thank you. Okay. Next one is will we x y zed? Are you connected to stream? Yard? Oh, sorry. Are you connected now? Okay. Then
+
+[01:38:17] village food. Zufood. Okay. Zufood. I will check the time. You have three minutes, and I will let you know when you have one minute left. Two minutes? Three in total, but I will let you know when there's one minute left. No. You just have to present?
+
+[01:38:41] Yes. Yes. Okay. You should It's not presenting? It present?
+
+[01:39:06] Ah, there is. Yeah. Good. It's coming. Okay. Share and it's whole screen? Yeah. Perfect. It's a bit light. All is good. What? I don't see it. What do you want to share? You need to select full screen. Yeah. I will. Ah, no. It's coming. It's coming. Presenter.
+
+[01:39:44] It's I think that is Internet problems, maybe? No. Because Probably, yes. Sorry. It's okay. You can do the first one. It's it's a little bit That's it. Too much lag. Sharing, I guess yeah. He's he's sharing this. That was super lagging. Like It's it's lagging. Yeah. I see.
+
+[01:40:10] Maybe Yeah. While we wait, just wanted to say something for everybody that has built on top of Zulink. Please come see me later so I can take down the names and make sure that everybody gets the bounty. I'm sure most of you already passed for me to get well listed, but just in case I don't want to forget anyone, please come talk to me after.
+
+[01:41:27] Great. So should I check the time? Since you're judging, can do it so you don't have to worry about time. As you wish. Yeah. I'll do it. Okay. So you can focus. Hello. You hear me? Ready? Go. Yeah. Hello, people. How are you? I'm fine. I want to do something that's about community and network effect forever. Like, you will die. Your children will die. The children will die. And the idea that this will still working forever.
+
+[01:41:59] Yeah? It's super lucky, but we are monkeys. You are monkeys. I am a monkey. We're a smart monkeys, but just monkeys. No more than this. And we have the same problem than monkeys. We are the same than Dave. And monkeys, as you, as me, as Dave, are social animals, and we need it to stay alive because if we don't eat, we die. If we are not with people,
+
+[01:42:23] we die alone. Yeah? That's why we enjoy common community meals, but we don't enjoy community meals. We need community meals because there we whereas we socially say that in it. What's the problem? And the hardest part of make a community meal is funding the food. For example, I am making the at the Central Asia barbecue, I have no money. I need money. Please fund me. Help. So but we can
+
+[01:42:47] solve this forever. How? With Sufood. What is Sufood? Sufood is a is a DAO with a trustee that is investing in blockchain, making money. With that moment with that money that is make it, we pay food forever. Food. Food. Food. Every day. Every day. Yeah? And we have if we have 3,000,060 a lot of that money, we can make we can spend $500
+
+[01:43:11] a day in food food foods. Yeah. So how does work? What's the idea? For example, I want to make a barbecue. I come here. I do the login. I have all the data about the treasury and all the money that is in the in the DAO. Yeah? Here I can go to the white list. If I approve it, I receive some kind of mini grant that is a a little
+
+[01:43:35] petty cash that, like, I will drive that money, go to the supermarket, buy food, do the event, make a report, and if the report is great, I get a respond in responding that money. And you can see all the events that happens, and you can see the details, the photos, all the information. And you can make comments about the events saying good good event, bad event. The idea is great.
+
+[01:44:02] So the video that make a lot of good events, they can get get can receive more money for more food, for more meals, for have fun. That is thank you. You have thirty seconds for any questions? Any question? Fault. Fault. Fault. Fault. Fault. Fault. Fault.
+
+[01:44:31] Did think to earn though? I will send the link in the in the telegram if you want to see the web page later. Village full. Alright. Next up, Village full. Go ahead and share your screen. Blockful Villageful. Are
+
+[01:44:59] we there? Okay. So looking at the same thing of tokenomics is not enough that I was talking before writing, writing, writing, reading. I made a prototype of a platform that would allow us to see preferences of different people that are interested in selling down in a permanent hub for a decentralized network of nodes or however they see their preferences
+
+[01:45:25] by coming and sharing their interests of who they are, what is what they are about, what they're doing, the locations where they would like to settle in a village, how do they would they like that to be governed, how would they like that to be related to nature, and any other things that we can bring up in what I'm calling modules that would extend
+
+[01:45:49] the basic tokenomic thing we showed before. Right? So the tokenomic is the base green layer where you put the building blocks on top, and each module that could very well be a lot of the different projects that we're looking here would say, well, I think having a governance module in my proposal is important, having a community structure model so that's well defined in the beginning. And whatever types of modules that I want to insert here can be joined little by little into
+
+[01:46:17] village proposals. And village proposals are basically little artifacts where you can see what, where, how costly, how many people, permanent hub is being thought to be, commit funds to it in a way that, organizers can actually grasp, preferences from their community about what type of governance they prefer, what type of price expectation, region expectation,
+
+[01:46:45] they would have. So before going through, okay, we're gonna make this project here. Let's see if we're able to do that. We can go to through our community and say, okay, if we're gonna make this project in the next step have a permanent place, how should it be? How would you like to be? What would make you commit to it? And then test and see if that works. It's quite basic
+
+[01:47:09] what we see here right now. So that's why it's applied into a visionary future stuff and not functional prototype. It was discussed with a lot of people that are making other projects. So if I had to give shout outs, it'd be like half the people who are sitting here. But thank you so much everyone who brought ideas of modules of what's necessary. And, well, next steps ideally would be to make these modules into open source
+
+[01:47:32] libraries where we could have a standard where they can communicate in between each other. So governance modules are comparable, nature management modules are comparable, failure and reimbursement, etcetera, etcetera. Thank you. Next up is will we will we.xyz.
+
+[01:47:59] Going once. Going twice. Solarpunk mechanics. Solarpunk mechanics? Oh. Oh, WeWork is on WeWork is available on stream. Okay? Oh, you are here. Oh, Parsab. Parsab. Then then join.
+
+[01:48:22] Okay. You still see him, Shaka? Yeah. There he is. Yay. There you are. We can we can see you. Can you hear us? Can you unmute and speak, please? Yes. Yes. Sorry. Sorry. Can
+
+[01:48:48] you see the screen? All good? Okay. So, previously, there was a question whether this whether this works anywhere. And the the reality is that most of the governance happens on the in in an on that layer. And, like, the governance of parliaments and laws and so on are
+
+[01:49:13] happen happen at layer two, let's say. Right? All the relationship, economic relationships, status gains, so on, that's most of the governance, and that's, like okay. And one of the things that allowed us to go to to beyond the agricultural site and so on was fungibility because it was clearly, like, totally mind blowing. And what really does is references the architecture talks as autonomous organization conditions governance for intuitive summary because you can see, like, the entire token or, like, all the activities of the reallocations,
+
+[01:49:45] all the, like, proposals to execute, like, on chain transactions and so on. In there and, like, everything that happens in there is signal for, like, that is interested that the entire body is interested in. What we're doing that poses that of distributing for the ball units of arbitrary value of signals for communal configuration. This approach of nature has legibility of the commons and empowers individuals to creatively credibly and continuously commit political and economic outcomes at all levels. Can
+
+[01:50:12] enforce and articulate power with a representative clarity and efficiency. When I was there, I wanted to do something in order for people to be able to deposit. This is is worse with any coin disc. But deposit while wrapped it in fake like hub or in the create notes. For example, I want to do a specific meal, and people can, like, show their or the distributive preferences
+
+[01:50:37] for whatever meal, but they can also, like, mint. For And example, you can have a list of members that have signed up and paid for that meal. The the flow tokens, like, happens, like, per second, and everything that happens here is is signaled. Yes. So there's activity log. What do you think that happened in this node movement? This is, traditional governance. You propose something on chain to execute signals. This is where you redistribute your preferences.
+
+[01:51:04] And, like, this streams continuously per second, like, what the the under node will will get as funding, chat to chat, and endpoints is their work and end, but for us to to get allocations. The the value of this, like, this is very cool because you get a systematizing, like, view that is that you see everything that happens with any with any coin.
+
+[01:51:27] And this is of nature to, like, give a, like, intuitive summary to, like, at a glance, understand everything that happens in the body in the body of that token. Yeah. This is live. It's up the. The contracts are online. Yes. There's a lot to to show and say here, but I'll stop here. Any questions?
+
+[01:51:53] Thanks. Time is up. The question was, is it live? Can you hear It's live. It's live. Will we that takes what is it? Will we The link in the build week. Will we Will we not ex Thank you. That's all it. So here's just a brief I'll try and make it super brief and show how it works.
+
+[01:53:33] Share this tab instead. Okay. So whenever you have a prediction market and you are a liquidity provider, we usually have yes and no shares. And most of them are concentrated around a kind of a sort of a parabola. And you make money whenever there is a fiftyfifty balance. But the issue is because the predictions that you have sorry. Most of the predictions that you have are usually concentrated around some other probability. It's usually very low or very high. And so as a liquidity provider who wants to create a frictionless market about predictions, how would you do that? And so that's kind of what I came up with. So I came up with a particular prediction market, permissionless production market that allows you to skew probabilities. So let's say you are about,
+
+[01:54:13] I don't know, 70% certain about some event. And so what you can do is you could create an AMM that concentrates around that. So at the same time, you can also go the other way and you could create one where it concentrates around some other probability. Like, let's say, there's a 20% chance of something like that happening. Share this tab instead. Okay. So there
+
+[01:54:37] are obviously dangers involved with prediction markets. So if you've ever heard of Politiswap, it's like whether you like it or not, a token is created for each congressman. And now it is also possible to construct a prediction market based on meme coins with binary payoffs. These are kind of dangerous because they can be used as binding mechanisms. Additionally, there's these kind of strange situations that can happen, which on one hand you might call it just in time insurance for homeowners. For example, there was a prediction like in polling market where
+
+[01:55:05] there was a probability of a fire in Santa Barbara, California. Now on one hand, this is interesting, okay, just in time insurance, but yeah, the thing is somebody can set things on fire and change the probabilities. And so there's perversions of prediction markets. So my suggestion is make predictions on optimistic future success. Why? Anytime you put money on a positive future, you encourage people to think about what's possible and what's not. So let's make some predictions. Microbial restriction, very positive. I think we're gonna have transportable containers within a year where we could store stuff. As you can see, some people leave stuff
+
+[01:55:34] out in the open, bioreactors, whatnot. I also think that the land policy of Switzerland will have more of a federated model similar to Japan and Vienna. I also think with a very high probability that the majority of domestic cats and dogs will have jobs within ten years. The AI will basically be able to talk to these creatures. And they also used to have jobs, by the way, before. They would guard grains. So in the right, you have actually an actual employee, by the way. This is an actual employee in the Hermitage Museum. They're in charge of that.
+
+[01:56:04] There's also I have a very low probability of, you know, maybe these animals will merge with the eye and become the apex predator. I think that's very, very unlikely. So yeah. Very, very likely. So another one thing I have is 70% probability that the earth would have rings. Yeah. Okay. Crazy stuff. Anyways, that's it. And you're you're skipping solar panel mechanics. Correct?
+
+[01:56:28] You're skipping solar panel mechanics. I mean, if if if you want to, I could kind of present it. The the thing is I worked on this before I came. I don't know if this counts. Does it count? Okay. Yeah. I I I did. And It's kinda crazy Followed by Robert. You'll you'll present after. Okay. I I guess I'll present this one. It's a it's a it's a pretty crazy idea.
+
+[01:56:56] I kind of took the concept of solarpunk seriously, like solar and punk. I didn't know what to expect in this. And so I kind of predict like this is going to be like these giant tents in the future. So let me show you an example. So what's this about? Can you see the screen? Yes. Oh, no. Wait. Share this step instead. Yep. Okay.
+
+[01:57:19] So there's gonna be more sun. And what can we do to protect ourselves? Well, too much sun exposure damages crops. So higher temperature also damages crops. Solution, maybe you could stabilize the leaf temperature by reducing solar radiation. So here's an interesting product that I came up with.
+
+[01:57:42] My university kind of rejected it, like some parts of it, but it's basically like a large kind of huge tent. So for example, you see these images. Right? So you have you have something like a geodesic dome here, but you can also have like these elongated structures of basically tensegrity. You basically have two structures that are looking against each other and they break each. And so what you can do is on these ropes, you can put a particular kind of texture on it.
+
+[01:58:10] And for example, you can make these massive structures. And so here's an example how this texture could work. What you can do is you can take two bimetallic strips thermometers are usually made of them and you can tie them back and forth between each other. And as the temperature rises, if you have a little cylinder in between them, it twists and it blocks the light from passing like this. So you can put this on top of the structure that I kind of like proposed there. And yeah, so
+
+[01:58:36] yeah, that's pretty much that. So yeah, and one of the interesting things that people at my university told me that this may be actually very useful against hailstorms, but yeah, but not necessarily kind of like generating shade. The purpose of this technology will be to generate as much shade as possible. Yeah. One minute. Oh, one minute. Yeah. That's that's about it. It's a general concept.
+
+[01:59:02] Why did you said your university rejected it? Why why did they reject it? So they they liked the idea. They said that in Argentina, a kind of a similar technology is used, but not to this not like this kind of scale, where it is used to bounce off hailstorms as they fall on like plants. But my suggestion is to kind of put on top of these ropes this particular fabric. This kind of fabric, it is kind of difficult to manufacture, but it's a textile fabric. What it does is basically, as the temperature rises, it twists and it prevents photons from penetrating. And so it will cool down the earth. So you could put it maybe over a highway,
+
+[01:59:38] maybe over a particular land. So, yeah, that's kind of the idea. Thank you. Yeah. Robert, are you ready? Which project are you doing first? You have two. Right? Native. Native. Okay. So Native from practical tooling. Ready? Practical tooling? Oh, yeah. The category. Yes. And can you please grab the mic from behind your computer?
+
+[02:00:23] Oh. I have the wrong one. I'm imagining that. Let's go. So hello, everyone. I want to pitch you, yes, the $2,000,000,000,000
+
+[02:00:48] market and the opportunity about it, how to win it. Do you know that today, the total TVL in DeFi is about $1,000,000,000 a $100,000,000,000? If you take 10% out of it, we already doubled it. So the opportunity act actually is much, much bigger for Bitcoin. Today, only 1%
+
+[02:01:11] of Bitcoin generates yield in DeFi protocols. If you then compare it to to ETH, we have 65% of ETH used in various diff not only DeFi protocols, but also staking to generate the yield. So why is that? I mean, Bitcoin has the global mindshare.
+
+[02:01:34] And many, many people talk about Bitcoin, why it doesn't generate the yield that, you know, we would expect normally in blockchain. So we were talking with BitGo and they gave us a very, very valuable feedback. So they have $40,000,000,000 of Bitcoin sleeping in their custody, not used for WBTC. That's in their custody. And the points that we're so setting guess is that, okay, has to be secure, has to stay on the Bitcoin,
+
+[02:02:02] has to produce a sustainable yield, no points, not based on incentives, sustainable yield, and the interest in BTC or stables. So not like in Babylon, for example. So those things didn't really happen on Bitcoin. And I want to highlight here there is a clear mismatch. Bitcoin is about security, mining economy, and the asset itself. It's not developer friendly.
+
+[02:02:27] For DeFi, we need, of course, also security, but we need to scalability. We need to be open for new innovations. We need to have a developer friendly ecosystem, lot of iterations. So our thesis is that Bitcoin Finance will not happen on Bitcoin itself. Bitcoin Finance will be multichain. One minute. So what we built? Simple and secure use of Bitcoin for DeFi and social apps. A Bitcoin Yield Cap, it's like a a single dashboard where you can see and explore all the opportunities how you can use Bitcoin in a single click.
+
+[02:03:03] And the key to do it correct in a Web three native way is to innovate on the cryptography and find a way how we can use the trustless solution of Bitcoin that so far didn't happen. And the way how we solve it is by using the first ever non collusive MPC, highly decentralized MPC, and decentralized proving and verification system.
+
+[02:03:27] Anyone can generate a proof. Anyone can challenge and throw another chance. Anyone can provide the proof. So it's a fully self custody with withdrawals protected by a smart contract and non collusive NPC. Yeah. So the way how we position with it, it's basically on that on that picture. And, yeah, that's about it. So I guess we are the only protocol that provides fully decentralization
+
+[02:03:52] and the verification. Alright. And then Zupps. Zupps was yours too? Zupps. Zupps. No? Or did you have another one? Another project? Yes. What was it called? Smart communities. Ah, so yeah. Yeah. Yeah. Smart smart community, also practical tooling. Alright. Go. Go? Yes. So that's the second thing. Yes. I was researching here, but also trying to kind of an apply for, you know, bitcoin finance.
+
+[02:04:22] So what is Web three point about? Web three is about two things. Yes? Like creating some value often out of thin air, but also about the network effect, innovation, building the communities. I think this is what most of us are doing here. So if you raise a capital, it's all about the growth. Yes. There is no way that you have a project that is worth a billion dollar,
+
+[02:04:46] but created by ten, twenty, or 30 people. So all of it depends on the network effect, how easy you are able to sell, what is your customer market, where the tokens will be eventually, you know, provided to the market. So you need to you need to see investors need to really see how this will work out, how they are able to sell, how they're able to capitalize their investment.
+
+[02:05:09] So today how it works, yes, you have, you know, Schiller, Crypto, Twitter, Agencies, KOLs that really, you know, have a predatory kind of a strategy for the market. It's not really authentic. I mean, you can see as you've been, you guys have been part of many, many communities and and you know, like dramas or you know, the predatory actuses everywhere. So current market failures, a few statistics. Yes.
+
+[02:05:36] A good agency that, you know, will provide you like very, very good metrics on a Twitter or, you know, in socials will charge you about a million dollar. 90% of that of that traffic is not authentic authentic. The community churn, 75%. Not really worth it. But this is actually what, you know, what makes the effort huge and and investors,
+
+[02:05:59] you know, giving you the money. So I want to introduce you the smart community. I would like that, you know, ZuZulu is one of the first smart community. I want that, you know, we formed the be an advisory to end the projects out there, provide the services, provide the authentic community, provide the knowledge, and get that money. There is a lot of capital there, yes, that are being provided.
+
+[02:06:25] Like I told you, so there's $1,000,000 for agencies, but there are also many, many other, you know, token rewards for communities, airdrops, you know, allocations for KOLs, long term vesting. Right? That is basically that available to build authentic community, to build authentic society that will, you know, form our web three economists. So, it's only about the ZuZulu, but, you know, think about your, you know, favorite application. They can be a smart community as well.
+
+[02:06:54] So, how it would work? And also it's based on a reputation system and, and like I said, smart communities. In a way, a project is pitching to an investor looking for a capital. I would like that, you know, me, let's say, from native, I will pitch to some smart communities and help me building Bitcoin finance. I want to have that authentic community that will provide me help rather than, you know, predatory KOLs
+
+[02:07:20] and agencies that don't care about it and they care only about the token. Okay. Thank you so much. And that's it for the hackathon presentations. Now, amazing job everybody. Hackathon, buildathon, govathon. Now we'll have a handful of quick announcements and then we'll bring the pizza which in theory is ready already over to Il Pup. And in I think at 9PM is when improv

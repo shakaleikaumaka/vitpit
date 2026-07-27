@@ -804,13 +804,14 @@
     "id": "14aHOnb9cLYCOQEsxSacUOTQ1Yj7KzcMU",
     "kind": "video",
     "size": 0,
-    "stream": true
+    "stream": true,
+    "hosted": "https://pub-3d88701638314a20ad2241ee26e6824f.r2.dev/audio/14aHOnb9cLYCOQEsxSacUOTQ1Yj7KzcMU.mp3"
    }
   ],
-  "transcript": null,
-  "duration": null,
+  "transcript": "14aHOnb9cLYCOQEsxSacUOTQ1Yj7KzcMU",
+  "duration": "02:07:50",
   "quality": "ok",
-  "transponder": false,
+  "transponder": true,
   "thumb": "thumbs/14aHOnb9cLYCOQEsxSacUOTQ1Yj7KzcMU.jpg",
   "speakers": []
  },
