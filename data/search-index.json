@@ -5990,6 +5990,2536 @@
   "w for 15 minutes into the cypherpunk evening sessions. Thank you again. Thank you."
  ],
  [
+  5,
+  1,
+  "Hello, everyone. We're gonna welcome Jared Hope here from Logos and Status. We're gonna have a a nice little talk about Farewell to Australi"
+ ],
+ [
+  5,
+  9,
+  "a, the book that Jared and Peter Ludlow recently released, which is just a a fantastic exploration of this idea of post state governance. So"
+ ],
+ [
+  5,
+  16,
+  " Jared and I are gonna probably jump into it, but I'm gonna give him an opportunity to introduce himself. And so thanks so much for taking t"
+ ],
+ [
+  5,
+  24,
+  "he time to come on Jared as per usual. I I really love the book and I'm so stoked about this conversation. So I think it's gonna hit some ve"
+ ],
+ [
+  5,
+  32,
+  "ry salient points. So sure. Brother, go ahead and introduce yourself and we'll kick it off."
+ ],
+ [
+  5,
+  37,
+  "Oh, sure. I mean, well, thanks for having me. I wish I could be there physically. Unfortunately, due to governmental efficiency, which we'll"
+ ],
+ [
+  5,
+  46,
+  " be talking about, I imagine, sometime during this, I haven't been able to be there there presently. Presently. I imagine a few people know "
+ ],
+ [
+  5,
+  56,
+  "me. I'm getting a of feedback, so I'm kinda like there we go. Yeah. I've been in Bitcoin sort of, like, 2010, early two thousand eleven,"
+ ],
+ [
+  5,
+  65,
+  "and got involved in Ethereum pretty early. Contributing there for a while. Did Status, which is a mobile actually, just a general client for"
+ ],
+ [
+  5,
+  75,
+  " for Ethereum. Aims to be a super app, privacy preserving p two p messenger. And in the process of building that out, we've end up building "
+ ],
+ [
+  5,
+  85,
+  "out a whole bunch of other protocols. Right? So for decentralized file storage,"
+ ],
+ [
+  5,
+  91,
+  "and now we're also looking at a privacy preserving heterogeneous multi chain network called Nomos. And this holy trinity of protocols basica"
+ ],
+ [
+  5,
+  100,
+  "lly creates the logos privacy preserving decentralized technology stack. So yeah. Cool. And, Jared, maybe you can just give a little bit of "
+ ],
+ [
+  5,
+  108,
+  "background on the book as well that we're gonna discuss, and then we're gonna get into the topics. And this book, I guess, plays into your s"
+ ],
+ [
+  5,
+  117,
+  "ort of crypto anarchist background"
+ ],
+ [
+  5,
+  119,
+  "as well, which I think is really important to think about for as we get started. Yeah. Well, I mean so I guess most people are they are fami"
+ ],
+ [
+  5,
+  128,
+  "liar with Balaji's conception of the network state. Right? And so Farewell to West failures, like, what basically another perspective is sho"
+ ],
+ [
+  5,
+  138,
+  "wing. Yeah. Another contribution on how to understand this sort of concept."
+ ],
+ [
+  5,
+  143,
+  "Because for me, this kinda goes back to, like, even the eighties and certainly throughout the nineties. So the concept really is, like kinda"
+ ],
+ [
+  5,
+  152,
+  " had, like, a few different threads for me. So when I was a teenager, you know, I was, like, getting online through BBSs. Right? So this is,"
+ ],
+ [
+  5,
+  160,
+  " like, sort of pre Internet and you're, like, dialing up other people's computers and you get this sort of, like, pure text based environmen"
+ ],
+ [
+  5,
+  169,
+  "ts and got, like, forums and these sort of things."
+ ],
+ [
+  5,
+  172,
+  "And then within these BBSs, you had, like, multiplayer games. Right? These virtual worlds kind of like, you know, text based Second Life. An"
+ ],
+ [
+  5,
+  181,
+  "d so people would be in them and, like, you know, interacting and so on. But what's kinda interesting is, like, these sort of virtual worlds"
+ ],
+ [
+  5,
+  191,
+  " start to to develop the sort of social dynamics. Right? Because you get these people actually believing or role playing within certain envi"
+ ],
+ [
+  5,
+  200,
+  "ronments."
+ ],
+ [
+  5,
+  201,
+  "And ultimately, is conflict and drama, and then there's the sort of need to reconcile those conflicts. And so institutions, I guess, prototy"
+ ],
+ [
+  5,
+  211,
+  "pical institutions started getting formed. So a great example that happened was in what's called a mud that was called LambdaMoo. Oh, sorry."
+ ],
+ [
+  5,
+  220,
+  " Moo that was called LambdaMoo, where there was a sexual harassment"
+ ],
+ [
+  5,
+  225,
+  "case within the virtual world. And so at the time, there was a sys op or a sys admin who was the benevolent dictator, so to speak. And a cer"
+ ],
+ [
+  5,
+  235,
+  "tain individual managed to get a hold of a voodoo doll within the within the virtual world. And this voodoo doll allowed you to create actio"
+ ],
+ [
+  5,
+  245,
+  "ns on the behalf of other players. Right? Getting and then getting them to do"
+ ],
+ [
+  5,
+  250,
+  "unsavory acts. Let's put it this way. Right? And then that led to complaints. This basically led to the establishment of a court system, a d"
+ ],
+ [
+  5,
+  260,
+  "emocratic system, and the governance kind of flourished from there and then ultimately kind of actually trailed off. But this also happened "
+ ],
+ [
+  5,
+  270,
+  "in another program that I used to be involved in called Active Worlds. And this is like a three d chat program"
+ ],
+ [
+  5,
+  278,
+  "like Second Life. And the same thing happened there. But this this time you had like private property rights as well involved. So, like, vil"
+ ],
+ [
+  5,
+  288,
+  "lages were formed and, like, there'll be inter village conflicts and, like, the need for arbitration reconciliation and and then so on. You "
+ ],
+ [
+  5,
+  297,
+  "know, you also had, you know, quasi sort of monetary And then that kind of led me to,"
+ ],
+ [
+  5,
+  303,
+  "I think just to finish the virtual worlds thread, there was a paper that I read. Let me see if can find it. I can't remember the I can't rem"
+ ],
+ [
+  5,
+  315,
+  "ember the the paper's name. Sorry. But, like, it was basically comparing the economies of Ultima Online and World of Warcraft to nation stat"
+ ],
+ [
+  5,
+  327,
+  "es. Right? And finding out that their economies"
+ ],
+ [
+  5,
+  331,
+  "were actually equal to some smaller nations. And so, like, this led to this idea that, oh, you could actually have this virtual economy, thi"
+ ],
+ [
+  5,
+  340,
+  "s virtual society or virtual, you know, quote unquote network state or cyber states that could actually have, like, real world effects in th"
+ ],
+ [
+  5,
+  348,
+  "e future. Right? Both in terms of its economy that it creates and the institutions that it creates. But the you know, kind of going back a l"
+ ],
+ [
+  5,
+  357,
+  "ittle bit, like, you also had"
+ ],
+ [
+  5,
+  359,
+  "two other sort of threads. Right? So BBS is like I grew up in Australia, so I got exposed to the international subverses, which is Julian As"
+ ],
+ [
+  5,
+  368,
+  "sange's sort of hacker group e sign thing. Talked about freaking. Right? As a young boy using up the phone line, you rack up your phone bill"
+ ],
+ [
+  5,
+  378,
+  ". And so you need to find ways to make that cheaper. And so you'd learn how to manipulate"
+ ],
+ [
+  5,
+  384,
+  "telephone systems so you can get cheaper calls and get cheaper access to the to the net. And so naturally, like, that kind of evolves into, "
+ ],
+ [
+  5,
+  396,
+  "you know, the sort of cyberpunk realm, like, you know, hacking sort of ideas and that kind of community. So I got exposed to a lot of those "
+ ],
+ [
+  5,
+  407,
+  "ideas."
+ ],
+ [
+  5,
+  408,
+  "And also piracy used to be quite big. Right? And certainly on BBSs and that evolved throughout the nineties into peer to peer applications. "
+ ],
+ [
+  5,
+  420,
+  "What was really interesting about like peer to peer piracy applications is that it was notoriously difficult for nation states, guess, but"
+ ],
+ [
+  5,
+  431,
+  "probably certain branches of their governments being very ineffective at being able to stop these peer to peer protocols. That was incredibl"
+ ],
+ [
+  5,
+  442,
+  "y compelling to me. It's like, okay, well, there's actually a way that you could effectively carve out a territory in cyberspace and it can "
+ ],
+ [
+  5,
+  452,
+  "have its own autonomy and its own set of rules, its own set of protocols,"
+ ],
+ [
+  5,
+  458,
+  "and you could strengthen those through cryptography. So these sort of, like, three threads kind of, like, came together and was recognized b"
+ ],
+ [
+  5,
+  467,
+  "y many of the sort of cypherpunks of the in the sort of nineties. And this led to this notion called cyber states. You had, like, Timothy Ma"
+ ],
+ [
+  5,
+  477,
+  "y. You had John Barlow. A lot of these guys talking about, like, these islands in the nets,"
+ ],
+ [
+  5,
+  483,
+  "Libertaria in cyberspace. The Tor project was called Freehaven beforehand before that. Right? Like, there was this sort of idea, this latent"
+ ],
+ [
+  5,
+  493,
+  " Cypherpunk dream that had yet to be realized. And, you know, with blockchains and the new lawfare attacks against them that we've seen, the"
+ ],
+ [
+  5,
+  504,
+  "re is like now a pressing call to strengthen"
+ ],
+ [
+  5,
+  507,
+  "their their resiliency and make them more antifragile, which will ultimately lead to them becoming more sovereign. And, you know, you can ba"
+ ],
+ [
+  5,
+  520,
+  "sically start viewing those as the basis of infrastructure for a network state or or a cyber state. Yeah. Nice. Really,"
+ ],
+ [
+  5,
+  531,
+  "really interesting background, Jared. I I think what we're gonna do now really jump into the book. One of my one of my personal favorite par"
+ ],
+ [
+  5,
+  539,
+  "ts is at the beginning. When you and Peter make the case that the the nation state is a 300 year 380 year old technology. And it's a technol"
+ ],
+ [
+  5,
+  547,
+  "ogy that is effectively starting to unravel. So I I'm really keen to dive into this the the reasoning behind why it's unraveling. But first "
+ ],
+ [
+  5,
+  555,
+  "first, and I think this is really important, why don't you steel man the case for us for the idea of the nation state surviving into the fut"
+ ],
+ [
+  5,
+  563,
+  "ure? What does the what does the nation state have to do to survive"
+ ],
+ [
+  5,
+  567,
+  "in perpetuity? It's a good question. Look. I'm not advocating for, like, the I'm getting some feedback again. Can I get muted? Yeah. Thanks."
+ ],
+ [
+  5,
+  581,
+  " So I guess, like, when you when you ask that question, I guess, like, Thomas Sowell comes to mind. Right? Like, there are no solutions. The"
+ ],
+ [
+  5,
+  594,
+  "re are only trade offs. Right? And so"
+ ],
+ [
+  5,
+  598,
+  "I'm not advocating for, like, the entire nation state being, like, you know, collapsing overnight. In fact, that's terrifying to me. Most of"
+ ],
+ [
+  5,
+  607,
+  " the technologies that we're working on are, like, a hedge. And to me, success is that they're not needed. Right? I'm pretty pretty pessimis"
+ ],
+ [
+  5,
+  616,
+  "tic on that. But, you know, the foundation of our human civilization today"
+ ],
+ [
+  5,
+  621,
+  "rests on these kind of technologies. Right? So just ripping out those pillars is probably going to not be good. We'll probably see some form"
+ ],
+ [
+  5,
+  633,
+  " of collapses like this. I think one of the major themes is this notion of competition or being able to provide efficiency. Certain you can "
+ ],
+ [
+  5,
+  644,
+  "almost view it as like a sort of privatization of governance"
+ ],
+ [
+  5,
+  649,
+  "in a way. So as like our technologies are able to take on functions that were typically part of what a nation state provided, then I imagine"
+ ],
+ [
+  5,
+  661,
+  ", like, it actually has more capacity to do the things that it does do really well better. And that's probably going to be security."
+ ],
+ [
+  5,
+  672,
+  "Right? Like, providing stability. Most people probably think of the status in terms of, like, a Weberian notion of a monopoly on violence. I"
+ ],
+ [
+  5,
+  681,
+  "t's not quite right, but, like, it's probably it's, like, the most popular understanding of that. And I think that's probably, you know, pre"
+ ],
+ [
+  5,
+  690,
+  "tty fit, especially when it's interfacing with other nation states that have"
+ ],
+ [
+  5,
+  695,
+  "similar levels of capacity for warfare. Like, I I don't I don't really have, like, a kumbaya sort of vision of the world where, like, where "
+ ],
+ [
+  5,
+  706,
+  "we're able to deal with that. Right? So I imagine that that's probably, like, where it's going to sort of end and then, you know, who knows?"
+ ],
+ [
+  5,
+  717,
+  " Yeah. So also, I think in the in the first part of the book, thinking about how"
+ ],
+ [
+  5,
+  723,
+  "governance is actually unraveling. In in the process of that happening, there seems to be some organizations and some different kind of worl"
+ ],
+ [
+  5,
+  732,
+  "dwide agencies that are taking over sort of the governance functionality that traditional nation states have offered. Maybe we can talk a li"
+ ],
+ [
+  5,
+  741,
+  "ttle bit about those that you guys mentioned at the start of the book because I think it is really vital that we get a that we get clued in "
+ ],
+ [
+  5,
+  750,
+  "on the"
+ ],
+ [
+  5,
+  750,
+  "sort of what's happening globally and worldwide on the offsetting of those governance services to other organizations and actors. You guys h"
+ ],
+ [
+  5,
+  765,
+  "ad a fantastic examples too in the book. In terms of, like, undermining sovereignty or in terms of how? Sorry. You're muted."
+ ],
+ [
+  5,
+  778,
+  "Take a at certain governance functions and then also some transnational corporations and entities Right. Governance functions as well, which"
+ ],
+ [
+  5,
+  786,
+  " has been a which is a which is a huge demonstration that it seems that think the paradigm is largely shifting somewhat. And and, of course,"
+ ],
+ [
+  5,
+  794,
+  " this gets into your ideas around, like, this notion of unlocking these these governance opportunities for for blockchain actors. Yeah. Abso"
+ ],
+ [
+  5,
+  802,
+  "lutely. Okay. No. I I'm I'm clear."
+ ],
+ [
+  5,
+  804,
+  "Yeah. I I guess when people think of, like I guess, like, when people think of, like, the notion of sovereignty, it's, one of these, like, n"
+ ],
+ [
+  5,
+  813,
+  "othing words. Like, it's not not really clear what it means even though it sounds like it has a definition. Like, the term state, for exampl"
+ ],
+ [
+  5,
+  822,
+  "e, I have, like, 30 different definitions collected for that. There is a great international jurist"
+ ],
+ [
+  5,
+  829,
+  "that was part of the United Nations, and his name was George Sells, I think I I I believe. And he basically was defining the documents on, l"
+ ],
+ [
+  5,
+  840,
+  "ike, the duties of states according to the UN in international law. And he's on quote in the in the one of the nineteen fifties yearbook say"
+ ],
+ [
+  5,
+  850,
+  "ing that he's convinced that no one will be able to tell him what a state is"
+ ],
+ [
+  5,
+  856,
+  "before he dies. Right? And he's been practicing law for fifty years and still doesn't know what it is. So sovereignty is kinda like that as "
+ ],
+ [
+  5,
+  864,
+  "well. I think that most people have when they think of sovereignty, they probably think of Westphalian sovereignty, right, which came after "
+ ],
+ [
+  5,
+  872,
+  "the thirty years war and basically is the idea that governments have the capacity to be able to have complete control"
+ ],
+ [
+  5,
+  879,
+  "and authority over their internal structure internal territory, governance of their internal territory, but not outside of it. Right? And th"
+ ],
+ [
+  5,
+  890,
+  "e idea of this that it would lead to peace and it would allow, you know, lead to some stability. And I think it probably had that intention "
+ ],
+ [
+  5,
+  901,
+  "and, you know, kind of works. But"
+ ],
+ [
+  5,
+  904,
+  "if we fast forward to today, that's certainly not the case because you do have a lot of nation states. You know, they undermine their nation"
+ ],
+ [
+  5,
+  915,
+  "al sovereignty towards, you know, the United Nations, you know, to achieve what are considered to be global issues, let's say. Right? You ha"
+ ],
+ [
+  5,
+  927,
+  "ve,"
+ ],
+ [
+  5,
+  927,
+  "you know, hacker groups or other nation states trying to undermine the the cabinets of of other other other governments. Right? You do have "
+ ],
+ [
+  5,
+  936,
+  "the you mentioned the transnational policy networks. So, like, the World Economic Forum, like, you know, there is a quote where they're basi"
+ ],
+ [
+  5,
+  946,
+  "cally boasting that they have their own members"
+ ],
+ [
+  5,
+  949,
+  "in the cabinets of, you know, like, many of the developed OACD countries. So Hadley Bull kind of noticed this, and he has this book called t"
+ ],
+ [
+  5,
+  959,
+  "he Anarchal Society. And he off in that book, he offers some different world models. Right? But, like, he basically conceptualizes this as a"
+ ],
+ [
+  5,
+  970,
+  " form of, like, neomedievalism,"
+ ],
+ [
+  5,
+  972,
+  "and that's, like, the phase of history that we're transitioning into. And this is, like, this idea that, you know, we're not gonna be, like,"
+ ],
+ [
+  5,
+  980,
+  " having horse and carts and, you know, carrying swords around and that sort of thing. That's not what he's talking about. Like, he's talking"
+ ],
+ [
+  5,
+  988,
+  " about, like, the overlapping of authority, right, in a similar way that was in medieval periods where, like, you had, like, you know, kingd"
+ ],
+ [
+  5,
+  996,
+  "oms, you had, like, the the church, you had a lot of different in trade networks and so on that all had, like, large degrees of influences"
+ ],
+ [
+  5,
+  1004,
+  "over pretty much everything. So it's not really clear what the ultimate authority was. And we're now moving more and more into that sort of "
+ ],
+ [
+  5,
+  1013,
+  "phase, and I believe that's true. And with that, you know, has some you know, it'll probably be bit more chaotic. It'll probably be a bit mo"
+ ],
+ [
+  5,
+  1022,
+  "re turbulent. There'll probably be bit more conflict. In fact, you can see this. You can look at some humanitarian data on conflicts. I thin"
+ ],
+ [
+  5,
+  1032,
+  "k it's called the a"
+ ],
+ [
+  5,
+  1033,
+  "c l l e d. The amount of conflicts that are happening per year are actually increasing, right, in terms of their reporting. And, like, this "
+ ],
+ [
+  5,
+  1044,
+  "is an indication that this kind of transitions is happening. And so sovereignty is really more about a process and a context. Right? So it's"
+ ],
+ [
+  5,
+  1055,
+  " like, what domain are you talking about?"
+ ],
+ [
+  5,
+  1058,
+  "Who are like, who was challenging your rights to autonomy? And so, like, you know, you could be sovereign, but that's only because you're no"
+ ],
+ [
+  5,
+  1067,
+  "t being challenged. You know, your your de facto sovereignty is a lot stronger if you are being challenged and still able to resist it. And "
+ ],
+ [
+  5,
+  1076,
+  "that's actually what creates a lot of value in governance or at least in the in the sort of base layers of of governance, being able to prov"
+ ],
+ [
+  5,
+  1085,
+  "ide that security."
+ ],
+ [
+  5,
+  1086,
+  "I can keep rambling on, but, like, yeah, I'll I'll probably stop myself there. Yeah. This is a a good sort of a good transition point to tal"
+ ],
+ [
+  5,
+  1095,
+  "k about pirates. Right? Now I think about so in your book, and I know you're a fan of talking you've talked about this a lot, Jared, in in v"
+ ],
+ [
+  5,
+  1105,
+  "arious interviews, in your speeches. And I I largely agree with your sentiment about this notion of of of piracy,"
+ ],
+ [
+  5,
+  1112,
+  "especially during the Republic of pirates and and the situation with Nassau. There was a predicament where pirates had overtaken sort of the"
+ ],
+ [
+  5,
+  1119,
+  "ir own governance structures that's very similar to thinking about Bruce Sterling's Island and the Web that you mentioned where they had the"
+ ],
+ [
+  5,
+  1127,
+  "ir own kind of networks. And it was a and they had their own codes too. So they had their own form of governance is why they were on the out"
+ ],
+ [
+  5,
+  1134,
+  "side or the outskirts of polite society. So I'm I'm curious to get your take on on pirates and how this relates back to the greater notion o"
+ ],
+ [
+  5,
+  1141,
+  "f of governance as well. I think it's something that's important to talk about as very few people think about. When they think pirates, they"
+ ],
+ [
+  5,
+  1149,
+  " think they think loot. They think captain Jack Sparrow. They think, you know Get some booty. Booty parrot, wooden peg leg."
+ ],
+ [
+  5,
+  1155,
+  "Yeah. Yeah. I mean, that that that there's a certain certain romantic version of piracy, which, you know, I do find alluring. Not gonna lie."
+ ],
+ [
+  5,
+  1166,
+  " Having that said, no. I think there was this book called the Pirate Organizations that was, like, really influential on me because it kind "
+ ],
+ [
+  5,
+  1176,
+  "of opened up a better sort of kind of almost like a functionalist understanding of what piracy is doing."
+ ],
+ [
+  5,
+  1184,
+  "And I guess, like, a nutshell, what they're what they argue is that prior organizations often performing the well, okay. They're they're per"
+ ],
+ [
+  5,
+  1198,
+  "forming this sort of expansion of capitalism, I think is probably one way to articulate it. But how do they do that? Right? So"
+ ],
+ [
+  5,
+  1210,
+  "the pirate organization is not subject to the same formalism as what's under, like, the sort of governing body or main authority with its al"
+ ],
+ [
+  5,
+  1221,
+  "l its regulations and rules and so on. And so it is able to take advantage of market opportunities that haven't yet been fully recognized or"
+ ],
+ [
+  5,
+  1232,
+  " realized"
+ ],
+ [
+  5,
+  1233,
+  "within the formal system. So but as, like, that kind of continues and, like, their sort of autonomy is challenged, let's say, it actually ex"
+ ],
+ [
+  5,
+  1250,
+  "pands the sphere of the dominant authority or governing body."
+ ],
+ [
+  5,
+  1257,
+  "And through the series of challenges, the new business practice gets formalized. Right? And so, you know, sort of pirating enclaves can be b"
+ ],
+ [
+  5,
+  1269,
+  "ecome like ports. The state will create its own version of pirates. So, like, in the in terms of, like, the romantic sea notion, you have, l"
+ ],
+ [
+  5,
+  1280,
+  "ike, courses, which are basically privateers"
+ ],
+ [
+  5,
+  1284,
+  "or contractors operating on the behalf of states to do effectively the same function as what the pirates are doing as well as eliminating th"
+ ],
+ [
+  5,
+  1293,
+  "e competition. And then eventually, that becomes shipping lanes and that becomes, like, you know, a standard means of trade and and and so o"
+ ],
+ [
+  5,
+  1303,
+  "n. And this hap like, they argue this happens in almost every domain that's kind of comes along. Right? Whether it's, like, radio, whether i"
+ ],
+ [
+  5,
+  1312,
+  "t's the Internet."
+ ],
+ [
+  5,
+  1313,
+  "And, like, you can quite clearly see this kinda happening with the Internet as well. Right? Like, you have, you know, these PPI file sharing"
+ ],
+ [
+  5,
+  1322,
+  " applications back in the day. And, like, BitTorrent is still going. It accounts for 4% of the of the global Internet's traffic. But, you kn"
+ ],
+ [
+  5,
+  1331,
+  "ow, back in the day, yours had, like, things like Direct Connect plus plus, edonkey, SoulSeek,"
+ ],
+ [
+  5,
+  1337,
+  "LimeWire. I'm sure because I'm sure you've probably used one if you're old enough. And then as those things got evolved, you know, you start"
+ ],
+ [
+  5,
+  1347,
+  "ed to see out outcomes, things like Spotify. Right? Outcomes things like Netflix. These are the sort of, like, versions of offering media in"
+ ],
+ [
+  5,
+  1358,
+  " convenient ways."
+ ],
+ [
+  5,
+  1359,
+  "And this ultimately starts eating off away at those original original projects. And I am like, I can probably imagine that happening a lot w"
+ ],
+ [
+  5,
+  1369,
+  "ith with the kind of technologies we're talking about today. Right? Like, we'll be able to identify like, we'll be able to basically, instea"
+ ],
+ [
+  5,
+  1379,
+  "d of pirating music and videos, we're gonna be pirating institutions and then deploying them to anywhere"
+ ],
+ [
+  5,
+  1386,
+  "that people are underserved and need them. And, ultimately, they'll become more and more formalized and just become embedded global market t"
+ ],
+ [
+  5,
+  1396,
+  "hey will get access to global markets, and that'll just be how things are. Yeah. That's that seems like the the case to the case of where we"
+ ],
+ [
+  5,
+  1405,
+  "'re headed seems pretty clear with that direction as you outlined it. So now I think it's important that we get into,"
+ ],
+ [
+  5,
+  1413,
+  "as governance functionality continues to unravel and we we sort of have these pirate spaces with these peer to peer technologies, we're star"
+ ],
+ [
+  5,
+  1423,
+  "ting to move into really a different era. Amir was talk Amir and Rose were talking about it on their panel quite previously before this one "
+ ],
+ [
+  5,
+  1432,
+  "where we're in a this transitionary period. So in the in the book, you guys talk about smart contracts and DAOs"
+ ],
+ [
+  5,
+  1440,
+  "and how governance a lot of governance functionalities we're gonna start implementing with these these structures. That's not to say that th"
+ ],
+ [
+  5,
+  1451,
+  "ere's not limits to them as well, what you guys mentioned. So I'm curious to get your take on how you see the institutions of the future bei"
+ ],
+ [
+  5,
+  1463,
+  "ng formalized on, Dow's and smart contracts? Because I think we're not quite there yet with where we're at now."
+ ],
+ [
+  5,
+  1472,
+  "So I think, like, the innovation, like, is so when it comes to governance, right, like, I actually think the innovation's happening at a at "
+ ],
+ [
+  5,
+  1483,
+  "a lower level than I mean, I can talk about DAOs and and smart contracts in a second. But, like, I think it's really important to recognize "
+ ],
+ [
+  5,
+  1494,
+  "that public"
+ ],
+ [
+  5,
+  1495,
+  "blockchains and the way that they reach consensus is very reminiscent of parliamentary sovereignty. Right? And so this is kind of what most "
+ ],
+ [
+  5,
+  1509,
+  "nation states kinda use as a basis of legitimacy. Right? So this is recognized by, like, Leslie Lamport in his paper"
+ ],
+ [
+  5,
+  1521,
+  "called the part time parliament where he was showing the Paxos protocol. And in that, he offered a fictitious sort of story about the island"
+ ],
+ [
+  5,
+  1531,
+  " of Paxos where you had a bunch of sort of merchant traders who who own ships that were coming to the to the island and, you know, running m"
+ ],
+ [
+  5,
+  1541,
+  "arketplaces and basically having a little society."
+ ],
+ [
+  5,
+  1544,
+  "But they also recognize the need for passing legislation, ensuring, like, you know, formal rules and so on. Now the the issue there is that "
+ ],
+ [
+  5,
+  1552,
+  "they're all running their own businesses as well. They wanna make a bunch of money. They wanna leave as well. So, like, you can't have every"
+ ],
+ [
+  5,
+  1561,
+  "one operating in in the parliament at the same time. And so they developed this protocol, the Paxos protocol, in order to have this sort of,"
+ ],
+ [
+  5,
+  1569,
+  " like, high churn environment where they're able to come and go and leave while the order of the society"
+ ],
+ [
+  5,
+  1575,
+  "maintains its integrity. Right? And this is effectively what a blockchains is doing a public blockchain is doing. So that's I mean, that's a"
+ ],
+ [
+  5,
+  1588,
+  "lso really fascinating. I can talk get into, like, and on power and so on. But what's great about that is, like, you can now create"
+ ],
+ [
+  5,
+  1600,
+  "rather than having, like, an authority that was, like, you know, through a mechanism like monopoly on violence, let's say, you can now creat"
+ ],
+ [
+  5,
+  1609,
+  "e a decentralized authority which can create an order. And this is separate from law as well. Right? So you can actually really tease out la"
+ ],
+ [
+  5,
+  1619,
+  "w from the order. And then I guess that's where the DAOs and smart contracts start to come in. Right? Because, like, you can start then"
+ ],
+ [
+  5,
+  1628,
+  "you basically have a general enough policy which is agreeable by enough people, and that pressure to keep it general kind of keeps the sort "
+ ],
+ [
+  5,
+  1637,
+  "of base layer or base constitution as agnostic or as impartial as possible. And this allows the, like, self determining communities on top o"
+ ],
+ [
+  5,
+  1646,
+  "f that, which can even be, like, you know, a party and a counterparty"
+ ],
+ [
+  5,
+  1651,
+  "coming to agreements as granular as as they want. Right? Like so rather than a government creating, like, this one size fits all policy and "
+ ],
+ [
+  5,
+  1662,
+  "applying it to everyone, you can now have agreements down to, like, two people and running that on with the same level of security as the as"
+ ],
+ [
+  5,
+  1672,
+  " the order itself. So then, like,"
+ ],
+ [
+  5,
+  1675,
+  "this allows for the space of, like, rich competition in institutions. And I I think that that's, like, an an evolution of that. Like, it bec"
+ ],
+ [
+  5,
+  1684,
+  "omes a very Darwinian. And if, like, policies aren't useful, then people will just stop using them. And, like, Nuance will be able to be cre"
+ ],
+ [
+  5,
+  1693,
+  "ated instantaneously. You know, like, a kid could write a smart contract and deploy that, and it might radically change an entire society. A"
+ ],
+ [
+  5,
+  1702,
+  "nd they could do they could deploy that in, like, fifteen seconds or less. Right? Like, it's it's kinda crazy to think about the potential t"
+ ],
+ [
+  5,
+  1711,
+  "here."
+ ],
+ [
+  5,
+  1711,
+  "I I think there's something that has been on the minds of a lot of people at the at the comp here at at the event, at the pop up, and the co"
+ ],
+ [
+  5,
+  1719,
+  "nference. And that is something that you guys touch on in the book as well, and it's something that interests me personally. It's this idea "
+ ],
+ [
+  5,
+  1728,
+  "that so we can have all the decentralization in the world. We can pretend that everything's a 100% trustless, like, in the"
+ ],
+ [
+  5,
+  1735,
+  "cryptocurrency ecosystem. But things tend to bottom out with human beings. Right? So there's like a a human layer to this that can cause som"
+ ],
+ [
+  5,
+  1743,
+  "e issues in terms of the decentralization. So I'm I'm really curious to get your thoughts on, like, how how do we overcome this? How do we t"
+ ],
+ [
+  5,
+  1751,
+  "ackle this? And how do we start to think about it even with our technologies? I feel like there's some incentives that are built in there th"
+ ],
+ [
+  5,
+  1759,
+  "at we need to maybe tease out a bit."
+ ],
+ [
+  5,
+  1761,
+  "Right. I mean I mean, The technology that we're creating is is not what actually matters. Right? I mean, it may matters, but it's actually a"
+ ],
+ [
+  5,
+  1776,
+  " byproduct. And it's a byproduct of a collective of people coming together that have"
+ ],
+ [
+  5,
+  1785,
+  "extended kinship ties or, you know, some sort of notion of shared ideas in this cultural memory. Right? So if you imagine, like, we all had,"
+ ],
+ [
+  5,
+  1794,
+  " like, we all have, like, this sort of blank workspace that we like, our collective imagination and we're throwing symbols into that. That's"
+ ],
+ [
+  5,
+  1802,
+  " what we're doing when we're we're talking, like, right now. And then, like, those symbols get it, you know, get transmitted into your head "
+ ],
+ [
+  5,
+  1811,
+  "and you start to play with them."
+ ],
+ [
+  5,
+  1813,
+  "And I think that's really important because, like, you can't actually, before I go on, like, I think I heard the term cognitive sovereignty "
+ ],
+ [
+  5,
+  1823,
+  "being mentioned quite a lot at this conference, but I'm not exactly sure what it what it means. Can you give me, like, a quick understanding"
+ ],
+ [
+  5,
+  1834,
+  " before I start rambling again?"
+ ],
+ [
+  5,
+  1836,
+  "Yeah. I'll let Burns is here. He can come up and and chat. He can probably define it a little bit better than I can at some because I don't "
+ ],
+ [
+  5,
+  1846,
+  "have as much experience. I'm just learning it about about it myself as well, Jared. So yeah. Okay. Okay. Sorry to derail derail things. So w"
+ ],
+ [
+  5,
+  1857,
+  "e're there. So first of all, thank you for saying the last sentence."
+ ],
+ [
+  5,
+  1862,
+  "I don't know what that actually means instead of just framing it in the way that would benefit you the most. My highest appreciation for tha"
+ ],
+ [
+  5,
+  1872,
+  "t already. So, I had a talk about that in the begin. Got here. Basically, you're correct. The old sovereignty, the nation state sovereignty,"
+ ],
+ [
+  5,
+  1883,
+  " the territorial sovereignty"
+ ],
+ [
+  5,
+  1885,
+  "is, quite defined and, maybe in in theory not finally, but it's binary. You either are accepted as a nation state or you are not accepted as"
+ ],
+ [
+  5,
+  1897,
+  " a nation state. The nation state can not be more or less sovereign. When I drink alcohol, I get less sovereign in my own thinking. When I t"
+ ],
+ [
+  5,
+  1909,
+  "hen"
+ ],
+ [
+  5,
+  1909,
+  "not drink out like just this experience, I'm the first guy in oil that drinks alcohol. So maybe I can obstruct the state of of of sobriety t"
+ ],
+ [
+  5,
+  1919,
+  "hat equals a higher sovereignty state with also comparing it to being dehydrated or really really tired. This somehow pulls in the same dire"
+ ],
+ [
+  5,
+  1929,
+  "ction towards the same north star."
+ ],
+ [
+  5,
+  1931,
+  "I lose an ability. I might never be perfect like one or zero about it, but it actually really really matters that I don't just deteriorate m"
+ ],
+ [
+  5,
+  1940,
+  "y ability. The same is true for digital sovereignty like before it was captured by we can have the discussion afterwards. Basically, it mean"
+ ],
+ [
+  5,
+  1949,
+  "s that the individual should hold the keys to the wallet and not that the nation state or the world government"
+ ],
+ [
+  5,
+  1956,
+  "does that for us in order to protect us from other bad actors. No? Like, the individual level of sovereignty. And the question is now, what "
+ ],
+ [
+  5,
+  1966,
+  "does it mean functionally? Functional analysis wise, it means the ability being in place to take ultimate responsibility for something in so"
+ ],
+ [
+  5,
+  1976,
+  "me context. And then we can talk about that. And no. It's not a"
+ ],
+ [
+  5,
+  1980,
+  "we will not be perfectly digitally sovereign. We will always be dependent on power grids or what what do I know. And we will never be truly "
+ ],
+ [
+  5,
+  1989,
+  "cognitive sovereign. We will never reach the eye of god that knows everything all the time. Is this a very good reason to not care about the"
+ ],
+ [
+  5,
+  1999,
+  "se abilities? Because, yeah, institutions can do it for us. It's not like we can do it ourselves with AI and with technology and with upgrad"
+ ],
+ [
+  5,
+  2008,
+  "ing our ability"
+ ],
+ [
+  5,
+  2009,
+  "to execute the citizen function that actually justify the sovereignty of the state because the citizens, so to say, outsource their legitima"
+ ],
+ [
+  5,
+  2019,
+  "cy towards that. Before we had a state like like a pack of wolves, yeah, this is this is like the sovereign individual more or less is opt i"
+ ],
+ [
+  5,
+  2030,
+  "n. You see lone wolves, they got kicked out."
+ ],
+ [
+  5,
+  2033,
+  "Yeah. But now, during this date and how it's developed, we should ask the question, maybe with strong AI, we could do that ourselves that in"
+ ],
+ [
+  5,
+  2043,
+  "stitutions when they have it and it's getting stronger, maybe we'll never able to get back to a place where we can even question ourselves. "
+ ],
+ [
+  5,
+  2053,
+  "So if my children grow up with JetGPT,"
+ ],
+ [
+  5,
+  2056,
+  "they might even never learn to question the really well argued text that they see the way that I cannot drive Yep. While navigating Gotcha. "
+ ],
+ [
+  5,
+  2066,
+  "The map. I am dependent on Google Maps because I drive like that for fifteen years. Gotcha. Gotcha. And identify what kinds of sovereignty d"
+ ],
+ [
+  5,
+  2076,
+  "o we actually want to uphold also in a group."
+ ],
+ [
+  5,
+  2079,
+  "And I think that what you are doing with logos is a perfect example of how it could work out or at the end get hijacked and completely also "
+ ],
+ [
+  5,
+  2088,
+  "go wrong. But if you look at Switzerland, they have an interesting model. The commune are like like the municipality is actually above the r"
+ ],
+ [
+  5,
+  2098,
+  "est. We we probably keep keep moving on. And if you expand that to the world, it's actually safe or more safe. Thank thank you, my man."
+ ],
+ [
+  5,
+  2107,
+  "Gotcha. Gotcha. Cool. No. Thanks. Cool. No. Thanks. So I think, like yeah. I don't really believe in cognitive sovereignty. I mean, obviousl"
+ ],
+ [
+  5,
+  2118,
+  "y, like, if you don't drink, that's great. But, like, you're already born into, like, a cultural memory or cultural environment. Right? And "
+ ],
+ [
+  5,
+  2128,
+  "regardless of whether you view that as propaganda or not, are a set of symbols,"
+ ],
+ [
+  5,
+  2134,
+  "set of, like, learnings, you know, even just like the language that we're speaking. Right? Like, they are all things that you didn't really "
+ ],
+ [
+  5,
+  2143,
+  "have a a sort of formal choice and whether you or autonomy in choosing on or not. Right? And I think that just continues throughout your ent"
+ ],
+ [
+  5,
+  2152,
+  "ire life. And so, like, logos is, like, this notion of, like, this pursuit of truth, right, to the ultimate truth, but it is always going to"
+ ],
+ [
+  5,
+  2160,
+  " be a pursuit. It's never something you can actually reach"
+ ],
+ [
+  5,
+  2164,
+  "because of this problem. And so, like, the best you can really do is form a collective to get a whole bunch of people who might be like mind"
+ ],
+ [
+  5,
+  2173,
+  "ed, but you could all just be drinking the same Kool Aid. You'd have no idea. You know, hopefully, you, you know, you're open enough in your"
+ ],
+ [
+  5,
+  2182,
+  " hardware. Like, your brain allows you to to have the idea of exploring other ideas so you're exposed to them."
+ ],
+ [
+  5,
+  2189,
+  "But, you know, it's it's not super clear. I I guess, like, the other sort of thing that concerns me about this is, like, there's a notion of"
+ ],
+ [
+  5,
+  2202,
+  ", like, Italian elite theorists, right, and Bertrand de de Juvenel. So the Italian elite theorists basically believe that there can there al"
+ ],
+ [
+  5,
+  2215,
+  "ways has to be an organized minority."
+ ],
+ [
+  5,
+  2219,
+  "Right? Like, it is almost like, if you want to get the masses to do anything, like, even the mass democracy, you need to start organizing an"
+ ],
+ [
+  5,
+  2227,
+  "d to say, like, parties or, you know, someone to be able to to corral the vote. You can't just imagine this diffuse group of people spontane"
+ ],
+ [
+  5,
+  2234,
+  "ously all deciding to vote one way or the other. Right? Like, you know, you might be able to create a system for, like, for that, but ultima"
+ ],
+ [
+  5,
+  2242,
+  "tely, you need to get people to come and fill in the ballot or whatever."
+ ],
+ [
+  5,
+  2246,
+  "And so someone ends up having to control that or organize it and probably introducing their their biases along the way. Now, like, when this"
+ ],
+ [
+  5,
+  2257,
+  " comes to say, like, you know, blockchain technologies, I would say that, you know, even though it's almost it's certainly iteratively bette"
+ ],
+ [
+  5,
+  2268,
+  "r than a parliamentary document democracy"
+ ],
+ [
+  5,
+  2271,
+  "because you can inspect the code, you know, you can learn game theory or cryptoeconomics. You can, you know, you can inspect everything, ord"
+ ],
+ [
+  5,
+  2281,
+  "er things. You can add pull requests. You know, you can participate in DAOs. There's a lot of things you can do that you wouldn't really be "
+ ],
+ [
+  5,
+  2290,
+  "able to do in, like, a, you know, the a current governance system. But"
+ ],
+ [
+  5,
+  2295,
+  "the fact that, like, there is time, there's sort of skills that have to be developed and acquired to be able to do some of those things does"
+ ],
+ [
+  5,
+  2304,
+  ", like, naturally lock people out. Right? And so you naturally kinda get this priest class. Right? And I I think that Jeuvenel, Bertrand de "
+ ],
+ [
+  5,
+  2313,
+  "Jeuvenel, and particularly his book on power has a really good con conceptualization"
+ ],
+ [
+  5,
+  2319,
+  "of power. He kinda does away with monarchies. He does away with democracies, oligarchies, and all of these things. Has a general model where"
+ ],
+ [
+  5,
+  2327,
+  " you basically have, like, the center of power. You have the intermediaries. So, like, this would be your branches of government or it would"
+ ],
+ [
+  5,
+  2335,
+  " be, like, civil services, like churches and stuff like this. And you have the periphery, which would be largely the the the people. And he "
+ ],
+ [
+  5,
+  2343,
+  "views power as almost like this"
+ ],
+ [
+  5,
+  2345,
+  "process or like, almost like a spirit or entity unto itself. And so basically, in this model, he conceptualizes that the so the intermediary"
+ ],
+ [
+  5,
+  2354,
+  " is always trying to be the the center of power. And the the center of power is always trying to be the center of power itself. And so they "
+ ],
+ [
+  5,
+  2364,
+  "both end up making these appeals to the periphery for legitimacy."
+ ],
+ [
+  5,
+  2368,
+  "Right? Like, this is this notion of the consent of the governed and so on, which is kind of how you and he basically tries to explain this a"
+ ],
+ [
+  5,
+  2378,
+  "s in the transition of, like, divine right of kings to parliamentary democracy. Right? So you basically had the parliamentarians claiming th"
+ ],
+ [
+  5,
+  2388,
+  "at they offered to be representing the people"
+ ],
+ [
+  5,
+  2391,
+  "when really they're just representing themselves and getting together in a larger group and then, you know, beheading kings and so on. I'm I"
+ ],
+ [
+  5,
+  2401,
+  "'m compressing a lot of history down into a very crude generalization and certainly a complex topic. But you can almost view blockchains doi"
+ ],
+ [
+  5,
+  2411,
+  "ng of a like, power using blockchains to do a very similar thing where it's like, okay."
+ ],
+ [
+  5,
+  2417,
+  "Our mass democracies are now being criticized or questioned. There's an understanding well, hopefully, there's an understanding that, like, "
+ ],
+ [
+  5,
+  2426,
+  "mass media drastically influences a lot of people. And, you know, they make their choices based on headlines, let's say, without really unde"
+ ],
+ [
+  5,
+  2435,
+  "rstanding or having the cap capability to understand because we're living in this brave new world where we just have an overflow of informat"
+ ],
+ [
+  5,
+  2444,
+  "ion."
+ ],
+ [
+  5,
+  2444,
+  "Algorithms are recommending us the things that we're already, you know, biased towards. So, like, understanding truth is really, really diff"
+ ],
+ [
+  5,
+  2454,
+  "icult. So you don't have your cognitive sovereignty in even making these choices. Right? And so I I figured my point, but, like, yeah, I've "
+ ],
+ [
+  5,
+  2463,
+  "been talking for a little while. I think I I got something out there that's useful."
+ ],
+ [
+  5,
+  2469,
+  "No. Well well said, Jared, especially the point on, just generally speaking with democracy and the points on on power and how these power dy"
+ ],
+ [
+  5,
+  2477,
+  "namics exist and get distributed in society. I think I wanna reel it back in a little bit, and maybe we can talk specifically about the the "
+ ],
+ [
+  5,
+  2485,
+  "the cyber state idea in terms of how it's being defined. So maybe a bit of a terminology piece. So let's take a second to reset. Let's start"
+ ],
+ [
+  5,
+  2493,
+  " again with"
+ ],
+ [
+  5,
+  2494,
+  "sort of biology's definition. I think in chapter eight in the book, you guys spend the whole time kinda dissecting his particular view. That"
+ ],
+ [
+  5,
+  2502,
+  "'s not to say that you guys disagree with everything, but there are some, like, key points of contention that you bring up in how you unders"
+ ],
+ [
+  5,
+  2509,
+  "tand the the cyber state. So I was gonna see if you can talk about those key points and the reasons why you take a different approach to the"
+ ],
+ [
+  5,
+  2517,
+  " the cyber state. By the way, I I very strongly agree with you and Peter's take. It makes it makes sense."
+ ],
+ [
+  5,
+  2523,
+  "Sure. I I guess, like, it boils down to, like, three main like, I mean, I I don't I'm not trying to discredit Balaji. I love the fact that h"
+ ],
+ [
+  5,
+  2532,
+  "e's popularizing the network state concept. I know there's quite a few criticisms out there of the network state concept. I I think that it "
+ ],
+ [
+  5,
+  2541,
+  "basically boils down to three things, if I recall correctly. One, we don't really believe that there needs to be, like, a a CEO or a leader"
+ ],
+ [
+  5,
+  2550,
+  "of that. I would argue that, like, most cultures probably need, like, a root symbol, and it's personified. And this personification ideally "
+ ],
+ [
+  5,
+  2568,
+  "is imbued with the sort of set of values of virtues"
+ ],
+ [
+  5,
+  2574,
+  "that you would like to see people in that cult in that culture embody. Right? So, like, Satoshi Nakamoto is actually quite genius, right, li"
+ ],
+ [
+  5,
+  2584,
+  "ke, terms of the culture around Bitcoin. It's like, you know, he embodies the set of values and virtues. We're gonna get to get into that an"
+ ],
+ [
+  5,
+  2593,
+  "d then basically become the king made of stone. Right?"
+ ],
+ [
+  5,
+  2597,
+  "And in not ever going anywhere, he's basically immortalized and those ideologies and values or virtues are immortalized along with Satoshi. "
+ ],
+ [
+  5,
+  2608,
+  "Now, you know, maybe he starts transacting. So, you know, if something comes back, I I doubt it. But, like, you know, if he did, then then, "
+ ],
+ [
+  5,
+  2618,
+  "like, that now becomes a mutable thing. Right? Like,"
+ ],
+ [
+  5,
+  2622,
+  "it's like the, you know, the US constitution or the bill of rights, you know, those people like, it's just a document. Right? It can change "
+ ],
+ [
+  5,
+  2631,
+  "at any time, but it is actually a symbol, a cultural symbol that many people believe in and are willing to fight for. So I I think that's ki"
+ ],
+ [
+  5,
+  2640,
+  "nd of like that's important, but it doesn't need to be like a leader per se. Right? Certainly not a CEO."
+ ],
+ [
+  5,
+  2646,
+  "I I think we disagree on this notion of legal recognition. So, like, de jure sovereignty, in my view, kind of comes after the fact of de fac"
+ ],
+ [
+  5,
+  2656,
+  "to sovereignty. Right? So, like, you're going to be recognized at some point because you're able to maintain your autonomy in a hostile envi"
+ ],
+ [
+  5,
+  2667,
+  "ronment against adversaries of similar levels. Right? And at some point,"
+ ],
+ [
+  5,
+  2672,
+  "they're just gonna be like, well, we can't do much about it. I guess we'll just have to shake hands. Right? You know, the book goes into it "
+ ],
+ [
+  5,
+  2681,
+  "a little a little bit more formally than that, but, like, I guess that's kind of just the the general idea. Like, this notion of legal recog"
+ ],
+ [
+  5,
+  2689,
+  "nition from the nation states is and, like, the UN in particular, like, is not really that necessary. Right? There are certainly nation stat"
+ ],
+ [
+  5,
+  2698,
+  "es"
+ ],
+ [
+  5,
+  2698,
+  "that aren't legally recognized, yet, you know, they are the some of the largest chip manufacturers, you know. So if you care about AI, like,"
+ ],
+ [
+  5,
+  2709,
+  " they're they're doing a lot of it. Right? It's been the excuse for for legitimizing never mind. So, yeah, it's it's not quite I I think it'"
+ ],
+ [
+  5,
+  2720,
+  "s useful. I guess another thing, right, is like if you look at"
+ ],
+ [
+  5,
+  2725,
+  "state versus non state actors in the world stage, you're actually starting to see a lot more non state actors deploying more capital and hav"
+ ],
+ [
+  5,
+  2734,
+  "ing more influence on the world stage than even states. Right? So like NGOs, various international organizations are deploying much more lar"
+ ],
+ [
+  5,
+  2743,
+  "ger amounts of capital and being able to influence even states themselves."
+ ],
+ [
+  5,
+  2748,
+  "So this idea of states as being the prime entity is just not really true anymore. So, yeah, I mean, if you can maintain your integrity and a"
+ ],
+ [
+  5,
+  2760,
+  "utonomy regardless of that, I think that's probably more important. And then I guess the other side is, like, this sort of legacy for"
+ ],
+ [
+  5,
+  2771,
+  "need for territory. Right? Like, real property. I I think that a a cyber state or a network state can have an entity or, you know, like, an "
+ ],
+ [
+  5,
+  2783,
+  "on chain entity or whatever that owns the real property. And that's fine, but I don't think it's a a prerequisite at all. I think what actua"
+ ],
+ [
+  5,
+  2795,
+  "lly matters is"
+ ],
+ [
+  5,
+  2796,
+  "coming back to this notion of sovereignty and, like, what domain that's actually in. I view the the primary thing that, like, these sort of "
+ ],
+ [
+  5,
+  2805,
+  "cyber states should be really focusing on is achieving sovereignty or like, a high degree of autonomy within cyberspace. Right? And this isn"
+ ],
+ [
+  5,
+  2814,
+  "'t, like, going back to this idea of carving out territory"
+ ],
+ [
+  5,
+  2818,
+  "in cyberspace. And this isn't like woo woo or any of this. Like, the United States military had recognized cyberspace as, like, a fifth doma"
+ ],
+ [
+  5,
+  2827,
+  "in of conflict next to land, sea, air, and space. Economy can be another form of domain of conflicts. You know, the the international law ca"
+ ],
+ [
+  5,
+  2837,
+  "n be another one, of course. And, anyway, the US military basically breaks that down into,"
+ ],
+ [
+  5,
+  2843,
+  "like, a few different things. Right? Like, I forget exactly what it is. It's the physical network layer. It's the sort of cyber persona laye"
+ ],
+ [
+  5,
+  2855,
+  "r, and it's like the logical network layer. Right? So, you know, the the cables, the programs you're running, and then the netizens that are"
+ ],
+ [
+  5,
+  2867,
+  " participating."
+ ],
+ [
+  5,
+  2868,
+  "And so for me, like, in terms of the challenges we're creating, it's a matter of, like, strengthening or all of those properties. Right? So "
+ ],
+ [
+  5,
+  2878,
+  "creating, like we create the p two p mix, which is going to be a is a mixed net for the p two p that allows you to get, like, network level "
+ ],
+ [
+  5,
+  2888,
+  "anonymity. Right? This is important for"
+ ],
+ [
+  5,
+  2891,
+  "protecting not only the users of the network, but also the participants in like, the the nodes in the network itself. Right? They need to be"
+ ],
+ [
+  5,
+  2900,
+  " impartial to the content that's flowing over them. The logical layer, you know, so private smart contracts, you know, DarkFire is doing som"
+ ],
+ [
+  5,
+  2908,
+  "e really great things on that front. We're doing some similar things like, you know, Monero."
+ ],
+ [
+  5,
+  2914,
+  "All of those things are kind of examples of this sort of logical layer. And then, you know, ideally, in a similar way, you're actually solvi"
+ ],
+ [
+  5,
+  2923,
+  "ng for for the medicine, but that's that's getting more into the ops tech stuff and, you know, like, I I think the doc fi wonderful doc fi p"
+ ],
+ [
+  5,
+  2932,
+  "eople were talking about using Codebug and accessing or contributing code through through a tool. Right? That's a a great example of protect"
+ ],
+ [
+  5,
+  2941,
+  "ing in Edison."
+ ],
+ [
+  5,
+  2942,
+  "And these things work. Right? Like, the tool project is a great example of of governments trying to shut it down over and over again and act"
+ ],
+ [
+  5,
+  2951,
+  "ually being resilient and increasing in its user base considerably every single time this happened, whether it was from the Arab Springs all"
+ ],
+ [
+  5,
+  2960,
+  " the way to, you know, like Russia, Turkey, and so on. All it does is China, of course. You know, every single time this happened, it actual"
+ ],
+ [
+  5,
+  2969,
+  "ly just increased the user base of their of their network. That's quite funny to say."
+ ],
+ [
+  5,
+  2974,
+  "I mean, and then we're gonna maybe get into some questions. We have roughly ten minutes left. But, yeah, thinking about this these cyber sta"
+ ],
+ [
+  5,
+  2983,
+  "tes and network states just existing in the cloud, I mean, this also stems from the progenitors of our whole ecosystem. Right? Timothy May w"
+ ],
+ [
+  5,
+  2992,
+  "rote Libertarian Cyberspace where he was very specific in his stance that"
+ ],
+ [
+  5,
+  2997,
+  "this could just be manifested and maintained in cyberspace leveraging things like strong encryption guarantees, different kind of remixers, "
+ ],
+ [
+  5,
+  3006,
+  "p to p technology, etcetera. And there was no need to try to to to play into the, as you guys call, the old boys club of the system as it as"
+ ],
+ [
+  5,
+  3014,
+  " it stands, which is yeah. Perfect argument. So, yeah, maybe it's a good time to take some questions in the audience. If anybody has questio"
+ ],
+ [
+  5,
+  3023,
+  "ns for you, we can move into that phase."
+ ],
+ [
+  5,
+  3025,
+  "Thanks again, Jared, for, breaking that down. The book is fantastic. I have copies actually here with me too. We have the QR code so that yo"
+ ],
+ [
+  5,
+  3035,
+  "u guys can sign up to get more information on the book. I do have a few copies with me. Maybe somebody will be lucky enough to get it if you"
+ ],
+ [
+  5,
+  3044,
+  " chat with me. So we'll we'll see how it goes. Alright. Questions? Yeah. We're gonna have some. So you mentioned that people have various cr"
+ ],
+ [
+  5,
+  3054,
+  "iticisms of the network state and mine relates to your point about medieval"
+ ],
+ [
+  5,
+  3059,
+  "versus Westphalian order. In particular, it seems to me that as you were sort of describing kind of the idea of a network is that you don't "
+ ],
+ [
+  5,
+  3068,
+  "have these like clearly defined centers. You have like a bunch of different intersecting entities. And maybe that's unstable or maybe it's a"
+ ],
+ [
+  5,
+  3078,
+  "ctually less I mean, some anarchists I think would say it's less conflictual potentially."
+ ],
+ [
+  5,
+  3084,
+  "And I wonder what you think about kind of networks governing things versus network states, which to me are actually kind of the opposite of "
+ ],
+ [
+  5,
+  3094,
+  "a network. It's like slicing things up into these distinct jurisdictions. Yeah. It's it's a great question. I I think that there are, you kn"
+ ],
+ [
+  5,
+  3105,
+  "ow, there are multiple, you know, centers. Right? All this, you know, this sort of polycentricity."
+ ],
+ [
+  5,
+  3112,
+  "And when we we get that today, like, we have different, you know, ethnicities or different religions. We have different ideologies, and they"
+ ],
+ [
+  5,
+  3123,
+  " kind of all overlap in in one way or another. They also segregate even in multicultural societies. Like, there's, you know, Chinatown or or"
+ ],
+ [
+  5,
+  3134,
+  " or, you know, Little Italy or whatever. Right? So"
+ ],
+ [
+  5,
+  3138,
+  "I'm kind of somewhere in between that. Like, I I think when people think of the the term state, you know, like, they are thinking of, like, "
+ ],
+ [
+  5,
+  3146,
+  "almost like a traditional government that's kind of operating over a network. I'm not sure that's a, like that's a pretty I I can understand"
+ ],
+ [
+  5,
+  3155,
+  " why that that's a conceptualization that you would have. I'm not sure. And it's because of the use of the this term state that kind of imbu"
+ ],
+ [
+  5,
+  3163,
+  "es it with that."
+ ],
+ [
+  5,
+  3164,
+  "I definitely think that within for me, like, it's more general. Right? It's like, okay. You have an organized minority that is operating on "
+ ],
+ [
+  5,
+  3174,
+  "a policy that is as general as possible to create an order. And then on top of that order, such as a blockchain a public blockchain, you can"
+ ],
+ [
+  5,
+  3184,
+  " then have communities operating"
+ ],
+ [
+  5,
+  3186,
+  "in whatever governing structures that they decide to create, such as DAO. You know? And then they can they can also switch to to different t"
+ ],
+ [
+  5,
+  3195,
+  "o different orders. You know? Maybe you wanna run it on Solana or something. I don't know. But there's also the fork rule. Right? So if you "
+ ],
+ [
+  5,
+  3204,
+  "don't agree with what's happening, like, entire community can literally just fork right off"
+ ],
+ [
+  5,
+  3210,
+  "if they wanted to. Right? And I think that that's that's that's something you can't do today. Right? Like, I guess, like, this I don't actua"
+ ],
+ [
+  5,
+  3220,
+  "lly I'm not so worried about centralization per se. I'm worried about the cost of exit. Right? So, like, there are points where centralizati"
+ ],
+ [
+  5,
+  3230,
+  "on might might make more sense"
+ ],
+ [
+  5,
+  3232,
+  "because it's more efficient, but it's also more brittle, and it's also more susceptible to corruption and capture. Alright? And so this come"
+ ],
+ [
+  5,
+  3241,
+  "s back to this notion of, like, Albert Hirsch Albert Hirschman has, which is called exit voice and loyalty. And it's basically this sort of "
+ ],
+ [
+  5,
+  3251,
+  "consumer choice ultimatum that you have. You can either leave, you can be loyal to the system, or you can offer,"
+ ],
+ [
+  5,
+  3258,
+  "you know, customer complaints, let's say. Right? This also place applies to your relationship with the state. It's just that the trade offs "
+ ],
+ [
+  5,
+  3266,
+  "or costs that are associated with, you know, exit voice and loyalty radically change. And exit is incredibly high. And so with the nation st"
+ ],
+ [
+  5,
+  3275,
+  "ate. Right? Like, you have to basically uproot your entire life. You know, this is your family. This is maybe even your job."
+ ],
+ [
+  5,
+  3282,
+  "Then you have to immigrate and you need to find somewhere else to immigrate into. Right? Like, never mind that you were born into it basical"
+ ],
+ [
+  5,
+  3291,
+  "ly non consensually because you were too young, you know, you're to even, like, understand what shapes are. Right? So, like, you know, you g"
+ ],
+ [
+  5,
+  3300,
+  "et stamped with a birth certificate and and you get, like, now your property of the state effectively. So being able to"
+ ],
+ [
+  5,
+  3307,
+  "to make a system that is, like, has incredibly cheap exit costs. Right? Like and more importantly, express consent. Right? Going back to thi"
+ ],
+ [
+  5,
+  3315,
+  "s notion of consent of the governed. Like, every time you're signing a transaction and you're pushing that transactions to the network, you'"
+ ],
+ [
+  5,
+  3324,
+  "re giving your express consent to something happening. Right? You don't get that with a nation state. Right? In fact, like, you have almost "
+ ],
+ [
+  5,
+  3332,
+  "no recourse with a nation state. Like, if they wanna do anything to you, they have almost complete immunity."
+ ],
+ [
+  5,
+  3339,
+  "It's absolutely insane. So maybe it's not the ideal, but I think it's substantially iteratively better in a direction that would take us to "
+ ],
+ [
+  5,
+  3350,
+  "a more diffused network sometime in the future. But I I I I don't really believe that either because I don't understand how you would like, "
+ ],
+ [
+  5,
+  3361,
+  "how you'd be able to create anything beyond,"
+ ],
+ [
+  5,
+  3365,
+  "like, running around in the forest with your spear hunting an animal for yourself, right, without some kind of human coordination. Talked ab"
+ ],
+ [
+  5,
+  3376,
+  "out exit costs. And my question would be, how does exit costs work when you have a platform that is the whole world platform at every given "
+ ],
+ [
+  5,
+  3388,
+  "moment without alternatives?"
+ ],
+ [
+  5,
+  3390,
+  "Yeah. You don't. Like, I mean, that's definitely a problem. Are you talking about the global ecology or are talking about, like, a a one wor"
+ ],
+ [
+  5,
+  3402,
+  "ld government? Or About the importance that the smaller circles where the whole is generated or encompassed of are the more sovereigns than "
+ ],
+ [
+  5,
+  3414,
+  "whatever"
+ ],
+ [
+  5,
+  3415,
+  "limits them on a global basis. And this is also why, it might also be good to consider the individual as tiniest units and where the individ"
+ ],
+ [
+  5,
+  3424,
+  "ual opts in is the most important unit and the last important unit is what is decided over the whole world, and there needs to be at least t"
+ ],
+ [
+  5,
+  3433,
+  "wo or better five competing forces for that. Yep. I I mean, I'm I'm totally on board with you. I I think that, like, our technology doesn't "
+ ],
+ [
+  5,
+  3441,
+  "real like, it it actually does improve it in in some ways. Like, I mean, if you can provide"
+ ],
+ [
+  5,
+  3447,
+  "levels of privacy, but it also assumes that you have, like, some kind of functioning communications network for it to really operate. And th"
+ ],
+ [
+  5,
+  3454,
+  "at also assumes that you have energy, and you assume that none of that is, like, compromised. Right? So the things that we're describing are"
+ ],
+ [
+  5,
+  3461,
+  ", like, almost like an abstraction or, like, a quote, unquote, layer two on kind of what we already have until we can actually get an econom"
+ ],
+ [
+  5,
+  3468,
+  "y going where we can replace some of that sort of stuff."
+ ],
+ [
+  5,
+  3471,
+  "I would kind of push back a little bit on the notion that the individual is is sort of like primary social unit. I would for me, it's a it's"
+ ],
+ [
+  5,
+  3480,
+  " a community and that's like at least two people, probably three people because you do not I'm sorry, but you do not live in isolation. Like"
+ ],
+ [
+  5,
+  3490,
+  ", the fact that you're speaking to me in English proves it to me. Right? Like,"
+ ],
+ [
+  5,
+  3495,
+  "you've had some kind of influence from other people. They've helped you out. You you do not you don't I mean, I'm I used to be like a a full"
+ ],
+ [
+  5,
+  3505,
+  " fledged libertarian. Right? And I just don't really believe in that per se. So, you know, agree to disagree on that point. I'm to take two "
+ ],
+ [
+  5,
+  3516,
+  "more questions and then answer both at your"
+ ],
+ [
+  5,
+  3519,
+  "convenience. Yes? We have two more questions, Jared. We're just gonna see if you have the the time and the bandwidth to to do two more. Mhmm"
+ ],
+ [
+  5,
+  3529,
+  ". Yeah. Hi, Jared. Thanks for for the talk. My question is, like, yeah, how all these frameworks will play around the the real world where r"
+ ],
+ [
+  5,
+  3540,
+  "esources are extremely scarce"
+ ],
+ [
+  5,
+  3542,
+  "and they're extremely unequal. Like, it's it's good to talk from Switzerland, but there are all other places outside of Switzerland which ar"
+ ],
+ [
+  5,
+  3551,
+  "e not that nice. And some of them are Mhmm. Extremely terrible. And there are, like, billions of people who live there. Maybe short comment."
+ ],
+ [
+  5,
+  3561,
+  " Yeah. I mean I mean, I I mean, can speak to that. Like, I I think if you look at Latin America or Argentina,"
+ ],
+ [
+  5,
+  3568,
+  "right, like, that's where, like, a real use case of Bitcoin. That's actually why I'm in crypto. Right? Like, I don't care about meme coins. "
+ ],
+ [
+  5,
+  3577,
+  "I don't care about no no number go up or whatever. But, like, the idea that, like, there are, you know, millions of people who do not have a"
+ ],
+ [
+  5,
+  3586,
+  " stable financial system. Right? And just like the base technology that we've created today,"
+ ],
+ [
+  5,
+  3592,
+  "subject to, like, rampant inflation is terrifying. And the fact that they've been able to use that technology to create a quote unquote blac"
+ ],
+ [
+  5,
+  3600,
+  "k market or an informal economy, which allows them to be have subsistence and be able to trade amongst each other, irrespective of what the "
+ ],
+ [
+  5,
+  3607,
+  "government incompetency that's happening within that region is is tremendous. And at the same time, they're getting access to global markets"
+ ],
+ [
+  5,
+  3615,
+  ". Right?"
+ ],
+ [
+  5,
+  3615,
+  "Now there are some trade offs to that. Right? The volatility, like, that can be really bad in in certainly places where, like, you know, you"
+ ],
+ [
+  5,
+  3623,
+  "'re choosing, you know, like, you have, like, a dollar a day or something to spend and that that'll be, like, either dinner or or nothing. R"
+ ],
+ [
+  5,
+  3632,
+  "ight? Like, I don't think we can really read we can try and reach them, but, like, we're gonna need to be able to subsidize that for them an"
+ ],
+ [
+  5,
+  3640,
+  "d, you know, I guess,"
+ ],
+ [
+  5,
+  3641,
+  "depending on how you create stable coins, like, you may be able to reach them in some way. You'd also you'll be able to mitigate the cost of"
+ ],
+ [
+  5,
+  3650,
+  " getting online. Right? Providing them sort of like physical hardware wallets or something like this. And this community is in certainly in "
+ ],
+ [
+  5,
+  3659,
+  "South Africa or Southern Africa, I should say, in which there is, like, a, you know, a single"
+ ],
+ [
+  5,
+  3665,
+  "financial guy for the entire tribe. And they they he manages like, he or she manages the entire accounts for everybody in that in that tribe"
+ ],
+ [
+  5,
+  3674,
+  ". Right? So they don't have to deal with it. So there are, like, mechanisms and ways that we can we can help reach out to those people. And "
+ ],
+ [
+  5,
+  3684,
+  "I I just think that's really cool. The fact that you can go over the wires and give anyone access"
+ ],
+ [
+  5,
+  3690,
+  "to to stable institutions for relatively low cost, thanks to the Internet, is incredible. Absolutely incredible. We haven't been able to do "
+ ],
+ [
+  5,
+  3706,
+  "that. Hi, Jared. This is Ronald. I think we all are thinking about the same problem"
+ ],
+ [
+  5,
+  3715,
+  "of how do we coordinate as humans and have optimal results eventually. But I think we don't really ask the question of why are we doing this"
+ ],
+ [
+  5,
+  3725,
+  ". If you look in the evolutionary scale of what are we trying to achieve right now and I'd also this is the question, and I'd also like to s"
+ ],
+ [
+  5,
+  3735,
+  "hare an idea. If you look at systems that work,"
+ ],
+ [
+  5,
+  3738,
+  "for example, an organism or a human being itself is a system of cells. And if you look at the system, it consists of cells doing different t"
+ ],
+ [
+  5,
+  3748,
+  "hings, even bacteria is doing different things, but they work in harmony. And every part of the system takes energy and uses it to conserve "
+ ],
+ [
+  5,
+  3758,
+  "the state of the system. So can we use this analogy"
+ ],
+ [
+  5,
+  3762,
+  "on what we're trying to achieve with all these solutions that we are coming up with? How do we make it similar to a system that works? Yeah."
+ ],
+ [
+  5,
+  3771,
+  " I mean, I I there's kinda two parts to that question. So, like, I mean, just to comment on, like, the sort of human superorganism. Right? L"
+ ],
+ [
+  5,
+  3780,
+  "ike, that's also kind of why I don't really make, like, strong judgments on any, like, one society one way or the other because, like, they "
+ ],
+ [
+  5,
+  3788,
+  "probably have some function"
+ ],
+ [
+  5,
+  3790,
+  "in the grand scheme of human civilization. Right? So I guess that's probably, like, the sort of cell sort of, you know, multicellular life a"
+ ],
+ [
+  5,
+  3799,
+  "nalogy and complex system side of things. But for me personally, I can tell you exactly why I'm doing this. Right? And like why I think this"
+ ],
+ [
+  5,
+  3809,
+  " matters. Like, let me pull up some numbers here. Right? So the Elderman trust barometer, right,"
+ ],
+ [
+  5,
+  3815,
+  "says that well, they basically they're an index, and they basically shown that 51% of people trust their government, but it's been declining"
+ ],
+ [
+  5,
+  3824,
+  ". Right? 39% of OSDD countries basically were high trust, but, like, 44% of the people in OSDD countries, right, this is developing develope"
+ ],
+ [
+  5,
+  3834,
+  "d countries, have 44% people who express low or no trust in their governments."
+ ],
+ [
+  5,
+  3839,
+  "Right? Now imagine if that was a restaurant. Right? But you wouldn't eat there. You'd probably get food poisoning. It would be like, imagine"
+ ],
+ [
+  5,
+  3848,
+  " the Yelp reviews of that. It's ridiculous, but it gets worse. Right? Only 21% of Americans in 2022 said they trust their federal government"
+ ],
+ [
+  5,
+  3857,
+  " to do the right thing most of the time. Right? That used to be 75%"
+ ],
+ [
+  5,
+  3861,
+  "in 1950. Right? It's a massive decline. You basically the Transparency International has this corruption perception index where two thirds o"
+ ],
+ [
+  5,
+  3871,
+  "f countries scored below 50 out of a 100. Right? The United States, six is 65. Like, Australia, UK, and so on is only around 70. Right? It's"
+ ],
+ [
+  5,
+  3882,
+  " not great. It's not terrible,"
+ ],
+ [
+  5,
+  3884,
+  "but it's not great. Then you have, like, the World Justice Project. They have this rule of law index. They also show this global version of "
+ ],
+ [
+  5,
+  3892,
+  "the rule of law. It's been climbed since the mid two thousand twenties. I think that's really important because the World Bank did this repo"
+ ],
+ [
+  5,
+  3900,
+  "rt back in 2006, if I recall correctly. It's called Where is the Wealth of Nations? And they basically, like, said that between human capita"
+ ],
+ [
+  5,
+  3908,
+  "l and the rule of law,"
+ ],
+ [
+  5,
+  3909,
+  "that accounts for more wealth creation than anything else that humans do, even more than natural resource extraction, which is absolutely mi"
+ ],
+ [
+  5,
+  3918,
+  "nd blowing when you consider that the global wealth is, like, 380,000,000,000,000. Right? But then the IMF did this other thing on public in"
+ ],
+ [
+  5,
+  3927,
+  "vestment efficiency. This is it's an analysis for a report. Right? And they found that 30% of value of public investment is lost to ineffici"
+ ],
+ [
+  5,
+  3937,
+  "ency."
+ ],
+ [
+  5,
+  3937,
+  "Right? So public public sort of spending by the by governments is roughly 3% of global GDP. So that's roughly 3,000,000,000,000 or so. You k"
+ ],
+ [
+  5,
+  3948,
+  "now, 30% of that's gonna be like 1,000,000,000,000. So we're basically burning a trillion just because, like, people are waiting at the DMV "
+ ],
+ [
+  5,
+  3959,
+  "or, like, you know, sending you know, getting these ridiculous"
+ ],
+ [
+  5,
+  3964,
+  "letters in the mail that cost more than the, like, the the the information they're requiring. Like, there's tons of, like, this low hanging "
+ ],
+ [
+  5,
+  3972,
+  "fruit. So, like, my form of radicalism is just making things more efficient. Right? Like and, like, you're you're saving, like, literally a "
+ ],
+ [
+  5,
+  3981,
+  "trillion dollars annually in doing that. Never mind the improvements to government itself that you can do. Never mind, you know, inverting,"
+ ],
+ [
+  5,
+  3989,
+  "like, kleptocratic corrupt regimes who are extracting, you know, tons of money. The ones who are actually designing KYC and AML laws. Right?"
+ ],
+ [
+  5,
+  3997,
+  " They're the one they're they're foxes in the hen house that are actually doing these things. There's plenty of money on the table to do, an"
+ ],
+ [
+  5,
+  4005,
+  "d it's going to make life a lot better. I I actually, you know what? The other thing what was this other thing? Like, bureaucratic delays is"
+ ],
+ [
+  5,
+  4013,
+  " also really insane."
+ ],
+ [
+  5,
+  4014,
+  "It's like let me see if I can find it. So, like, enforcing a contract in courts is roughly takes roughly five hundred and ninety days in an "
+ ],
+ [
+  5,
+  4024,
+  "OSDD country. Right? If you're in Italy or Greece, that's like three or four years. That's, like, double the double the average. Right? That"
+ ],
+ [
+  5,
+  4035,
+  "'s ridiculous."
+ ],
+ [
+  5,
+  4036,
+  "Absolutely ridiculous. So the idea of having autocentric law or polycentric law and being able to speed that up is huge, like, terms of bure"
+ ],
+ [
+  5,
+  4045,
+  "aucratic efficiency. And then, you know, maybe that's boring to to you, but I think that that's already gonna be a huge improvement if none "
+ ],
+ [
+  5,
+  4055,
+  "of the other institutions change. Right? We just make it a little bit faster. Yeah."
+ ],
+ [
+  5,
+  4060,
+  "Sorry about that. I kinda but that's that's why I'm working on this stuff. I have a whole bunch of whole bunch of civil liberties things, bu"
+ ],
+ [
+  5,
+  4071,
+  "t that's another another story. Yeah. I think that's we've we brought it home, Jared. Thanks so much for taking the time to come on here and"
+ ],
+ [
+  5,
+  4082,
+  " talk to the folks at Switzerland. So Thank you very much. Very much. Yeah. Have yourself a good day."
+ ],
+ [
   8,
   0,
   "Okay. Sorry. So, yeah, again, welcome for this presentation. And so I will let Kyle introduce himself and Freomorphic OS from Zama and some "
