@@ -32690,6 +32690,541 @@
   "pizza which in theory is ready already over to Il Pup. And in I think at 9PM is when improv"
  ],
  [
+  35,
+  4,
+  "Okay. Hey, everybody. Welcome officially to Switzerland 2025. It's a huge pleasure to have everyone here more than I think you can possibly "
+ ],
+ [
+  35,
+  19,
+  "know. The team has been working so so hard for probably nine months straight now to make these things happen."
+ ],
+ [
+  35,
+  30,
+  "It's been a a journey and a story I'm sure you'll hear more about in the coming days and weeks, but we're really, really excited to have eve"
+ ],
+ [
+  35,
+  40,
+  "ryone here. And, also, we have a a livestream on this session and on some sessions. So hello to the livestream, and welcome. So my name is E"
+ ],
+ [
+  35,
+  50,
+  "ila. I'm one of the initiators of Zooitzeland,"
+ ],
+ [
+  35,
+  53,
+  "and I will do a quick intro into today's agenda and then have give you a little bit of a background for those that haven't heard it before, "
+ ],
+ [
+  35,
+  65,
+  "the background story of Zuwitzerland and how it came to be and why we think it's an important thing to do, and why we believe that Switzerla"
+ ],
+ [
+  35,
+  76,
+  "nd is the right place to do it."
+ ],
+ [
+  35,
+  79,
+  "Then we have a bunch of we have quite a packed agenda actually for the morning. So we have I'll do a quick introduction to the background. T"
+ ],
+ [
+  35,
+  89,
+  "he team, will give an introduction to the experience that you can expect with Switzerland over the next few weeks. There'll be an over overv"
+ ],
+ [
+  35,
+  100,
+  "iew of some of the ideas and"
+ ],
+ [
+  35,
+  102,
+  "things that we're doing with technology that are very interesting towards the DEAC movement and the things that we'd love you to contribute "
+ ],
+ [
+  35,
+  110,
+  "to, the recently very boring logistical stuff that's also really important. And then we'll have, Veronica talking a little bit about the bac"
+ ],
+ [
+  35,
+  119,
+  "kground of Zuzulu more generally and about the Zuzulu software movement. And then, a talk from Anna Riddle, who's our wonderful one of our w"
+ ],
+ [
+  35,
+  127,
+  "onderful co curators for this weekend talking about cognitive sovereignty and the importance of"
+ ],
+ [
+  35,
+  133,
+  "that topic for Diak. So cognitive sovereignty as a defensive social technology maybe. I'll let her tell that story. And then, yes, an icebre"
+ ],
+ [
+  35,
+  145,
+  "aker and some closing comments. So, yeah, we have some wonderful speakers and people coming, including many of yourselves this month. Vitali"
+ ],
+ [
+  35,
+  157,
+  "k will be here at some point."
+ ],
+ [
+  35,
+  159,
+  "We have Oji Tang confirmed, Glenn Weil. We have Uwe Serdal Serdal from the Center for Democracy Studies in Aral. We have Theo from Ethereum "
+ ],
+ [
+  35,
+  170,
+  "Foundation. Thomas also from the Ethereum Foundation will be coming. We have Marco from Japer Nation. And I think this is a very incomplete "
+ ],
+ [
+  35,
+  180,
+  "list, but, just some highlights that we're really excited about for the summit."
+ ],
+ [
+  35,
+  186,
+  "And, there are actually a number more coming, so please do not think that this is a complete list. We'll also have all of the teams speaking"
+ ],
+ [
+  35,
+  196,
+  " today. But just so that you've seen them, these are the faces, some clearer than others and rec more recognizable than others. Yuna is with"
+ ],
+ [
+  35,
+  206,
+  " family in China at the moment, but she will be here,"
+ ],
+ [
+  35,
+  210,
+  "in a week or so, and, we're really looking forward to have her back as well. And also a very important thank you to all of our sponsors and "
+ ],
+ [
+  35,
+  220,
+  "partners who have been literally pivotal in making this happen. A big thank you to Blockchain Student Association, EPFL. You guys have been "
+ ],
+ [
+  35,
+  231,
+  "amazing. Yeah. And to to Laura's legal, actually, we've worked for them for a number of years now, and they're great supporters."
+ ],
+ [
+  35,
+  240,
+  "Anti x y zed, Ethereum foundation ecosystem support program. We've got logos here. The Octant team is coming very soon, and, a number of oth"
+ ],
+ [
+  35,
+  250,
+  "er amazing community partners like World Ethical Data Foundation, Dao Suisse coming next week. The Chris Mientos of Gramma team have been am"
+ ],
+ [
+  35,
+  260,
+  "azing in bringing our community together. Yeah. So thank you everyone that's been a part of this."
+ ],
+ [
+  35,
+  267,
+  "Onto Switzerland and what it is. How did this come to be? So two years ago, there was an event called Zuzulu in Montenegro, which I'm sure b"
+ ],
+ [
+  35,
+  278,
+  "y now most of you have heard about. It was a two month pop up city organized by Vitalik and some friends. And it's always hard to speak to t"
+ ],
+ [
+  35,
+  289,
+  "he exact purpose, but one"
+ ],
+ [
+  35,
+  291,
+  "thing that Vitalik said when he he wrote about that and he did a very good blog post that you can find online, he wrote about why I built Zu"
+ ],
+ [
+  35,
+  300,
+  "zulu. So you can if you Google why I built Zuzulu, you can read it in his words. But he he liked the idea of experimenting with what's been "
+ ],
+ [
+  35,
+  308,
+  "built with, say, Ethereum and other communities in the online space, experimenting in the physical space,"
+ ],
+ [
+  35,
+  315,
+  "and experimenting with something that's like a university campus in the network effects and the intellectual stimulation, but potentially of"
+ ],
+ [
+  35,
+  325,
+  " a shorter term nature. At the same time, that's longer than a conference and that enables genuine relationships in a in a meaningful way an"
+ ],
+ [
+  35,
+  335,
+  "d enables genuine intellectual exploration."
+ ],
+ [
+  35,
+  338,
+  "And so this was a two month event and speaking very personally, I came in very last minute thanks to an invitation from Marco. And, what I s"
+ ],
+ [
+  35,
+  347,
+  "aid to many people at the time was that when I went to university, my my parents had always promised me when they go to you when you go to u"
+ ],
+ [
+  35,
+  356,
+  "niversity, that will be when you find your tribe. That will be when you find the people that you really are excited to be around and stimula"
+ ],
+ [
+  35,
+  365,
+  "ted by."
+ ],
+ [
+  35,
+  365,
+  "And it kinda happened, but it never really happened in the way where I went, wow. This is awesome. And that was the moment that I had when I"
+ ],
+ [
+  35,
+  372,
+  " went to Montenegro and was there only for a couple of weeks, not like some people that were there for two months, but there was this genuin"
+ ],
+ [
+  35,
+  380,
+  "e moment of, wow. This is the group of people that I believe has the most potential to change the world in a positive way. There were a lot "
+ ],
+ [
+  35,
+  387,
+  "of different people, a lot of diversity, a lot of different opinions. Not everyone agreed by all means,"
+ ],
+ [
+  35,
+  393,
+  "but it really felt like everyone there was at least keen and ambitious and curious and challenging of existing structures enough that someth"
+ ],
+ [
+  35,
+  404,
+  "ing amazing could be achieved. And so six months after that, there was another event called Zoo Connect in Istanbul. And let's say there wer"
+ ],
+ [
+  35,
+  415,
+  "e also problems. So"
+ ],
+ [
+  35,
+  417,
+  "Montenegro went really well as an event, but but it wasn't clear what was happening after that. There were attempts, let's say, to take over"
+ ],
+ [
+  35,
+  425,
+  " Zuzulu as a movement. And Vitalik at some point said, I want to decentralize this. I want to see what happens when I decentralize and open "
+ ],
+ [
+  35,
+  432,
+  "the frontier of Zuzulu. And we had this kind of realize I was actually upset initially because the Montenegro event had been incredible. It "
+ ],
+ [
+  35,
+  440,
+  "was so good, and it was hard to imagine that a decentralized thing had been in Dallas by that time long enough to realize that most decentra"
+ ],
+ [
+  35,
+  447,
+  "lized things are quite chaotic."
+ ],
+ [
+  35,
+  449,
+  "And it was hard to imagine that something really good would come out of that. It was also hard to imagine that without enough curation and c"
+ ],
+ [
+  35,
+  459,
+  "ontrol that the same level of quality could be achieved. So initially, we were upset by the idea of decentralizing the movement. But within "
+ ],
+ [
+  35,
+  469,
+  "a couple of months, we also sat down and thought a lot about Switzerland and the fact that Switzerland really is an amazing place for Ethere"
+ ],
+ [
+  35,
+  479,
+  "um, for web three culture, for decentralization."
+ ],
+ [
+  35,
+  482,
+  "And beyond just being good from a legislative point of view, it's culturally very interesting for DEAC and the defensive acceleration moveme"
+ ],
+ [
+  35,
+  492,
+  "nt that Vitalik has talked about in his essays recently. So we kind of had a moment of, okay. Yeah. If we're gonna do Zoozulu decentralized,"
+ ],
+ [
+  35,
+  503,
+  " then Switzerland is the place to do it. And from there, we"
+ ],
+ [
+  35,
+  507,
+  "thought a lot about Switzerland, as a place. And over a few months, it emerged to us that Switzerland is really genuinely unique and special"
+ ],
+ [
+  35,
+  516,
+  " and that there is a lot that we can potentially learn from Switzerland in accelerating frontier technologies in a safe way. I'm sure some o"
+ ],
+ [
+  35,
+  525,
+  "f you are new to the idea of Switzerland or to Switzerland as a country, but Vitalik has written about it as being the closest thing that th"
+ ],
+ [
+  35,
+  534,
+  "e real world has to a classical liberal governance utopia."
+ ],
+ [
+  35,
+  538,
+  "I've lived here now ten years, and I had an amazing honeymoon period with Switzerland. I had some dark days in between, and I've come out th"
+ ],
+ [
+  35,
+  547,
+  "e other end, as someone where I've never celebrated, like, the national day of a country before, but I definitely, in Switzerland, celebrate"
+ ],
+ [
+  35,
+  556,
+  " the national day on the August 1 because I do believe that it's of any of the countries that we have at the moment, nation states,"
+ ],
+ [
+  35,
+  564,
+  "the one that has achieved the best of what we have so far in terms of governance, in terms of individual freedoms, and in terms of collectiv"
+ ],
+ [
+  35,
+  575,
+  "e thriving. As some examples of that, it's the number one in the world for innovation per capita on a number of different measures, and it h"
+ ],
+ [
+  35,
+  586,
+  "as been for fifteen years or so."
+ ],
+ [
+  35,
+  588,
+  "There's incredible infrastructure as you may be starting to see around here. Over seven hundred years, it's actually evolved a decentralized"
+ ],
+ [
+  35,
+  599,
+  " culture. There's been decentralization, democracy types of democracy, and a strong focus on individual freedoms that we think have develope"
+ ],
+ [
+  35,
+  610,
+  "d a kind of a a social technology"
+ ],
+ [
+  35,
+  613,
+  "and that can be learned from. We don't think Switzerland is perfect, but we think it's possibly the best example to start with before we thr"
+ ],
+ [
+  35,
+  623,
+  "ow the baby out with the bathwater and try to create a new society. It's great, well defined crypto policy and regulation. There are also so"
+ ],
+ [
+  35,
+  632,
+  "me things happening with the relationship to the EU that are challenging that dynamic."
+ ],
+ [
+  35,
+  638,
+  "We have a strong, stable economy, a strong currency. We also have really good social security. If you lose your job in Switzerland, you have"
+ ],
+ [
+  35,
+  649,
+  " up to 80% of your income covered for two years. So I think what it represents for us is a really good balance between the individual, the f"
+ ],
+ [
+  35,
+  660,
+  "reedom, the low tax rates, the"
+ ],
+ [
+  35,
+  662,
+  "the things that enable an individual to thrive and an individual to define things for themselves with the things that allow a society to thr"
+ ],
+ [
+  35,
+  675,
+  "ive and allow human capital to flourish. I've talked about that, I guess, enough to skip that. Essentially, the point of this slide being"
+ ],
+ [
+  35,
+  688,
+  "that Switzerland really offers this ideal location for a well designed sandbox that we can create in a more permanent way, where if we want "
+ ],
+ [
+  35,
+  696,
+  "to build Diak, if we want to accelerate frontier technology, if we want to be defensive, Switzerland is that country. And actually, Vitalik "
+ ],
+ [
+  35,
+  705,
+  "and his diac essays writes quite a bit about the defensive aspect of the mountains in Switzerland. I think there's a lot of nuance to what t"
+ ],
+ [
+  35,
+  713,
+  "hey've done that's been defensive beyond the mountains."
+ ],
+ [
+  35,
+  716,
+  "There are small details, like when you move to Switzerland and register your address for the first time, they give you iodine tablets, and t"
+ ],
+ [
+  35,
+  725,
+  "hey're not expecting nuclear war to happen anytime soon. But it's that one little thing, that detail that if something happens, maybe the ou"
+ ],
+ [
+  35,
+  734,
+  "tcome won't be as bad. And there's a lot of things in Swiss society and culture that"
+ ],
+ [
+  35,
+  739,
+  "go along with that. I actually think as an example, the social, the the the insurance when you lose your job, it's a defensive policy in a w"
+ ],
+ [
+  35,
+  748,
+  "ay because when there's a recession in Switzerland and people lose their jobs, the economy doesn't, like, tank because everyone stops spendi"
+ ],
+ [
+  35,
+  757,
+  "ng. There is a certain smooth curve to people spending and the adjustment of spending."
+ ],
+ [
+  35,
+  763,
+  "So it actually protects the economy from a downward spike to some degree. So there's a lot of things that Switzerland has done in the way th"
+ ],
+ [
+  35,
+  771,
+  "ey've done things that are very nuanced and that are defensive beyond just having mountains and armies and, like, hidden tanks and bunkers. "
+ ],
+ [
+  35,
+  778,
+  "But those are kind of some of the things that we want to introduce over the next especially this week with, Swiss democracy and governance w"
+ ],
+ [
+  35,
+  786,
+  "eek, and we have Theo and Uwe to talk about some of those things in a lot more detail and a lot more nuance than I can do."
+ ],
+ [
+  35,
+  793,
+  "But those are kind of some of the things that really inspired us and that we're really excited to explore and build on. And I think maybe on"
+ ],
+ [
+  35,
+  802,
+  "e of the things that is worth mentioning is that we think that probably, like, social technology has been underestimated to some degree in t"
+ ],
+ [
+  35,
+  811,
+  "he last ten years of crypto and web three and and this Ethereum movement that social"
+ ],
+ [
+  35,
+  817,
+  "technology is actually incredibly important and having a defensive social layer to build leadership and build the leadership capacity and th"
+ ],
+ [
+  35,
+  827,
+  "e thinking capacity and the cognitive sovereignty and the decision making capacity. Those are all really important things for coordinating i"
+ ],
+ [
+  35,
+  836,
+  "n a way that as someone here says reduces coordination costs and creates more infect more effective"
+ ],
+ [
+  35,
+  843,
+  "institutions. I don't wanna talk too long, but one key kind of principle that we think really is behind the secret sauce of Switzerland, and"
+ ],
+ [
+  35,
+  854,
+  " I've sort of mentioned it already, is when we look at the state, it's essentially it's a social technology for interfacing between the indi"
+ ],
+ [
+  35,
+  865,
+  "vidual and the collective."
+ ],
+ [
+  35,
+  867,
+  "And you could say that there's some key pillars in that. There's"
+ ],
+ [
   36,
   12,
   "All we're thinking about things at the moment, to give people more of a direction and an idea of what what might be possible. So, yeah, firs"
