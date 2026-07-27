@@ -531,13 +531,14 @@
     "id": "1zj2GAq3htvWxRsAq9d6dknbieTxbXXJJ",
     "kind": "video",
     "size": 270827143,
-    "stream": true
+    "stream": true,
+    "hosted": "https://pub-3d88701638314a20ad2241ee26e6824f.r2.dev/audio/1zj2GAq3htvWxRsAq9d6dknbieTxbXXJJ.mp3"
    }
   ],
-  "transcript": null,
-  "duration": null,
+  "transcript": "1zj2GAq3htvWxRsAq9d6dknbieTxbXXJJ",
+  "duration": "00:03:32",
   "quality": "ok",
-  "transponder": false,
+  "transponder": true,
   "thumb": "thumbs/1zj2GAq3htvWxRsAq9d6dknbieTxbXXJJ.jpg",
   "speakers": [
    "Vlad"

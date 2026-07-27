@@ -8263,5 +8263,125 @@
   14,
   2447,
   "So you're welcome. Today, because with governance and deep gov sort of intersection in the evening. So I'll keep you all posted. Thank you."
+ ],
+ [
+  22,
+  0,
+  "Cool. All right. Hey, everybody. We're gonna do a quick demo of Meerkat, which is like an interactive Q&A tool that was used at DevCon last "
+ ],
+ [
+  22,
+  10,
+  "year in Bangkok, and also it was, I think the team originally tried it out in Chiang Mai at Edge City. So we've done an implementation of it"
+ ],
+ [
+  22,
+  20,
+  " as well in our event system."
+ ],
+ [
+  22,
+  22,
+  "So the way Meerkat works, I'll give you a... It's actually, we've got a running demo for this workshop. So here's our workshop. So if we go "
+ ],
+ [
+  22,
+  31,
+  "to the event page, I am the host. So what you're going to see when you enable Meerkat is you're going to see a host link and a participant l"
+ ],
+ [
+  22,
+  41,
+  "ink. So if you were to go to this session right now on your app,"
+ ],
+ [
+  22,
+  45,
+  "you would see the regular version. But I'm going to open up the host version. And this is what it looks like. So the idea is that when you d"
+ ],
+ [
+  22,
+  54,
+  "o a session and you want people to just submit questions to you while you're doing the session, instead of having to do, like, a Q&A after, "
+ ],
+ [
+  22,
+  63,
+  "you can just submit your questions here. So, like, go ahead and scan this QR code. So you should get a link to the participant version,"
+ ],
+ [
+  22,
+  71,
+  "and then you can... You'll get, like, an anonymous user. This is not, like, an authenticated version of Meerkat. This is just, like, for Ano"
+ ],
+ [
+  22,
+  79,
+  "n users. And you can submit questions. And as soon as you submit them, we should see them up there. There we go. Who stole the skateboard? T"
+ ],
+ [
+  22,
+  87,
+  "hat's a great question. I think we should upvote that one. So you can upvote other people's questions so that we can prioritize what people "
+ ],
+ [
+  22,
+  96,
+  "want answered. There's a moderated tool."
+ ],
+ [
+  22,
+  98,
+  "That one's more manual. So if you think people are going to say weird things and you want to be able to delete people questions that is a po"
+ ],
+ [
+  22,
+  105,
+  "ssibility But for the most part I think we in a pretty safe environment here Yeah this is pretty much all there is to it You can also I gues"
+ ],
+ [
+  22,
+  111,
+  "s like one way to do it is you can also encourage people to submit questions before your session. So, you know, if you just want to be able "
+ ],
+ [
+  22,
+  118,
+  "to go into a session with just, like, pure audience participation, you can do it that way too."
+ ],
+ [
+  22,
+  122,
+  "This will be live before and after. And, okay, so now let me show you how to actually enable this feature. That's probably the most importan"
+ ],
+ [
+  22,
+  133,
+  "t part here. So, um... when you are on the events page on the app, let's create an event here. So I'm gonna say, let's see, testing... Meerk"
+ ],
+ [
+  22,
+  144,
+  "at..."
+ ],
+ [
+  22,
+  144,
+  "again. And I'll do my event time for 2 p.m. Set a location of Diva. And then there's a little check mark here at the bottom. It says, add Me"
+ ],
+ [
+  22,
+  158,
+  "erkat Q&A session. and do that and create event. Cool. So now if we go at 2 PM, here's our new session."
+ ],
+ [
+  22,
+  169,
+  "And there's my new link. And there's our testing weekend. And the title is down here. That's pretty much it. Questions? Pretty straightforwa"
+ ],
+ [
+  22,
+  187,
+  "rd? Easy, right? Didn't need half an hour. Needed five minutes. Okay, that's it. Cool, thanks."
  ]
 ]
