@@ -1,0 +1,427 @@
+# Security of Synthetic Biology and Cyber-Bio Risks
+
+Date: 
+Source video: Security of Synthetic Biology and Cyber-Bio Risks
+Drive: https://drive.google.com/file/d/1R0fpLXaIEWQGjTFY_GYz-uok9pw0-azL/view
+Duration: 01:33:33
+Transcribed: 2026-07-27 · deepgram nova-3 · PIT BULL harvest fleet v3
+
+---
+
+[00:00] Too heavy for the morning? You know, we should have actually had a a dose of caffeine before this, but, hey, you know, you don't choose how the world works. So here we are. So just to give you some context, who here is familiar with XRISC? Who here is familiar with FHI?
+
+[00:25] Who here knows Anders? Okay. Anders Anders Sandberg? Okay. Alright. So full disclosure, so a good few years ago, me and Anders had a conversation with FHI. We looked at, at that point in time, like, how would the hybrid risk look like? What it meant was, like, we have bio risk,
+
+[00:48] and Department of Homeland Security has a protocol to reduce the risk. And the cyber risk and different sets of people have different protocols around it. This was just a coffee conversation which resulted in, like, a write up of a paper, which is like, you know, we thought about how to break it. And a few years passed and I've been thinking about providing all the kind of security,
+
+[01:12] you know, proofs to people who normally don't do ZK and FHE and MPC and TEE for breakfast. Right? Who we normally call scientists, who looks at, you know, normal problems that really people care about rather than abstract mathematical problems. So this was the result of it. We have a talk.
+
+[01:36] So as I was describing, day one, we thought about hybrid risk, which is like in the world of biology. You have a bunch of sequences, and if you change the sequences, the outcome could be different. There have been measures put in that world to constrain this. And, typically, what it means is your bio risk chain is bad intentions,
+
+[02:02] bad idea, a bad sequence. So everybody here understands sequences, right? DNA, RNA? Yep. Okay. Can I have a show of hands in terms of people who know DNA, RNA? Good. Okay. I'm in a good land. So so in the cyber world, we have a similar thing. It's
+
+[02:25] kind of similar to the physical world. If you were to attack some place, you recon, select a method. You you know, I'm sure you've all heard in the news the signal gate. Right? Where, you know, US senior people described what they were planning to do, their order of delivery,
+
+[02:48] what they're going to deliver. That's literally what this would imply in that sense of speaking. So if you were to attack something in a sidebar sense, you would actually do a recon. You did, like, decide what you want to do, how you want to deliver, and then you activate, and then you'll have an outcome. Right? So in a way of speaking, you will scan the target. So normally they do they they have things called scanners. Then they recognize a fingerprint as to what is running on the other side.
+
+[03:13] Then you decide what your zero day is and you have a mechanism to deliver your zero day and you take over the assets. So, you know, this happened you know, the conversation that I had with Anders happened a good few years ago and time passed. And in in the interim, a whole bunch of things changed. Right? And, things that we thought,
+
+[03:37] one in a hundred year occurrence happened in between, and, we can call that COVID. Right? So, typically, if you were to talk about pandemics, bioterrorism, disruptive and stuff like that, nobody would give a shit. And, suddenly, what happened is COVID really reset our norms. Right? And, it also showed us the what the real life effects are in terms of health, economies, and security.
+
+[04:02] Is there anyone in this room who wasn't locked down in COVID? Like, as in, like, where you in one country where you had heavy restrictions on you. Is that you, Shadrat? You were in The UK? You say you didn't? Okay. I would have a different opinion. I got stuck in London for a year. I was really, really upset with that.
+
+[04:28] So and literally that goes to the next thought I had which is like, what would be an example of this? Can an adversary come up with a virus? Right? Yeah. If it's a conspiracy theorist, would definitely say COVID was a virus somebody created in some lab and there you go. So you've actually gone through in real life what me and Anders were thinking about in FHI over a cup of coffee after a set of possible threat scenarios. Right?
+
+[04:57] So, you know, now imagine time has moved on and, things are getting worser and worser. So the thing I think has really changed the dynamic. Right? Really changed the dynamic is the next bit. But I just wanted to give you some idea about some of these things. Right? So when the initial conversation happened, this is almost like ten years ago now,
+
+[05:25] the access to sequences and devices of that sort. So if you wanted to get a CRISPR kit, you would have to put in a bit of an effort. Now I think you pretty much could get most of the things straight up. You could actually submit the sequence to some of these places and they will companies in The US and they will send you the sequenced thing back. Right? And cyber tools in that sense, you actually have like
+
+[05:50] black markets for zero days. What I mean by this is like you could be a security researcher and you find a zero day. So everybody knows what a zero day is, right? Can I have a show of hands? Okay. That's like a couple of people. Okay. So the thing is imagine you have a I'm assuming you have iOS or, I as in like iPhones or Android phones. You know? They they produce security updates.
+
+[06:14] But there are lots of bugs that for which you don't have a bug fix for and this is available in the market and it's called zero days. It's like, you know, those bugs exist in in your current machine and you can actually get a vector for that in that sense. So that's what it is. So, and the last of the bit is like, I know this sounds
+
+[06:39] a bit cheesy and cheeky. Crypto markets really enable this ability to outsource expertise in that sense. You can go to a market and hire the expertise and pay the person crypto. I know this is you would have thought the reverse would be the effect, yeah, everything works both ways. So, yeah, I mean
+
+[07:03] and one of the things that happened in between, even though everybody in FHI thinks about existential risk, the risk of AI when combined with all the other two pieces wasn't really thought through. This really changed the game. When I say really changed the game, I'll walk you through and then you will understand what I mean. Everybody here knows Anthropic. Right? Okay. So Anthropic
+
+[07:29] has Anthropic AI safety levels. And I would take a moment to get you to focus on level two. Right? And I have to say this, I created most of the deck when I saw this thing and I was like, damn. Right? They had thought a bit about it. But I want to prove them wrong now because when you listen to all my talk, you will say that ASL level two is not where we are. We are probably in ASL level three.
+
+[07:56] Okay. This is my line of reasoning. The simplest line of reasoning, if there is a single takeaway for any one of you from this talk, as at this moment in time, we are not living in ASL two. We are most likely living in ASL three. Okay? That's the start of this describe how we could use cryptographic primitives.
+
+[08:18] A lot of these primitives that's available to us, both in a decentralized manner or in what I describe as a centralized manner. So I'll I'll try to give you some intuitions. Mark after me is going to talk about zero knowledge stuff, so I will just hand wave. And I don't know who's going to talk about MPCs and who's going to talk about FHEs. Is anybody talking? You don't know? Okay. So
+
+[08:44] if I talk about any of those things and you want me to explain, stop me. I'll be very happy to explain. My assumption is all the questions for CK, Mark is your man. Okay? He'll be after me. And for FHE TE, I'll take the question. FHE and MPC, actually his PhD thesis is an MPC, so you can get hold of him unofficially. But if you want to ask a question, I'm happy to answer.
+
+[09:10] So this is my initial thought, okay? Just my initial thought. So how can an LLM increase the hyper risk? Right? So there's like a whole bunch of ways to doing this. So one of the things that you typically find in all, so called extras kind of scenario is this constructive dual research. Okay? So dual research means you have some technology.
+
+[09:35] I'm pretty sure you heard about dual use technologies, So satellites, for example. Right? So you could use it for one thing and all the other thing. And the other bit that, LLMs can really help is lab automation. Like, literally, if you were walking into a lab and you get stuck, you go to ChatGPT and say, help me get this sequencer. How do I reboot this sequencer? Okay. That's how Auton LLM could do for you.
+
+[10:00] And, of course, the obvious one, just like now you ask a question. You know, you were one of the members of the Oumshukiyaru cult. Do you remember that one? The Japanese cult that actually did one of the very early biological attacks. Yeah. Okay. So, you know, imagine them sitting right next to a machine and you have Chad GPT, you have Claude or, you know, Grok running. You know? You go, you know what? I want to actually do this attack on Tokyo
+
+[10:31] Tube. Explain to me how I do it. That's the next one. Right? Just giving you like, please don't do any of these things. Just giving you a thought experiment. Okay? Full disclosure. Yeah. I mean, so my objective function here is to give you an intuition of what the threat is and get more of your time to think about how we could prevent that. Right? I want to really reset your norm that firstly the first of the premises was, until now, everybody, including Anthropic,
+
+[11:03] has been thinking we are an ASL two. And my talk here is all to make you convinced that we are not an ASL two. We are an ASL three at the very least, and we really need to think about how to manage this risk. And I am trying to convince you that enough of cryptographic mechanisms or cryptognomic mechanisms that's available to us today, it'll be foolish of us not to use it. That's all I'm hoping to do. So if anybody does anything, I fully disclaim all of them. Please don't do anything.
+
+[11:35] Okay. Right. So indirect risk. Right? So I would say most of this is very, very familiar to most of you. So misinformation and disinformation. I'm pretty sure if you have watched the news, there's been this exchange of weaponry between India and Pakistan. And I'm pretty sure you've seen enough of
+
+[11:58] LLM generated videos of, you know, different things being shut down and different things burning. So, you know, LLM can do the same thing for all the stuff that we are interested. Right? Well, and the next bit, radicalization stroke manipulation. Same question. Right? We can take that same Indian context. Just have a slice of people who are from India, who get,
+
+[12:23] you know, upset if they hear a bit of whatever they need to hear. And imagine an LLM want to radicalize somebody. I'm pretty sure that could be done. Right? And then last of it is like we we have poisoning in the information space. Right? This can also happen in the in space of sequences
+
+[12:47] and that's what data poisoning would imply. Right? So you could think of papers that you actually have. Right? We we reached a space where not just tweets are created by LLMs. LLMs can create papers. Imagine an adversarial LLM wants to prevent progress in a particular space where it intersects what we are interested in. It could absolutely create a bunch of papers and put it out there,
+
+[13:16] and that's just poisoning. Okay. So alright. Again, full disclosure. I'm just this is a thought experiment. I'm not giving you ideas to go do any of those things. If you do, it's your risk, not mine. So automation of threats. Right? So it's a very interesting thing to think about. So what I mean by this is, like, you could start up a bunch of agents and each of these agents could globally I'm just giving you a scenario. So you are a nutcase or some case, and you want to attack a bunch of false sequences globally.
+
+[13:51] You go to an LLM, you stand up an LLM, or the LLM by itself stand ups a bunch of agents, and each of the agents start doing the thing globally. So your, you know, possible success rate increases exponentially. Right? That's the automation of threats. Then there is like a man in the middle kind of attack, which is like essentially what this means is like you're sending something to a sequencer. You sat in the middle. You go, you know, I get a sequence of E. Coli being sent through and the LLM takes it and goes,
+
+[14:20] okay. Whatever. You choose COVID or whatever else. You want Ebola, whatever else on the other side. Right? So you, as in the person who actually put in the request, is literally saying, you know what, oh, you know, let's let's be fair. Let's think about viruses. Right? So imagine you are thinking about a phage virus for E. Coli. Right? You send the sequence across.
+
+[14:44] LLM sat in the middle and goes, You know what? I don't fancy this today. I just want to have take Ebola and change it slightly, make it more viral and then send it to the other side. That's a man in the middle attack in that sense of speaking. Right? Cyber attacks on bio labs, as I was describing, quite trivial. There you go. I hope I gave you a glimpse of what we can expect if Eleonants were to gang up with a bunch of Umshikira tribe set of people where the world would be.
+
+[15:18] Right. Okay, so there are other problems as well. So what what I mean by this is, in the world of biology, there are a set of things which you could consider as information hazards. What I mean by this, that's just the fact that you know it increases your risk. Right? So you could think of,
+
+[15:43] I don't know, you decide what sequence you consider a risk. Maybe Ebola could be a risk, maybe not. Make a list of all the diseases that you could use as a biological weapon in that sense and get the sequence of that. You might you might not want to release any of it. And given all these things, because you want to have actions for most of them,
+
+[16:08] you store the sequences in various labs. So information leak could be literally you want the LLM or the set of the LLM plus the other bits. You want to actually leak the information that's being stored through some means. Right? So typically, all enterprises have something what we describe called data loss prevention. That's called DLP in short.
+
+[16:31] It prevents you from sending emails. So if you've ever been in a corporate job and you want to send an email out, and something pops up and you can't send this PDF attachment because it doesn't meet the policy. So all of this exists and you could bypass it pretty easily. So LLM could actually easily make that happen. So, yeah, I mean, how do how can you actually make a research go away? Right? Again, same thing.
+
+[16:57] I'm pretty sure it could come up with far more interesting ways than I have thought about. I'm sure if you just ask one of the your favorite LLM the question, they will give you better answers. Then last of the bits, bio to cyber risk. And this is a bit that where I started, you know, thinking about and, you know, ended up with where I was. So it's exploiting genomic software
+
+[17:21] by, you know okay. So think of it this way. Have you ever used Postscript? Anybody use Lactic? Okay. Right. Okay. So you recognize Postscript as a real proper language. You can write the virus in Postscript. Okay. It doesn't seem to really resonate with anybody. Okay. So guys, so there is this language that actually allows you to render
+
+[17:48] everything that you see on any printer. It's called Postscript. And when you write LaTeX, you can actually do letters to Postscript and Postscript to PDF. Right? So this Postscript, which is an intermediate language, which is a real language, Postscript version five zero six, I don't know what it is, but you can write viruses in this thing. So this is the same situation. You could actually attack,
+
+[18:12] okay, devices through the sequence. You get what I'm saying? Right? There you go. So at least one person got it. I'm happy at least one person got it. You know, I know this is very early in the morning. I am switching between so many topics and trying to explain things to you really fast. I only have an hour. I'll try my level best. You can find me afterwards. I'll show you how to do it. Sorry. No. I'm not going to show you how to do it, but at least I'll show you how to
+
+[18:39] yes. I can definitely show you how to do that in Postscript. Right. Okay. So now this is this is the most interesting part. Right? The most interesting part is how could we actually reduce our risk. So to start with, you could do this. For every sequence stuff that happens, can you have a universal screening? Again, there are people in the room who would say to us that that's probably privacy invasive,
+
+[19:09] but we we have to have trade offs and we have z case, and he will talk about z case. And I will do a very simple intro to z case. And the other bit you want to do is you want to really do evaluation of tools before you ever release them. Right? So if you think about Anthropic, they actually do again, see, I gave you the example of anthropic and I showed you that they have they now describe the LLMs to be in level two. And now I also give you
+
+[19:38] the path by which with a level two I can get to level three. Okay? So, yeah, there we are. So security for labs, how can you actually make it more rigorous? And the things that's more interesting in that sense is like, I would say, trusted synthesis and anomaly detection. Right?
+
+[20:01] What I mean by trusted synthesis is like if you see put in a sequence into a sequencer, you are given cryptographic assurances that whatever you get on the other side is what you put in. That's what it is. Anomaly detection typically means like, you know, if you know this is the norm, if anybody does something out of the norm, you put a trigger out. So what this means is like imagine you have a lab and there's a bunch of people who work on E. Coli and suddenly somebody starts searching or working on anything like Ebola.
+
+[20:33] Yes. Both starts with e, but the two are different. One is a bacteria, other is a virus, and suddenly you put your hand up and say, okay, there's something happening here. We have some slight problem. Okay. And everybody, when they talk about all of this, they're bringing this construct of trusted science. It's a difficult topic
+
+[20:57] and I'm not going to say that I am an expert in any of that, but it's an interesting interesting construct. My understanding of science is like science is trusted, quote unquote. So effectively what that means is you you have to ensure data integrity. So, you know, I'm pretty sure there are lots of people that work with a research hub and other people who actually wanted to show data integrity in research.
+
+[21:24] And then, you know, also do fraud tampering and hacking in the scientific work. Right? So all of this is standard stuff. Yeah, I'm going to just get on with life. Okay. Given I talked about term trusted, I have to then go into the real world and I'm going to ask one of the questions. How many people in this room actually have Windows machines?
+
+[21:52] Okay. Are you running 10 or 11? 11. 11. Okay. You know, your machine actually has TPMs. You actually have this thing in your machine. I have people in the room who actually have this thingy in the machine. Okay? So I have an Infinion chip over there, but that's not how it normally looks. This is an older version. So what this does is, like, there's a whole bunch of variants. Most likely, you're going to have an Intel one or an AMD one
+
+[22:20] because of, like, ARM Trust zone, I don't think is fully supported in Windows yet as far as I know. So the the idea here is, like, you have a piece of hardware that allows you to store some things. And, so this could be your private keys in that sense. And it could actually sign things on your behalf, decrypt things on your behalf,
+
+[22:43] and you can actually be assured that whatever it does is actually as per it has agreed to before. That's that's the whole idea of attestation. If you really want to, I can hand wave more, but, like, that's just imagine there's a piece of hardware in your machine that actually gives you attestation to certain characteristics that you can attest remotely. Right? You can actually have dynamic go static attestation. So static attestation means, like, you have to start the process when you really start. So, like, when you switch on the machine, the whole process has to start, And from then on, you're able to adjust whatever you're doing. So you could actually prove to somebody very remote that on your machine, you're running
+
+[23:20] a calculator. Right? Your normal calculator. And two plus two equals four. And they could be assured that two plus two equals four, you actually did the calculation. That's the simplest way to describe it. That's trusted computing for you. So if you get really interested and, you're bored and you don't want to sleep, I will strongly recommend you you know, it's not that long, like 22 pages or something,
+
+[23:42] but it gives you, like, a high level idea of what it is. Then, of course, that's the magic that Mark is going to talk about. It's called zero knowledge. And it is like three properties, and I I really love these properties. The first two are the two that I really, really like. Zero knowledge ness is the fact that, you know, nobody really I mean, sorry. The other party doesn't know exactly what it is, but the two things that are really interesting is completeness and soundness.
+
+[24:10] So imagine there's a two party protocol in that sense. This completeness and soundness is the fact that as long as you tell the truth, the other party will be convinced. And the other bet is like the other party could be assured that you'll be telling the truth in that sense. So these are the two properties to me that's of the highest value, for everybody. And in this instance, it's highest value for doing trusted science or surveillance or things of that sort. So you could be assured that you know?
+
+[24:42] And I'm assuming you're a computational models or a probabilistic model. So within with a very, very, very low probability that even though you don't know what the hell is happening in that machine, you're assured that what they're doing is what they agree with you. Right. So there's another tool that you could apply and okay. Quick question. Does anybody know Vlad? Anybody in here knows Vlad Sampfir? Okay.
+
+[25:08] Right. Okay. Good. So, you know, he's one of the guys who was early involved in the whole Ethereum ecosystem, and he came up with this phraseology and a bunch of things. So, essentially, I think it's being defined. I don't know if he defined it, but this is what I found. A formal discipline that studies protocols that govern production, distribution, consumption of goods and services,
+
+[25:35] and the key phrase is decentralized digital economy. And having said this, I actually went to Wikipedia and checked what economics the definition of economics is. So social science concern chiefly of the description and analysis of production, distribution, consumption of goods and services. But, you know, it's the tool we have. Right? So it's like a bastardized child of cryptography and economics. So that's cryptokonomics for you. So essentially what happens is like when you have a whole bucket of tools that you have, I kinda gave you a flavor of these.
+
+[26:09] Mark is gonna talk about GKs. There's some other bits called MPC. Oh, no. I'm gonna skip that one. Right. Okay. I'll talk about this a bit. So you can actually do this two ways. You don't absolutely always have to have cryptognomic mechanisms and decentralization. You can also use DEEs. That's why I mentioned DEEs to everybody.
+
+[26:33] Oh, my bracket is missing. Interesting. Okay. So in a centralized thing, one of the things you need to do is you need to trust the manufacturer. Unfortunately, yes. You know, you have to trust, which is the big not ASML, which is the biggest TSMC. There you go. Thank you. So if you don't trust TSMC,
+
+[26:57] we are all done. Like, pretty much all the sub three nanometer in the world is pretty much done by them. So if you don't trust them, we are gone. We can always say, you know what? We have a decentralized whatever that is. But believe me, like, if they actually do your, you know, CPUs, you're so done irrespective of whatever the trust model you have. Right? So just being fair to everybody.
+
+[27:21] Then if you were to compare, the thing is, like, you can have some confidentiality. The confidentiality in TEE is much more easy to prove because it's like you can actually have enclaves and everything will stay there. Whereas in a a decentralized manner, we have to do a lot of heavy lifting. We have to do all the, you know, fancy mathematics and prove and various things.
+
+[27:48] And, you know, the last event that most people who at least have interest in decentralization that they'll be very, very keen on is this arbitrary censorship persistence thing. And I normally go, you know what? How many nodes do you have on the l one? If it's less than 10, good, you know, good luck. Right? But if that's the argument, then we don't have to go there. But if the argument is we have enough of nodes that we could actually have some sense of censorship persistence, yes, this is a valid argument. Right?
+
+[28:19] If the nodes are run by again, look, don't get me wrong. If AWS hosts your RPC endpoints, then whatever you talk about in terms of decentralization, it doesn't matter. I'm so sorry for you, but that's what it is. You have to truly have decentralized infrastructure, which is not sat on AWS
+
+[28:42] for you to get the sensitive resistance. I will go one step further and say the obvious. So if OFAC were to actually introduce, a sanction list and you are a staker in Ethereum or, for that matter, any l one, and you happen to be in The US or your service providers happen to be in The US, Rumbai just mentioned the magical word AWS,
+
+[29:06] so that will give you a very tricky spot. So your argument for censorship process then might be interesting. Okay. Let me continue. So, adversaries and how you normally think about them, but ask Mark the questions. Good place to start. This is a good paper, rather longish, but gives you a pretty good idea. And okay. So now I'm going to start working about how we could actually think about solving some of those problems. Right?
+
+[29:37] So you could actually have the combination of TEEs and FHEs, and you can actually do some secure computation. So you have, you know, TEEs that allow you secure computation to a degree, and then your data confidentiality requirement could be met by FHEs. So how many minutes do I have, Yash? Oh, okay. We're fine. Okay.
+
+[29:59] So, you know, you might ask me what could be the application. So I could say, you have some sensitive biological data. Right? So in this instance, let's imagine you want to create, how do I know, some Okay. Let's imagine I want to run a bunch of tests on some new variants of Ebola. So I have a sequence of Ebola and I'm looking at the possible
+
+[30:35] new variants that come out and I really don't want the sequence of Ebola to be in public. So if that's the scenario, I could have a combination of TEs and FETs and I can get the results. And then you can also have ZKs plus MPC in that sense. Essentially you could actually prove another set of characteristics. You can actually validate biosecurity
+
+[30:57] compliance without exposing the data. Right? Because you can actually run ZK on what you have and you can actually have a ZK plus MPC to validate that whatever your claims are true. So just giving you a couple of examples. So, like, you know, why this could be interesting for us and why at least some of the possible threat vectors could be bounded by use of these tools.
+
+[31:24] Okay. Again, I know all these things. So when you combine TEEs plus CKs, so the thing with TEE is, like, once your trust assumption is kind of agreed upon, then TEEs give you a slightly how could I say, low lift. What I mean by low lift is like the amount of effort you require to create all the proofs and validate everything will become a bit lower. Right? So here you could actually have like
+
+[31:53] Assurance is second man in the middle attacks. Say, for example, imagine you have a sequencer, you run a TEE, and then you can have a ZK against it. So TEE will give you the assurance of the sequencer's security and the ZK will prove to you that this is what it's supposed to be doing. And you could also apply for a good measure of some cryptognomic stuff. I wouldn't bore
+
+[32:18] you with that. So okay. This Okay. Is an interesting one. This is an interesting one in the sense, like, imagine you have a bunch of labs working together to get a result. Right? And and you don't want to breach privacy in that sense. And how could you do this? So MPC plus FHE, it's multiparty computing plus fully homomorphic encryption, you can actually do this. So you can actually do a collaborative analysis of threats and then prove to everybody that you're all playing the game fairly.
+
+[32:54] And, okay. So I think I will show you the next slide and then work backwards. So just for the heck of this, I just wanted to give you, like, in in the imaginary world, you have a bunch of scenarios and you want to look at what is it that you have on your toolkit that you could actually deploy so that you can get the throughput that you require. So, you know, different things that you actually do in a lab will have different throughput.
+
+[33:20] So you might have, like, you know, low throughput things, which essentially means, like, you're doing sequencing or you're doing PCR. So it's, ninety minutes kind of thing. So if that's the kind of thing, could just literally go for, like, pure ZK and you can actually do the final state verification. You could have a combination of MPC plus ZK and then, you know, you get some other assumptions, which is like, you know what, you can have threshold honesty in that sense, and then your throughput will be medium.
+
+[33:49] And then, you know, you almost have a real time throughput that you really want, and then you could probably go back and try the TEE plus FHE kind of thing. Right? Again, the trust assumption is that you have to trust cryptography and, of course, TSMC and SML and everybody else. So then the last of the kitchen sink is everything that you actually can imagine
+
+[34:12] And pretty much you could have a variable throughput. Right? And you could pretty much think about, I would say, any of the mission critical workflows that you want, and you could provide resistance to that. That would be my 2¢ worth of thinking. And I would probably go back to this and kind of give you like an example for how you could think about it. So I was just literally saying, given any random
+
+[34:38] threat you have, high throughput, medium throughput, and low throughput, or a variable one, you know, you can actually get from your kitchen sinker cryptographic primitives and cryptoeconomics. You can put something together to reduce the risk. None of those things give you an assurance that's going to be stopped, but it gives you the ability to reduce the risk. So if you think about the risk
+
+[35:02] scenario of do and lose research, As I was saying, you can have a TEE plus ZK and you could then provide the proof that, okay, given the TEE is still not broken, you still have assurance. Then we talked about the lab automation hijacking. Remember that one? So you could say FHE plus MPC, you can actually do that. Right? So I'm just giving you the things I described previously as to, like, how you could make this hybrid attacks possible. I'm saying, you know, if you have this tooling, you might be able to prevent that.
+
+[35:35] And this this question about synthesis blacklist diversion. So essentially, if you had a a global blacklist of all sequences that you are not allowed to and LLM plus cyber plus whatever you want to bypass it, How do you prevent that? And then you could actually have ZK validated stuff plus TEE whitelist, and you'd
+
+[35:57] be able to prevent that as well. And the resource database about that that I kind of mentioned, Yes. There's lots of things you could do. There you can get some cryptographic assurances, but BCP, Doctor plus MPC based backup and ZK data prominence should do the trick for you. So, hopefully, I gave you, like, a bit of a flavor of what's possible
+
+[36:23] and a bit of a flavor of the tools that's available. And, yeah, I woke you up, I hope at least. And I hope I kinda convinced you that we are in ASML sorry. Anthropix level three secured level three state rather than level two state. I'm done. Thank you, guys. Happy to take questions if you have any.
+
+[37:00] Yeah. Here comes the mic. I had a brief question about TEs and, like, how would you make you're basically trusting that TSMC produces a chip correctly. Not just that. Okay. I'll provide you with a possible solution. You could actually have actually, me and Max suggested a solution to somebody else, a known l one. So you could have a set
+
+[37:24] of providers of a TEE. So you in Rumbai, I had in my TEE slide like a bunch of people providing TEEs. Right? So for you to actually then compromise all of them, that'll be okay. So Intel plus AMD plus ARM plus Risky Case John plus Apple. Right? And you then have an honest majority by some distribution. Then you have this ability sorry. You have to do this by breaking the protocol of all the different people and breaking the implementation for all the different people,
+
+[37:55] assuming they're all not being made and used to the same supply chain, but that's the assumption. I was thinking more like altering the very chip itself, the hardware itself. Oh, that's literally you can do. So it's very almost impossible for you and this is why I said TSMC TSMC were being malicious. It's almost impossible for you to figure that one out Cause they could actually,
+
+[38:21] in the layer, they can embed something there. In the microcode, they can enable it. And that would not be picked up by anybody in that sense. So if they actually do do some do one on us. Yeah. So I was, like, interested in building a particular chip myself, and I was talking to this person. I forgot his name, but in Berkeley, he said, you don't necessarily have to use it like a three nanometer from TSMC, just but like, I don't know, a 100 nanometer chip. Yeah. Yeah. That's fine. And You you can even use
+
+[38:52] FPGAs. Right? So you could just get a random FPGA and you can program it. Right? But yeah. But then the something interesting that he suggested I didn't think of is you could produce like a batch of a 100 of these chips. Yeah. And you can randomly select out of that. Yeah. And then send them to different labs. And then the labs would confirm does the circuit match what you and you dissect the a chip like Yeah. Yeah.
+
+[39:15] It's very hard to do. Okay? So imagine you take a chip and you cut through. Imagine a 100 nanometer. There is always these variations. Right? So the variation essentially is like the difference between a malicious action versus an error is very hard to prove. Your question is, can I prove is the question? Right? That's the difficulty.
+
+[39:40] So, you know, even if it works 100 times or one time and doesn't work, the difference between that and truly random, you might have to do like a dice test or something like that to do normal distribution. Otherwise, it might be doing sampling. It might be doing side channel attacks. Your side channel attacks won't be visible on your you
+
+[40:03] slice it, you put it on a scanning electron microscope, you see everything, but all the bits that are there, you could have, like, two sets of circuits and doing, like, a a clock attack. Right? It's not visible to you. So it's, like, very, very it's almost impossible, and this is why US is, like, bejesus scared about five g stuff and other things, that they wouldn't
+
+[40:26] put certain like, if you go back and look at the hardware that's used by MIL standard, you will recognize the amount of rigor they put in to make sure attacks don't happen. So I'll give you a good example, a simple example. You know, this is public known information that you know, in your keyboard, there's like a microcontroller there. Right? That microcontroller encodes for everybody that's here. When you press the button on a machine,
+
+[40:51] it sends a thing message so that the screen shows you whatever you press. So there's a microcontroller inside it, and there was malicious code embedded inside that one. Right? So you could it's impossible to actually provide supply chain provenance for every piece of your hardware. It becomes harder and harder and harder. So, you know But if you like,
+
+[41:15] in an open source manner, you create your own circuit with, like, Raspberry Pi or something like that and give it as a construction kit to somebody else. Then they would have to assemble it in a certain way. Okay. I'm going to challenge you with I mean, let's think this through as a thought experiment. Number one, you're assuming Raspberry Pi doesn't have I mean, I know Simon and I know all these guys and I've been in this ecosystem very long. You can see my talks. But the assumption is, like, a lot of them don't have the competence
+
+[41:40] to actually defensively design things. Right? Designing is different from defensively defining things. Right? You could design something, and I could have a massive side channel. Right? So side channel essentially means something simple as this. So when you have you, you know, connect your oscilloscope to the chipset and you have two numbers being multiplied. Right? And you're just seeing the drop of voltages.
+
+[42:05] Zero into zero. Right? You will know that zero into zero is the thing that's being multiplied. And one one one one into one one one one, you do that, you definitely see the difference between zero into zero and one the whole bit field being one versus into one one one. Right? So that's the thing that you need to really be assured. And the reason I say this is, I don't know if you know this,
+
+[42:29] this kind of attacks was known in PKCS one. This is going back like twenty years. So PKCS one was the RLS signature scheme. We had to fix it and they had 1.1, 1.2, whatever it is. And you could say this same attack, timing attack, happened to Zcash. Hello? You You know what I mean? I hope you understand what I'm saying to you. Right? So this is a revisit of this thing. So essentially, all this means is when you have certain computation happen,
+
+[43:00] you don't actually do the full computation. You give the result back. It's the way the CPU is optimized. What you don't want to be happening is like somebody who's actually not knowing the key or the key material being allowed to get one bit of extra information without going through a security model. This is a challenge, This is a real challenge. And we our challenge is the following that we are in a society
+
+[43:26] where we, as an average human, don't have the competence to even understand, like, 99.99% of what we are consuming, let alone defensively think about it. And the only thing that could enable you to do that are the LLMs. That implies the thing that I was describing to you. So your threat
+
+[43:50] is multiplied by orders of magnitude. So if you have been sleeping really well yet, you know, yesterday night, tonight, welcome to the real world. Thank you, Anish.
+
+[44:28] Next up, we have Mark who is going to go into more details about zero knowledge and how we can start using such primitives to hopefully mitigate some of these risks. Throughout the week, we'll go into more specific risks on, neurotech and biotech and so on. So there'll be more color to it. But, Mark, the stage is yours. Thank you for joining.
+
+[46:02] Hello. So this talk is about ZK SNARKs. Put it fair to say it's more about the SNARK part than the ZK part. And for those of you who are so familiar with SNARKs, we'll define those a bit later on in the talk. I'll start by giving you I'll say a few words about the general outline
+
+[46:28] of the talk. So the goal is to give you a bit of an insight into z k SNARKs and also some of the implications that arise when you're using z k SNARKs. Although they are inherently mathematic We then move on to looking at or defining SNARKs themselves.
+
+[47:38] And from there, we can look at the implications of these cryptographic techniques in the use of SNARKs. And then we'll end with looking at a particular performance bottleneck when creating proofs with ZK SNARKs. So start with the cryptography. There are two fundamental cryptographic or types of cryptographic primitive in cryptography.
+
+[48:04] You have symmetric algorithms and asymmetric algorithms. So a symmetric algorithm is one where the encryption key is typically the same as the decryption key. So if know the encryption key, you therefore know the decryption key. And examples of symmetric ciphers include things like AES, which is a very widely used symmetric cipher.
+
+[48:26] You've probably seen things saying we use AES two five six. So that's it, a symmetric cipher. But there are plenty of other symmetric ciphers out there. DES is one. That's an older block cipher. There's plenty of of examples. The other type of cryptographic primitive is what we call asymmetric algorithms. And here you have two keys that are mathematically related to each other,
+
+[48:52] but it's computationally infeasible to determine one key from the other key. So if you know the encryption key, it's computationally feasible to work out the corresponding decryption key. So what that means is you can, in effect, allow one key to be public. So your encryption key can be public. So anybody can encrypt data using that public key.
+
+[49:18] But only the party that knows the corresponding decryption key can decrypt. And some examples of asymmetric algorithms include things like DSA or digital signature algorithm, as Diffie Hellman key exchange, and a few others and a few variations on these basic schemes. So just to summarize some of the different properties or characteristics of symmetric and asymmetric
+
+[49:43] algorithms. In terms of speed, symmetric ciphers are generally fast and efficient. Whereas the asymmetric algorithms tend to be slow because they're doing some quite complex mathematical computations. In terms of use cases, it is the symmetric ciphers that you use for encrypting data or large amounts of data. The asymmetric algorithms tend to be used for what we call key management purposes
+
+[50:10] and also for signature schemes. So when I say you don't use asymmetric algorithms for encryption, key management is a type of encrypt encryption. It's typically going to encrypt asymmetric key using an asymmetric algorithm as a means of distributing that key to another party. In terms of actually general data encryption, so you don't use the asymmetric key, you use the symmetric
+
+[50:35] algorithms. And these two types have very different key distribution requirements. So for symmetric ciphers, you need secrecy on both on the key. It's a bit easy with asymmetric because one key can be public, so it's far easier to distribute that key. But there's still the question of you need to verify that key does belong to the party you think it belongs to.
+
+[50:57] There are structures that let you do this, things like PKI, public key infrastructure. And in terms of the number of such such algorithms, there are many different types of symmetric cipher. If you know how to how to design these things, it's very easy to design a reasonably good cipher. But with the asymmetrical public key algorithms,
+
+[51:23] there's relatively few algorithms around that are in practical use. We're gonna focus here on asymmetric algorithms. And we're gonna focus in particular on a particular type of asymmetric algorithm. So the definition at the top if you're not into the math, you don't need to know too much about that definition and kinda skip over it. But this is a fundamental or foundational
+
+[51:49] operation in public key cryptography. You take or define y as being g raised to some power s modulo a prime number p, a large prime number. And if you're not familiar with modulo arithmetic, you can think of that as being a bit like a remainder. Compute g to the s, you divide by p, you take the remainder. Wouldn't do it that way in practice, but that's conceptually what it's it's achieving.
+
+[52:17] Why this problem is good is that or is is interesting is that given y, g, and p, it's computationally infeasible to determine s, provided this prime p is large enough. By large enough, the current recommended minimum size for p is 2,048 bits in dense. So they are huge numbers
+
+[52:40] to give you sufficient security. And this is the problem that defines or enable schemes like Diffie Hellman and DSA. They're all built around this central problem we see here. This is discrete log problem. Pretty worth noting though that I it's probably a bit of bad habit. I talk about this as as encrypting s.
+
+[53:03] It's not strictly speaking encrypting s because you can't decrypt it. So it's more really of a hiding function than encrypting. But I tend to use the word encrypting, I probably will do throughout this talk just out of habit more than than anything else. So within these discrete log type systems, there are two different mathematical
+
+[53:26] structures that we can use. One's quite nice and straightforward. One that we are interested in is not quite so nice if you don't like the maths. That's elliptic curve cryptography. So, again, it's not so important to know the proper definition. It's there for those who are interested. Elliptic curve is a set of all solutions to an equation of the form y squared
+
+[53:53] equal x cubed plus a x plus b, which we timed over a finite field. So solution, we mean a pair x and y that satisfies that equation for a given choice of a and b. And we call a solution to this equation a point on the curve.
+
+[54:18] And this is perhaps just the more general point even for the non mathematicians. The important or the interesting thing about electric curves is you can take two points on the curve. You can add them together using a special type of addition to obtain a third point on the curve. Or if like you'd add two solutions to this equation and get a third solution to the equation. And that creates what mathematicians call a group. Doesn't matter what definition of a group is, but this is structure called a group.
+
+[54:45] And that's the structure we need for schemes like Diffie Hellman and DSA. So this gives us the structure that we need for those schemes to work and where this discrete log problem is secure. And therefore, you get these elliptic curve versions of schemes like Diffie Hellman and DSA. When you work with elliptic curve, the discrete logarithm problem is defined in a slightly different way.
+
+[55:13] It's because this group is what's called an additive group. So we write it as two points p and q. Defined such that q is some scalar, a number, multiplying that point p, then it's computationally infeasible to find s. Okay. That's not so important from our perspective of this talk. What is perhaps more important
+
+[55:36] is the two fundamental operations we have when we want to use or implement elliptic curves are point addition and scalar multiplication. So point addition is where you add two points together to get a third point. We've touched on that point already. And scalar multiplication is where you take a point and you multiply it by a scalar. In effect, you add the point p to itself s times.
+
+[56:00] That's scalar multiplication by s. I mentioned earlier that asymmetric algorithms are slower. So just to give you a feeling for how much slower Lytica operations are compared to say a symmetric cipher, we have a comparison here between one block of AES encryption and one EC scalar multiplication and also a EC point addition.
+
+[56:27] The figures here are for when AES is accelerated in hardware, whereas the ECC is in software. Just passed on a fair comparison. That's a very common thing. Most chips have AES built in hardware. That's quite quite normal these days, it's a fair comparison in that sense. Now AES, some of you may know, comes with a choice of three different key sizes. One
+
+[56:51] one to eight bit key, one nine two bit key, or two five six bit key. Gone here we've chosen here that the one to eight bit key because it is more of an equivalent security level to that offered by the the Elliptic curve b n two five four. And the curve BN254 we use here as an example isn't the most efficient curve, but it's one that we will encounter later on when talking about SNARKs. So it makes sense to introduce it here.
+
+[57:18] As we can see, AES is more than 30,000 times faster than one elliptic curve scalar modification. Even you go to a software only environment, it's still the case that AES is more than 2,000 times faster than one elliptic curve scalar multiplication. So it's a big difference between symmetric algorithms and what we encounter with
+
+[57:43] elliptic curves. And here's the same numbers in a graphical form. It just highlights that the scalar modification is much slower than the point addition, but both operations are a lot slower than one AES encryption. What we talked about so far are just a comparison with one symmetric encryption and these
+
+[58:09] two operations elliptic curves of scalar multiplication and point addition. If you want to do a fair comparison in terms of encryption, you need to use an algorithm or an EC algorithm that supports encryption. One is elliptic curve algamal. So an encrypt data using elliptic curve algamal, need two scalar modifications and one point addition.
+
+[58:34] We have a comparison here which actually uses two AS blocks compared to one elliptic algamal encryption. That's That's just because the amount of data that you encrypt in one go. So two AS blocks is more of the same size of data as one encryption with ALGAML. So we can see that for proper encryption in comparison, AES is still 30,000 times slower than one Elgamal,
+
+[58:58] EC Elgamal encryption. So what we'll do now is we'll park the elliptic curves for the moment, move on to SNARKs. And we've mentioned zero knowledge a few times. Now, this is the definition of ZK SNARK. It stands for zero knowledge succinct non interactive argument
+
+[59:21] of knowledge. So the first part is zero knowledge that Anish mentioned earlier. It just allows you to prove that a statement is true without revealing any information. It could be the secret or set of secrets. It could be the input to a one way hash function, for example, with a known output. You can prove, you know, the corresponding input.
+
+[59:45] We also have succinct, so the proofs are small and they're fixed size irrespective of the computation. That's one property of set case and arcs. Non interactive, so no interaction between the prover and the verifier. And they give the verifier the assurance that the prover does know the input. In terms of some uses, I should say zero knowledge has been around for quite a long time. It goes back to I think the eighties.
+
+[01:00:15] And even my PhD thesis many years ago was on zero knowledge and threshold cryptography which is a form of MPC. But back then, it was more, I guess, academic interest only. ZK proved proved some more to show that you could prove knew a a private key, for example. That was about as far as they went. So zero knowledge has been around for a long time, but the
+
+[01:00:39] use of circuits and more complex computations, that's the bit that's really come on in the last few years and changed things a lot. In terms of some of the use cases, real world use cases now for ZK Snarks, we have privacy preserving protocols in DeFi. We have verifiable computation, which I touched upon already. Things like roll ups
+
+[01:01:02] and anonymous credentials. So you can prove that you are say you are employee of a company, for example, that we get the right to access something, but you didn't actually reveal your true identity. So lots of different things you can do with ZK proofs. So just to give an example with verifiable computation, we have a scenario here of a cloud server that performs some
+
+[01:01:27] complex function. It could be some kind of data aggregation. It could be a machine learning training model. But the problem is how do you receive or the client verify that computation has been done correctly? How do you trust it, in essence? That's what let ZK Snark will let you do. You prove it can create this proof, the verifier can verify the proof, and that gives them confidence because of the properties that Anish mentioned earlier in terms of when he's defining a Snark to zero knowledge
+
+[01:01:58] completeness and so on. So that proves or gives the client assurance that the computation has been done correctly. So moving on to connecting elliptic curves to SNARKs. For SNARKs, we need to encode the computation to some some form that we can use to then create a proof.
+
+[01:02:21] What elliptic curves do is give you a mathematical foundation on which to build these proofs. And it comes down to what we call the homomorphic properties of elliptic curves. So elliptic curves, they're not homomorphic encryption schemes. You may have heard of FHE and so on. I'm not talking about that here. But the elliptic curves do still possess some homomorphic properties.
+
+[01:02:49] And by homomorphic property, we mean that you can perform operations on encrypted data that mirrors the same operation on the plain text data. So rather than taking some encrypted data, decrypting it, performing your operation, then re encrypting it, you just did the operation on the encrypted data without having to to decrypt. And the two operations that we have here are
+
+[01:03:12] addition and scalar multiplication. So with addition, if you take the encrypted form of two values b and c, then we can compute the encrypted form of b plus c just by adding together using this special type of point addition, the encrypted form of b and the encrypted form of c. And for scalar multiplication,
+
+[01:03:37] if we give an encrypted form of a value b, then we can compute the encrypted form of b times c by taking the encrypted form of b and doing a scalar multiplication with the value of c. So those have good properties. We're gonna do useful things with those. But first of all, we have to take the information used by the snark and put it into a form that we can then use to leverage these properties.
+
+[01:04:05] So to do this, we need to take the SNARC information and we're going to convert that into a polynomial representation. So the SNARC works on a sequence of values, a zero up to a n. So each value is an integer in a certain range defined by a finite field. This would include public inputs, outputs,
+
+[01:04:28] some private values, and also all the intermediate values used within the computation. We can map those values to a polynomial that we call t of s. Each of these numbers in the sequence becomes a coefficient in this polynomial. So a one, for example, becomes the coefficient of x to the power one.
+
+[01:04:51] A two in sequence becomes the coefficient of x squared and so on. By putting it into this form, then we can then use algebraic techniques to construct a proof. Okay. If anybody has any questions, by the way, let's go along. If you want to take a bit more time just to read a slide or something like that, perhaps then just put your hand up.
+
+[01:05:16] This slide just looks a bit mathsy, but kind of go through it slowly. What we can do with elliptic curves is we can take a polynomial that represents the information used by the snark. It's the polynomial t of x, and we can evaluate that at some secret value or secret unknown value s using only encrypted forms
+
+[01:05:39] of s. So if you take the polynomial t of x, and that's evaluated at value x equals s, that becomes a zero plus a one times s plus a two times s squared and so on. We can use the homomorphic properties we were just talking about to put that into encrypted form.
+
+[01:06:02] It becomes a zero time it's time some base point g plus a one times an encrypted form of s plus a two times the encrypted form of s squared and so on. Which we can then rewrite as coefficient a times a point p zero, where p is the encrypted form of s well,
+
+[01:06:29] I'll put you to use a one as example. A one is the p one is the encrypted form of s times g. P two is the encrypted form of s squared times g and so on. So how it does this isn't so important. I guess the takeaway is that you can use these p points p I that are public information to enable you to compute the evaluation of this polynomial at this unknown value of
+
+[01:06:54] s. And this is what we call a commitment to that polynomial. It's a commitment because having computed this commitment, you then cannot change any of the values or the coefficients of that polynomial. When the coefficient changes, it's likely to cause the evaluation of that polynomial to change. And you can't try and manipulate coefficients because you don't know the value of s.
+
+[01:07:20] So, therefore, once you created this, computed this, you are committed to that choice of polynomial or, if you like, that set of values a one to a n. So these home offer properties, they're good. Yeah. Go ahead. I think the proof would fail if you mess things around too much because this is only one part of the overall proof system.
+
+[01:07:54] Like, a whole set of these things have to be consistent when you come to verification. Yep. Yes. Exactly. Yes. As a crucial part of these, value s must remain secret. Different SNARKs have different requirements such as universal
+
+[01:08:17] setups and so on. Groth 16, probably heard of. That's one restriction there. So you must have this trusted setup to compute these PI. That was the same question. Same question. Okay. Yep. Easier, that's the go back one slide. That's a set of values used by the start. That represents the computation effect. Kind of skipping over that part here. We have this computation and these set of values encapsulate
+
+[01:08:48] the values used within this computation. Wait. Wait. It can be a very long sequence, BIC. They say the input values, the output values, and all the intermediate values used within the computation. There's an earlier version of this talk that didn't actually go into how you do that part. It's quite technical to talk through, and I wasn't quite sure whether people want to go in that much detail
+
+[01:09:14] in this context. So these home office properties we've mentioned, they're very good. You can compute commitments. But what you can't do though is take the encrypted form of b and encrypted form of c and directly compute the encrypted form of b times c. We haven't got that property inherently in elliptic curves.
+
+[01:09:38] That can be a restriction. So pairings are something or technique that allows you to overcome this to a degree. It doesn't let you compute the equator form of b times c, but it does give you a way to verify that such a multiplication has been done correctly. So there's a definition of pairings here. Unless you're into the math, so I wouldn't really worry about reading it through.
+
+[01:10:05] But the point, because the takeaway point here is you can use pairings as a means to verify that a product is correct even though you can't actually evaluate the product itself. When we talk about pairing based SNARKs, we're talking about a SNARK that uses pairing as an important part of its construction. The implication here is that not
+
+[01:10:30] all elliptic curves support pairings are secure enough and efficient. So you have much restricted choice of elliptic curve. We talk about a pairing friendly curve, we mean one that is both efficient and also secure enough for our needs. As examples of pairing friendly curves include BN254 or BLS12381. When we talk about elliptic curves earlier,
+
+[01:10:57] we mentioned that the coefficients a and b that define the curve and also the solutions x y or the points x y on the curve belong to a field, which is a mathematical structure, which is just basic numbers from zero to p minus one. That's called the base field of the curve. There's also a second field associated with the curve, which is called the scalar field.
+
+[01:11:21] And that's where the scalars s, for example, belong to. So while we need pairings for pairing based SNARKs, turns out that pairings alone aren't sufficient to create efficient SNARKs. To be efficient, you need additional properties of our scalar field.
+
+[01:11:44] So they must support something called FFTs, fast Fourier Transforms. You don't worry about what that actually means in practice, you must support them for efficiency purposes. And it is the amount of this structure that's present in the scalar field that determines how large the circuit can be to be efficiently computed. So the curve b n two five four, for example, that can support a circuit up to the size of two to the power 28 operations.
+
+[01:12:09] Operation would be like additional modification. So like an upper bound on the size of the circuit, an upper bound comes from having to use FFTs for efficiency purposes, and that requires having a certain structure present in what we call the scalar field of the curve. I know it's, again, a bit mathematical to follow here. Hopefully, you're doing okay.
+
+[01:12:35] So the implication of this is that for SNARK to be efficient, if you want your circuit to include, for example, a DSA signature or say a Diffie Hellman computation, then the base field of that Diffie Hellman computation should align with the scalar field of the curve used by the SNARC. And that assures everything can be done
+
+[01:13:02] efficiently. So baby job job, for example, is a curve that is designed so that its base field is compatible with the scalar field of the curve b n two five four. So if our SNARC is using the curve b n two five four, we want to use a Diffie Hellman asymmetric technique. We can use baby Jub Jub as
+
+[01:13:25] the curve for our Elliptic curve Diffie Hellman. Let make sure that the base field of that operation aligns with the snark scalar field. What happens if two things don't align? So if the base field of the public key operation doesn't align with the curve's scalar field, with the
+
+[01:13:50] SNOC's scalar field, that means you have to handle what's called non native field arithmetic. That can be done, but that just caused everything to blow up hugely in terms of its efficiency. It becomes hugely inefficient. So the example here is the curve e d two five five one nine. And that doesn't have the necessary structure in it to be FFT friendly.
+
+[01:14:17] That's, therefore it's very hard to prove statements about ED25519 statements using asymmetric techniques using a pair and base snark. And this can be a big issue for things like bridging. So, I guess the key point to take away here is that if the fields don't match, that implies non native field arithmetic. That's bad. So you always want to make sure that your
+
+[01:14:43] base field of your operations, your computation, your circuit correspond to the scalar field of the curve used with your SNARC. Everything is good. Yep? Is it where you need field extension? That's that's that's used elsewhere in SNARK. That's because you got it's just the pairing. You've got the two different groups, and over the second one is extension fields.
+
+[01:15:11] So how can you handle this non native field arithmetic? One option is to use a SNARK that doesn't require FFTs. I know one such SNARK is something a project I worked on with Panther along with Anish. It was having such a SNARK. It's not as efficient as something like Planck, but it does give you a much wider choice of pairing friendly curve.
+
+[01:15:37] So what you can then do with the SNARC is create a pairing friendly curve whose scalar field does match ED25199 because we no longer have this restriction of needing to use FFTs. That's why we can do this. An alternative approach is to use parallelization. So you can split a computation into loads of smaller parts,
+
+[01:16:01] compute those in parallel, then bring them together to aggregate the proof together. Or you can use a combination of the two different approaches. Something else to think about with SNARKs is because SNARKs, the the computation or the circuit works in the scalar field of the curve. So all the
+
+[01:16:25] elements in that computation are field elements, like integers between zero and some prime minus one. It means that some functions tend to learn themselves more readily to that kind of representation than other functions. And in particular, many standard cryptographic functions don't really like being represented in such a way. So SHA256
+
+[01:16:47] is a very widely used hash function. It's in many international standards. But it doesn't work very well in a SNARC representation because of this scalar field and the way the maths works. What you can do is use an alternative hash function and Poseidon is one that's designed to be efficient in snark circuits. But it may be the case that for
+
+[01:17:12] external reasons, can't choose which hash function to use. Maybe you're making a statement about some ED255 statement for example, signatures. So you're forced into using say a SHA or DSA type signature. And also, I this is a good trust I guess. SHA256 is very widely known. People trust it. Poseidon is less widely known outside of this DeFi sphere. So there can be issues perhaps and people don't know it. Do they trust it?
+
+[01:17:46] So now we move on to the major bottleneck where we talk about using pairing based SNARKs. And this has to do with the proof generation. And it's down to something called MSMs or multiscalar modification. And this dominates the proving time. So for Croth 16, a very well known stock, it's normally 70 to 90% of the time taken to create a proof is down to the MSM
+
+[01:18:12] computation. These costly or slow because they use scalable applications and point additions. As we saw at the beginning of the talk, those tend to be quite slow operations and be lots of those to compute an MSM. So just to say what an MSM is, going back to our commitments we talked about earlier.
+
+[01:18:39] To compute the commitment, we take a set of points p zero to p n, which are public parameters, and we then do scale modifications with the a zero to a n, which are part of the values in our circuit. So what we have here, lots of scale modifications and lots of point additions, and both operations are slow. And the most efficient way to compute something like this is something called the bucket algorithm.
+
+[01:19:07] Very nice, something called Pippen's algorithm. It's probably easiest to explain this just using a small, simple example. So we're going to suppose here that all the scalars we use are integers between zero or from zero to seven. And we have a collection of points, 23 points in this case. This is one simple example of an MSM type computation.
+
+[01:19:33] If you were to do this in this naive way, you'd need 21 scalar multiplications and 21 additions. There is a zero here, for example. It's where the zero, that just disappears. You also have a one appearing as a scalar here. So where the one appears, you would need to do that scalar multiplication. So it's normally around the same as the number of points. So number of points here in this type of example
+
+[01:19:59] relates to the size of the computation or the size of the circuit. Circuit. You get a large computation. It could be a million of these points. So it can be a very large computation. So how can we do this more efficiently? What we're gonna do here is is rearrange the order of the point additions.
+
+[01:20:23] So we look at the top. Just group together a set of points according to their scalar. So the top line, have all the points where the scalar is two. So we've got all the points by their scalar. And what we do in the middle part, we just well, I'm doing two times p five and two times p 10, we do the addition of the points and then we do the scalar multiplication afterwards.
+
+[01:20:48] This is what's going in the blue part. If we do it this way, we end up with a sum we have in the bottom part. So each of these Si's is the sum of all points with the scalar I. The number of points we have in this bottom line is dependent upon the number of coefficients that we are allowed. So we've gone from a sum with lots of points, could be a huge number depending on the size of the computation,
+
+[01:21:18] down to a smaller sum of points, which is dependent upon the number of scalars that we have. So if we then count up the number of scalar applications additions, compute all these SI takes 15 additions, no scalar modifications. Still left with this sum we have here. So let's assume now we do that very naive way,
+
+[01:21:43] and that would take six scalar modifications and six further point additions. So the total now is six scalar multiplications, 21 additions. So we saved a lot of scalar multiplications. And they are, as we saw, that is the scalar multiplications that are the slowest part or slowest of the two operations. So we say 15 of those.
+
+[01:22:09] So the process of adding together all the points with the same coefficient is often called the accumulate phase. It's also sometimes referred to as adding points to a bucket. So you think of a number of buckets. Each bucket represents a particular scaler. So all the points with that particular scaler added into that particular bucket. Hence the name bucket algorithm. So once you've added all your points to the buckets, then move on to what's called the aggregate phase.
+
+[01:22:38] And that's the final computation involving the sum as we saw on the previous slide. Where the number of terms in that sum is now dependent upon the number of scalars, what number of buckets that we have. So the accumulate phase is highly parallelizable. So if you're going to a select FPGA implementation, for example, you need a lot of point additions in parallel.
+
+[01:23:04] So the JMP paper, I think, a few years back, they were doing 96 concurrent point additions to buckets. So as long as they make sure, you couldn't add a point to a bucket while that bucket is still processing an addition. You gotta wait for that addition to finish before you can then feed in another point addition. But it is very parallelizable. But the standard way of doing the agro phase isn't
+
+[01:23:26] or doesn't lend itself so readily to being paralyzable. It's much more sequential in nature. So the fastest published paper I know of is one by Xavier. Also an alternative method that Nish and I have been working on is different way of doing things, also bit more parallelization, and is a bit more efficient.
+
+[01:23:51] So this work is happening. It's all getting a bit faster. And that brings me to the end of the talk. There's quite a rush through, I guess, of ZKD snags, but hopefully you've got it. So any questions? Sorry. Thank you. I
+
+[01:24:14] have a question. What is the cost of the grouping compared to the first algorithm? Saying the cost of the grouping, which part? Yeah, the accumulated phase. The aggregate phase? Yes. Because the first accumulate phase is dependent upon the size of the circuit. So the bigger the circuit, the longer that is. Whereas the aggregate phase is always a fixed
+
+[01:24:39] time because it depends upon the number of buckets that's fixed by the parameters of the system and your hardware. So you can't really do a direct comparison because one's variable, one's fixed. So it just depends on the size of the circuit. So this is lossy. Right? And is it because of computation number line or are you saying it's lossless? Say it's lossless. It encapsulates all the information. It's like a
+
+[01:25:07] it encapsulates all the information to a fixed size proof. Doesn't really lose information. Everything's represented and influences the final result. Which elliptical curves are lossy on a computational number line though or no? No. In No. Terms of basic operations, no. That's Okay. And then just going back to a, is linear algebra at least that we Which get from a is the little a you mean? Yeah.
+
+[01:25:31] Those are the values used by the circuit, and the circuit would do operations like addition and modification of values. So think of like a hardware thing. Every step in the computation is an addition of two values or modification of two values. That's how you build up the whole complex computation. So each of these a's could be the inputs to an addition gate, for example, or the output of an addition gate or inputs to an obligation gate and so on.
+
+[01:25:55] So that's what we mean by all the intermediate values used in the computation. You can map the whole thing out, a series of additional obligation gates, and all these a i's represent the inputs and outputs of every step of the computation. Thanks. Okay. I mean, I I had a pretty complicated question about, like, FHE. I don't know if if I should get into it, I'll give it a try. So just tell me. Okay. Of course, go to a native if you like as well, if that's easier.
+
+[01:26:21] Is there some more theoretical, like, more mathematical relationship between FHE and ZK? Like, a deeper connection between them? Could could let me just give an example. Yeah. Because more more of, like, an applied example. So I figured that you could you could, for example, build an AMM with FHE so you can encrypt variables and you can perform computations as you move along, like, x times y plus k along a curve.
+
+[01:26:51] And so with the ZK, I've noticed one thing you could do is you could you could make, like, a proof and say, I have, for example, 10 eth, and you do not not that you you don't have 10 ETH, but have some amount of ETH, but you do not necessarily say how much. And so you can then say, I would like to sell a certain amount of ETH, but I'm disclosing it to have this much ETH.
+
+[01:27:15] And you could define something like a price impact function. You could say, I would like to sell 1 ETH for a dollar. I would like to say 2 ETH for a dollar 98¢. I would like to say 3 ETH for this much. But I don't want to define the whole range of, like, 10 ETH because that would give away, so to speak, my information about how much ETH I have. In FHE, what I could do is I could also define like a I don't know if this is too complicated, but I might lose some people. Is there like a deeper relationship between the math in FHE
+
+[01:27:42] and ZK is what I'm wondering. Is one is is one expressible in another? Yeah. I'll I'll I'll get a hand wave. So I'm the usual suspect who bothers him with problems. So the thing with FHE is is like the way you do bootstrapping kind of constrains a lot of the things. You understand bootstrapping. Right? Not on top of my head. I just mainly apply this stuff. Oh, okay. So so the thing is like the construct of FHE typically is learning with errors kind of thing. So you have a lossy function and a bit of the thing is the real encoding and the rest is noise.
+
+[01:28:18] When you go through the process, that's why you call this bootstrapping. And so until the cutoff point, until where you can actually have noise, you can do all the stuff. When you topple over, your complete structure disappears. ZKs don't have that kind of constraints in that sense, loosely speaking. Just giving you intuitively. Right? So think of FHE like a function, a function that works till some point and then doesn't work, whereas ZK continuously functions.
+
+[01:28:42] And the other bit is like z k pretty much I'm not talking about the fry, okay, as in like z k g. I'm talking z k g's as in like snacks. Okay. Okay. I'm not talking stocks. But when I'm talking SNOX, it's most abstract algebra. The other one is kind of a bit of abstract algebra and a bunch of linear algebra
+
+[01:29:07] and some coding theory in that sense of speaking, thrown in the mix. Mark, back to you. Yes. I just have one tiny question. Never mind, I'll ask a later. I guess my question is with so here we are kind of what we call a DAC event.
+
+[01:29:32] And so I guess the main point in that DAC event is having improving client side or that's kind of one of the big kind of new things. And so my question is, does this has some place in client side proving or more broadly, how do you see, yep,
+
+[01:29:57] client side proofs or proof systems evolve in the future and if you have any input on this. Probably Nish has touched also partly on where these things can go in the future, with ZK Starks. It's one tool in a larger picture. Know people often ask which ZK project excites you. They often think it's the ones that haven't come along yet and what new directions you could go in in the future. I think is quite interesting.
+
+[01:30:29] Or just all the DeFi apps we have now. So I hear things being talked about. Could use these proofs for this or use them for that. I wanna see what actually does come about and what other uses people can find for them. But these sort talks indicates some more concrete examples of where these things could be used. Not sure that answers your question, but it's a bit of a hand wavy answer. Okay. So brief question. So you mentioned that
+
+[01:31:08] the CK approach had addition and subtraction. The ability to do addition and subtraction, I believe. Like partially homomorphic. Would you define it homomorphic? You could add two values and encrypt And subtract as well. Yeah. No? Okay. In a sense, I suppose, yes. It's a unified field. Yeah. But yeah. So one of the things that I I I've used FHE for is
+
+[01:31:31] I have actually not FHE, but I figured you could use, like, partial homomorphic encryption, but it involves using a Boolean value. So you move along you use addition and subtraction to move, let's say, along a straight line and then switch along to another straight line and then another one. And but that involves a Boolean value, kind of a conditional value that says switch from one straight line of addition subtraction and another sub line and another sub line. So is is is the concept of like a Boolean, is that as an operation in there or think we're getting much more into
+
+[01:32:00] circuit construction. We didn't recover in the talk here, so it's probably not follow-up afterwards Yeah. On that Any other questions? Okay. Well, thank you. Alright. I guess we will be back after
+
+[01:32:38] a break of five minutes. Five minutes or so. The next one is okay. Alright. There'll be a bunch of talks by Chance and Una and Are you talking about rank one constraint systems? Okay. So coming up,
+
+[01:33:01] and like we can start in five minutes or so, architectural stack for startup cities and robotic construction lessons from the factory in Prospera. So we'll see you then.
