@@ -31725,6 +31725,1961 @@
   "So you're welcome. Today, because with governance and deep gov sort of intersection in the evening. So I'll keep you all posted. Thank you."
  ],
  [
+  16,
+  46,
+  "Okay. Shall we start? Shall we? Shall we? Okay. Okay. Hello, everyone, again. There are a lot of us here now to talk about funding Ethereum "
+ ],
+ [
+  16,
+  65,
+  "forever. And as as we are starting, like, this is exactly what it is. So"
+ ],
+ [
+  16,
+  75,
+  "based on the previous presentation, I have to tell you that Ethereum does not have any taxation system. It doesn't have it is not a state, b"
+ ],
+ [
+  16,
+  87,
+  "ut yet we we have to somehow ensure that that Ethereum will be able to fund itself, its its development and progress long term. So"
+ ],
+ [
+  16,
+  99,
+  "we will explore, like, what are the possibility possible solutions. So I think you know everyone already. So I already, presented with David"
+ ],
+ [
+  16,
+  109,
+  " yesterday on the deep governance. So this is, of course, related because deep governance is one of the, like, a funding metals you could us"
+ ],
+ [
+  16,
+  120,
+  "e. But, of course, we have to attack both sides of the equation here. So not only how we spend money, but where we get the money from. If we"
+ ],
+ [
+  16,
+  130,
+  " are not able to create it out of thin air,"
+ ],
+ [
+  16,
+  133,
+  "well, maybe we are. This is like a blockchain space after all. And, Andrei Ragorski, who is with me, cofounder of Golem and and Oktut, and h"
+ ],
+ [
+  16,
+  143,
+  "e will actually start with giving you some context on the data. Excuse me. Get data, mister Mike. K. Hey, everyone. Okay. So just to kick st"
+ ],
+ [
+  16,
+  154,
+  "art with, some context and, just to set the state for what will follow."
+ ],
+ [
+  16,
+  159,
+  "Okay. So, like, there was a problem with data in in crypto space, especially, like, since Spectra upgrade, ETH is, like, 30% up. So, let's j"
+ ],
+ [
+  16,
+  171,
+  "ust assume that these numbers are like a painting in a in very broad strokes. So, just to define the problem, that we will try to,"
+ ],
+ [
+  16,
+  182,
+  "attack in this in this presentation and then in discussion. So, I want to, like, contrast to, two pictures. So the first picture is, the an "
+ ],
+ [
+  16,
+  193,
+  "estimation. It's based on Ethereum Foundation's financial report, for 2024. So it, covers the period of the, like, previous two years. And i"
+ ],
+ [
+  16,
+  204,
+  "t's basically an approximation of, who"
+ ],
+ [
+  16,
+  207,
+  "funded the development of Ethereum in 2022 and 2023. Mostly, it's about, financing the research of the l one, but also, like, client teams, "
+ ],
+ [
+  16,
+  220,
+  "some, for the lack of a better word, public Ethereum infrastructure such as l two bits or, like, other projects"
+ ],
+ [
+  16,
+  230,
+  "that, are can can can consider to be public goods. So, what I want do you remember from this slide is that, based on this approximation, it'"
+ ],
+ [
+  16,
+  241,
+  "s Ethereum foundation that is responsible for a stir cap 50% of the of the funding with, like, other projects or, initiatives, either fundin"
+ ],
+ [
+  16,
+  251,
+  "g stuff with their own funds or aggregating and, accumulating,"
+ ],
+ [
+  16,
+  256,
+  "external donations. That is about, like, 50% of of of the of the cost covered by the EF. And, on the second slide, you can see, the size of "
+ ],
+ [
+  16,
+  268,
+  "treasuries of entities potentially using, or benefiting from the from the core Ethereum infrastructure. And,"
+ ],
+ [
+  16,
+  278,
+  "if you look at this from this perspective, you can see that Ethereum foundation is less than 3% of the of the entire sum of treasuries. This"
+ ],
+ [
+  16,
+  288,
+  " has been calculated yesterday, so it's probably all up since since yesterday. Also, it does include only, like, on chain, treasuries. So it"
+ ],
+ [
+  16,
+  299,
+  " doesn't cover, for instance, projects which are VC backed or have some, like, off chain off off chain treasuries."
+ ],
+ [
+  16,
+  307,
+  "And, again, just to compare the the amounts, as you can see, in the last in the last slide, it was about $500,000,000 over two years. So let"
+ ],
+ [
+  16,
+  318,
+  "'s say $250,000,000 per year. Existing streams that, try to solve the problem of funding Ethereum outside of Ethereum foundation, such as, G"
+ ],
+ [
+  16,
+  329,
+  "itKind or or Octant,"
+ ],
+ [
+  16,
+  331,
+  "they are don't compare in magnitude, with, with, what Ethereum foundation is doing. So, basically, what we want to approach today is, the th"
+ ],
+ [
+  16,
+  341,
+  "e question of how open is being funded and how to coordinate this. This is goes beyond, of course, the, like, the the the numerical data I p"
+ ],
+ [
+  16,
+  351,
+  "resented, but, I'll give it now to,"
+ ],
+ [
+  16,
+  354,
+  "David or Sarah. Yeah. Thank you. So, you know, now that Andrew has established this is a challenge, and what we are looking for is a solutio"
+ ],
+ [
+  16,
+  367,
+  "n or how to the or answer to the question how to fund Ethereum forever. Right? So we recently came up with this"
+ ],
+ [
+  16,
+  377,
+  "sort of roadmap towards which talks about how we can do that. I also wanna give a shout out to my co author, Devanshu, who is not here, but,"
+ ],
+ [
+  16,
+  385,
+  " yes, shout out to him. So there are three steps that we have proposed. One is broad listening. Do you remember yesterday's session? So we t"
+ ],
+ [
+  16,
+  394,
+  "alked about broad listening, is inspired by Anno Takahiro's process that he did in Tokyo last year. And then the idea is once we do broad li"
+ ],
+ [
+  16,
+  402,
+  "stening, which we will dive deeper into and how we will do that, and can we use that to sort of surface what really needs funding, what is b"
+ ],
+ [
+  16,
+  410,
+  "eing currently funded, how we can add visibility to it. That will lead us to public good speed, which is like l two beat style dashboard, wh"
+ ],
+ [
+  16,
+  419,
+  "ich we will have, and then how that can lead to Ethereum pledge. Right? So"
+ ],
+ [
+  16,
+  423,
+  "we can use that to we wanna use that to actually sort of create transparency around who is funding what and then ask for pledge, which we wi"
+ ],
+ [
+  16,
+  432,
+  "ll talk more about. I wanna invite David to talk more about, broad listening. So broad listening comes from this really beautiful word coine"
+ ],
+ [
+  16,
+  441,
+  "d by Audrey. So just to give you a concept how you can imagine broad listening to be, so we had this broadcasting phase in February where pe"
+ ],
+ [
+  16,
+  450,
+  "ople just talk and overwhelm people with information."
+ ],
+ [
+  16,
+  453,
+  "That is quite now what's happening in February and broad listening is leveraging technology to make sense of all the unstructured data, not "
+ ],
+ [
+  16,
+  463,
+  "just, simply surveys, but YouTube videos, content in the forum to make sense of what's been discussed. And one example, for example, is here"
+ ],
+ [
+  16,
+  472,
+  ", the discussion on UF in the video magician forum. So this is a tool called talk to the city that we"
+ ],
+ [
+  16,
+  479,
+  "download the whole form and make sense of what has been discussed. Maybe a live demo also clarifies how this kind of looks like. So this was"
+ ],
+ [
+  16,
+  488,
+  " a very hot topic before Petra where we discussed, okay, that you have is way too complicated and alternatively, you can of of course and yo"
+ ],
+ [
+  16,
+  497,
+  "u should go through the whole thing here and and make sense of it. Right? But what broad listening allows you to do is"
+ ],
+ [
+  16,
+  504,
+  "download the whole form, not just this form, everything Efume has ever talked about in every kind of corner of our ecosystem and use machine"
+ ],
+ [
+  16,
+  513,
+  " learning and technology to make sense of it. And here, for example, this is just a threat of the form. We can identify 25 people who have t"
+ ],
+ [
+  16,
+  522,
+  "alked about, about 18 subtopics, five main topics, and you can get a sense of every claim that has been done in this form in a sense making "
+ ],
+ [
+  16,
+  531,
+  "sense. And so that's a powerful tool to basically"
+ ],
+ [
+  16,
+  534,
+  "create understanding what we what Sejal mentioned, a heartbeat of our discussions and that is broad listening in in a nutshell. So let's tal"
+ ],
+ [
+  16,
+  546,
+  "k about the heartbeat. Thank you. So like I mentioned, you know, once we have done broad listening, right, so we have surfaced, okay,"
+ ],
+ [
+  16,
+  557,
+  "we've made sense of things which are, you know, which is infrastructure, which is really critical, what is getting funded. It is extremely i"
+ ],
+ [
+  16,
+  565,
+  "mportant to create visibility on who is funding what. Right? And as we know, we don't currently don't have any sort of dash board or any pla"
+ ],
+ [
+  16,
+  572,
+  "ce where we can actually go and see, okay, what is arbitration funding to? Is it funding it? Congrats program. Is it funding, you know, its "
+ ],
+ [
+  16,
+  580,
+  "own dependencies or is it funding optimism?"
+ ],
+ [
+  16,
+  582,
+  "Who knows? Right? So that is the idea which we are already we are also inviting proposals, by the way, just in case anybody is interested to"
+ ],
+ [
+  16,
+  590,
+  " helping us build this. So please write to us and we can, you know, we can work together on building it. Right? So that would be the idea. A"
+ ],
+ [
+  16,
+  598,
+  "nd also, like, you know, another agenda for this is, like, creating this leaderboard style where you have the this reputational incentive"
+ ],
+ [
+  16,
+  606,
+  "where you want to be visible and you want to be probably on the top, which as an ecosystem that is funding public goods. Right? So this lead"
+ ],
+ [
+  16,
+  614,
+  "erboard sort of creates that for you, and it helps us identify what is getting overfunded or what is maybe, like, you know, getting which is"
+ ],
+ [
+  16,
+  622,
+  " an what is underfunded and basically surface those gaps. And so, yeah, that's phase two that we have proposed. And then phase three, which "
+ ],
+ [
+  16,
+  630,
+  "is Ethereum pledge."
+ ],
+ [
+  16,
+  631,
+  "So as we know, like, you know, Protocol Guild has a 1% pledge. So what we are proposing is that 1% of token airdrops goes to Protocol Guild "
+ ],
+ [
+  16,
+  640,
+  "and 2% of revenue goes to their dependencies. Right? So we are encouraging each ecosystem to sort of develop or deploy their dependency grap"
+ ],
+ [
+  16,
+  649,
+  "h and see what their products actually depend upon, and then pledge 2% of their revenue to their dependencies to their own dependencies. Rig"
+ ],
+ [
+  16,
+  658,
+  "ht? So this is very much possible, let's say,"
+ ],
+ [
+  16,
+  661,
+  "if we compare so this is an example we also mentioned in the proposal, like, you know, curve depends more on benefits more from Viper than s"
+ ],
+ [
+  16,
+  669,
+  "olidity, so it should fund Viper more. Right? So it is extremely important. This is what, you know, the next thing we wanna do, encourage ev"
+ ],
+ [
+  16,
+  678,
+  "ery ecosystem, work with them to deploy the dependency graph and get them to commit 2% of the revenue."
+ ],
+ [
+  16,
+  684,
+  "And making rec make it recurring. So as we all know, like, pledges, yes, great, but how do we move towards something which is more like in p"
+ ],
+ [
+  16,
+  692,
+  "rotocol mechanism, which Julian will talk more about probably in Octant v two that how do we make it sustainable. Right? So we don't have to"
+ ],
+ [
+  16,
+  700,
+  " again and again like just go and just ask for a pledge, but that is that is an extremely important starting point. So, yeah, this is the th"
+ ],
+ [
+  16,
+  709,
+  "ree steps framework. We've, like, covered it in very short, but I would recommend you to go to ETH research"
+ ],
+ [
+  16,
+  715,
+  "forum. We have published the long blog which has all the details about what this is. And what's ah, okay. Did you wanna take the rest of thi"
+ ],
+ [
+  16,
+  724,
+  "s? I can take the rest of this. So we believe that the space of public goods funding and allocation mechanisms is super exciting and we want"
+ ],
+ [
+  16,
+  733,
+  " to make the space as cool as CK in our Efume ecosystem. And so we have support from Juan Benet, the founder of Protocol Labs to host the tw"
+ ],
+ [
+  16,
+  741,
+  "o weeks research residency"
+ ],
+ [
+  16,
+  743,
+  "on impact evaluators and this hopefully infinite loop of funding that can support Efume ecosystem. And so we are hosting this in July and Au"
+ ],
+ [
+  16,
+  752,
+  "gust of, this year in Iceland. You can apply now. The applications are open. And if you want to learn more tonight, we're hosting a paper an"
+ ],
+ [
+  16,
+  762,
+  "d wine and cheese discussion night, where you can learn more about this. So highly encourage you guys if you're interested to just join us a"
+ ],
+ [
+  16,
+  771,
+  "nd discuss."
+ ],
+ [
+  16,
+  772,
+  "Over to Julian. Thank you. Okay. So this is, like, a starting point. So so although, like, a Bernie Sanders is is is probably not the figure"
+ ],
+ [
+  16,
+  788,
+  " that you would associate with the libertarian approach to dealing with things. This is actually what probably,"
+ ],
+ [
+  16,
+  800,
+  "like, libertarians would tell you on funding things like core Ethereum infrastructure. So if this is, like, a dependency for a lot of busine"
+ ],
+ [
+  16,
+  812,
+  "sses, let those businesses organize and fund it, voluntarily, of course. And while there might be a lot of problems with leaving that proces"
+ ],
+ [
+  16,
+  824,
+  "s to, like, just"
+ ],
+ [
+  16,
+  825,
+  "random, processes or the pure market forces, I actually think there's some point into that in a way that in this beautiful space of ours, wh"
+ ],
+ [
+  16,
+  839,
+  "atever system, long term system we want to to build to finance Ethereum, it has to be consensual"
+ ],
+ [
+  16,
+  849,
+  "and it has to be voluntary, it has to be opt in system. So so I don't think maybe I'm wrong, but also I'm not in a position to take that dec"
+ ],
+ [
+  16,
+  860,
+  "ision. But I don't think that there is any possibility of Ethereum, like, forking into the world when there is, like, a 20%, fee on the gas "
+ ],
+ [
+  16,
+  870,
+  "fee, which is, like, a tax going to Ethereum foundation. Like, Those things were discussed and dismissed and this is not the world we live i"
+ ],
+ [
+  16,
+  881,
+  "n."
+ ],
+ [
+  16,
+  881,
+  "Yet, if our diagnosis is that if we do not do anything, the there will be at least dramatical shift in how things are organized because prob"
+ ],
+ [
+  16,
+  892,
+  "ably someone with the with the biggest war chest will just take over funding, then probably we should we should try to think collectively as"
+ ],
+ [
+  16,
+  903,
+  " Ethereum space on, like, how we can organize ourselves to to to do that funding."
+ ],
+ [
+  16,
+  910,
+  "And to not be Client teams or research teams are going around and asking again for your financial support. So so while I think that the syst"
+ ],
+ [
+  16,
+  922,
+  "em should be consensual, I don't think it should be like that. This is this is not a good model. So, when I thought, like, how I could prese"
+ ],
+ [
+  16,
+  934,
+  "nt you our ideas, I decided to use a deck that we actually use already for for a couple of months to talk to organizations that we want to j"
+ ],
+ [
+  16,
+  947,
+  "oin the system."
+ ],
+ [
+  16,
+  948,
+  "So so so this is like a when when there are, like, a things that are saying to you, what's the value proposition? This is not really a value"
+ ],
+ [
+  16,
+  958,
+  " proposition to you. This is the value proposition to to to these people Bernie is asking. Right? So those who who have, like, all the money"
+ ],
+ [
+  16,
+  967,
+  ", but at the same time, like, we are doing that to not have to ask all the time, but to possibly ask ask only once."
+ ],
+ [
+  16,
+  975,
+  "So, like, what's the what's the what's the value proposition here? So so, like, the the of course, the strapline here is that you you can ge"
+ ],
+ [
+  16,
+  985,
+  "t more from what you have for your ecosystem and for broader Ethereum ecosystem. And, like, we are we are here already in a way that we are "
+ ],
+ [
+  16,
+  994,
+  "doing that with Octane v one. So so so they can Octane v one is basically mostly experimentation"
+ ],
+ [
+  16,
+  1001,
+  "and also, use case for for GLM token, thanks to which this is all possible. And we are staking ETH. We are using that ETH that we are using "
+ ],
+ [
+  16,
+  1012,
+  "proceeds from the staking for community activation for individual rewards for token holders who participate in the system and as the matchin"
+ ],
+ [
+  16,
+  1024,
+  "g funding for"
+ ],
+ [
+  16,
+  1025,
+  "funding the commons of Web three, and also not only Web three, the last round was actually about climate. The next will be about, like, core"
+ ],
+ [
+  16,
+  1034,
+  " Ethereum and Ethereum infrastructure. And in numbers, we deployed 5,000,000, so I think like, even more right now because that is, like, a "
+ ],
+ [
+  16,
+  1044,
+  "couple of months old to web three, projects. And Octant v one was an experiment, and what we want to do now is about scale. So, basically, w"
+ ],
+ [
+  16,
+  1053,
+  "e want to turn that into protocol that other organizations can also use to to to to to activate that funds"
+ ],
+ [
+  16,
+  1060,
+  "and do things. And I I think that, as we are not in the position to create money and burn money, unfortunately, although we have some cool i"
+ ],
+ [
+  16,
+  1072,
+  "deas I will talk later about, we are thinking about capital accumulation and capital deployment process. Because, basically,"
+ ],
+ [
+  16,
+  1083,
+  "if you if you do funding, there are two problems you have to solve. First, you have to get, like, a money from somewhere. And then if you ha"
+ ],
+ [
+  16,
+  1091,
+  "ve capital, you can, like, make that sustainable by using yield. Basically, like how, like, I don't know, US universities or charities are d"
+ ],
+ [
+  16,
+  1098,
+  "oing by using the principle. And then you have to have some allocation mechanisms. So so, basically, something that will tell you how to dep"
+ ],
+ [
+  16,
+  1106,
+  "loy that, that that that that capital. And by by the way, this exploratory process that we talked about before is is part of the they can an"
+ ],
+ [
+  16,
+  1113,
+  "swer to that question, like a research that will help with answering that question."
+ ],
+ [
+  16,
+  1118,
+  "And and and and we believe that at the moment, all those funding mechanisms are pretty broken if we look at our space, Ethereum space. I'm n"
+ ],
+ [
+  16,
+  1128,
+  "ot talking about the whole world, but but but this is not great in the in the whole world as well. So so projects have, like, a rather limit"
+ ],
+ [
+  16,
+  1138,
+  "ed, resources, although very huge war chests. So this is, a kind of, like, a illusion that,"
+ ],
+ [
+  16,
+  1145,
+  "like, because runway is is very, very long, you have illusion that it is infinite. And I think that, for example, like, for you know, I'm no"
+ ],
+ [
+  16,
+  1154,
+  "t part of the ETRM foundation, but I I I think, like, a few years back, they they could take a think a little bit like that as well. I don't"
+ ],
+ [
+  16,
+  1162,
+  " know, but that's my, That that that that's what I suspect because they could they could"
+ ],
+ [
+  16,
+  1168,
+  "look at, like, what would happen, like, three, four years ago. Like, ETH was, like, two times higher. Then now the treasury was larger. Prob"
+ ],
+ [
+  16,
+  1176,
+  "ably, the expenditures were lower because, like so like, if you multiply like that, it's probably the runaway was much longer than than than"
+ ],
+ [
+  16,
+  1185,
+  " it is now. So so so so this is like a those even if you have a lot, it doesn't mean that you you you can fund yourself fund yourself foreve"
+ ],
+ [
+  16,
+  1193,
+  "r."
+ ],
+ [
+  16,
+  1193,
+  "And, also, treasuries miss out on yield, very often. Like, we see that, everywhere, not all of them, but many of them. Also, actually, for E"
+ ],
+ [
+  16,
+  1203,
+  "thereum Foundation, this is like good there are good reasons to miss miss out on yield. So if you start to participating in a DeFi protocol,"
+ ],
+ [
+  16,
+  1213,
+  " then you are somehow opinionated about about things. But, on on that on"
+ ],
+ [
+  16,
+  1218,
+  "all in all, I think this is, a good decision that Ethereum Foundation recently started deploying some of the capital to some yield generatin"
+ ],
+ [
+  16,
+  1226,
+  "g strategies. Right? They they think this is they they should do that regardless of some possible doubts around neutrality. The the good que"
+ ],
+ [
+  16,
+  1234,
+  "stion is about staking, if Ethereum conditions should stake, and there are, like, good and bad arguments. There are good arguments there are"
+ ],
+ [
+  16,
+  1242,
+  " good arguments for both, like, staking and not staking. Like"
+ ],
+ [
+  16,
+  1246,
+  "so, like, what how we think this problem should be attacked is that on the one hand, you activate your capital as this capital holder. On th"
+ ],
+ [
+  16,
+  1258,
+  "e other hand, you activate your community to to take part in this, like, allocation process, so to decide, like, how how the funds are are l"
+ ],
+ [
+  16,
+  1269,
+  "ocated. Yeah. I said that. So,"
+ ],
+ [
+  16,
+  1272,
+  "basically, the value proposition that we want to present to projects with that ECRM ecosystem projects that have large treasuries is that th"
+ ],
+ [
+  16,
+  1283,
+  "ey stay in control of the principal capital, but they try to do what they can with like, Octane help to start earning yield on that and then"
+ ],
+ [
+  16,
+  1294,
+  " use that yield to fund"
+ ],
+ [
+  16,
+  1296,
+  "their communities and ecosystems. There is, like, some tokenomics baked into that, which I can talk more if we have time. If not, then this "
+ ],
+ [
+  16,
+  1306,
+  "is, this just additional value proposition. And basically, we are not asking them to do that for Ethereum. We are asking them to do that for"
+ ],
+ [
+  16,
+  1317,
+  " themselves. But then into that is"
+ ],
+ [
+  16,
+  1319,
+  "built something you could call a tax rate, and I will call it a tax rate for the sake of clarity, but this is like an up to tax rate. So bas"
+ ],
+ [
+  16,
+  1329,
+  "ically, the percentage of the yield that does not go to their things, but it goes to like a joint Ethereum sustainability fund. Then that ca"
+ ],
+ [
+  16,
+  1338,
+  "n be used by act by the act all the actors to fund things if you're across Ethereum ecosystem."
+ ],
+ [
+  16,
+  1345,
+  "And while this rate can be arbitrarily high, so so they could set it up at, like, a 90% or high 100% of the yield if they are not interested"
+ ],
+ [
+  16,
+  1354,
+  " in, for example, doing their stuff. The the minimum in the protocol is five only 5%. So you could say that this, like, 5% is kind of like a"
+ ],
+ [
+  16,
+  1364,
+  " tax rate while also it comes with the governance power in the in the in the in the Ethereum Sustainability"
+ ],
+ [
+  16,
+  1371,
+  "Fund, so not necessarily exactly, tax rate. Everything above that is is is voluntary. Yes. At at the same time, like, maybe I will skip that"
+ ],
+ [
+  16,
+  1381,
+  ". This is not that important, but, this is basically about, like, activating communities. So so what we do in in Ogden, but not necessarily "
+ ],
+ [
+  16,
+  1392,
+  "others will do that as well, that we are we are paying people for for participating."
+ ],
+ [
+  16,
+  1398,
+  "One reason for that, of course, is that this is thanks to, like, a GLM token and our treasury, so so that that this is, a kind of, like, a g"
+ ],
+ [
+  16,
+  1408,
+  "ain they have in return for this money being used for that purpose. But also, we try to, at least, somehow help with solving, like, old gove"
+ ],
+ [
+  16,
+  1418,
+  "rnance problem of not participating. So so, basically, we talk people into"
+ ],
+ [
+  16,
+  1423,
+  "locking their GLM to participate in the system. And when they lock what they get, they get the share of the staking revenue, which then they"
+ ],
+ [
+  16,
+  1431,
+  " can use either for claiming that for themselves or donating to the project or both. And those donations then used to calculate the the matc"
+ ],
+ [
+  16,
+  1440,
+  "hing funding that the projects will receive. So the trick is that if they don't come to take that decision, they get nothing."
+ ],
+ [
+  16,
+  1447,
+  "So if even if you are not interested in funding projects and you want to take everything to yourself, you you you are free to do that, but y"
+ ],
+ [
+  16,
+  1457,
+  "ou have to come and you have to do that. It will not accumulate over time. So so if you miss this, like a governance window when the decisio"
+ ],
+ [
+  16,
+  1467,
+  "n is taken, then, sorry, no money for you. Okay."
+ ],
+ [
+  16,
+  1471,
+  "Now this this is, like, a quite technical, so maybe I will skip that. I will come back to that if if if there are any any any any any furthe"
+ ],
+ [
+  16,
+  1481,
+  "r questions or doubts. Maybe now I will start come back to that slide and we'll open the floor. Unless you want to talk about Bitcoin a litt"
+ ],
+ [
+  16,
+  1491,
+  "le bit? Sure. Because my sincere belief is that even if you are successful in gathering a a lot"
+ ],
+ [
+  16,
+  1498,
+  "enough capital for for Ogden to be somehow relevant to to help with the ETRN development, I also think we need, like, many solutions. So so "
+ ],
+ [
+  16,
+  1506,
+  "so so this is very important. Also because, like, if we have more than one, it is harder to capture by whoever would like to try to capture "
+ ],
+ [
+  16,
+  1514,
+  "it. Thanks, Julian. I can just talk about it. We don't have slides for Gitcoin. I do wanna give a disclaimer. I'm not affiliated with Gitcoi"
+ ],
+ [
+  16,
+  1522,
+  "n anymore. But"
+ ],
+ [
+  16,
+  1523,
+  "yeah. So who knows Gitcoin? Oh, great. Pretty much everyone. Great. So Gitcoin has, like Julian talked about in his slides, there are two si"
+ ],
+ [
+  16,
+  1531,
+  "des of public goods funding. One is capital allocation, which is like how do you allocate capital. But the other side, which is actually bef"
+ ],
+ [
+  16,
+  1540,
+  "ore capital allocation, is capital accumulation or capital formation. Right? Where does this capital come from? So, Gitcoin three point o, w"
+ ],
+ [
+  16,
+  1548,
+  "hich is actually a recent,"
+ ],
+ [
+  16,
+  1550,
+  "sort of vision that Waki has released, I would highly encourage everyone to check it out. The idea with Gitcoin three point o is, like, firs"
+ ],
+ [
+  16,
+  1557,
+  "t, we do sense making, which actually very well complements broad listening, which is, how do we really understand what are the biggest prob"
+ ],
+ [
+  16,
+  1564,
+  "lems in the Ethereum ecosystem? What are the projects that actually need funding? Right? Because that's one of the big critique that we have"
+ ],
+ [
+  16,
+  1571,
+  " had in Gitcoin RANS program, that the projects that are getting funded"
+ ],
+ [
+  16,
+  1575,
+  "are not relevant or maybe should not be funded, like so, you know, that is one, sense making. And second is that, you know, instead of just "
+ ],
+ [
+  16,
+  1584,
+  "letting one mechanism to dominate, which is, let's say, quadratic funding or in fact, for that matter, deep funding, how we can create a sys"
+ ],
+ [
+  16,
+  1593,
+  "tem where anyone can propose a mechanism that they have built or they want to build."
+ ],
+ [
+  16,
+  1598,
+  "And so they have to do sense making and identify a set of projects they wanna fund, and then they propose a mechanism which they want to use"
+ ],
+ [
+  16,
+  1607,
+  " to fund those projects. Right? And then there will be sort of a voting process which the projects or the builders will go through where the"
+ ],
+ [
+  16,
+  1616,
+  "y will sort of be selected for the category and the mechanism that they have proposed, and then we will run the round. Right? So,"
+ ],
+ [
+  16,
+  1625,
+  "yeah, that is Gitcoin three point o and I think it it's very complementary. Like, Octant is focused on capital accumulation which is extreme"
+ ],
+ [
+  16,
+  1634,
+  "ly important. And then we have mechanisms, a variety of mechanisms that can be used for capital allocation. But, yeah, I think just wanna ma"
+ ],
+ [
+  16,
+  1643,
+  "ke sure, like, you know, we it's like I feel a lot of sense of urgency"
+ ],
+ [
+  16,
+  1647,
+  "that we have to work on capital accumulation side of things. Right? And hence, this roadmap, these frameworks, and some of these initiatives"
+ ],
+ [
+  16,
+  1660,
+  " where we just wanna try it out and see where this can lead. Yeah. So that is Gitcoin and happy to answer any questions around that. But, ye"
+ ],
+ [
+  16,
+  1672,
+  "ah, thank you. Open for questions. I'd like to know the tech infrastructure behind this and the skip slides, please."
+ ],
+ [
+  16,
+  1683,
+  "I wanted to know what the skip slides wanted to share and more information on tech infrastructure. Yeah. Sure. So the the the the last infra"
+ ],
+ [
+  16,
+  1694,
+  "structure is actually about the, impact bonds, which, by the way, now we call allocation bonds because we thought the impact bonds are confu"
+ ],
+ [
+  16,
+  1705,
+  "sing. So I I think you you you you would like more about the Octant model. Right?"
+ ],
+ [
+  16,
+  1711,
+  "Like okay. So the the the the architecture is highly modular. So so so so, like, the the basic concept is the the DragonVault. Okay. It's it"
+ ],
+ [
+  16,
+  1727,
+  "'s on the left. Yeah. Yeah. Yeah. Dragon Vault. So so this is this is where the the capital,"
+ ],
+ [
+  16,
+  1737,
+  "of of of the Dragon comes. And, like, Dragon has a full control. Under that. Like, it decides on the capital allocation strategies that are "
+ ],
+ [
+  16,
+  1747,
+  "that if you DeFi protocols, it's taking, like, anything that can be done on chain, in in a non custodial way. So so this is, like, not gover"
+ ],
+ [
+  16,
+  1758,
+  "ned in any way by by Octant."
+ ],
+ [
+  16,
+  1760,
+  "And then there is, like, a Dragon router, which is basically, like, where the where the money comes into the system. It is splitting accordi"
+ ],
+ [
+  16,
+  1769,
+  "ng to, like, how Dragon decides to split that into funding pools. So this is, how Dragon oh, sorry. You put drag Dragon funding pool, which "
+ ],
+ [
+  16,
+  1777,
+  "is like a like a like where the like a Dragon does, their own stuff. So so this is everything that is related to Dragon ecosystem funding."
+ ],
+ [
+  16,
+  1786,
+  "And, like, that could be something, like, exactly like Ogdent. If if if if Dragon decides to do, like, the the Ogdent way, that could be som"
+ ],
+ [
+  16,
+  1794,
+  "ething, like, quite different depending on the allocation, the kinds they want to use, the governance structure they want to use for the com"
+ ],
+ [
+  16,
+  1802,
+  "munity. So that could be something like we do. So so we basically use the, very simple token locking contract, and then we we measure,"
+ ],
+ [
+  16,
+  1810,
+  "like, how the tokens are locked over time. So just to make sure that you have, like, your tokens locked over the full epoch and they are sti"
+ ],
+ [
+  16,
+  1818,
+  "ll locked at the end of the epoch. And if they are locked for the full epoch, then you have, like, a full voting rights, like, in like, whic"
+ ],
+ [
+  16,
+  1827,
+  "h are, in fact, represented by your share of the yield. So so, like, in practice, you just get some ETH from staking, and then you, like, vo"
+ ],
+ [
+  16,
+  1835,
+  "te with this ETH by donating them."
+ ],
+ [
+  16,
+  1837,
+  "And, like, if you decide to just get them for yourself, this is leaner because you you you you you get as much as you would draw. If you dec"
+ ],
+ [
+  16,
+  1846,
+  "ide to use them for donating, it is less than that because we we use basically, we use quite quite funding for for for for a number of reaso"
+ ],
+ [
+  16,
+  1854,
+  "ns, which, by the way, in this setting works quite well if if you if you understand that, like, a participation is gated because, like, befo"
+ ],
+ [
+  16,
+  1863,
+  "re you can even participate, you have to, like, have to lock those tokens and generate that reward."
+ ],
+ [
+  16,
+  1869,
+  "And then the the share the some part of that yield goes to sustainability pool. And sustainability pool is where all the, like, magic, happe"
+ ],
+ [
+  16,
+  1879,
+  "ns with funding Ethereum. Now sustainability pull is a little bit tricky because we have a lot of ideas and a lot of, like, already built te"
+ ],
+ [
+  16,
+  1890,
+  "ch, how that will be managed,"
+ ],
+ [
+  16,
+  1892,
+  "but that actually highly does depends on this, like, exploratory phase. So while I would say that that a year ago when we, like, really star"
+ ],
+ [
+  16,
+  1901,
+  "ting, like, a full speed ahead, like, designing that and working on that, our thinking was very much in the in the grant setting. Now we are"
+ ],
+ [
+  16,
+  1910,
+  " more evolved into, like, a streamed funding setting because it seems that for infrastructures funding, for research funding, this is actual"
+ ],
+ [
+  16,
+  1919,
+  "ly much, much better."
+ ],
+ [
+  16,
+  1920,
+  "But how it will actually look like will depend on two things, but three things. First, the results of this exploratory phase, then, like, th"
+ ],
+ [
+  16,
+  1930,
+  "e how we will constitute dragons. Dragons are those those those entities that participate in the system called how Dragons decide to set up "
+ ],
+ [
+  16,
+  1941,
+  "the governance of of of things."
+ ],
+ [
+  16,
+  1943,
+  "And then finally, the on the on the on the round on the round operator. So round operator is like a like a role, like a hat, like how how pe"
+ ],
+ [
+  16,
+  1952,
+  "ople in in hats protocol would would call it, is is a role of the that that defines how the, funding is done in a given moment from sustaina"
+ ],
+ [
+  16,
+  1961,
+  "bility pool. Because, like, we don't want that to be done by any of the dragons. We want, like, a third party that is, like, where where whe"
+ ],
+ [
+  16,
+  1971,
+  "re dragons delegate that to. And then at the end of the day, there will be some governance rights"
+ ],
+ [
+  16,
+  1977,
+  "over the spending itself inherited from, like, how the how the governance looks looks in the Dragon funding pool. Now most of it will work o"
+ ],
+ [
+  16,
+  1988,
+  "n Ethereum l one, if this is also part of the question. Depending on, like, who exactly are the dragons, where are they tokens, where is the"
+ ],
+ [
+  16,
+  1999,
+  " yield, some parts might might also be somewhere else. But but, basically, like, most of it will be on on on l one."
+ ],
+ [
+  16,
+  2008,
+  "Thank you very much. I'm wondering a little bit about taxation. You mentioned before that the projects could be funded by kind of a tax. So "
+ ],
+ [
+  16,
+  2017,
+  "yeah, I'm I would like if you could tell a little little bit more about that, that would be great. I I I use the word tax because I wanted t"
+ ],
+ [
+  16,
+  2027,
+  "o, like, provoke a little bit. Actually, in in documentation"
+ ],
+ [
+  16,
+  2031,
+  "and in our decks, we don't use tax anywhere. But, like, what what what could be considered tax is this. So so so, basically, what part of th"
+ ],
+ [
+  16,
+  2045,
+  "e of the yield is is is passed through the sustainability pool. And we enforce that to be at at least 5%."
+ ],
+ [
+  16,
+  2055,
+  "So when you when you generate yield and you stream it to your Dragon Rooter, so basically, this is, like, the funds that are to your decisio"
+ ],
+ [
+  16,
+  2065,
+  "n entering Octant. And at least five of this 5% of this of of these funds goes to, like, Ethereum ecosystem funding through sustainability p"
+ ],
+ [
+  16,
+  2074,
+  "ool. And the rest goes to your Dragon funding pool. So, basically, you use them the that funds for your own stuff."
+ ],
+ [
+  16,
+  2082,
+  "Does it answer your question? Or Yeah. Not I don't know if you're sure. Basically, the funds that coming from the where where does the the f"
+ ],
+ [
+  16,
+  2091,
+  "unds come from? Mhmm. Okay. That are taxed. I definitely tax is a fine name. Imagine that you are, like, a famous old ICO project. Right? An"
+ ],
+ [
+  16,
+  2101,
+  "d you have, like, the bazillion of, like, a coins out from the old days Yeah. Which are now worth something because, like, they are still wo"
+ ],
+ [
+  16,
+  2110,
+  "rth something."
+ ],
+ [
+  16,
+  2111,
+  "And we are coming to you then. And if you are telling, you know, you can use those funds to do stuff. Just enter, like, the yield generating"
+ ],
+ [
+  16,
+  2119,
+  " strategy, which is, by the way, not created by us because this is, like, something like Aave or, like, a ETH staking or or or whatever else"
+ ],
+ [
+  16,
+  2127,
+  " there is around to, like, generate yield in DeFi. There's, like, a lot of stuff, actually, to to generate yield and some of this stuff is l"
+ ],
+ [
+  16,
+  2135,
+  "ike a really, really, really low"
+ ],
+ [
+  16,
+  2137,
+  "risk. Like, in staking, for example, is like a if you're thinking ETH, it's almost zero risk if you if you only do that, like, correct. So s"
+ ],
+ [
+  16,
+  2147,
+  "o so so this is this is this part. So and then you have the yield and like, okay, let's assume this like old famous project says, okay, we w"
+ ],
+ [
+  16,
+  2156,
+  "ill put like a 10,000 ETH into that."
+ ],
+ [
+  16,
+  2159,
+  "And then there is the next stage, okay, you put 10,000 ETH, Here comes the yield. And now, you know, dear dragon of that yield, we will take"
+ ],
+ [
+  16,
+  2168,
+  " away from you minimum 5%, which could be called tax to fund Ethereum. But, you know, by the way, if you don't know what to do with the rema"
+ ],
+ [
+  16,
+  2176,
+  "ining 95%, you are welcome to increase that even to 100%. Or maybe like two years forward,"
+ ],
+ [
+  16,
+  2182,
+  "people will see that if they do not, like, contribute more, there will be serious problems. And then well, then we'll come a little bit back"
+ ],
+ [
+  16,
+  2191,
+  " to this first slide situation and we will be going around or maybe not we, maybe like someone else, we'll be going around around as you kno"
+ ],
+ [
+  16,
+  2200,
+  "w, make this like a not 5%, but 25% and then we will save the day. Yeah. Thank you. Then it's very interesting to close the circle in the en"
+ ],
+ [
+  16,
+  2209,
+  "d. Yeah. But yes."
+ ],
+ [
+  16,
+  2210,
+  "Hi. Am in campus on chain. I make a talk the last day, and three persons say me that I should speak with Octane. That is you, and now I see "
+ ],
+ [
+  16,
+  2221,
+  "why. We are making so we are so it's like this is the you are solving our problem. That's the thing. We are making talks with PISA in univer"
+ ],
+ [
+  16,
+  2231,
+  "sities every week. Yeah. Like, every week, talks with PISA. Talk with PISA for the students."
+ ],
+ [
+  16,
+  2238,
+  "Yeah. And the view the dream of Samsung change, like, about treasury making yield. And have one person in an office sending money to all the"
+ ],
+ [
+  16,
+  2249,
+  " pieces around the world to all the universities around the world for make talks with piece about blockchain in their universe. Yeah? That l"
+ ],
+ [
+  16,
+  2261,
+  "ooks great. So"
+ ],
+ [
+  16,
+  2262,
+  "the platform, who what is the the tutorial or the mini workshop for for create a pool? How is how developed is the platform, like, on that t"
+ ],
+ [
+  16,
+  2273,
+  "hat is what is deployed? What's how Are you asking where we are right now? Right? Yeah. Please. Okay. If you want, if you have time. So so s"
+ ],
+ [
+  16,
+  2283,
+  "o as for the do I have it's not my computer. There is, like is there, like, a browser here?"
+ ],
+ [
+  16,
+  2290,
+  "Where I am? You can just new tab. Anyway, sorry for opening someone's tab. So so you could say that the the the basic thing is here in a way"
+ ],
+ [
+  16,
+  2317,
+  "as for, like, the ones instance, like, instances of of of one Dragon. Because, like, at the moment, Ogden is Golden Foundation, and the Gold"
+ ],
+ [
+  16,
+  2326,
+  "en Foundation is Ogden, effectively. So so so this is this is what we do. So so so you you can, like, participate that in that our way, conn"
+ ],
+ [
+  16,
+  2335,
+  "ect wallet, like, block DLM. Here are the projects that were funded in the in the last rounds."
+ ],
+ [
+  16,
+  2341,
+  "Actually, the rust the last round was the only thematic round we ever had, so it was climate. Gain gain for us this year, for example. Small"
+ ],
+ [
+  16,
+  2351,
+  " board. And here is, for example, epoch six archives. So we have, like, a top winner was l two b. They get them both private gold, revoke ca"
+ ],
+ [
+  16,
+  2361,
+  "che, and and and and and and so on. So so as for the a way, we are live."
+ ],
+ [
+  16,
+  2366,
+  "As for v two, let me come back to the even here. This is a new browser. It's a little bit annoying. Oh, here. Yeah. Sorry."
+ ],
+ [
+  16,
+  2392,
+  "I missed that. Anyway, you where is full screen? Okay. Doesn't matter. Top right in the slideshow. Okay. I see. Yeah. Team transition. Okay."
+ ],
+ [
+  16,
+  2413,
+  " Okay. As for the, v two,"
+ ],
+ [
+  16,
+  2417,
+  "so this this this part is is mostly done. It is already outdated and untrained. The rest, we are still working on. Like, the we are working "
+ ],
+ [
+  16,
+  2428,
+  "we are still working on a smart contract and and front ends for that. The plan is to have it outdated somewhere in the summer and deployed b"
+ ],
+ [
+  16,
+  2438,
+  "y the end of q three or the beginning of q four at the latest, but, you know, how it is with the software projects."
+ ],
+ [
+  16,
+  2447,
+  "Question. So, yeah, thanks for the presentation. I think that's an incredibly, valuable project, and it makes a lot of sense of course to us"
+ ],
+ [
+  16,
+  2455,
+  "e foundations tokens and it's quite noble of the Golomb Foundation to to do this. Still, I think I don't think this is like the ultimate lon"
+ ],
+ [
+  16,
+  2464,
+  "g term solution of using tokens lying around. So what is your thoughts on solving the long term funding"
+ ],
+ [
+  16,
+  2470,
+  "of public goods in the long term when also the most valuable projects they will want like steadiness. They want predictable income for many "
+ ],
+ [
+  16,
+  2480,
+  "years to retain talent and and make sure they give high quality outputs. And these quite like volatile tokens could could not really serve t"
+ ],
+ [
+  16,
+  2491,
+  "hat purpose. And so who do you think is sort of a coalition of the billing that is"
+ ],
+ [
+  16,
+  2497,
+  "committing and overcoming the free writing problem to because someone will have to pay. Right? And who is that group that is really solving "
+ ],
+ [
+  16,
+  2506,
+  "this extremely hard problem which is coming which we'll face in a few years only. We don't have much time. Okay. I I I I I will start with t"
+ ],
+ [
+  16,
+  2515,
+  "he last question, I think. So so, you know, we we are doing, a business development effort in a in a way. This is, a very strange business d"
+ ],
+ [
+  16,
+  2524,
+  "evelopment because we are not really selling"
+ ],
+ [
+  16,
+  2527,
+  "to get profit in a way. So so so you can see that as the the altruistic effort by the by the foundation on the one hand. On the other hand, "
+ ],
+ [
+  16,
+  2537,
+  "I believe that Ogden's success will ultimately somehow trans translate into the success of the tokens of participating parties through this,"
+ ],
+ [
+  16,
+  2548,
+  " like, a basket token mechanics."
+ ],
+ [
+  16,
+  2550,
+  "They can they can talk a little bit about that. But, regardless of that, like, the at the end of the day, how the voting is gated is up to t"
+ ],
+ [
+  16,
+  2564,
+  "he specific, Dragon, specific capital provider. So so, of course, our yield distribution is and always will be related to DLM"
+ ],
+ [
+  16,
+  2576,
+  "because, you know, like, in my, world, this is, our liability. So we we did that grand funding years ago. We collected a lot of ETH. We gave"
+ ],
+ [
+  16,
+  2587,
+  " people tokens. So, like, I see that even if this is legally not exactly like that, but, like, I think, like, morally, like, this this, this"
+ ],
+ [
+  16,
+  2599,
+  " is like a liability against"
+ ],
+ [
+  16,
+  2601,
+  "this eth asset. So this is why it has to be done that way. But then if you are, like, a prominent l two and you, for example, use part of th"
+ ],
+ [
+  16,
+  2610,
+  "e, sequencer fees as a yield generating strategies, is like a perfect deal, right, this is how you can also generate yield, Then in in pract"
+ ],
+ [
+  16,
+  2619,
+  "ice, you are free to set that they did to gain that cover governance in whatever way. You can just have, like, delegates that you will go gi"
+ ],
+ [
+  16,
+  2628,
+  "ve, like, a some some kind of, like, a badges, and they will and they will vote on on how this is get distributed for that part of the funds"
+ ],
+ [
+  16,
+  2637,
+  ". So"
+ ],
+ [
+  16,
+  2637,
+  "and then even more importantly to the stability question. This this voting or allocating of funds, it works great for grant rounds. I don't "
+ ],
+ [
+  16,
+  2650,
+  "think it will work that great for, for example, like a streaming, funding, which is what is needed for stability."
+ ],
+ [
+  16,
+  2660,
+  "So for example, like, the the ideas we we have at the moment around that. So so let's imagine the world when we create a budget that of the "
+ ],
+ [
+  16,
+  2670,
+  "of the of the of the many, many projects that would need to be funded to sustain Ethereum. And then you have some kind of, like, the, stream"
+ ],
+ [
+  16,
+  2680,
+  " created from all the funds to all those projects."
+ ],
+ [
+  16,
+  2684,
+  "And I'm quite sure that the stream will not be big enough to cover all they needs all the time. So then you can use this, like, a voting mec"
+ ],
+ [
+  16,
+  2694,
+  "hanics to decide, like, who is better covered than the other. So so, like, we are not we are not able to solve everyone's problem, but we ar"
+ ],
+ [
+  16,
+  2704,
+  "e deciding through that governance how much of the problem we will solve solve for whom. And that way, if we think that that depend"
+ ],
+ [
+  16,
+  2713,
+  "is more important, then perhaps we are able with this limited funding to solve, like, 100% of their funding problem. And the less important "
+ ],
+ [
+  16,
+  2722,
+  "dependency, maybe it's, a 50% of that problem. I think I overstretched a little bit myself, like, answering the question you haven't asked, "
+ ],
+ [
+  16,
+  2731,
+  "but that's it. I think my question was more where do these funds come from than than The value where it comes from."
+ ],
+ [
+  16,
+  2739,
+  "Yeah. Like, beyond yield staking. Like It it comes exactly from there. I mean yeah. And I mean, this is also in the interest someone paying."
+ ],
+ [
+  16,
+  2747,
+  " Like, someone has the funds and they give up on the yield and just donate the yield. Yes. So that's a form of donation. So we can also talk"
+ ],
+ [
+  16,
+  2756,
+  " about other forms of donation on the one end of the spectrum or a tax on the other end of the spectrum and and other forms of"
+ ],
+ [
+  16,
+  2763,
+  "Yes. Someone paying. But I'm just really curious who is the coalition of the willing to just at least discuss Oh, you mean like who is doing"
+ ],
+ [
+  16,
+  2775,
+  " that? So yeah. You know, I think that my suggestion would be, like, to just go to the to CoinMarketCap, like, a future projects by size and"
+ ],
+ [
+  16,
+  2788,
+  " by"
+ ],
+ [
+  16,
+  2788,
+  "being, like, the Ethereum related projects. And then you will know, like, who you are talking to. No. No. This is this is, like, the people "
+ ],
+ [
+  16,
+  2797,
+  "we are talking to. Like, you know, like, this is this is, a business development process. I cannot tell you right now, like, who you are tal"
+ ],
+ [
+  16,
+  2806,
+  "king with and how advanced we are because that can ruin this this process. You do not advertise that things until they are ready, but we are"
+ ],
+ [
+  16,
+  2815,
+  " talking to many."
+ ],
+ [
+  16,
+  2816,
+  "Yeah. Maybe I missed this part of the talk, but does this include yield from essentially like convertible grants? Like you give a grant to a"
+ ],
+ [
+  16,
+  2825,
+  " project and if they raise money, tokens go back to ecosystem that funded them, or is that not part of this? So this is something that's whi"
+ ],
+ [
+  16,
+  2835,
+  "ch is on this slide called impact bond. Okay. And, like, but we will call it allocation bond in the like, we now we are calling it allocatio"
+ ],
+ [
+  16,
+  2844,
+  "n bond. So if you if you by the way, we we recently published, like, the like, a quick quiet extensive description of all all that. So just "
+ ],
+ [
+  16,
+  2854,
+  "go to"
+ ],
+ [
+  16,
+  2854,
+  "x, to crypto Twitter, and check out octant. App account. There is, a long article on on how it's going to work. And there, it is called, lik"
+ ],
+ [
+  16,
+  2863,
+  "e, allocation bonds. And allocation bonds, the idea although this is, like, still something we haven't, like, nailed down just yet in one im"
+ ],
+ [
+  16,
+  2873,
+  "portant part. But, basically, that works that way. That that part of the funds that go to sustainability pool,"
+ ],
+ [
+  16,
+  2880,
+  "possibly also to dragons if they want to do that, but, you know, this is optional, is, like, allocated for the future. And then, like, whene"
+ ],
+ [
+  16,
+  2889,
+  "ver you, like, a take a decision that results in funding of the project, you get, like, a like, this impact bound. So sorry. Allocation boun"
+ ],
+ [
+  16,
+  2899,
+  "d that represents, like, how much you donated. And then after"
+ ],
+ [
+  16,
+  2903,
+  "a given period of time, I was actually thinking about the making that even, like, longer than a year, like, two years or three years, you ha"
+ ],
+ [
+  16,
+  2913,
+  "ve you start, like, a cyclical evaluation of the, of the performance of the project. Now, of course, this is, like, the critical question ho"
+ ],
+ [
+  16,
+  2923,
+  "w exactly you do that. And I think there are, like, a numerous ways. Like, in in fact, something that I think could work best would be,"
+ ],
+ [
+  16,
+  2933,
+  "using, like, a deep funding to explore what is the relevance of the projects relative to others. Because this is, like, a good setting for t"
+ ],
+ [
+  16,
+  2941,
+  "hat. You you have information on who get funded, how much was funded, and you can see, like, the history of those projects over the past yea"
+ ],
+ [
+  16,
+  2950,
+  "r or two. And then the only thing you cut you ask the evaluator is, like, did that project, like, performed better than the other given how "
+ ],
+ [
+  16,
+  2958,
+  "much it was funded?"
+ ],
+ [
+  16,
+  2959,
+  "And that's all. And then based on that, you you you you you do a payout of that, like, a spare allocation. But the thing is that you do not "
+ ],
+ [
+  16,
+  2968,
+  "give that to the projects because it doesn't make sense. Like, like, my my sincere con conviction is, like, this is my coming out, is that t"
+ ],
+ [
+  16,
+  2977,
+  "he retroactive, PGF does not make sense. Like, I I they I'm I'm strong"
+ ],
+ [
+  16,
+  2982,
+  "maybe not very strong, but I'm I'm kind of opponent, of it. But but I but but still, like, a prediction markets for the commons makes sense."
+ ],
+ [
+  16,
+  2994,
+  " So what we try to do here, we try to create a prediction market for for the results. So so people are incentivized to select to to to suppo"
+ ],
+ [
+  16,
+  3007,
+  "rt the most impactful projects, basically. You"
+ ],
+ [
+  16,
+  3011,
+  "don't. You have to do due diligence and, you know, and support the best teams who have the biggest chance of make of making the impact. Yeah"
+ ],
+ [
+  16,
+  3022,
+  ". But So who so is there any, like, dual kind of incentive for the one, like, betting saying, okay. This is gonna create more impacts than a"
+ ],
+ [
+  16,
+  3032,
+  "nother one. Mhmm. And then for the project creating impact itself? Or Okay. How is the model then? So so so the model is as follows. Like, t"
+ ],
+ [
+  16,
+  3043,
+  "hink"
+ ],
+ [
+  16,
+  3043,
+  "about, like, a, like, a stock stock market first. So so you today, decide whether you will buy, like, a stock of a company a, b, or c, and y"
+ ],
+ [
+  16,
+  3052,
+  "ou want to sell it in two years. Let's say this is your investment time. And then you do a due diligence and try to predict which of the com"
+ ],
+ [
+  16,
+  3060,
+  "panies will probably be, like, perform best over those two years. We'll give you, like, the biggest return. You can do that. Like, you have "
+ ],
+ [
+  16,
+  3069,
+  "data. You know, there is, like, a all those, like, a fancy tools,"
+ ],
+ [
+  16,
+  3073,
+  "specialists, like, investing house that will, like, give you information. Like, course, you may guess wrong, but you can try to do, like, th"
+ ],
+ [
+  16,
+  3081,
+  "e the details and you have financial motivation to do that because this is your investment. Now the problem with grants is that or grants ar"
+ ],
+ [
+  16,
+  3090,
+  "e like this kind of funding. It is not grant. That you're, like, giving money, and you will not get anything in return from that from that f"
+ ],
+ [
+  16,
+  3098,
+  "rom that from that company. So so from that project."
+ ],
+ [
+  16,
+  3101,
+  "So this is, like, a mechanism artiferously built on top of that to create, like, that kind of mechanics that you are rewarded if the if if t"
+ ],
+ [
+  16,
+  3115,
+  "his project is successful in impact. Sorry. We will do two more minutes. I'm sorry. Yeah."
+ ],
+ [
+  16,
+  3124,
+  "I just two minutes. No. Like, not two minutes. Two seconds. And what do you think about, like, the the experimentation with Footarkin optimi"
+ ],
+ [
+  16,
+  3134,
+  "sm? Yeah. I you know, like, I think every experimentation is is is is great. I didn't like, I I know about the experiment, but I really didn"
+ ],
+ [
+  16,
+  3145,
+  "'t dig into the results enough to have, like, a strong opinion. I formally took a strong opinion like publicly."
+ ],
+ [
+  16,
+  3153,
+  "I have a very easy question. At the beginning of Sehal's talk, there was an interesting picture there of Ethereum holding two things. Where "
+ ],
+ [
+  16,
+  3163,
+  "did that picture come from? A very famous picture and I'm wondering if you can explain the symbolism. Yeah. You put it in the dirt. Happy to"
+ ],
+ [
+  16,
+  3173,
+  ". Yeah. That's Does anyone know where this picture comes from?"
+ ],
+ [
+  16,
+  3177,
+  "Yeah. One, two, three. It comes from David Hoppe's initial formulation of the social contract and so and then I basically put it in Chechi P"
+ ],
+ [
+  16,
+  3191,
+  "ina asset to make it retro style pixel art Ethereum hat. That's it. But it's it's about the question of how can we steer the Leviathan."
+ ],
+ [
+  16,
+  3204,
+  "Right? The Leviathan being our state, our social contract, how can we make sure that it's properly steered by our community and that's the t"
+ ],
+ [
+  16,
+  3213,
+  "hat's the idea. It usually holds on the left side a sort, on the right side a power scepter. Is not like a ferry. It's not a ferry. Yeah. Th"
+ ],
+ [
+  16,
+  3222,
+  "is is not a question for David because it will be biased."
+ ],
+ [
+  16,
+  3226,
+  "As we know each other, I'm very curious how you define impact. Especially very fuzzy. And is it how what's the percentage between my repo is"
+ ],
+ [
+  16,
+  3237,
+  " very beautiful and look at all these dependencies versus IRL in that kind of logic? And, yes, Refi is cute, but please. Absolutely. I think"
+ ],
+ [
+  16,
+  3247,
+  " Not a question for David. I I kinda know what you will say. Okay."
+ ],
+ [
+  16,
+  3252,
+  "I I think I will say something similar or maybe not. So so, actually, like, both Andre and I, we we we worked quite a deal on on impact eval"
+ ],
+ [
+  16,
+  3265,
+  "uation, like a like a pre pre Ethereum, like, before 2014. And one of the takeaways is that, like, it's extremely hard to to to measure impa"
+ ],
+ [
+  16,
+  3278,
+  "ct."
+ ],
+ [
+  16,
+  3278,
+  "And I'm honestly, I'm I'm a fan of not very, like, a parametrized things or, like, a like, ad hoc things. So so so at the end of the day, I "
+ ],
+ [
+  16,
+  3288,
+  "believe that human doing a judgment about about by just doing research will almost like, when comparing to projects, for example this is why"
+ ],
+ [
+  16,
+  3299,
+  " I'm, like, a fan of deep deep,"
+ ],
+ [
+  16,
+  3301,
+  "deep funding. Like, a human doing a research and trying to compare it to projects will probably do almost always better than, like, if you h"
+ ],
+ [
+  16,
+  3310,
+  "ad, like, some parametrized metric, especially if that metric is known beforehand and you were to compare those two project based on those t"
+ ],
+ [
+  16,
+  3319,
+  "wo metrics. So or even like a collection of metrics. So so so that's my technique. That that does"
+ ],
+ [
+  16,
+  3325,
+  "not mean that, like, a quantitative analysis does not make sense. That it absolutely makes sense. But the thing is that you should not fixat"
+ ],
+ [
+  16,
+  3346,
+  "e on anything specific. Okay. Like, I think this is like a good time to to leave the stage. So thank you everyone for listening, and, like, "
+ ],
+ [
+  16,
+  3367,
+  "we are here if you have any more questions."
+ ],
+ [
+  16,
+  3373,
+  "Alright. Everybody, in just a couple minutes, this room is going to be you"
+ ],
+ [
   20,
   0,
   "So good morning everybody. We have an echo here. My name is Uwe. I'm delighted to introduce you to Swiss democracy, more particularly Swiss "
