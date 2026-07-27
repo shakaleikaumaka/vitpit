@@ -169,13 +169,14 @@
     "id": "1a_nzv_pCWcogLXNa0JGuXmucr3ZtfaDo",
     "kind": "video",
     "size": 2066284256,
-    "stream": true
+    "stream": true,
+    "hosted": "https://pub-3d88701638314a20ad2241ee26e6824f.r2.dev/audio/1a_nzv_pCWcogLXNa0JGuXmucr3ZtfaDo.mp3"
    }
   ],
-  "transcript": null,
-  "duration": null,
+  "transcript": "1a_nzv_pCWcogLXNa0JGuXmucr3ZtfaDo",
+  "duration": "00:59:23",
   "quality": "ok",
-  "transponder": false,
+  "transponder": true,
   "thumb": "thumbs/1a_nzv_pCWcogLXNa0JGuXmucr3ZtfaDo.jpg",
   "speakers": [
    "@anikojay"
