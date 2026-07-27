@@ -18085,6 +18085,2766 @@
   "w 11:30 here."
  ],
  [
+  33,
+  2,
+  "Alright. We're we're live here from Switzerland at our in our HQ. Today, I'm very proud to have Rohan Grey join us. Rohan is a law professor"
+ ],
+ [
+  33,
+  12,
+  " and leading leading advocate for public digital money. And he's known for his work on modern monetary theory as well and working with US po"
+ ],
+ [
+  33,
+  21,
+  "licymakers on financial privacy and digital currency legislation."
+ ],
+ [
+  33,
+  26,
+  "I've been a huge fan and follower of Rohan on X for many years, and I'm extremely excited to have him here in conversation and and have him "
+ ],
+ [
+  33,
+  34,
+  "introduce some of the things that he's passionate about to to this community. So, Rohan, I wanna say welcome to you and give you a chance to"
+ ],
+ [
+  33,
+  42,
+  " say any intro introductory words. Yeah. Well, first of all, thank you very much for having me. I don't think I've been particularly"
+ ],
+ [
+  33,
+  50,
+  "candid about what I think about the the acceleration as movement or the sort of vision behind trying to build a sort of crypto oriented worl"
+ ],
+ [
+  33,
+  57,
+  "d. I think it's rather largely delusional, but I appreciate the invitation to come and speak and chat about it all and to share, you know, a"
+ ],
+ [
+  33,
+  64,
+  " difference of perspective. And I also appreciate the modest donation to our nonprofit to continue educating around public money that that I"
+ ],
+ [
+  33,
+  72,
+  " that that, you know, you're paying for me to be here. So thank you for all of that."
+ ],
+ [
+  33,
+  76,
+  "I think it's quite good that you're doing this in Switzerland, the country that sort of gets claim it's sort of neutral and above the diffic"
+ ],
+ [
+  33,
+  83,
+  "ulties of politics only because a number of other countries that have large militaries decided it was in their interests to allow that neutr"
+ ],
+ [
+  33,
+  90,
+  "ality. A bunch of goat herders up in the mountains who are known for hiding Nazi gold might not be the best place to imagine a beautiful uto"
+ ],
+ [
+  33,
+  97,
+  "pia for the rest of us. But it is particularly maybe apropos for the same kinds of problems that I'll be talking about, which is to say unde"
+ ],
+ [
+  33,
+  104,
+  "rstanding history and power makes you kind of situate Switzerland a little bit differently. This is a country whose neutrality is only"
+ ],
+ [
+  33,
+  111,
+  "maintained because Napoleon, who who who took it over, decide you know, died, and then the other countries on the other side decided they di"
+ ],
+ [
+  33,
+  118,
+  "dn't need to continue in the same way as he did. I look at money historically, and and as someone that studied, you know, economics when I w"
+ ],
+ [
+  33,
+  126,
+  "as an undergraduate, and and back then, I studied what they call political economy. And and and when I went to a school, they had an economi"
+ ],
+ [
+  33,
+  133,
+  "cs department and a political economy department because the orthodox economists thought that the political economists were too radical and "
+ ],
+ [
+  33,
+  141,
+  "essentially iced them out. Right? These probably would be the kind of economists that today would claim that they care about free speech and"
+ ],
+ [
+  33,
+  148,
+  " science. But back then, they didn't wanna hear contrasting views, and so they just ignored them."
+ ],
+ [
+  33,
+  153,
+  "But back then, the idea was that, you know, that when I was a 17 year old and didn't know better, all of the mathematical equations and the "
+ ],
+ [
+  33,
+  161,
+  "algebraic formula and stuff for what we thought was rigorous and and sort of learning about history and qualitative analysis and the history"
+ ],
+ [
+  33,
+  168,
+  " of politics and things were seen as as as as sort of soft sociology adjacent. And, of course, now, being a law professor, I think of it ent"
+ ],
+ [
+  33,
+  176,
+  "irely the other way around. Anyone who's ever taken anthropology course will know it's extremely"
+ ],
+ [
+  33,
+  181,
+  "complicated to understand the nuances of qualitative analysis and and to situate what you're trying to do in the real world rather than in i"
+ ],
+ [
+  33,
+  188,
+  "n the fantasy world of your own making. And and so when I started looking at money, I I came to all of this during the global financial cris"
+ ],
+ [
+  33,
+  195,
+  "is. And like many people, was sort of a bit shocked to find out that people didn't know what the hell that they were talking about. You know"
+ ],
+ [
+  33,
+  202,
+  ", famously, the queen said, how did you all miss this? Right?"
+ ],
+ [
+  33,
+  205,
+  "And and for many of you may remember this and sort of, again, slightly ironic that we're doing this on a private platform hosted on x, but i"
+ ],
+ [
+  33,
+  213,
+  "t's it was back then the glory days of the the blogosphere. Everybody had their own website, and they were all largely free. And if you want"
+ ],
+ [
+  33,
+  220,
+  "ed to understand the debate, you would just go read one person, and then they'd be quoting another person and quoting another person. And so"
+ ],
+ [
+  33,
+  228,
+  " I kind of came very, very open eyed. I didn't have any priors in this respect. You know? I had studied political economy in a grand scheme "
+ ],
+ [
+  33,
+  235,
+  "of things, you know, Marx, Keynes, Galbraith, Polanyi, you know, Jevons, and and and Wallace, and all those kinds of people, and Smith, of c"
+ ],
+ [
+  33,
+  243,
+  "ourse, and Ricardo."
+ ],
+ [
+  33,
+  244,
+  "But coming to this sort of question of what is money, ironically, was something I hadn't thought about yet. And and so I listened to all the"
+ ],
+ [
+  33,
+  251,
+  "se different views and eventually came to a group of people and started going, you know what? They're making more sense than anybody else. Y"
+ ],
+ [
+  33,
+  257,
+  "ou know? They what they're saying comports with my understanding of of law and and and the way the world works. I hadn't gone to law school "
+ ],
+ [
+  33,
+  264,
+  "at that point, but I was the son of a lawyer and and and knew that, you know, one of my favorite poets has a line, don't be confused by the "
+ ],
+ [
+  33,
+  270,
+  "surfaces in the depths. All is law. He was talking about something quite different, but it sticks with me as a law professor."
+ ],
+ [
+  33,
+  276,
+  "And and so I found these guys more and more persuasive, and then I started looking into the history and things like Michael Hudson's work at"
+ ],
+ [
+  33,
+  283,
+  " the Peabody Museum about an ancient archaeological origins of money and things. And contrary to what you hear in a standard economics textb"
+ ],
+ [
+  33,
+  290,
+  "ook, right, it doesn't come from barter. Right? David Graeber's debt, the first five thousand years, I think, is a sort of pretty good artic"
+ ],
+ [
+  33,
+  296,
+  "ulation at this point even if he was largely cribbing"
+ ],
+ [
+  33,
+  299,
+  "earlier historical archival work archaeological work. It doesn't come from barter. Right? It doesn't come from this sort of perfect medium o"
+ ],
+ [
+  33,
+  307,
+  "f exchange that sort of all these other things we were looking at Bali, and we were looking at paper, and then sort of gold comes out of it "
+ ],
+ [
+  33,
+  315,
+  "all. And it's certainly its value doesn't come from its inherent scarcity. It comes from the social structure that it's embedded in. It come"
+ ],
+ [
+  33,
+  323,
+  "s from the the ways in which we have rules and systems and, you know, in some places, it's that you you screwed your brother's wife or you s"
+ ],
+ [
+  33,
+  331,
+  "tole their favorite cow, and this is an alternative to go in a war."
+ ],
+ [
+  33,
+  335,
+  "A council of elders will sit down and say, you know, one one act of adultery is worth five cows, and and, you know, burning down someone's h"
+ ],
+ [
+  33,
+  343,
+  "ut is worth 30 chickens. And you go, oh, okay. So I can do I can do five arsons for every one adultery. That's good to know. And suddenly, y"
+ ],
+ [
+  33,
+  350,
+  "ou've got a price list. Right? And and and so that's one way. Another way is you you have these sort of pharaohs, people who think that they"
+ ],
+ [
+  33,
+  358,
+  "'re god kings,"
+ ],
+ [
+  33,
+  359,
+  "and and they impose taxes and people have to pay those taxes. And I think one of my favorite little stories of that was a Smithsonian articl"
+ ],
+ [
+  33,
+  366,
+  "e saying that, you know, they don't actually think that it was the slaves who built the pyramids. It was the sons of sort of rich nobles or "
+ ],
+ [
+  33,
+  373,
+  "middle class people who had to contribute their kind of feudal labor almost to the to the pharaoh. And then the third, perhaps most importan"
+ ],
+ [
+  33,
+  380,
+  "t, is the Mesopotamian temple palaces where you had sort of farmers renting land around the temple palace. They would contribute a third of "
+ ],
+ [
+  33,
+  387,
+  "their crops. The temple would have usually sort of women and orphans that would process everything, and then they give it to the merchants, "
+ ],
+ [
+  33,
+  394,
+  "and they would go off and sell it. And the temple served as this sort of central coordinating administrative hub,"
+ ],
+ [
+  33,
+  400,
+  "connecting the different classes economically and kind of balancing them all. And, And, again, this is all again, not to say I believe in ce"
+ ],
+ [
+  33,
+  407,
+  "ntralization. This is a positive historical story. This is a story of what is, what was. And so looking at money and and understanding that "
+ ],
+ [
+  33,
+  415,
+  "money begins first and foremost with the numbers. Right? Not with a thing. There's a thing that might correspond to the numbers eventually, "
+ ],
+ [
+  33,
+  422,
+  "but the the price list, the unit of account is what's most important."
+ ],
+ [
+  33,
+  426,
+  "And that that unit of account is not something that comes through sort of two people on desert islands who decide to throw a banana in excha"
+ ],
+ [
+  33,
+  433,
+  "nge for a coconut, and eventually, they kinda build a little canoe, and suddenly, you've got a society. Because, you know, as someone that u"
+ ],
+ [
+  33,
+  441,
+  "sed to teach children in elementary schools, we we grow up in a society. We grow up in families. We grow up in tribes and then in large soci"
+ ],
+ [
+  33,
+  448,
+  "eties. And"
+ ],
+ [
+  33,
+  449,
+  "the the social unit is the first unit. Right? It's it's it's prior to an individual. That doesn't mean I believe in collectivism above indiv"
+ ],
+ [
+  33,
+  457,
+  "iduals normatively. I'm a very big individualist, but it's it means that we are a social species first. We are a pack animal first. We are n"
+ ],
+ [
+  33,
+  465,
+  "ot lone wolves first, and and and then we sort of decide to voluntarily join societies. Whether you want to or not, we're part of a society,"
+ ],
+ [
+  33,
+  473,
+  " and that's the starting unit of analysis."
+ ],
+ [
+  33,
+  475,
+  "And the and the fact that we can see examples of cigarette money in prisons and things, usually, they're the exception that proves the rule."
+ ],
+ [
+  33,
+  483,
+  " We only form those after we've already been socialized to understand there's a thing called a social unit. You know? We aren't mowgli in th"
+ ],
+ [
+  33,
+  491,
+  "e jungle to begin with. And and so looking at it that way and understanding that that unit of account is inherently embedded,"
+ ],
+ [
+  33,
+  498,
+  "not just in taxes, but in in in in all laws, in criminal law, in contract law, in property law. And that while most of us, most of the time,"
+ ],
+ [
+  33,
+  506,
+  " like to think that we have, you know, agency about the way that we live our lives, and if we could just make sure our bloody property and i"
+ ],
+ [
+  33,
+  514,
+  "ncome taxes were at zero, we'd finally be free. You know? It's just not reality. There are I have a friend of mine who does security for lar"
+ ],
+ [
+  33,
+  521,
+  "ge banks in Australia, and he talks about the fact that there were two large deep sea cables that connect Australia to the rest of the world"
+ ],
+ [
+  33,
+  529,
+  "'s Internet."
+ ],
+ [
+  33,
+  530,
+  "And and you cut those, and they have them on Google Maps. You can see it. You know? You could you could send the missile through Google Maps"
+ ],
+ [
+  33,
+  538,
+  ". You wouldn't even need intelligence services. But it's stuff like that. You know? It's the railroads that connected us, or it's the telegr"
+ ],
+ [
+  33,
+  545,
+  "aph that connected us. Steam ships that allowed us to move things around. It was the shipping container that standardized ports all around t"
+ ],
+ [
+  33,
+  553,
+  "he world."
+ ],
+ [
+  33,
+  553,
+  "And and so looking at public money that way, it requires us to think about what it would take to actually build a a a alternative monetary s"
+ ],
+ [
+  33,
+  561,
+  "ystem. And and for me, that's the same question as how many divisions does the pope have. Right? You don't you don't go up into the mountain"
+ ],
+ [
+  33,
+  569,
+  "s and try to build your own revolutionary space and hope that the the system doesn't come after you until you, you know, until you're too po"
+ ],
+ [
+  33,
+  576,
+  "werful to ignore. This isn't this isn't Isaac Asimov's foundation. You don't get to go to the outer rim of the galaxy until you're too power"
+ ],
+ [
+  33,
+  584,
+  "ful to ignore. There's only one planet, and, unfortunately, it's all been mapped out."
+ ],
+ [
+  33,
+  589,
+  "So what does public money mean to me? Public money means understanding that we are embedded in a bunch of social systems, and anything we bu"
+ ],
+ [
+  33,
+  601,
+  "ilt is inherently on top of those systems. It's an emergent property of those systems. The only way out is through. I can't hear you. Oh, so"
+ ],
+ [
+  33,
+  613,
+  "rry."
+ ],
+ [
+  33,
+  613,
+  "Okay. So that's super fascinating, and, I'm I'm worried that we're gonna steer discussion into modern monetary theory, which could take up t"
+ ],
+ [
+  33,
+  622,
+  "he rest of the hour. So I'm cognizant I wanna, you know, get to digital cash at some point. But I guess so one thing that's come up here in "
+ ],
+ [
+  33,
+  631,
+  "the past week is we've had a lot of different builders and community leaders come in and present,"
+ ],
+ [
+  33,
+  637,
+  "you know, their schemes and ideas for community currencies based on, you know, all kinds of patterns of, like, emissions to community member"
+ ],
+ [
+  33,
+  647,
+  "s and and burning mechanisms based on, you know, time based mechanisms. And and I think, like, there hasn't been haven't seen a lot of focus"
+ ],
+ [
+  33,
+  658,
+  " on price stability."
+ ],
+ [
+  33,
+  659,
+  "Like, that's I I literally had a conversation the other night at dinner with with somebody who had come up with a community currency. And I "
+ ],
+ [
+  33,
+  667,
+  "said, well, how do you account for price stability? And and she said, well, that's not really important, and which was interesting. And so I"
+ ],
+ [
+  33,
+  675,
+  " I wanna get your take on, you know, how important is price stability within within, like, making a good form of money. Yeah. I I love commu"
+ ],
+ [
+  33,
+  682,
+  "nity currencies. I I lived in Ithaca, you know, home of the Ithaca hour for a number of years. I I have a a New York Times article on my wal"
+ ],
+ [
+  33,
+  690,
+  "l about Detroit issuing its own paper money during the depression to pay black sanitation workers when they didn't have enough federal money"
+ ],
+ [
+  33,
+  698,
+  "."
+ ],
+ [
+  33,
+  698,
+  "One of one of the most important stories about the twentieth century is is New York City basically getting screwed over with its municipal f"
+ ],
+ [
+  33,
+  705,
+  "inances and Gerald Ford saying, you know, drop dead as as really the start of austerity. If you don't support local communities, you really "
+ ],
+ [
+  33,
+  712,
+  "can't build anything. I have a small paper about that, if anyone's interested, called monetary resilience, where I'm sort of suggest we coul"
+ ],
+ [
+  33,
+  719,
+  "d have a nested system of currencies. And we could use the logic of central bank swap lines, which we currently use mostly for America to, y"
+ ],
+ [
+  33,
+  726,
+  "ou know, give favors to its buddies."
+ ],
+ [
+  33,
+  728,
+  "Who needs the g eight when you've got the c six or the c 14? But but we could do the same thing with with state municipalities. Some of my c"
+ ],
+ [
+  33,
+  736,
+  "olleagues have written examples about how that we could do this with universities. Perhaps maybe the closest to your idea of utopian communi"
+ ],
+ [
+  33,
+  743,
+  "ties, the university as a standalone unit embedded within a larger society. We already have student payment cards and things. It wouldn't be"
+ ],
+ [
+  33,
+  751,
+  " very hard to imagine a system where you the government said we will buy up some of your university credits, etcetera."
+ ],
+ [
+  33,
+  757,
+  "But to your question about prices, I think there's a couple of things. Right? The first thing is and and the reason I started, we don't have"
+ ],
+ [
+  33,
+  763,
+  " to go into monetary theory. Didn't think of it as monetary theory. I think of it as history and reality. It's just that NMT was the one tha"
+ ],
+ [
+  33,
+  770,
+  "t worked it out and and packaged it in a useful framing. I can talk about this stuff to lawyers and historians and things, and they will jus"
+ ],
+ [
+  33,
+  776,
+  "t go, oh, yes. That makes sense. Right? So if you're hearing about it because you're hearing it from MMT, I would advise you to check out ot"
+ ],
+ [
+  33,
+  783,
+  "her other"
+ ],
+ [
+  33,
+  783,
+  "disciplinary sources. But but the first thing is if you think of money as a as a as a thing, alright, as a lump of gold or some some quantit"
+ ],
+ [
+  33,
+  792,
+  "y of something, then you'll always be thinking of prices as as as sort of something that is related to the quantity of the thing. Rebecca Sp"
+ ],
+ [
+  33,
+  801,
+  "ang has a pretty good bit of history about the origins of the word inflation where it used to be kind of synonymous with dilution."
+ ],
+ [
+  33,
+  809,
+  "You put more in and you inflate the currency by definition. Sort of like you put more water in your drink and it's less strong. But that but"
+ ],
+ [
+  33,
+  817,
+  " at that time, that word did not correspond to prices. It just referred to the quantity. You could have inflation of the currency without ne"
+ ],
+ [
+  33,
+  824,
+  "cessarily a change in prices. But over time, that word switched to be something we associate with prices. But the thing about prices is ther"
+ ],
+ [
+  33,
+  832,
+  "e's no such thing as the general price level. This is my colleague Nathan Tankers' point. Right? There's Fred Lee, the economist,"
+ ],
+ [
+  33,
+  839,
+  "who wrote probably the single most important book on microeconomic price theory. There's no such thing as the price level. Right? If you if "
+ ],
+ [
+  33,
+  847,
+  "you if you change the, you know, the central bank interest rate in the woods and a small convenience store in New York never gets the memo, "
+ ],
+ [
+  33,
+  855,
+  "their prices don't just magically go up like it's gravity. Right? Someone has to hear about this stuff. Someone has to put it up. As we saw "
+ ],
+ [
+  33,
+  862,
+  "during COVID, if you have come you know, businesses with pricing power, they might put up prices completely unrelated to the underlying econ"
+ ],
+ [
+  33,
+  870,
+  "omic fundamentals."
+ ],
+ [
+  33,
+  871,
+  "It's that old Chris Rock line. If I could pay you less, I would. That's what a minimum wage is. Right? It's against the law to pay you less,"
+ ],
+ [
+  33,
+  879,
+  " so I can't. But if I could, I would. So there are some prices we just don't have. Right? What's the price of a child? I mean, you can go on"
+ ],
+ [
+  33,
+  886,
+  " the black market. Sure. But we don't have that as part of the pricing system. What's the what's the price on earning Mars? Right? But when "
+ ],
+ [
+  33,
+  894,
+  "we're talking about actual prices,"
+ ],
+ [
+  33,
+  896,
+  "you need to think about the whole regulatory structure, the whole state system, the whole productive capacity system. You could have prices "
+ ],
+ [
+  33,
+  904,
+  "stabilized around different things, labor, energy, etcetera. But to do that, you would have to think about who owns, you know, claims to fra"
+ ],
+ [
+  33,
+  911,
+  "cking resources. You'd have to be able to resolve questions about indigenous native title in Australia and and its implications for oil reso"
+ ],
+ [
+  33,
+  919,
+  "urces. You'd have to think about what it means to have full employment in a true sense of the term, not the bullshit that the central banker"
+ ],
+ [
+  33,
+  926,
+  "s come up with to justify keeping workers disciplined where they describe full employment as 5% unemployment."
+ ],
+ [
+  33,
+  932,
+  "So I think it is very important to think about price stability, but I think it's important to think of prices as something that happens out "
+ ],
+ [
+  33,
+  939,
+  "there. The currency matters to prices, but prices are set by people who sell stuff first and and by the currency system sort of second, and "
+ ],
+ [
+  33,
+  946,
+  "they there's always a dialogue between those two things. And if you do create a currency embedded in a larger global system like we do today"
+ ],
+ [
+  33,
+  953,
+  " and you mess around with your currency, where is it actually gonna come out? It's gonna come out in the exchange rate."
+ ],
+ [
+  33,
+  959,
+  "Right? It's not gonna come out in the rest of the pricing system. As far as I can tell, when, you know, Bitcoin goes up or down, it doesn't "
+ ],
+ [
+  33,
+  966,
+  "really change the price of milk. Right? It does change the exchange rate from Bitcoin into the public money that the rest of us use and thin"
+ ],
+ [
+  33,
+  973,
+  "k of and price everything in, and and and and as much as crypto people like to talk about building a new world, the fact that they still eva"
+ ],
+ [
+  33,
+  980,
+  "luate the success of their own currencies by its value in US dollars should be cause of some reflection."
+ ],
+ [
+  33,
+  985,
+  "Wow. We're succeeding. Right? The people that we think are obsolete are really gonna respect us now. But if you care about the prices, I wou"
+ ],
+ [
+  33,
+  993,
+  "ld say it requires starting with an understanding how prices are formed. And when you think about exchange rates, I think the important less"
+ ],
+ [
+  33,
+  1000,
+  "on to remember is is the lesson of The UK in the seventies, which is to say people can short exchange rates quite aggressively. Right? Even "
+ ],
+ [
+  33,
+  1008,
+  "if you're a pretty large country, even if you're England, like, in the '90 if you're Great Britain in the nineteen seventies, if you're Geor"
+ ],
+ [
+  33,
+  1015,
+  "ge Soros, you might be able to mess with them."
+ ],
+ [
+  33,
+  1018,
+  "So part of the reason why I think you can't understand the the modern global financial system without starting with both the US dollar and w"
+ ],
+ [
+  33,
+  1026,
+  "ith the swap line network is that until you have some way of stabilizing exchange rates, you're you're vulnerable to the to the currency mar"
+ ],
+ [
+  33,
+  1034,
+  "kets, to the capital markets, you're vulnerable to other governments essentially doing hostile price attacks. For whatever people think abou"
+ ],
+ [
+  33,
+  1042,
+  "t Bitcoin, I mean, if if if the if the c six decided to try to to collapse that currency tomorrow with with all of the force of their"
+ ],
+ [
+  33,
+  1050,
+  "economic mind, I don't I don't think it would look anything like anything we've ever seen up until now. Nobody knows what resilience truly m"
+ ],
+ [
+  33,
+  1059,
+  "eans until you see that attack. Yeah. That's totally fair. And I think, you know, one of my personal concerns about what you're seeing in cr"
+ ],
+ [
+  33,
+  1069,
+  "ypto right now is that you've you've got people who are speculating,"
+ ],
+ [
+  33,
+  1073,
+  "for personal gain, and you're sort of exasperating an existing problem with wealth inequality by using, you know, crypto as just like anothe"
+ ],
+ [
+  33,
+  1082,
+  "r way to to store value in whatever value means in today's terms. But there's this other problem now because this is a big narrative in thes"
+ ],
+ [
+  33,
+  1092,
+  "e communities of centralized control, central bank digital currencies. And if we're relying on the US dollar"
+ ],
+ [
+  33,
+  1099,
+  "you know, and and we're increasingly looking at digital forms of money, what does that mean for our privacy? What does that mean for our abi"
+ ],
+ [
+  33,
+  1107,
+  "lity to transact in a way where we're not scared that the things that we're doing are are going to be used against us from a centralized aut"
+ ],
+ [
+  33,
+  1115,
+  "hority. And that brings me to the discussion of digital cash, particularly your definition of digital cash, which I think"
+ ],
+ [
+  33,
+  1122,
+  "has been missed on some people in the crypto community. So I want you I want you to define what digital cash means to you and why it's impor"
+ ],
+ [
+  33,
+  1130,
+  "tant. Yeah. Thanks. And and just as a little preamble, I mean, I I'm an Australian as you can tell by my accent. I'm I'm too blunt to be an "
+ ],
+ [
+  33,
+  1137,
+  "American as you can tell by my my the way that I speak. But I I moved to America. People say, why did you move there? I said, well, know, yo"
+ ],
+ [
+  33,
+  1145,
+  "u grew up in the Roman Empire. You moved to Rome. If you're from the out of out of Gallic, you know, tribes, it's it's the place to do thing"
+ ],
+ [
+  33,
+  1152,
+  "s. I got no love for empire. I got no love for American imperialism."
+ ],
+ [
+  33,
+  1156,
+  "But but it's also again, to me, the only way out is through when there's, you know, hundreds of military bases around the world with nukes a"
+ ],
+ [
+  33,
+  1164,
+  "nd things that I don't get to just imagine away in my story of politics. And so so I don't I don't think of of fiat currency as benign anymo"
+ ],
+ [
+  33,
+  1171,
+  "re than I think of the US empire as benign, but I do think of it as the thing I have to actually deal with. Right? We had a, you know, relat"
+ ],
+ [
+  33,
+  1179,
+  "ively progressive prime minister in Australia in the seventies, and he got ousted, you know, in the same way as Salvador Allende got ousted "
+ ],
+ [
+  33,
+  1186,
+  "in Chile. It's it's just you you you piss off people powerful enough in the right way. Eventually, they send things to crush you."
+ ],
+ [
+  33,
+  1193,
+  "Think about America as a weird form of empire is that it believes itself as a place of freedom, kind of almost like the Roman Empire pre Aug"
+ ],
+ [
+  33,
+  1200,
+  "ustus. It does have people on the ground that if they start to feel like their freedoms are being trampled on, kinda get a little mad. Right"
+ ],
+ [
+  33,
+  1207,
+  "? Those famous tea party, keep your government hands off my Medicare stuff. So even though it's a in many respects, the sort of tip of the s"
+ ],
+ [
+  33,
+  1214,
+  "pear for the surveillance state and things,"
+ ],
+ [
+  33,
+  1216,
+  "and I would say for crypto people, the fact that, you know, whether or not you achieve any freedom, most of you are gonna get rich along the"
+ ],
+ [
+  33,
+  1223,
+  " way is something that can be careful about. When I hear about public teachers, you know, school teachers wanting to do school reform, there"
+ ],
+ [
+  33,
+  1230,
+  "'s not a, oh, well, at least we got rich, you know, release valve for whether or not they succeed in their in their work. And and it makes m"
+ ],
+ [
+  33,
+  1236,
+  "e inherently suspicious of of projects that say we're gonna get rich while doing well, and then they never do well for society, but they do "
+ ],
+ [
+  33,
+  1243,
+  "get rich. It's a sort of tale as old as time, and the rest of us are supposed to sort of swallow it."
+ ],
+ [
+  33,
+  1248,
+  "But when I think about privacy and cash, I think about the the most commonly used form of money out there, which is, you know, still paper m"
+ ],
+ [
+  33,
+  1256,
+  "oney. I mean, we use bank money in all these different forms. But in terms of what works during a a hurricane, what works in places that are"
+ ],
+ [
+  33,
+  1263,
+  " not electrified, I mean, it's crazy to think of. But even America, you know, if you're in a place with less than 50,000 people, forty, fift"
+ ],
+ [
+  33,
+  1271,
+  "y years ago, there was a decent chance that you still were barely electrified as a city. You know?"
+ ],
+ [
+  33,
+  1276,
+  "You go to Louisiana right now, and it could be the nineteen twenties in some parts of the state. So so cash works without a Internet connect"
+ ],
+ [
+  33,
+  1284,
+  "ion. Cash works without a telegraph wire. My colleague, Brett Scott, likes to describe it as the bicycle of the of the financial system. Rig"
+ ],
+ [
+  33,
+  1292,
+  "ht? Or it's the staircase in in a building. You might not wanna walk up a staircase 50 stories on a good day, but if the if the elect the el"
+ ],
+ [
+  33,
+  1300,
+  "evator goes out and there's a fire, you're bloody grateful that it exists."
+ ],
+ [
+  33,
+  1304,
+  "But I define cash as a bearer instrument, something you can hold and that its ownership is defined by the person holding it, and that it can"
+ ],
+ [
+  33,
+  1312,
+  " move peer to peer. When I mean peer to peer, I mean, can transact it by handing it over to somebody else without any third party intermedia"
+ ],
+ [
+  33,
+  1321,
+  "ry. And and that third party intermediary could be a distributed intermediary or a centralized intermediary."
+ ],
+ [
+  33,
+  1327,
+  "But when I'm handing it over, I'm only handing over a a physical object, a coin, a note, a tally stick, you know, a cigarette, whatever, or "
+ ],
+ [
+  33,
+  1336,
+  "I am transferring it from a device to another device. Right? But the devices are talking to each other, near field communication, Bluetooth,"
+ ],
+ [
+  33,
+  1345,
+  " whatever it is. And that's notably different from almost all forms of crypto."
+ ],
+ [
+  33,
+  1350,
+  "And it it upsets me and annoys me when people say, oh, we developed a peer to peer network. All you need to do is speak to a common ledger. "
+ ],
+ [
+  33,
+  1357,
+  "A common ledger isn't peer to peer. There's a ledger in the middle. It's literally in the name. If the ledger goes down, you can't finalize "
+ ],
+ [
+  33,
+  1365,
+  "the transaction. If the ledger doesn't approve what you do because the miners are doing whatever the miners are doing, the transaction doesn"
+ ],
+ [
+  33,
+  1372,
+  "'t go through."
+ ],
+ [
+  33,
+  1373,
+  "I don't need to ask permission for anybody to use cash. I need cash to work. Right? I need its monetary theory to be sound. I need to believ"
+ ],
+ [
+  33,
+  1382,
+  "e that The US empire will be roughly where it was tomorrow than what it was yesterday, or if not that one, another empire. But I I don't nee"
+ ],
+ [
+  33,
+  1390,
+  "d anyone's permission to pay. And, also, when it makes a transaction, there's no record anywhere."
+ ],
+ [
+  33,
+  1396,
+  "The record is that I now own the thing. I'm holding the thing. And and and whether you're pseudonymous, anonymous, you know, whatever else. "
+ ],
+ [
+  33,
+  1404,
+  "Even anonymous transactions on Monero and Zcash can be de anonymized with enough contextual data. One of my colleagues used to joke that if "
+ ],
+ [
+  33,
+  1411,
+  "they have everybody's Social Security number in Boston and you don't give yours out, you're just the other number. Right? You're just the la"
+ ],
+ [
+  33,
+  1419,
+  "st number that hasn't been given out. So you can you can decontextualize"
+ ],
+ [
+  33,
+  1423,
+  "anonymous transactions if you can see them with with enough data points. But but cash is different. Right? Cash doesn't snitch on you. Cash "
+ ],
+ [
+  33,
+  1432,
+  "doesn't call the authorities. Cash doesn't ask permission to move around. And and it also works, most importantly, offline. And I think if w"
+ ],
+ [
+  33,
+  1441,
+  "e started with that definition, even if you and I or people in your community disagreed about fiat money versus complementary currencies or "
+ ],
+ [
+  33,
+  1450,
+  "private currencies, we'd at least be building the same technology."
+ ],
+ [
+  33,
+  1454,
+  "But if what you want is a distributed ledger, if what you want is a bank where everybody has got a piece of the bank, You know, it's Milo mi"
+ ],
+ [
+  33,
+  1463,
+  "nder binder from Catch twenty two. We're all part of the syndicate, and everybody has a share. Fine. That's a bank account. Right? That's an"
+ ],
+ [
+  33,
+  1472,
+  " online wallet. It's not cash, And cash has unique properties. It has unique"
+ ],
+ [
+  33,
+  1477,
+  "benefits as functionally that that are much more important for freedom and anonymity and privacy and civil liberties than a distributed ledg"
+ ],
+ [
+  33,
+  1485,
+  "er. The last little point on that, which is is you can you can put whatever value proposition on the piece of paper once you create it. Righ"
+ ],
+ [
+  33,
+  1492,
+  "t? It doesn't have to be public money. But a lot of the time, I speak to engineers and and people who very much like software. And the thing"
+ ],
+ [
+  33,
+  1500,
+  " about software is it's elegant. It's clean. I can sit in my basement and write perfect code and go home or what feels like perfect code. Th"
+ ],
+ [
+  33,
+  1507,
+  "e thing about hardware is it's messy."
+ ],
+ [
+  33,
+  1509,
+  "How do we keep paper money and currency secure? We use polymer. We use a watermark. We have a signature. We have colors that are unique. We "
+ ],
+ [
+  33,
+  1517,
+  "have a private company that makes this stuff with a monopoly that nobody talks about, and they own a stable 12% profit since 1820. It's like"
+ ],
+ [
+  33,
+  1526,
+  " a family business. You know? We have security conferences that they don't publicize because they don't really want people knowing what they"
+ ],
+ [
+  33,
+  1534,
+  "'re up to."
+ ],
+ [
+  33,
+  1535,
+  "There's layers of security you have to build. Why? Because every layer is imperfect. Right? As as security researcher, Bruce and would say, "
+ ],
+ [
+  33,
+  1542,
+  "you're never gonna get perfect security, but what you want is to do the equivalent of putting locks on people's doors, so it's a lot harder "
+ ],
+ [
+  33,
+  1550,
+  "to rob every house on the street like this. So do we need perfect security? No. And for a lot of engineers, that's ugly. Nobody wants to get"
+ ],
+ [
+  33,
+  1557,
+  " 88%"
+ ],
+ [
+  33,
+  1557,
+  "on their test in engineering school. They want a 100%. For a lawyer, that's good enough. Right? 88% plus the threat of law and social force "
+ ],
+ [
+  33,
+  1566,
+  "is gonna get you to a working functioning society. So you don't need to be Utopian. You don't need perfection. You need proof of concept and"
+ ],
+ [
+  33,
+  1575,
+  " running code. And and to me, digital cash is is always gonna be a messy game to a degree of cops and robbers. There's a reason the secret s"
+ ],
+ [
+  33,
+  1583,
+  "ervice, you know, protected the currency before it protected the president."
+ ],
+ [
+  33,
+  1588,
+  "But but that's the that's the game that we play about privacy and civil liberties. One of the yeah, so that makes a lot of sense. One of the"
+ ],
+ [
+  33,
+  1598,
+  ", analogies or or or terminologies I like to make is is saying, like, crypto is like cloud money and digital cash is like local money in in "
+ ],
+ [
+  33,
+  1608,
+  "the sense that in in the same way that,"
+ ],
+ [
+  33,
+  1611,
+  "you know, you can have files locally stored on your machine or you can have files hosted on Google Drive. Right? If Google Drive goes down, "
+ ],
+ [
+  33,
+  1618,
+  "you lose access to them. Yeah, I think I think You you could have them you could have them at home on a box and you could have a sort of VPN"
+ ],
+ [
+  33,
+  1626,
+  " tunnel. Sorry. You could have a box at home. You could have a VPN tunnel into it. Right? You could have the equivalent of a safety deposit "
+ ],
+ [
+  33,
+  1633,
+  "box under your mattress."
+ ],
+ [
+  33,
+  1634,
+  "It's the kind of thing you can tell your grandmother, you know, your money's safe under your mattress. But it's unsexy, And it's probably no"
+ ],
+ [
+  33,
+  1642,
+  "t the thing you wanna put all of your wealth in. Right? Because we live in a society, most of your money can sit in a bank most of the time."
+ ],
+ [
+  33,
+  1650,
+  " Right? You do like having fraud protections and charge back protections and all of those things. There's a reason banks hate cash."
+ ],
+ [
+  33,
+  1658,
+  "Right? And the reason they hate cash is because it's expensive for them to maintain. It's a public good. It's not something they get to make"
+ ],
+ [
+  33,
+  1665,
+  " money off. It certainly doesn't generate them a bunch of useful data that they can profile you. They're doing it because they're forced to "
+ ],
+ [
+  33,
+  1673,
+  "by the government usually, and and and it certainly isn't gonna make you a billion dollars along the way and get you to be called, you know,"
+ ],
+ [
+  33,
+  1680,
+  " the future of the Internet and all that kind of stuff. It's the boring, unsexy work of of teaching children how to read. It's not the reall"
+ ],
+ [
+  33,
+  1687,
+  "y fun work of being a fancy professor and going and having everyone say you're so smart."
+ ],
+ [
+  33,
+  1692,
+  "You know? It's it's it's it's gardening. It's not brain surgery surgery. Yeah. So let's get into a little bit more of, like, the technical a"
+ ],
+ [
+  33,
+  1701,
+  "spects of what digital cache might look like in its truest form. You know, you meant you talk a lot about hardware. There's been some discus"
+ ],
+ [
+  33,
+  1710,
+  "sions here the past couple weeks about TEEs, trusted execution environments. And maybe the most obvious"
+ ],
+ [
+  33,
+  1716,
+  "example we have today is a secure enclaves on your iPhone that that stores your your facial recognition data. So I guess, one, are we there'"
+ ],
+ [
+  33,
+  1726,
+  "s still like a trusted element here because I think, you know, governments or some some entities have to start by trusting one of these syst"
+ ],
+ [
+  33,
+  1736,
+  "ems to be the basis of a transaction, of a secured system to transact offline. Right?"
+ ],
+ [
+  33,
+  1742,
+  "So that's number one. And then number two is what what might that implementation actually look like? Can do you think like it's going to tak"
+ ],
+ [
+  33,
+  1752,
+  "e maybe starting off with some esoteric devices that can do this and then maybe eventually we work up to the point where they're embedded in"
+ ],
+ [
+  33,
+  1762,
+  " our iPhones or can we go straight to having an, you know, like an iPhone, Android based system that's just a government"
+ ],
+ [
+  33,
+  1770,
+  "say, this is the standard. Go ahead. Implement it. Yeah. No. It's a good question. I mean, so I I spent some time a while back working with "
+ ],
+ [
+  33,
+  1778,
+  "the ITU, the International Telecommunications Union. This is sort of one of the oldest UN bodies. They were there initially to harmonize tel"
+ ],
+ [
+  33,
+  1786,
+  "ecom telegraph wire systems across Europe, you know, before the before the United Nations was even formed, before the League of Nations was "
+ ],
+ [
+  33,
+  1794,
+  "even formed."
+ ],
+ [
+  33,
+  1795,
+  "So sort of one of the nearly nineteenth century international regulatory bodies, and they work on standards. Right? They're responsible for "
+ ],
+ [
+  33,
+  1802,
+  "coming up with standardization codes and and and and things like that for public key encryption, for SIM cards. Right? The fact that we can "
+ ],
+ [
+  33,
+  1810,
+  "now go overseas and our SIM card will magically transfer over to different wireless networks without having use body travelers checks and al"
+ ],
+ [
+  33,
+  1817,
+  "l that kind of stuff. A lot of that is thanks to the work of the ITU. And the ITU, you know, it works with governments. It works with busine"
+ ],
+ [
+  33,
+  1825,
+  "ss and and and private sector too, and as well as just scientists."
+ ],
+ [
+  33,
+  1828,
+  "But it's not it's not top down. Right? It's consensus based standards. It's closer to the USB system than it is to to to to other systems. A"
+ ],
+ [
+  33,
+  1840,
+  "nd it's it's it's a way to allow for consensus building amongst public officials that have local responsibilities, but are also interested i"
+ ],
+ [
+  33,
+  1851,
+  "n in sort of grand coordinated"
+ ],
+ [
+  33,
+  1854,
+  "activity. In terms of the actual stuff that we're trying to build, you know, having having something that is on a chip, can have a small chi"
+ ],
+ [
+  33,
+  1863,
+  "p in a computer. There's a dozen chips in the computer. Right? The radio module is often closed blob even if the rest of it is open source, "
+ ],
+ [
+  33,
+  1872,
+  "that kind of thing. So so there's a different way of doing things once you think of it as just a small chip."
+ ],
+ [
+  33,
+  1879,
+  "The question of how secure it needs to be before you can start rolling it out is a question of how much risk you're putting into it. If you'"
+ ],
+ [
+  33,
+  1886,
+  "re talking about a thing that only has, you know, maximum of $500 to begin with or $200, it's probably a lot less of a of a downside risk if"
+ ],
+ [
+  33,
+  1894,
+  " something goes wrong. And, of course, you know, part of the problem is you can do it at scale. We've all seen those pictures of people that"
+ ],
+ [
+  33,
+  1901,
+  " have 700 computer phones all playing Candy Crush or something to earn the benefits of of scale."
+ ],
+ [
+  33,
+  1906,
+  "But if you go and try and buy a house with with pennies, it's probably going to trip something in the regulatory system. Right? If you go tr"
+ ],
+ [
+  33,
+  1915,
+  "y to buy a super yacht with $1 bills, someone's gonna ask whether you're the best, you know, stripper in the world or something else is goin"
+ ],
+ [
+  33,
+  1925,
+  "g on here. So if you try to go and and really become a billionaire or do some sort of mass industrial fraud with with little chips that are "
+ ],
+ [
+  33,
+  1934,
+  "$200 a pop,"
+ ],
+ [
+  33,
+  1935,
+  "it's it's going to it's not gonna be the technology that provides a security defense. It's gonna be the social structure that provides a sec"
+ ],
+ [
+  33,
+  1943,
+  "urity defense. Right? And so in that respect, I think it's not necessarily as dangerous as as as people are worried about if you just think "
+ ],
+ [
+  33,
+  1951,
+  "of it purely from a security risk perspective. The the where we start with it, I've I've been working with some people. We've got a thing th"
+ ],
+ [
+  33,
+  1959,
+  "at's, you know, sort of still on its way out. If anybody here has got a bunch of money they wanna throw for an actual principal project, I d"
+ ],
+ [
+  33,
+  1967,
+  "on't earn any money on this stuff. This is all because I care about it."
+ ],
+ [
+  33,
+  1971,
+  "But but we're working with some universities now. I think a university cash card is a pretty good starting place. It's a sort small localize"
+ ],
+ [
+  33,
+  1979,
+  "d environment. Looks like a debit card, but it it it works, you know, it works on a specific set of point of sale devices. You could also do"
+ ],
+ [
+  33,
+  1988,
+  " this with something like a transit system. Right? We already have a lot of tokens. Right? The metro magnetic cards, things like that."
+ ],
+ [
+  33,
+  1996,
+  "Again, the the localization of that allows you to do a sort of real world sandbox experiment with a valuable use case. A lot of those transi"
+ ],
+ [
+  33,
+  2005,
+  "t card systems already are a combination of of closed loop and open loop or or or a closed loop system, and then a regular debit card, credi"
+ ],
+ [
+  33,
+  2013,
+  "t card network connectivity. I haven't had axe I've been to the People's Bank of China and and their digital currencies too. I haven't got t"
+ ],
+ [
+  33,
+  2022,
+  "o look at the internal specs of their cards, but you can look online. It looks almost like a debit card with a little e ink display in the c"
+ ],
+ [
+  33,
+  2031,
+  "orner."
+ ],
+ [
+  33,
+  2031,
+  "I I'm usually of a yes and approach, which is to say, I would say SIM cards, a a standalone card would both be I I would pursue both simulta"
+ ],
+ [
+  33,
+  2040,
+  "neously. But the other level that's important to note, and I just wrote a long paper about this in the context of Elon Musk taking over the "
+ ],
+ [
+  33,
+  2050,
+  "treasury's computer system through Doge, is at the institutional level, both intragovernmentally"
+ ],
+ [
+  33,
+  2056,
+  "and and in the private sector, you know, you don't have to have something that is that maximizes user convenience. You can have something th"
+ ],
+ [
+  33,
+  2064,
+  "at maximizes security. It can look something more like a an air gap terminal, like your your Tom Cruise in Mission Impossible. Right? If you"
+ ],
+ [
+  33,
+  2071,
+  " are if you are the the congress trying to allocate money to a specific government agency and you don't want president Trump and his boys"
+ ],
+ [
+  33,
+  2079,
+  "standing in the middle and saying no, you could have a dedicated terminal at the Department of Defense that can hold this currency. Right? I"
+ ],
+ [
+  33,
+  2087,
+  "f you're worried that the Federal Reserve is gonna get in the way, you could you could build a genuinely distributed allocation system for t"
+ ],
+ [
+  33,
+  2096,
+  "hese that rely on fixed terminal devices, which is, again, the way that we do stuff at at a higher level"
+ ],
+ [
+  33,
+  2102,
+  "for for for secure data. So I think it's important. I didn't say this at the beginning, but there is no such thing as a cloud. Right? There'"
+ ],
+ [
+  33,
+  2109,
+  "s just data service somewhere. When I teach this stuff in class, they say, whenever we hear the word cloud in this class, we're gonna think "
+ ],
+ [
+  33,
+  2116,
+  "of a massive server rack underground in Utah. Okay. Let's start there. So where's your data being stored? Right? We're they're doing transac"
+ ],
+ [
+  33,
+  2124,
+  "tions now on on satellites,"
+ ],
+ [
+  33,
+  2125,
+  "doing some of these crypto transactions, and they're storing some data up in space. Right? You're storing a little bit low latency data up o"
+ ],
+ [
+  33,
+  2133,
+  "n the on the satellite itself. Well, that's great as long as nobody's got missiles to shoot shoot down shoot down satellites. Thank god that"
+ ],
+ [
+  33,
+  2142,
+  " doesn't exist. We'd have to have something called the space force or something, wouldn't we? Yeah."
+ ],
+ [
+  33,
+  2148,
+  "So there you've you're much in in, you know, the the sort of public nonprofit space building with more university based systems. I remember "
+ ],
+ [
+  33,
+  2157,
+  "a a couple couple years ago, you did a Twitter space with a a DAO called Phonon that I think was based out of Austin, they were working on a"
+ ],
+ [
+  33,
+  2165,
+  " sort of digital cash solution. I I'm not really sure where they ended up or if they're still working on it, but there are a few,"
+ ],
+ [
+  33,
+  2173,
+  "you know, crypto centric projects that have made an attempt at digital cash. The ones that come to mind beside Phonon, there was a project c"
+ ],
+ [
+  33,
+  2181,
+  "alled ConCash. To some degree, TornadoCash could be the basis for digital cash because the output from, you know, depositing money into that"
+ ],
+ [
+  33,
+  2190,
+  " privacy pool essentially can be passed around almost like a like a bill. Right? Like a denomination of Ethereum or USDC or whatever."
+ ],
+ [
+  33,
+  2198,
+  "And so I guess my question is, are you open to the idea that it may be somebody from it may be a team from crypto that cracks the code on th"
+ ],
+ [
+  33,
+  2206,
+  "is and builds a scalable system, and then that it might just be that this is what works and then this is what, you know, public governments "
+ ],
+ [
+  33,
+  2214,
+  "should adopt? Oh, yeah. I mean, god, I wish I was so arrogant that I would prefer to lose and be right than win and be wrong. Like, I'm not."
+ ],
+ [
+  33,
+  2222,
+  " I would much rather the thing exists. That's all I care about."
+ ],
+ [
+  33,
+  2226,
+  "I'm not I I think I think the privacy polls with TornadoCash are interesting. Interesting. I'm not convinced that they meet the spec of a ge"
+ ],
+ [
+  33,
+  2233,
+  "nuine eCash. I don't think they they deal with final settlement and offline capability and things. They still require ledger for settlements"
+ ],
+ [
+  33,
+  2239,
+  ". So I don't I'm not convinced about that one. And and when I last, I believe I I don't wanna I don't wanna misrepresent what the Phenom peo"
+ ],
+ [
+  33,
+  2246,
+  "ple are doing. I remember when we talked, I think they still required a ledger on the back end. Like, they didn't actually have a theory of "
+ ],
+ [
+  33,
+  2252,
+  "of how it will fit together. And but, again, you know, if if you're working on the thing that I you know, the spec that we're in agreement a"
+ ],
+ [
+  33,
+  2259,
+  "bout and you meet the spec, power to you. You know? I will I will sing your praises."
+ ],
+ [
+  33,
+  2263,
+  "One of the first companies that I ever met in this space through, ironically, USAID, which I would normally associate with spooks, you know,"
+ ],
+ [
+  33,
+  2270,
+  " was was was because I had written a paper saying this is what I think public digital money should look like. And they said, yeah. We're wor"
+ ],
+ [
+  33,
+  2277,
+  "king on that. And and they said, you write a white paper with me? I said, well, I don't wanna I'm not here to sell your product. And they sa"
+ ],
+ [
+  33,
+  2284,
+  "id, assume the spec is what you say. Write why that is a good spec. And I said, fine. I'll write why I think this is a good model, and if yo"
+ ],
+ [
+  33,
+  2291,
+  "ur technology happens to meet it, great. If it doesn't, then fuck your technology. You know? And and that company, eCurrency Mint,"
+ ],
+ [
+  33,
+  2298,
+  "has now got one of the the the first central bank digital currency bids in Jamaica. And and part of what they were talking about is it was a"
+ ],
+ [
+  33,
+  2305,
+  " hardware based solution. A lot of the people were talking about blockchain and and and ledger based systems, and they were working on on ha"
+ ],
+ [
+  33,
+  2312,
+  "rdware. They were saying we've got secure plates, it's a combination of software, hardware, protocol, you know, blah blah blah. They still h"
+ ],
+ [
+  33,
+  2319,
+  "aven't gotten all the way down to retail, but but but they at least started with some of the spec that made sense to me. And they agreed tha"
+ ],
+ [
+  33,
+  2327,
+  "t that for for it to work that way, it needed to to have the spec that we talked about."
+ ],
+ [
+  33,
+  2331,
+  "The problem in my experience and the reason I probably sound still crusty and skeptical when people ask me this question from the crypto wor"
+ ],
+ [
+  33,
+  2338,
+  "ld is I don't see it. Right? I don't see it as a priority. I certainly don't see it as successful. Right? It's been fifteen years of people "
+ ],
+ [
+  33,
+  2345,
+  "talking about how crypto is gonna change the world. Who's been doing trusted executing environments? Let's look at the pie chart of prioriti"
+ ],
+ [
+  33,
+  2353,
+  "es, and let's see how much of that anybody spent on this stuff."
+ ],
+ [
+  33,
+  2356,
+  "I'm glad we're talking about it now in year of our Lord 2025 at Switzerland, but, like, it's not been a priority. It's very clearly not been"
+ ],
+ [
+  33,
+  2364,
+  " a priority. Right? People are billionaires in your audience. People are 100 centimillionaires in your audience. How many dollars have they "
+ ],
+ [
+  33,
+  2371,
+  "spent towards hardware secured offline capable non ledger based technology? Like, I'll wait. Tell me. I asked Alex Gladstein, you know, the "
+ ],
+ [
+  33,
+  2379,
+  "crypt Bitcoin hack about this the other day, and he said, oh, I've probably, you know, given out $500,000"
+ ],
+ [
+  33,
+  2385,
+  "in grants. $500,000? That guy's probably spent more on bloody, you know, iced water at the various TED talks he's given than $500,000. Like,"
+ ],
+ [
+  33,
+  2393,
+  " that's a very clear indication of where his priorities are. It's just not an issue for him. He thinks about digital cash. He thinks about C"
+ ],
+ [
+  33,
+  2402,
+  "howmean cash where it's you can do four hops before you have to run back to the ledger for settlement."
+ ],
+ [
+  33,
+  2408,
+  "Right? So so if this was if if people really cared about the kind of civil liberties I care about, which is to say, it matters to me that th"
+ ],
+ [
+  33,
+  2416,
+  "at the Indian government can turn the Internet off in cashmere for months. Right? If the Internet is turned off in the entirety of Egypt dur"
+ ],
+ [
+  33,
+  2424,
+  "ing the Arab Spring, then your bloody ledger system is not nonsensorable money. It's just censorable at a level that you didn't bother to th"
+ ],
+ [
+  33,
+  2432,
+  "ink about."
+ ],
+ [
+  33,
+  2433,
+  "So so I would love to see that. I would love to see people who had this as their priority. Let me meet them. If they're in the audience, my "
+ ],
+ [
+  33,
+  2442,
+  "email's online. Rowan@rowangray.net. You you've got one person applauding you in the audience, by the way. And and I do we've got about twen"
+ ],
+ [
+  33,
+  2450,
+  "ty minutes, and I do wanna open up for a q and a because I think some people have but I do want to clarify"
+ ],
+ [
+  33,
+  2457,
+  "something from the attempts at digital cash that have been tried. So I totally agree that, you know, something like Tornado Cash in its in i"
+ ],
+ [
+  33,
+  2466,
+  "ts form is not cash. It's just sort of like a privacy tool. It's an anonymizing tool. My my point was so I think of of crypto. If you think "
+ ],
+ [
+  33,
+  2475,
+  "of crypto and, like, the Ethereum blockchain and and other blockchains as bank ledgers, essentially,"
+ ],
+ [
+  33,
+  2481,
+  "a smart contract can function as an ATM in the sense that if you lock up, you know, certain denominations of currency, whatever they may be,"
+ ],
+ [
+  33,
+  2490,
+  " into a smart contract and that, contract outputs you, like, a private key that acts as a claim to that money, that private key is now a loc"
+ ],
+ [
+  33,
+  2499,
+  "al thing that you own and you can pass around locally. Right? From device to device, whatever that may be using a TE or something like that."
+ ],
+ [
+  33,
+  2507,
+  " And so as long as you keep passing that key around and you prevent the idea of duplication, double spend where, like, I'm"
+ ],
+ [
+  33,
+  2515,
+  "in possession of this private key, but I can transact it from one device to another, ensuring that it gets deleted from my device and transf"
+ ],
+ [
+  33,
+  2523,
+  "erred to that device, then to me that sounds like digital cash. Right? Because then if if the person in possession of that key says, I wanna"
+ ],
+ [
+  33,
+  2531,
+  " cash this in. I wanna deposit it back into my ledger. They can do that. Right? Yes. Yes. But but but but you've kind of jumped over the imp"
+ ],
+ [
+  33,
+  2539,
+  "ortant part, which is as long as I can prevent prevent double spending. Like so you just said, as long as we create the actual digital cash "
+ ],
+ [
+  33,
+  2547,
+  "underneath, then sure. But ATMs are not a technologically complicated concept. We've had them for a while."
+ ],
+ [
+  33,
+  2553,
+  "Right? If you can create a a digital signature, you can withdraw it onto the cash instrument and then burn the signature. I mean, we already"
+ ],
+ [
+  33,
+  2560,
+  " have that. So I don't think what you're describing is a particularly difficult tech spec. Now if what you're saying is we wanna make sure t"
+ ],
+ [
+  33,
+  2568,
+  "here's anonymity at the point of the ATM, okay. But the way to do that is quite easy, which is you just have a thousand distributed ATMs. Ri"
+ ],
+ [
+  33,
+  2575,
+  "ght? Like, I can go to the ATM, withdraw money, and hand it to somebody else. As long as the digital cash does that, it doesn't matter if I "
+ ],
+ [
+  33,
+  2582,
+  "am visible."
+ ],
+ [
+  33,
+  2583,
+  "Right? You can have intermediaries. If you're worried that the governments will will kind of try to politicize that point of ATMs and then f"
+ ],
+ [
+  33,
+  2590,
+  "ollow people three levels down when they go from the withdrawal. Okay. But think about it from a political point of view. If we actually win"
+ ],
+ [
+  33,
+  2597,
+  " the fight for real e cash, what we will have done is asserted a civil liberty at this point that governments are afraid of. It would requir"
+ ],
+ [
+  33,
+  2605,
+  "e, you know, people in the streets like the civil rights movement."
+ ],
+ [
+  33,
+  2608,
+  "And, again, how many people in the audience here have ever bothered to think about what it would take to stand alongside people who do civil"
+ ],
+ [
+  33,
+  2615,
+  " rights movement kind of activism? But it's it's if you have that level of public respect for cash, you've already got a bunch of legal prot"
+ ],
+ [
+  33,
+  2622,
+  "ections for that because you'd say, hey. Wait a second. We just built a whole cash system, and you're fucking with it. Right? You're undermi"
+ ],
+ [
+  33,
+  2629,
+  "ning it by by trying to go go sue the people who are who are surveilling the ATMs."
+ ],
+ [
+  33,
+  2633,
+  "So I'm not as worried about the the withdrawal mechanism. The withdrawal mechanism is a relatively easy tech problem. I'm worried about the "
+ ],
+ [
+  33,
+  2640,
+  "double spend part, which you just sort of yada yada yada in your story. And if we don't have that, then what you're describing doesn't work."
+ ],
+ [
+  33,
+  2646,
+  " And if we do have that, you don't need what you're describing, really. So I would say it's neither necessary nor sufficient, really. I mean"
+ ],
+ [
+  33,
+  2653,
+  ", it could be helpful. I'm not opposed to it. It's just not the the the priority"
+ ],
+ [
+  33,
+  2657,
+  "there. And and then also, you know, when when we're thinking about this stuff from from a sort of technological design point of view, I also"
+ ],
+ [
+  33,
+  2664,
+  " think of it from a political messaging point of view. This stuff is complicated unless you're already a tech nerd or a money crank, which, "
+ ],
+ [
+  33,
+  2671,
+  "you know, as both, I would be very worried about having more people like me in the world. But if unless you're already that, you need someth"
+ ],
+ [
+  33,
+  2678,
+  "ing you can talk to people about. You need something they can understand"
+ ],
+ [
+  33,
+  2682,
+  "that and and and here's your device, you know, or here's a box we put next to your home router or it's part of your home router, and it stor"
+ ],
+ [
+  33,
+  2693,
+  "es your money on it. And when you spend, it goes from one place to another. Done. That's the story. That's what it needs to sound like to be"
+ ],
+ [
+  33,
+  2703,
+  " mass, appealable. Oh, well, believe it or not, this"
+ ],
+ [
+  33,
+  2707,
+  "this place, this thing that we've done here, I think, is actually like a pretty good sandbox for a system like that. I will say, I I take yo"
+ ],
+ [
+  33,
+  2716,
+  "ur point from from early in the conversation. I I think we all here appreciate some criticism of of the places we set up to do these kinds o"
+ ],
+ [
+  33,
+  2724,
+  "f things. But I will say Switzerland provides a very good safe environment for experimentation."
+ ],
+ [
+  33,
+  2730,
+  "I've learned throughout my time here that Swiss laws are very stringent for a reason. They've been designed for for Yeah. Well, the the the "
+ ],
+ [
+  33,
+  2740,
+  "the the Luxembourg was he wanted to be that way. That's why. Fair enough. Okay. So we have we still have about fifteen minutes, but I think "
+ ],
+ [
+  33,
+  2749,
+  "I'm gonna, like, pass it to the audience and see what questions you might have for Rohan or if you might have any hot takes in"
+ ],
+ [
+  33,
+  2758,
+  "contrast to his hot takes. Anybody here have anything they wanna chip in with? No? Okay. Oh, okay. Okay. Alright. We got one question. Hold "
+ ],
+ [
+  33,
+  2772,
+  "on one sec. Hi. So are there any examples of e cash systems that are already,"
+ ],
+ [
+  33,
+  2780,
+  "you know, worth checking out? I mean, the Avant card that Finland created at the Central Bank in nineteen ninety two ninety two had offline "
+ ],
+ [
+  33,
+  2790,
+  "capability capability. Early attempts with the Mondex card in in The UK in the nineties at a time when a time when I think you've got I thin"
+ ],
+ [
+  33,
+  2800,
+  "k you've got reverb coming. Don't know. Mondex"
+ ],
+ [
+  33,
+  2803,
+  "in the nineties when when when some of the early sort of pre crypto people, cyberpunks were trying to build some of this stuff before they r"
+ ],
+ [
+  33,
+  2811,
+  "ealized that banks didn't have any interest in privacy. Certainly, if banks did, the minute the governments told them no, they weren't gonna"
+ ],
+ [
+  33,
+  2819,
+  " go against So they built this stuff and then immediately found out there was no market for it and couldn't make it commercially viable, and"
+ ],
+ [
+  33,
+  2826,
+  " so they dropped it and moved over to distributed ledger systems."
+ ],
+ [
+  33,
+  2830,
+  "So so add on a Mondex back in the day. I would say e currency meant from the from the central issue out. As I said, that first step of hardw"
+ ],
+ [
+  33,
+  2842,
+  "are security. On the retail side, there are people working on sort of taking existing trusted executing environment systems and scaling them"
+ ],
+ [
+  33,
+  2854,
+  " up. So so things like"
+ ],
+ [
+  33,
+  2856,
+  "things like ID cards, you know, stuff like that that are very, very highly secure. One of the people, eCurrencyMint, who who ended up becomi"
+ ],
+ [
+  33,
+  2863,
+  "ng the the chairman of the working group on digital currency standards for the ITU named David Nguyen. He previously had designed IT cards f"
+ ],
+ [
+  33,
+  2871,
+  "or the for NASA and for various state governments. So, you know, you have to be careful who gets in the building in those kinds of places. S"
+ ],
+ [
+  33,
+  2878,
+  "o those would be places I would start looking at. There's a couple of technologists who who previously worked on various forms of Java cards"
+ ],
+ [
+  33,
+  2886,
+  " and things as part of the eCache alliance that we're in the process of launching. Edward DeJong and Peter Catoneo, I would I would sort of"
+ ],
+ [
+  33,
+  2893,
+  "throw a name out to a shout out to. And and they've been looking at some of the more difficult questions of how to scale up some of that tec"
+ ],
+ [
+  33,
+  2901,
+  "hnology. I also I I forget the name of the company, but a colleague of mine named Benjamin Gaber, who is a law professor up in Canada, and h"
+ ],
+ [
+  33,
+  2909,
+  "e's probably the reigning legal expert on payment system design. He's written books about payment systems in in antiquity"
+ ],
+ [
+  33,
+  2916,
+  "and in in sort of, like, thousand years ago, and he also helped set up, I think, seven whole payment systems of new countries, like, sort of"
+ ],
+ [
+  33,
+  2923,
+  ", you know, East Timor and South Sudan, and, you know, places where societies are forming their own new governments in lifetime in the twent"
+ ],
+ [
+  33,
+  2931,
+  "y first century. And and he he has worked a fair bit with a with some very European officials. At this point, I would say the people who are"
+ ],
+ [
+  33,
+  2938,
+  " thinking about this most seriously are probably the Bank of England and the European Central Bank. And I wanna be clear. I got no love for "
+ ],
+ [
+  33,
+  2945,
+  "central bankers, and I don't think central bankers are civil libertarians. Right? They've never met a cop or a spook they don't wanna defer "
+ ],
+ [
+  33,
+  2953,
+  "to. But they've been dragged"
+ ],
+ [
+  33,
+  2954,
+  "kicking and screaming towards a consideration of privacy and and any cash like spec. First of all, on the privacy side because they know tha"
+ ],
+ [
+  33,
+  2962,
+  "t consumers won't use it if they believe it's government surveillance money. Right? And on that respect, I am in complete agreement with cri"
+ ],
+ [
+  33,
+  2969,
+  "tics of central bank digital currencies. I think it's important to have bank accounts, but god forbid, we should trust the government with a"
+ ],
+ [
+  33,
+  2977,
+  "ll that information. And and and secondly,"
+ ],
+ [
+  33,
+  2979,
+  "because they know that offline capability is important. Right? So so they they're the two central banks that I would say are probably the mo"
+ ],
+ [
+  33,
+  2986,
+  "st ahead in the Western world on a central bank digital currency. And because they're the furthest ahead, they left this question of offline"
+ ],
+ [
+  33,
+  2994,
+  " capable hardware based security kind of till the last step because it was messy and difficult. They didn't really wanna think about it beca"
+ ],
+ [
+  33,
+  3001,
+  "use they're bankers. They're not cash designers."
+ ],
+ [
+  33,
+  3004,
+  "But they've been dragged, kicking, screaming, and thinking about it. So they have their own internal working groups around those kinds of th"
+ ],
+ [
+  33,
+  3011,
+  "ings, and the companies that they're looking at contracting with to to be the vendors for all of this stuff. Because even though they're gov"
+ ],
+ [
+  33,
+  3017,
+  "ernments, they're not socialists. They're always gonna have some private company making this stuff. They're the ones looking at all. But the"
+ ],
+ [
+  33,
+  3024,
+  "re is also, I believe, there was some internal work done at Visa because, again, they get paid to be ahead of every story,"
+ ],
+ [
+  33,
+  3030,
+  "every issue on this stuff. And the Bank of Canada made a small technical report about a trust executing environment spec that they came up w"
+ ],
+ [
+  33,
+  3039,
+  "ith. They came up with a a hardware secured thing, like, over a decade ago called Mint Chip that was actually through the Mint, the Royal Mi"
+ ],
+ [
+  33,
+  3047,
+  "nt in Canada, not through the the the central bank there. And and that was supposed to be a digital purse."
+ ],
+ [
+  33,
+  3054,
+  "And and that failed, I think, largely to do to commercial viability reasons and, you know, sometimes it's wrong to be right too soon and all"
+ ],
+ [
+  33,
+  3061,
+  " of those things. And in fact, interestingly enough, one of my collaborators and colleagues, a guy named Philip Deal, who was the director o"
+ ],
+ [
+  33,
+  3069,
+  "f the US Mint in the nineties, he actually was making a similar argument that it should be the Mint, not the central bank that issues a digi"
+ ],
+ [
+  33,
+  3076,
+  "tal cash instrument."
+ ],
+ [
+  33,
+  3077,
+  "Why? Because because, again, you ask bankers what they, you know, what they want for the future. They'll say a better bank account. It's lik"
+ ],
+ [
+  33,
+  3084,
+  "e Henry Ford saying, if I ask the public what they wanted when I was building a car, they would have set a faster horse. But but but the peo"
+ ],
+ [
+  33,
+  3090,
+  "ple who make coins, they don't they don't manage accounts on your behalf. They're not looking to surveil you. They're not worried about inte"
+ ],
+ [
+  33,
+  3097,
+  "rest rates. They make money, and then they issue it out in in in armored trucks. And once it's out in the world, that's not their bloody pro"
+ ],
+ [
+  33,
+  3103,
+  "blem anymore."
+ ],
+ [
+  33,
+  3104,
+  "So so Philip Deal was making this point in a in a congressional hearing in 1997 on the future of of money and and things saying that that th"
+ ],
+ [
+  33,
+  3113,
+  "at that we need to be thinking about a sort of card that was a digital kind of digital coin based card. So there have been shoots green shoo"
+ ],
+ [
+  33,
+  3121,
+  "ts of ideas around this stuff. The big problem is it takes money, and it takes proof of concept."
+ ],
+ [
+  33,
+  3127,
+  "And and, again, it's a lot easier to become a billionaire making a distributed ledger saying you're gonna build a brand new world only to ba"
+ ],
+ [
+  33,
+  3135,
+  "ck end into venture capital and partner with banks and and and back it all with treasury securities than it is to actually build stuff that "
+ ],
+ [
+  33,
+  3144,
+  "is necessary if not highly profitable. Yeah. That makes a lot of sense. I think funding, whether it's it's public funding from from nation s"
+ ],
+ [
+  33,
+  3152,
+  "tates or even in the crypto space,"
+ ],
+ [
+  33,
+  3154,
+  "it's definitely been an uphill battle because it's just not a top of mind subject. So, you know It doesn't make money. It doesn't make doesn"
+ ],
+ [
+  33,
+  3161,
+  "'t make that's the bigger problem. Top of mind is something that follows downstream for what gets people rich, unfortunately. Yeah. And and,"
+ ],
+ [
+  33,
+  3168,
+  " you know, my my hope is that, you know, some scrappy hackers will will eventually figure it out in a way that doesn't require a ton of fund"
+ ],
+ [
+  33,
+  3176,
+  "ing. And If they can find if they can find a way to get access to a to a a factory,"
+ ],
+ [
+  33,
+  3180,
+  "you know, to to get the kind of chip manufacturing access, like, there are gonna be paranoid concerns about controlling the entire productio"
+ ],
+ [
+  33,
+  3186,
+  "n stack. You know, you can get kind of you can you can become a John Lecar novel like Tinker Tailor Soldier Spy where you're worried about w"
+ ],
+ [
+  33,
+  3192,
+  "ho's who's baked something in at what level. You know, that friend of mine who does security for banks in Australia said that they used to b"
+ ],
+ [
+  33,
+  3199,
+  "e people who would throw ping pong balls into the concrete as it was setting for the building that would have a little, you know, chip in th"
+ ],
+ [
+  33,
+  3205,
+  "ere that wasn't activated. And later on, once the building was built, they drive past in a car and activate the chip, and that's how they wo"
+ ],
+ [
+  33,
+  3211,
+  "uld get, you know, surveillance inside on these comp you know? So there's there's there's fractally nested layers of security when it comes "
+ ],
+ [
+  33,
+  3217,
+  "to hardware."
+ ],
+ [
+  33,
+  3218,
+  "But if we could at least be clear about what the spec of the chip should look like. Right? Even even just an open file about that and then s"
+ ],
+ [
+  33,
+  3227,
+  "ay, okay. If we can find a kind of a factory that would build a white label version of this, And then here's the sort of firmware level code"
+ ],
+ [
+  33,
+  3236,
+  " that is auditable, etcetera, that would go on top of that. That gets us, you know, 85% of the way. Cool. Alright. So we have five minutes. "
+ ],
+ [
+  33,
+  3245,
+  "I think we have one more question from the audience. Cool. So let's let's,"
+ ],
+ [
+  33,
+  3250,
+  "let let me go and, give this man the mic, and then we can wrap it up. Hey, I was wondering what's your take on central bank digital currenci"
+ ],
+ [
+  33,
+  3260,
+  "es directly? I mean, you've gotten that question, but sort of stumbled into a different territory. So I just want you to directly address th"
+ ],
+ [
+  33,
+  3271,
+  "at, particularly from the perspective that"
+ ],
+ [
+  33,
+  3274,
+  "you know, let's let's take an allegory. Let's say that we have a king, and that king creates a low where, you know, whenever he takes a walk"
+ ],
+ [
+  33,
+  3281,
+  " in the middle of town, he can slap anybody in the face. But that's not a problem because he's a nice person. Right? If whenever he's in a g"
+ ],
+ [
+  33,
+  3288,
+  "ood mood, he's not gonna do that. But what happens when the next king comes around and that's not so nice, it's not in a good mood, and he's"
+ ],
+ [
+  33,
+  3295,
+  " gonna just slap everybody in the face. And that's pretty much how I view c d CBDC"
+ ],
+ [
+  33,
+  3299,
+  "even if you take it with that initial assumption that your current government is doing the best things for you, which it probably isn't. Rig"
+ ],
+ [
+  33,
+  3308,
+  "ht? So, like, the issue is you give a lot of power to a central authority and maybe even with good intentions, but what what are some some b"
+ ],
+ [
+  33,
+  3317,
+  "lockers or any kind of any kind of possibilities to limit that power so that somebody else who comes along ten, twenty, thirty years later u"
+ ],
+ [
+  33,
+  3325,
+  "ses those same laws, same systems that you have built, you know, for it to not get abused."
+ ],
+ [
+  33,
+  3331,
+  "Yeah. I mean, first of all, I think you and I are in agreement that nobody should be trusting even the good king. I mean, I don't come from "
+ ],
+ [
+  33,
+  3338,
+  "a country with a king. We had a referendum about becoming a republic in 2000, and we said no, which is a source of deep embarrassment to me."
+ ],
+ [
+  33,
+  3345,
+  " And there's a reason I moved to America on that front, at least at least here when when they invent a king, they believe it's because they "
+ ],
+ [
+  33,
+  3352,
+  "elect them. But but, you know, no kings. Right? No kings is the starting point to your story."
+ ],
+ [
+  33,
+  3357,
+  "And and but I do think it's a reductive view of government, what you're describing. And I would highly recommend people in this community to"
+ ],
+ [
+  33,
+  3364,
+  " actually spend some time looking at the history of law in in Western countries because what you're describing is sort of pre Magna Carta to"
+ ],
+ [
+  33,
+  3371,
+  " me. We've had this problem, and the answer is you don't let the king do whatever the hell they want. They have to be accountable to to a se"
+ ],
+ [
+  33,
+  3378,
+  "t of laws, and those laws are things that can be negotiated and and and contested"
+ ],
+ [
+  33,
+  3382,
+  "by everybody. So that's what the Magna Carta gets us to. Right? We we were part post King John in our story of what government can look like"
+ ],
+ [
+  33,
+  3390,
+  ". And then we get to the glorious revolution, and we say, okay. Even if you're too, you know, even if you're too British to get rid of a mon"
+ ],
+ [
+  33,
+  3397,
+  "arch, then then if the king starts doing things that the parliament disagrees with, we take the king's head off. I don't need a king at all "
+ ],
+ [
+  33,
+  3405,
+  "in my story. I'm I'm fine with just having a parliament."
+ ],
+ [
+  33,
+  3408,
+  "And and then we get to the question of how do you make sure the government itself is is is doing the right things. And so on the other side "
+ ],
+ [
+  33,
+  3415,
+  "of the glorious revolution, we start talking about things like a bill of rights and protection of individual liberties. And at that point, t"
+ ],
+ [
+  33,
+  3423,
+  "he thing that protects us always pitchforks and and, you know, the the ability to assert a higher constitutional law than the law of the sta"
+ ],
+ [
+  33,
+  3430,
+  "te. And that gets us from the American Bill of Rights"
+ ],
+ [
+  33,
+  3433,
+  "and the American Republic to the civil rights movement. Alright. This is a country that was quite clearly happy to to to enslave people unti"
+ ],
+ [
+  33,
+  3441,
+  "l people stood up and said no. And there's a reason I've got a picture of John Brown on my door because the only way you defend that is with"
+ ],
+ [
+  33,
+  3449,
+  " with with with force, ultimately. But but the way that we have to think about this is not whether or not I want to give that to people. I'm"
+ ],
+ [
+  33,
+  3457,
+  " not here advocating for government. Government exists."
+ ],
+ [
+  33,
+  3460,
+  "We lived in a world of kings and empires and warlords. We are trying to work our way out of that. The question is how are you working your w"
+ ],
+ [
+  33,
+  3467,
+  "ay out of that? You know, getting into a fever delirium and dreaming you're already out of it because you're at the top of some mountains wh"
+ ],
+ [
+  33,
+  3475,
+  "ere the oxygen is low is not actually getting out of it. Switzerland has not solved the problem of state power. It's in the middle of Europe"
+ ],
+ [
+  33,
+  3482,
+  " for god's sake."
+ ],
+ [
+  33,
+  3483,
+  "It's it's being allowed to do that. Right? It sends some of its jester looking soldiers to to guard the bloody pope. I mean, it's not it's n"
+ ],
+ [
+  33,
+  3491,
+  "ot it's not solved the problem of military power. If Russia, England, and America wanted to attack Switzerland, you think it's gonna gonna b"
+ ],
+ [
+  33,
+  3498,
+  "e able to survive? How do we stop people from actually, you know, standing on the side of dictatorial regimes? We encourage people to believ"
+ ],
+ [
+  33,
+  3506,
+  "e in their rights, and we encourage people to have a democracy."
+ ],
+ [
+  33,
+  3509,
+  "And democracy means not the power of money, and it certainly doesn't mean the power of private property. Usually, private property means own"
+ ],
+ [
+  33,
+  3517,
+  "ing people or owning other people's land. So I would say the answer there is money should reflect the values that we care about. I have spen"
+ ],
+ [
+  33,
+  3524,
+  "t a large chunk of my life when I'm not trying to design monetary systems talking about a job guarantee, a guaranteed right to decent employ"
+ ],
+ [
+  33,
+  3532,
+  "ment for everybody that turns up and asks for a job."
+ ],
+ [
+  33,
+  3535,
+  "Why? Because then you can transform an hour of your labor into money at any point in time. Anybody on the planet can make their labor money "
+ ],
+ [
+  33,
+  3542,
+  "at any point that they want to. Now people would say that's communism. Well, sure. I don't care what you call it. It's certainly more empowe"
+ ],
+ [
+  33,
+  3549,
+  "ring than the central banks that we have today. So I don't like central banks. I think central banks are class warriors on the wrong side of"
+ ],
+ [
+  33,
+  3555,
+  " history. I I I have testified to congress that a digital dollar should be issued by the treasury. And if we were gonna have bank accounts f"
+ ],
+ [
+  33,
+  3562,
+  "or everybody, I'd do it through the postal service. Because last I checked, most postal workers aren't cops and spooks."
+ ],
+ [
+  33,
+  3568,
+  "They like providing services at the local level. Hi, Vitalik. Alright. So so we have Vitalik. We're we're technically out of time, but I thi"
+ ],
+ [
+  33,
+  3576,
+  "nk, Vitalik, we're gonna extend this a few minutes here because I'd love to get your take. So just a quick breakdown. Basically, what we tal"
+ ],
+ [
+  33,
+  3584,
+  "ked about is the importance of digital cash. And we've defined digital cash to be offline money. So in the sense that when you transact,"
+ ],
+ [
+  33,
+  3592,
+  "it's purely peer to peer device to device, doesn't require an Internet connection, things like that. Or a ledger. Or a ledger. Or a ledger. "
+ ],
+ [
+  33,
+  3600,
+  "Right? Okay. Or a ledger. So I guess, like, let's just get your take on, you know, how important you think this is. Are there any projects t"
+ ],
+ [
+  33,
+  3607,
+  "hat you've seen that are tackling this problem? One of the one of the takes that Rohan has had is that we have not put enough resources and "
+ ],
+ [
+  33,
+  3615,
+  "efforts into things like trusted execution environments that would maybe enable some of these things. So let let's get your take on this. Ye"
+ ],
+ [
+  33,
+  3622,
+  "ah. I mean, I, I mean, I remember this as, like, also how what the mince chip project for in Canada was trying to do back in 2013."
+ ],
+ [
+  33,
+  3629,
+  "Right? It's I guess yeah. It's an interesting idea. I mean, I'd be curious I mean, I'm sure this was discussed already about, like, what's t"
+ ],
+ [
+  33,
+  3638,
+  "he what what what's the basic case for the goal of online, or offline payments in the context of, 2025 and, like, Internet connections gener"
+ ],
+ [
+  33,
+  3647,
+  "ally being good? Cashmere. Cashmere. What was that? Kashmir. Kashmir. In India. But the government can shut off the Internet for months for "
+ ],
+ [
+  33,
+  3657,
+  "months."
+ ],
+ [
+  33,
+  3657,
+  "Right. I see. Okay. Yeah. I think okay. Yeah. The the the challenge with these things that I've always seen is definitely the security issue"
+ ],
+ [
+  33,
+  3670,
+  ". Right? Because, you know, if you can, like, break the thing, then you and then you can double spend. And so, like, pragmatically,"
+ ],
+ [
+  33,
+  3682,
+  "you'd probably want, you know, like, some kind of trusted hardware thing together with some kind of, you like, that, like, limits the balanc"
+ ],
+ [
+  33,
+  3692,
+  "e per account. And then, you know, like, you can balance the losses if because one of the properties of trusted hardware devices often is th"
+ ],
+ [
+  33,
+  3702,
+  "at, like, attacks have a cost that is per device."
+ ],
+ [
+  33,
+  3705,
+  "And and so if you can make it secure in a model that says, like, we have an estimate of, I mean, like, the the cost to to to attack a device"
+ ],
+ [
+  33,
+  3715,
+  ", and then you just set the limit to be lower than that, then, like, from a security perspective, intuitively, that seems totally fine. I me"
+ ],
+ [
+  33,
+  3726,
+  "an, if you can satisfy that, then, like, I I"
+ ],
+ [
+  33,
+  3729,
+  "mean, there there's definitely lots of positive things about the offline model. Right? It's, like, very good for Internet for, like, low Int"
+ ],
+ [
+  33,
+  3737,
+  "ernet environments. It also has, like, good privacy properties, like, by default. Like, instead of, you know, like, having to fight to add t"
+ ],
+ [
+  33,
+  3746,
+  "he privacy in, like, you'd be well, it's rather that you would basically have to fight to take it out."
+ ],
+ [
+  33,
+  3752,
+  "I'll make I'll make a stronger claim, which is you're never gonna get the privacy you want with a ledger based system. Right? And you can yo"
+ ],
+ [
+  33,
+  3759,
+  "u can say that that that because there were problems with hard offline that that we should start over there. But in my opinion, that's looki"
+ ],
+ [
+  33,
+  3766,
+  "ng for your keys where the light is. It's defining an easier problem to solve rather than looking at the hard problem. If we want genuinely "
+ ],
+ [
+  33,
+  3773,
+  "noncensorable money, we want genuinely privacy respecting money, it has to be offline first."
+ ],
+ [
+  33,
+  3777,
+  "Because otherwise, whoever controls the Internet connection controls the ability of you to make transactions. And that's not good enough for"
+ ],
+ [
+  33,
+  3783,
+  " me as a civil libertarian. It's it's setting your own win condition at a at an easier win and then saying that you're the best of the game "
+ ],
+ [
+  33,
+  3789,
+  "in the world. You're not. And when it comes to to what you're describing about about it per device, I I mentioned this earlier. I know you w"
+ ],
+ [
+  33,
+  3796,
+  "eren't here. From a legal point of view, you have to be able to spend money for it to be useful."
+ ],
+ [
+  33,
+  3800,
+  "So so the security doesn't have to be in the in the in the trust executing environment. Although, obviously, you want that to be as secure a"
+ ],
+ [
+  33,
+  3804,
+  "s you can. It can also be in the social conditions under which money can be spent. If you can you make a billion dollars on a trusted you kn"
+ ],
+ [
+  33,
+  3809,
+  "ow, on a on a on a hacked device device and you can't use it can't use it. Yeah. I I hate to cut you off. We we've gone over time. We've got"
+ ],
+ [
+  33,
+  3813,
+  " we've got another meeting. So, you know, we we can probably continue discussion at another time. So I just wanna say thank you for your tim"
+ ],
+ [
+  33,
+  3817,
+  "e. Thank you, Vitalik, for coming in with the take. Like offline idea is definitely something that, like, we generally are not accustomed to"
+ ],
+ [
+  33,
+  3822,
+  " thinking about it enough. So, you know, like, thank you for re raising the point. Yeah. Thanks. It's been fifteen years. I'd love you guys "
+ ],
+ [
+  33,
+  3826,
+  "to show up. Guys to show up. Thanks for having me. Thanks for having your me. Thanks time. Thanks everybody for attending."
+ ],
+ [
   34,
   0,
   "I'll put my hand up when you have one minute left. So, like, at the one minute At the one minute mark, I'll put my hand up, and you have one"
