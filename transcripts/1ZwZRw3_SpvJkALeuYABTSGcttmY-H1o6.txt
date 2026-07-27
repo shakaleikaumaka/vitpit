@@ -12,15 +12,15 @@ Transcribed: 2026-07-27 · groq whisper-large-v3 · PIT BOY harvest fleet v2
 
 [00:22] of you in the back. So, if you'd like to participate, please do come closer because we're going to be discussing in this session it's not much of a presentation so come closer if you're interested please right so this is the kickoff second let's wait Okay, do you want to kick us off?
 
-[01:08] I mean, sure. Okay, so we kicked off on the weekend with just giving everybody a very high level vision of what we're, why we're here and what the idea of Zwitzeland is and how we came up with the idea. And now one of the core tracks for this week is to really discuss what a permanent hub in Switzerland or under the name Zuwitzelen might look like and how we might build an
+[01:08] I mean, sure. Okay, so we kicked off on the weekend with just giving everybody a very high level vision of what we're, why we're here and what the idea of Zuitzerland is and how we came up with the idea. And now one of the core tracks for this week is to really discuss what a permanent hub in Switzerland or under the name Zuitzerland might look like and how we might build an
 
-[01:35] economic model for that. And so we have here the four kind of core curators for this track this week. We have Julian who maybe can just introduce himself quickly. Thank you. i'm julian zevisowski i lead golem foundation and octant project where we do our best to
+[01:35] economic model for that. And so we have here the four kind of core curators for this track this week. We have Julian who maybe can just introduce himself quickly. Thank you. i'm julian Zawistowski i lead golem foundation and octant project where we do our best to
 
-[02:02] fund things in web 3 and not only in web 3 and also provide the use case for like a glm token um yeah i think that's it for start like probably we'll talk more about different topics so i will introduce myself through like my passions amazing yes and we have lodak also thank you uh hi everyone uh my name is father i also from the Golem Foundation I a product owner for the Octant V1 which is the version that you can use right now
+[02:02] fund things in web 3 and not only in web 3 and also provide the use case for like a glm token um yeah i think that's it for start like probably we'll talk more about different topics so i will introduce myself through like my passions amazing yes and we have Vladek also thank you uh hi everyone uh my name is father i also from the Golem Foundation I a product owner for the Octant V1 which is the version that you can use right now
 
 [02:37] Before joining the foundation, I was an academic lawyer, legal historian, and probably on one of the next few days, I will be presenting some historical cases that may be useful for us for developing like permanent hubs or even network cities.
 
-[03:00] And I'm Tomas Ruta. I'm currently building a venture studio and a fund for new cities. Previously, I founded a charter city back in 2020 backed by Pernomos Capital and then a startup called Fora for coordinating people into pop-up cities and permanent cities that got invested by Theo's friend Balaji. And I think that's it for the introductions.
+[03:00] And I'm Tomasz Ruta. I'm currently building a venture studio and a fund for new cities. Previously, I founded a charter city back in 2020 backed by Pronomos Capital and then a startup called Fora for coordinating people into pop-up cities and permanent cities that got invested by Theo's friend Balaji. And I think that's it for the introductions.
 
 [03:23] I'll just say, yeah, this is a very participatory session. We will be recording but not live streaming because we are trying to preserve all the feedback from you guys. And with that said, I think we can get going. Yeah, at any point you want to say something, just put your hand up and we'll get you engaged. And a little context as well. So Tomasz and I have been going back and forth
 
@@ -28,7 +28,7 @@ Transcribed: 2026-07-27 · groq whisper-large-v3 · PIT BOY harvest fleet v2
 
 [05:07] OK, so first of all, what are we talking about? What are permanent hubs? So in one sentence, we're aiming for an in-person community that can become a scene as a launchpad for tech and a museum of the future, meaning a place where you can see the technologies that will only be deployed more widely in the future. And like, you know, we will be unpacking what it means throughout
 
-[05:29] the session today. So the goal for today is to share like our and Vitalik's thinking on what the Zuzalo permanent hubs could be, like, you know, what is the vision, what is the mission. But we're not trying to kind of tell you how we think Switzerland should go about doing that in here. We'd like to get your fresh eyes thinking, get your feedback, get
+[05:29] the session today. So the goal for today is to share like our and Vitalik's thinking on what the Zuzalu permanent hubs could be, like, you know, what is the vision, what is the mission. But we're not trying to kind of tell you how we think Switzerland should go about doing that in here. We'd like to get your fresh eyes thinking, get your feedback, get
 
 [05:55] your thoughts first. And with that said, the plan for today is kind of very, very briefly cover the history of the space, go into what is the point behind the permanent hubs, go over the insights we've gleaned from pop-up cities and just, you know, our own deep thinking about a space and think about the USP's unique selling points of Zuzalu Hubs for builders,
 
@@ -36,21 +36,21 @@ Transcribed: 2026-07-27 · groq whisper-large-v3 · PIT BOY harvest fleet v2
 
 [06:47] So this is not the only time you can be heard. So the brief history of the space, I'm just going to let you guys scan this. I'm not going to go through that, but if anybody has got any question about this, anything that comes to mind, I think, put your hand up.
 
-[07:09] We can talk about it. OK. So moving on. Why permanent hubs? So yes Oh sorry Based on that list what can you tell us on that I don know if you gonna go deeper on that
+[07:09] We can talk about it. OK. So moving on. Why permanent hubs? So yes Oh sorry Based on that list what can you tell us on that I don't know if you gonna go deeper on that
 
 [07:35] or if you, I don't know, curious why the list is like that. Yeah, since you've been in the space for quite a while, maybe you can talk a little bit about what you've observed. We could. So a lot has happened in this space, and I think my main point with this non-slide has been to show you that we are not starting from zero, like a lot of other people have been trying to do things before us. And, you
 
 [08:03] know, like each project had a lot of learnings. I mean, like one thing that stands out for me, right, is that we haven't really seen much success. So, you know, sort of, yeah, you know, there's not a playbook to copy. We have to come up with our own playbook from the first principles but we can still learn from other projects.
 
-[08:27] Thank you. And would you include the China special economic zones in this timeline or? You could do, yeah. The ZA is still successful even despite the Supreme Court decision so a lot of that is international law that helps deal with that.
+[08:27] Thank you. And would you include the China special economic zones in this timeline or? You could do, yeah. The ZEDE is still successful even despite the Supreme Court decision so a lot of that is international law that helps deal with that.
 
-[08:52] I think the we got here is maybe a bit distracting from the first eyes fresh thinking because what we want to build here and what SUSOLU is, is only very loosely connected to the other projects you name here. And I think that people should not think too deep about,
+[08:52] I think the we got here is maybe a bit distracting from the first eyes fresh thinking because what we want to build here and what Zuzalu is, is only very loosely connected to the other projects you name here. And I think that people should not think too deep about,
 
 [09:16] yeah, and all the things before that needs to be a red line or so. No, this is just very loosely an inspiration causality chain or something. Yeah, I think that's fair, yeah. Okay. All right. Moving on. So why permanent
 
 [09:39] hubs? And, you know, really it is Vitalik, not me, who set out the vision for permanent So as some of you may know, Vitalik started Zuzalu in 2023, and then in 2024 he effectively gave grant funding into a lot of different pop-up cities.
 
-[10:02] And then in December 2024, he announced that he'd like Zuzalo to focus on building permanent hubs. So why permanent hubs? So permanent hubs can create specific value for the communities that constituted the initial Zuzalo and that Vitalik cares about. Obviously, there's overlap there.
+[10:02] And then in December 2024, he announced that he'd like Zuzalu to focus on building permanent hubs. So why permanent hubs? So permanent hubs can create specific value for the communities that constituted the initial Zuzalu and that Vitalik cares about. Obviously, there's overlap there.
 
 [10:25] And the way to do that is to create an intellectual environment of some sort where people can discuss ideas with people from their own community but also from other adjacent communities and cross-pollinate. It is creating some sort of shared culture for these communities that allows them to
 
@@ -60,23 +60,23 @@ Transcribed: 2026-07-27 · groq whisper-large-v3 · PIT BOY harvest fleet v2
 
 [11:39] that are not possible to run in other places? So the very obvious areas are governance. There's maybe something around physical infrastructure, especially where it meets DX. So is there something around clean air? Is there something around like pathogen detection in wastewater? Who knows?
 
-[12:02] Those are the kinds of questions that we will be trying to kind of answer this week and later on. And then social norms. So can we innovate on more sort of the softer society level of what constitutes a community? So you know very famously in Zuzalu there were social norms around longevity perhaps around how we relate to each other Wouldn you say Bernd Like say There was a privacy rule that we shouldn
+[12:02] Those are the kinds of questions that we will be trying to kind of answer this week and later on. And then social norms. So can we innovate on more sort of the softer society level of what constitutes a community? So you know very famously in Zuzalu there were social norms around longevity perhaps around how we relate to each other Wouldn't you say Bernd Like say There was a privacy rule that we shouldn
 
-[12:37] The only rule we had in Susalu was there was a privacy rule that forbids that you make photos of others. You are completely free to do whatever you want. And the actual culture or the actual social technology was the opt-in and the vote with your feet. And the people who had zero motivation for the Brian Johnson
+[12:37] The only rule we had in Zuzalu was there was a privacy rule that forbids that you make photos of others. You are completely free to do whatever you want. And the actual culture or the actual social technology was the opt-in and the vote with your feet. And the people who had zero motivation for the Bryan Johnson
 
 [12:59] healthy meals were protected of not needing to eat that and could do whatever they want. And this is really, I think, the community custom. Yeah, so I think this is the questions, ideas.
 
 [13:23] Maybe it's helpful to just have like a short insight from everyone that was there. Start with Cosmo. No, sorry. Okay, Mr. Shy Guy. Veronica, are you opting in? Thoughts on social norms? I think Burns you were responding of the, or you were pointing to the mechanisms that
 
-[13:56] we identified of what, or how the Zuzu experiment was designed, but I think Thomas you said, well there were social norms and there was a norm that emerged of this cold plunge, for example, yes, no, it did emerge, but I think it got co-opted where I imagine we agree, Burns, is that then people started thinking the cold plunge was the thing, when I think the cold plunge was just one potential emergent outcome of a bunch of humans in this place
+[13:56] we identified of what, or how the Zuzalu experiment was designed, but I think Thomas you said, well there were social norms and there was a norm that emerged of this cold plunge, for example, yes, no, it did emerge, but I think it got co-opted where I imagine we agree, Burns, is that then people started thinking the cold plunge was the thing, when I think the cold plunge was just one potential emergent outcome of a bunch of humans in this place
 
-[14:23] and oh, there was a body of water. And so I, so when people then said, oh, Zuzulu is about the cold plunges and therefore now let's have cold plunge and all of the things because it's a cold plunge thing. No, the cold plunge was just the result of the environmental sandbox that was created there and everything you described I do agree with but I think that's not, it's not the social norm. Scripting something, this was one of many
+[14:23] and oh, there was a body of water. And so I, so when people then said, oh, Zuzalu is about the cold plunges and therefore now let's have cold plunge and all of the things because it's a cold plunge thing. No, the cold plunge was just the result of the environmental sandbox that was created there and everything you described I do agree with but I think that's not, it's not the social norm. Scripting something, this was one of many
 
-[14:53] opt rituals like the sauna club was That was not a longevity imperative that is people want to self into a sauna club Also experimental and demonstrational value of governance of Susulu was zero, aside of the permissionless schedule. It is way more about cross-pollination, about getting these very tight, intense net in compatible people and
+[14:53] opt rituals like the sauna club was That was not a longevity imperative that is people want to self into a sauna club Also experimental and demonstrational value of governance of Zuzalu was zero, aside of the permissionless schedule. It is way more about cross-pollination, about getting these very tight, intense net in compatible people and
 
 [15:24] let them work together and I think this is rather the social norm. Social norms are very much or directive and not just rituals. The community builds itself. This is a community ritual but the community norm is it's you should go to the group and do the rituals
 
-[15:47] whatever you want, whatever you feel like and don't pull others and don't coerce others to join you. That was really the norm in Sousolu. And I think the discussion of the norms is something that will come later, like, you know, what should be a little bit more official, you know, what should be enforced, what should be up then? I think that's still like very much an open question.
+[15:47] whatever you want, whatever you feel like and don't pull others and don't coerce others to join you. That was really the norm in Zuzalu. And I think the discussion of the norms is something that will come later, like, you know, what should be a little bit more official, you know, what should be enforced, what should be up then? I think that's still like very much an open question.
 
 [16:09] I think I would double highlight the network effects because that was something that was super valuable and unique and seems to be important to Vitalik as well as like the creating a Silicon Valley-like network effect outside of Silicon Valley. Yeah. Yeah, so I think we are just about to cover that in this section.
 
@@ -94,7 +94,7 @@ Transcribed: 2026-07-27 · groq whisper-large-v3 · PIT BOY harvest fleet v2
 
 [18:54] So, you mean by two functions? This here is really the mission of the permanent hub to a degree is attract top level talent like in SF or like in other tech hubs. And of course, not just curious people who are curious about learning new stuff, that's another target group, that's the target
 
-[19:19] group of the people we want to reach with the movement, but the actual builders need to produce value for each other in an advising or networking way or building on each other. And this is where it's really very, very valuable. If you have a guy for CK or a guy for Trustless Systems, then you have a lawyer, then you have an economist, then you have a governance
+[19:19] group of the people we want to reach with the movement, but the actual builders need to produce value for each other in an advising or networking way or building on each other. And this is where it's really very, very valuable. If you have a guy for ZK or a guy for Trustless Systems, then you have a lawyer, then you have an economist, then you have a governance
 
 [19:45] specialist and so and they can cross pollinate to each other and they can build together this is something different. Yeah. Exclusivity is really important. Well, I mean, for instance, I guess a lot of us might be here because Vitalik might
 
@@ -112,13 +112,13 @@ Transcribed: 2026-07-27 · groq whisper-large-v3 · PIT BOY harvest fleet v2
 
 [22:45] like for be alive, I think that's more important, not the, or perfil, we need people that is different profiles. The system or the idea should have some incentives or some kind of activities or attractive things for that people. That is how it can be really sustainable in the long way.
 
-[23:12] So we need it alive. And when we have tons of technicians and projects that probably can at some point get funded or produce profits and we just outsource to the local farmers and to the local communities so that they also have cash flow from us. Would that not make more sense than equally hiring a cook than a CK auditor? I think that
+[23:12] So we need it alive. And when we have tons of technicians and projects that probably can at some point get funded or produce profits and we just outsource to the local farmers and to the local communities so that they also have cash flow from us. Would that not make more sense than equally hiring a cook than a ZK auditor? I think that
 
 [23:45] exclusivity, the way that it's referred is more like we need clear concepts of gating, membership, groups, bodies of governance, who has what skin in the game and why, and clarity about that and that equals exclusivity because it's clear in which box everything
 
 [24:08] is or in which boxes. That doesn't make us not inclusive. It's like really non-terms that need to be explained on the use case. We can be accessible to everyone. Like a university, a university is exclusive. You need a high school diploma to get there. Without it you can't enter. But it's accessible to, yeah, send your application there to everyone who
 
-[24:34] has a high school diploma. Like accessibility and clear membership and gating is not contradictory at all. Well, I agree with you, but like, when you design, if you aim at exclusivity but you design a gate instead of a bridge, it makes a point So when you design systems yeah I mean they come together in a sense But at least my first weekend at SUSALU was like oh is this the birth of neo
+[24:34] has a high school diploma. Like accessibility and clear membership and gating is not contradictory at all. Well, I agree with you, but like, when you design, if you aim at exclusivity but you design a gate instead of a bridge, it makes a point So when you design systems yeah I mean they come together in a sense But at least my first weekend at Zuzalu was like oh is this the birth of neo
 
 [25:06] Like, sorry. But then it changed slightly over time. And definitely it was completely worth it. And I see the ripples, and the ripples are beautiful. Let's say, at least when you talk about the livability, it's interesting to think that the UX designer of Bumble is the same interaction designer for the Toyota City in Japan. So it's like, yes, this is really important
 
@@ -130,7 +130,7 @@ Transcribed: 2026-07-27 · groq whisper-large-v3 · PIT BOY harvest fleet v2
 
 [26:40] So I think that's probably the key. And then of course there has to be some kind of like a curation or like some kind of like an entry level like with universities. But not necessarily this is something that makes, you know, like this is we have like a class of people who can come and then like everyone else is banned from coming
 
-[27:03] for whatever reasons. . Yes. So this is another point by the way. By the way, so we also probably need to understand what really permanent HAP means. Because a permanent HAP does not necessarily mean a permanent residency. OK so you can be non resident of a permanent HAP for example Or even you can have a network of hubs and switch those hubs all the time
+[27:03] for whatever reasons. . Yes. So this is another point by the way. By the way, so we also probably need to understand what really permanent hub means. Because a permanent hub does not necessarily mean a permanent residency. OK so you can be non resident of a permanent hub for example Or even you can have a network of hubs and switch those hubs all the time
 
 [27:35] depending on the number of factors. There was also a third thing I wanted to say. Oh, yeah. Now I know. So coming back to the first statement, what is the value proposition? I also think that revolving our thoughts around that
 
@@ -140,15 +140,15 @@ Transcribed: 2026-07-27 · groq whisper-large-v3 · PIT BOY harvest fleet v2
 
 [28:42] But then like the, but how do you make it happen? So do the top builders pay taxes to the firm and have or not, for example? Or do they do that as the university style commercialization of the work? Or they work like a keyboard style? By the way, we wanted to invite a keyboard guy to talk to us about keyboards, but unfortunately, due to
 
-[29:05] Bangurion rocket attacks, he will not make it. Anyway, just to add a little bit to the discussion. Thanks, Julian. Yeah, I mean, there's definitely some thinking on the value prop further down in the presentation. Florian, do you want to? Yeah, just a question that also relates to this exclusivity part. So what I'm maybe missing here a bit is, let's say, the connection to the outside.
+[29:05] Ben Gurion rocket attacks, he will not make it. Anyway, just to add a little bit to the discussion. Thanks, Julian. Yeah, I mean, there's definitely some thinking on the value prop further down in the presentation. Florian, do you want to? Yeah, just a question that also relates to this exclusivity part. So what I'm maybe missing here a bit is, let's say, the connection to the outside.
 
 [29:34] So I totally see the value of having people together, bright minds that work on some challenges. but there, especially if this exclusivity is a bit the threat of, and we all know this, of being in a bubble. And if this is permanent, then even more so, so then one, I think, important design choice or to think about how is this
 
 [30:00] permanent hop embedded, let's say, in the rest of a state or of a society and so on. That's just a question that maybe we can come to that. This is very much an open question. Highlight it further down. Yeah, I love that point personally. So I have the impression that in Switzerland we have an incredible Web3 ecosystem as an example,
 
-[30:27] in theory because we have thousands of web3 companies registered in Sook and there there are a lot of builders here to be fair but my overall impression is that we don't have a thriving hub ecosystem where people are living and engaging in person and where that cross pollination is happening in the way that it does in SF or in the way that it did in Montenegro and interestingly someone
+[30:27] in theory because we have thousands of web3 companies registered in Zug and there there are a lot of builders here to be fair but my overall impression is that we don't have a thriving hub ecosystem where people are living and engaging in person and where that cross pollination is happening in the way that it does in SF or in the way that it did in Montenegro and interestingly someone
 
-[30:52] when they applied wrote something very very similar like my hope for this would be that we can build something really thriving because Tug right now is dead. And so definitely that's one aspect that I've been considering to kind of to your point Florian I think my hope would be that we can change that about the Swiss Web3 and wider tech ecosystem but
+[30:52] when they applied wrote something very very similar like my hope for this would be that we can build something really thriving because Zug right now is dead. And so definitely that's one aspect that I've been considering to kind of to your point Florian I think my hope would be that we can change that about the Swiss Web3 and wider tech ecosystem but
 
 [31:15] if there are others in the room that are based in Switzerland I'd love to hear their perspectives I really like going back to basics all the time and defining everything. So I would like to understand what a top builder is. And if we want all the same kind of builders, different kind.
 
@@ -164,7 +164,7 @@ Transcribed: 2026-07-27 · groq whisper-large-v3 · PIT BOY harvest fleet v2
 
 [33:34] . It's just a question to highlight how do you work with this? That is a good challenge. I think, you know, ultimately there is no at the moment, you know, like a program that would be, you know, incubating hubs. So if a builder, founder comes and wants to start a hub in a place
 
-[34:00] that is, you know, maybe challenging to build in, I think, you know, that is possible. And there are city-like projects in emerging markets definitely. So, yeah, it could be. So the whole reason Honduras did the ZA was because it murdered capital of the world. And so for the Hondurans, I was surprised what they really want for their exclusivity is the safety.
+[34:00] that is, you know, maybe challenging to build in, I think, you know, that is possible. And there are city-like projects in emerging markets definitely. So, yeah, it could be. So the whole reason Honduras did the ZEDE was because it murdered capital of the world. And so for the Hondurans, I was surprised what they really want for their exclusivity is the safety.
 
 [34:25] So when they're in Prospera, the mainland Hondurans, especially one guy named Oya, but I think this actually is a shared sensibility throughout them, they feel finally they feel safe, like they can walk in public. I mean, when we visit San Pedro Sula, we're going from Uber to Uber, and then just like a pharmacy, there's people with machine guns out
 
@@ -180,9 +180,9 @@ Transcribed: 2026-07-27 · groq whisper-large-v3 · PIT BOY harvest fleet v2
 
 [36:57] it's still valid because you are a builder to an extent, but you, and I also aligned with the deckway and all of that stuff, but you need to have, I think, to some extent, external people, even people who are in the normie carrier paths, right? Like brilliant product managers working on tech products, brilliant UX designers who you could evangelize and bring into the thing. I think we need to keep that to some extent open to those.
 
-[37:22] And also people who are into philosophy and all these other topics who don necessarily have anything to do with Web3 or AI or even don even know DEC or all of this stuff but might align to it or actually they might be contrarians I think we need to find the right we need to create the right elixir of percentage of combination of ingredients of who do we want the participants to be.
+[37:22] And also people who are into philosophy and all these other topics who don't necessarily have anything to do with Web3 or AI or even don't even know d/acc or all of this stuff but might align to it or actually they might be contrarians I think we need to find the right we need to create the right elixir of percentage of combination of ingredients of who do we want the participants to be.
 
-[37:46] I think if we want to stay true to creating a Silicon Valley network effect outside of Silicon Valley, I think that hinges on that knowledge exchange and creating that sort of salon environment. Male Speaker 1 And do you have a hypothesis of what that Alex here could look like? Dr. Putting me on the spot. I don't, I haven't, I think to some extent it still needs to be
+[37:46] I think if we want to stay true to creating a Silicon Valley network effect outside of Silicon Valley, I think that hinges on that knowledge exchange and creating that sort of salon environment. Male Speaker 1 And do you have a hypothesis of what that elixir here could look like? Dr. Putting me on the spot. I don't, I haven't, I think to some extent it still needs to be
 
 [38:10] in a larger core still has to be aligned to that vision because it's the overarching majority of that culture that emerges in that hub I think needs to drive those original values because otherwise you'll start watering it down too much. But then again, you still need to leave some percentage of those external and other, like externals could be 10%,
 
@@ -214,11 +214,11 @@ Transcribed: 2026-07-27 · groq whisper-large-v3 · PIT BOY harvest fleet v2
 
 [44:07] when many people in crypto just got lucky, they just got rich by accident. And many have a false sense of achievement or success or like a pretentious sort of character where they believe they are better than the rest of the world. And I really like, I need to be more specific, I can't do this right now, but this is a tendency
 
-[44:29] I would like to avoid. Yeah, I just want to respond to that. So I think, actually I've completely lost the thought. My thoughts on this was I all the points that we discussed and came up with and theorized here are valid to some degree but I feel this becomes totally out of context if you don have a clear definition of mission and where we want to be for a permanent
+[44:29] I would like to avoid. Yeah, I just want to respond to that. So I think, actually I've completely lost the thought. My thoughts on this was I all the points that we discussed and came up with and theorized here are valid to some degree but I feel this becomes totally out of context if you don't have a clear definition of mission and where we want to be for a permanent
 
 [45:07] hub. In my understanding and the assumptions that I have for a permanent hub is it's not an ACC, it's still dependent on where the nation state, where it's located and defined by its laws and everything. The reason why I am here in Switzerland and trying to build something is because most of the crypto companies are here. Why are they based here? Because
 
-[45:32] the law are supportive to that. So I feel the clear definition of the mission is really needed. And Switzerland has one of the definitions like DIAC, ZOOGramma, Longevity DIAC, and it'll be more permanent hub are really can be really valuable but only with a
+[45:32] the law are supportive to that. So I feel the clear definition of the mission is really needed. And Switzerland has one of the definitions like d/acc, ZOOGramma, Longevity d/acc, and it'll be more permanent hub are really can be really valuable but only with a
 
 [45:56] clear defined mission ambition yeah yes so go ahead so I think that's a bit unrealistic to try to have the entire list because we're top builders or or whoever decides to go live depends on their situation
 
@@ -226,13 +226,13 @@ Transcribed: 2026-07-27 · groq whisper-large-v3 · PIT BOY harvest fleet v2
 
 [46:43] And so the question might be, in all the kinds of cities that exist, which one is the closest to what we want to achieve? And it's probably not something that has most of this. So not something that resembles New York or something that has all of these points, but would be maybe
 
-[47:08] closer to a smaller version, something that already exists, that many of us know, which are like universities and campuses that are like pretty much serious. And when we say that those experiments before have mostly failed I mean they don integrate the experiments that were happening in universities for a long time Many of them have outlasted their own host government and many of them act pretty much like cities
+[47:08] closer to a smaller version, something that already exists, that many of us know, which are like universities and campuses that are like pretty much serious. And when we say that those experiments before have mostly failed I mean they don't integrate the experiments that were happening in universities for a long time Many of them have outlasted their own host government and many of them act pretty much like cities
 
 [47:38] And it looks like, from what I hear by talking with people here, that many people are looking for a sort of campus where they can come and find people to work with. They don't necessarily care about many of the points here. They want a place where they can stay permanently. By permanently, I mean they have the ability to come there whenever they want,
 
 [48:05] but not necessarily have to live there always. So maybe a model that we should look for is, how has Harvard existed for 300 plus years? So how have universities in Europe existed for longer than most of their own republics? And yeah, basically. Yeah, those are really great points.
 
-[48:31] Coming back to the point around permanent hubs, I think it's good to separate between what are we trying to build with Zuitzeland as a permanent hub versus the overall question of permanent hubs in Zuzulu. And we're exploring both here. For Switzerland, I think we have a clear, let's say, mission and hypothesis, and some of you might not have been here when we presented that on Saturday, so I can just repeat it super briefly, but the TLDR is that we want to accelerate frontier tech in a safe way.
+[48:31] Coming back to the point around permanent hubs, I think it's good to separate between what are we trying to build with Zuitzerland as a permanent hub versus the overall question of permanent hubs in Zuzalu. And we're exploring both here. For Switzerland, I think we have a clear, let's say, mission and hypothesis, and some of you might not have been here when we presented that on Saturday, so I can just repeat it super briefly, but the TLDR is that we want to accelerate frontier tech in a safe way.
 
 [48:58] So essentially, like, if Silicon Valley is the move fast and break things, our hypothesis is that we can build the move fast without breaking things in Switzerland based on the cultural technology that's been built here over the last several hundred years. And our other hypothesis is that in Switzerland we do have or we're capable of creating a hub where we have all of these things maybe except low cost of living.
 
@@ -258,7 +258,7 @@ Transcribed: 2026-07-27 · groq whisper-large-v3 · PIT BOY harvest fleet v2
 
 [53:38] Now, there are two types of products for, you know, for which this could be particularly useful. So if you have a product, I don't know, like a selfie app, you can launch that digitally and you can test it with people in China. But if you have an app that requires having a community, some kind of critical mass that you need to have initially to be able to launch it,
 
-[54:05] actually having a community that you're a part of that is deliberately trying to help you with the launch could be super useful. And the second, which I think is an even stronger value proposition for a lot of the DEAC builders, is being able to deploy in the physical world. And not just, you know, in an apartment or like one building or one room, but potentially at the scale of a town.
+[54:05] actually having a community that you're a part of that is deliberately trying to help you with the launch could be super useful. And the second, which I think is an even stronger value proposition for a lot of the d/acc builders, is being able to deploy in the physical world. And not just, you know, in an apartment or like one building or one room, but potentially at the scale of a town.
 
 [54:33] So, you know, what are some things that we could uniquely incubate at a permanent hub that can't really easily be incubated in other places? I mean, yeah, those are the kinds of things we will want to come up with, but for the builders of these things we believe the permanent hubs will be particularly compelling Any questions points Okay One thought I have there sorry for jumping in all the time
 
@@ -296,7 +296,7 @@ Transcribed: 2026-07-27 · groq whisper-large-v3 · PIT BOY harvest fleet v2
 
 [01:01:59] move on and it can survive no matter how so during this one year we had like two different directors and a lot of strange moments there just to point some risks That a good one definitely About the first point how can we always maintain a critical mass
 
-[01:02:27] I think an interesting idea is permanent hackathons. So take for example Leith Global, but instead of two days, it would be three months, and we'd keep going every three months with the goal of bringing people to work on projects. projects, always new people, but some of them are going to do all the hackathons, are going to stay. Some of them are going to stay six months, and some of them are going to build
+[01:02:27] I think an interesting idea is permanent hackathons. So take for example ETHGlobal, but instead of two days, it would be three months, and we'd keep going every three months with the goal of bringing people to work on projects. projects, always new people, but some of them are going to do all the hackathons, are going to stay. Some of them are going to stay six months, and some of them are going to build
 
 [01:02:52] companies around them, around their ideas. And it's pretty likely, or maybe not, but there is a chance that they will also decide to stay around with their companies. And I always liked the idea of hackathons to bring people to a place, so in-person hackathons, and exploring the idea of making them longer, making them recurrent, one after the other.
 
