@@ -1,0 +1,41 @@
+# Q/acc with How To DAO
+
+Date: 
+Source video: Q/acc with How To DAO
+Drive: https://drive.google.com/file/d/1pmGeGJIOn6hhe0q0Q8dprk0KZ4dNVLPZ/view
+Duration: 00:06:46
+Transcribed: 2026-07-27 · groq whisper-large-v3-turbo · PIT BOY harvest fleet v2
+
+---
+
+[00:00] Awesome! And we are live from Switzerland, which is a new network state concept. It started with Zuzalu, but now it's a different version here in Switzerland in the mountains. We are having great discussions about the future of crypto, future of AI, and what can be better than bring other projects here in Switzerland and also live to you on Twitter and YouTube where we watch.
+
+[00:35] because we are also part of the Quadratic Accelerator, or shortly, QAC, which is incubating new projects, helping them launch their own tokens, so basically helping them launch a DAO, in a sense. And, you know, me, I'm Pungar from HowToDAO, so we are all about DAOs and a DAO adoption, So this is a great cooperation we are having right here.
+
+[01:01] And what I would like to first, and who I would like to first introduce is Justice, one of the co-founder of QAG, who will actually introduce himself, but also present the QAG. So welcome everyone and welcome Justice. Can you tell us a little bit more about QAG and what it's about? Absolutely. Thank you so much, Pancar, for putting us on and for the team who could join us.
+
+[01:25] QAC is a reimagining of token launches that replaces the VC-centric experience we've seen thus far. We take token launches and we turned it into a DeFi primitive So the price of tokens the supply of tokens distribution of tokens is determined by a smart contract money robot And so we built on the science of primary issuance bonding curves, token bonding curves,
+
+[01:53] that were developed all the way back when the ERC-20 standard was being worked on by Simon Deleveria. And Michael Sargon, the augmented bonding curve. So we took all this kind of super heavy, deep science and was like, we're going to make token launches great again. And we think this is exciting is because, you know, we've seen like a meme coin thing happen.
+
+[02:19] And we think that's kind of an example of like a casino. And also we've seen like a culture wars and we're like, hey, where's the support for real projects? And we're like, that's the gap we want to feel. tokenization for real projects. We operate in seasons and we have with us four of the projects that are launching in this season. And so that's what we're doing. This round was sponsored
+
+[02:43] by Polygon. And so these teams got a, you know, credibly neutral, fair token launch sponsored by Polygon. And so, and the round ends on Monday. So excited to hear from the teams. And I want to talk about Rick, Sam, you guys want to say anything? We've co-founded with you, right? Yeah, yeah. I can have this. Number one, we're fixing grant programs for teams, for ecosystems.
+
+[03:10] So an ecosystem wants to give a grant out to a team. They want them to be committed to that ecosystem. They want them to you know have all the upside They want to see them grow and have the potential And we do that using tokenization the Web3 way And this is I think this really fills a lot of trust between the ecosystems and the teams And it's a really interesting dynamic.
+
+[03:35] The other thing we fix is funding curve launchpacks. Funding curve launchpacks for launching tokens are accessible scams, honestly. But it's just all scams all the time. and then maybe once in a while you get a little project. And there's a reason for that. You know, the dynamic is so PVP. It's like, oh, got to get in first. You know, first person in gets the best price. Next person in gets the worst price.
+
+[03:59] It's just, it's not really a nice way to launch a token. And so we make QAC a nice way to launch a token on a bonding curve with a fair launch process that actually bootstraps liquidity for the team and allows everyone who participates to get the lowest possible price and prove that they're part of the community
+
+[04:21] because they actually get locked tokens, right? And then you still get the crazy PVP speculation after the real community who believes in these projects gets in. And that's what makes it so great because the community gets a better price than the speculators. And I think that's the key differential between us and basically every other bonding group launch. That's awesome.
+
+[04:44] Tim, do you have anything to add? I'm going to add something too. You guys are so great. I almost have nothing to add, but just one more thing. And it's just this word disintermediation. And this is the name of my game is disintermediation. It means startups real startups are launching tokens And the first people who get access to these tokens are not the VCs are not insiders or not they are anyone in the public and I think that what matters most to me and that that why I mean I pass it back to you from
+
+[05:11] yeah no and it's awesome thank you for adding that time and that's why we are here as well because we want to offer this like access this membership first to our community who was with us last three years when we were writing the how to DAO work. Like we want everyone basically be on the same page, like come and build it
+
+[05:33] with us. Like this is the chance to get in the, you know, how to DAO and other projects, you know? So how to DAO is one project in the QAG, but there is other projects in this cohort, three projects in this, three more projects in this cohort. There is more projects from the season one, so there is more projects you can actually join. And we really love that approach of getting the community first
+
+[06:00] and then get on the market. So, you know, I think this is a great primitive. And people already know a little bit about how to DAO, so I maybe push it a little bit to the back of the live stream, but what's really exciting is that there is not just like purely crypto projects. like, you know, there is projects which are like, have like art in it or AI as well.
+
+[06:26] And like, I think the great representation of it, it's Ellie, who is founder of To The Moon, which is a basically content creation which you can influence as a person and then AI can generate it. Which is, I think, super cool because if I feel like, think about like DAO governance, like I'm influencing
