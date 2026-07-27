@@ -1,5 +1,2320 @@
 [
  [
+  0,
+  10,
+  "Alright. Good morning, everybody. Thank you for coming to our session. So we're gonna attempt to provide the audience with a tool set to tac"
+ ],
+ [
+  0,
+  19,
+  "kle the an issue which we think is very important, which is global inequality. And we're gonna do it. Initially, the title was fixing inequa"
+ ],
+ [
+  0,
+  28,
+  "lity without hugging trees, but we thought that was a little too mean to the crypto hippies out there. So we"
+ ],
+ [
+  0,
+  35,
+  "hugging trees is okay. But what we're really getting at here is this idea that there's, like, maybe some stuff about regenerative finance, a"
+ ],
+ [
+  0,
+  42,
+  "nd we actually think regenerative economics is actually pretty simple, and it it really is just building a better tax system. So, we're gonn"
+ ],
+ [
+  0,
+  50,
+  "a introduce three concepts. Kaya's gonna introduce a concept called modern monetary theory. Raise your hands if you've heard of modern monet"
+ ],
+ [
+  0,
+  57,
+  "ary theory."
+ ],
+ [
+  0,
+  58,
+  "Alright. Cool. Kinda split people to educate. And then we're gonna go into how on chain identity, specifically using ZK, is gonna help us ge"
+ ],
+ [
+  0,
+  67,
+  "t to that goal of, like, creating a new tax system and tracking wealth. And then I'm gonna speak a little bit about so Ben's gonna do that p"
+ ],
+ [
+  0,
+  75,
+  "art. And then I'm gonna speak about this a little bit about the Swiss wealth tax system and how why it works, why it's good, and why that co"
+ ],
+ [
+  0,
+  84,
+  "uld provide us with a template for at least one one piece of the puzzle here. So, with that being said,"
+ ],
+ [
+  0,
+  90,
+  "let's see here. Let me just quickly go over this slide. So here's our base level assumption for this session. Number one, you agree that wea"
+ ],
+ [
+  0,
+  100,
+  "lth wealth inequality is a problem for society. Okay. So we're not fully in agreement, but let's that this is a base level assumption of of "
+ ],
+ [
+  0,
+  109,
+  "this conversation. Okay? And another one is that progressive taxation is a good way to tackle it."
+ ],
+ [
+  0,
+  116,
+  "Alright? Okay? So technically, if you don't agree, you can GTFO, but please stick around. So we're but the point here is we're not here to d"
+ ],
+ [
+  0,
+  125,
+  "ebate this point. Right? We are going to create a tool set and have a discussion around why this is a good idea and how we were we're gonna "
+ ],
+ [
+  0,
+  133,
+  "tackle it using this idea. Cool. Alright. The one point I would make is that, inequality is the is one of the best predictors of violence at"
+ ],
+ [
+  0,
+  142,
+  "any, scale of land, that the more inequality you have, the more likely you are to have violence. But, again, this is not the point of the ta"
+ ],
+ [
+  0,
+  150,
+  "lk. This is about modern monetary theory. So the person on your left, Stephanie Kelton, is one of the is the person you hear most about, whe"
+ ],
+ [
+  0,
+  159,
+  "n it comes to modern monetary theory. He's written a book called the deficit myth. It's easy to read. I recommend checking it out if you're "
+ ],
+ [
+  0,
+  167,
+  "into this."
+ ],
+ [
+  0,
+  168,
+  "A little bit, American centric, but a lot of things are. The person on the right is Warren Mosler, who, Stephanie Kelton, worked with and le"
+ ],
+ [
+  0,
+  178,
+  "arned from, and he's probably one of the oldest advocates for modern monetary theory. I wouldn't necessarily call it modern monetary theory."
+ ],
+ [
+  0,
+  188,
+  " I think it's a bit of misnomer, like the big bang theory. Like,"
+ ],
+ [
+  0,
+  192,
+  "it's technically a theory, but it's actually kind of a description of the very best explanation we have based on all of our observations of "
+ ],
+ [
+  0,
+  200,
+  "how the economy works from traders and from people in the Federal Reserve and people at the central banks. And so I like to call it modern m"
+ ],
+ [
+  0,
+  209,
+  "onetary analysis because modern monetary theory isn't so much a theory of what the government should or shouldn't do. It's more in a way of "
+ ],
+ [
+  0,
+  217,
+  "analyzing"
+ ],
+ [
+  0,
+  218,
+  "the economy through a lens of the actual institutions that exist, the incentives that are in place, and applying that, and then seeing what "
+ ],
+ [
+  0,
+  227,
+  "outcomes you want, then you can get into more theory stuff. So this is this is the graph that is, like, the thing that if you grasp it, it s"
+ ],
+ [
+  0,
+  237,
+  "ort of explains all of what modern monetary theory is about."
+ ],
+ [
+  0,
+  241,
+  "Essentially, there are two ways that you have money in the economy. Either the government issues it into existence. It tends to create bonds"
+ ],
+ [
+  0,
+  251,
+  " that go sometimes into the markets to trade on, or you have money created through debt driven lending, by banks where banks essentially, yo"
+ ],
+ [
+  0,
+  260,
+  "u know, nowadays, there isn't really so much of a reserve rate in all countries. Oftentimes, the reserve rate is actually zero,"
+ ],
+ [
+  0,
+  269,
+  "which means that banks essentially just lend out money. Somebody takes on a debt, and at the same time, money is created. So we're looking a"
+ ],
+ [
+  0,
+  279,
+  "t not so much, the debt created money, which is somewhat neutral in the economy. We're looking at the one that is created by the government."
+ ],
+ [
+  0,
+  289,
+  " So the green is the foreign sector. You can kind of, ignore that more or less."
+ ],
+ [
+  0,
+  295,
+  "That the so this is the The United States, by the way, because that's where we have the best graphs for. The green is the foreign sector. Yo"
+ ],
+ [
+  0,
+  305,
+  "u can see that after around the, you know, beginning of neoliberalization, there ends up being a lot more debt or dollars, treasuries owned "
+ ],
+ [
+  0,
+  315,
+  "by the foreign sector. But what we really want to look at here is the blue and the red."
+ ],
+ [
+  0,
+  321,
+  "So the the red is what we call the public deficit, quote unquote. So you see that it's going below the middle line. It's the deficit. What w"
+ ],
+ [
+  0,
+  332,
+  "e see in blue is the surplus of the private sector. So private sector includes individuals, businesses, all that stuff, you and me, cooperat"
+ ],
+ [
+  0,
+  344,
+  "ives, DAOs, all that stuff."
+ ],
+ [
+  0,
+  346,
+  "Essentially, what we see there is that the private the the public sector deficit is basically the private sector surplus. So when the public"
+ ],
+ [
+  0,
+  359,
+  " government is in debt, the private sector has money that it can use as an asset. Basically, money that is not also"
+ ],
+ [
+  0,
+  370,
+  "debt that, the private sector is in. And so we can see, roughly that, you know, if you look at where the dips occur, when the public sector "
+ ],
+ [
+  0,
+  379,
+  "starts being, quote unquote, responsible with its spending, that brings down here, and then we we end up with recessions shortly afterwards."
+ ],
+ [
+  0,
+  388,
+  " You see this again and again, and these things are called balance sheet recessions."
+ ],
+ [
+  0,
+  393,
+  "Oftentimes, when I give this talk, have an overlay of where the recessions exactly are. But the two most well known ones, you can see here, "
+ ],
+ [
+  0,
+  403,
+  "public sector is actually starting to go into surplus here, and then bang. That's right where we have the .com crash. And 2005, now 2008, 20"
+ ],
+ [
+  0,
+  413,
+  "08 housing crisis. There was actually,"
+ ],
+ [
+  0,
+  416,
+  "you know, there, of course, was all the things with Freddie Bay, Fannie Mac, the economy becoming more fragile. But, also, banks typically u"
+ ],
+ [
+  0,
+  427,
+  "sed government treasuries as collateral in the international repo markets, which are what banks use for international lending. And so they d"
+ ],
+ [
+  0,
+  437,
+  "idn't quite have a big enough supply of government treasuries,"
+ ],
+ [
+  0,
+  442,
+  "and so there was an incentive to use mortgage bonds, and specifically subprime mortgage bonds started to get added into there, and those sta"
+ ],
+ [
+  0,
+  451,
+  "rted to become be used as international collateral. And so that's how we ended up that's part of how we ended up with the international fina"
+ ],
+ [
+  0,
+  461,
+  "ncial crisis. For more information on that, you can check out Mark Blythe."
+ ],
+ [
+  0,
+  466,
+  "He has some, really good talks about that. Yeah. But this sort of this is the the heart of a lot of of modern monetary theory is that all mo"
+ ],
+ [
+  0,
+  477,
+  "ney is essentially a debt that's created. But when it's the monetary issuer that creates that debt, it's not really debt. If you make your o"
+ ],
+ [
+  0,
+  488,
+  "wn tokens"
+ ],
+ [
+  0,
+  489,
+  "and, you know, you owe somebody some of those tokens, but you can just issue them off, like, to pay them, like, are you really in debt? I th"
+ ],
+ [
+  0,
+  499,
+  "ink it's, not quite the right term. So everything about modern monetary theory really applies to monetary sovereigns. So all of this has to "
+ ],
+ [
+  0,
+  510,
+  "do with a national level. States, European,"
+ ],
+ [
+  0,
+  513,
+  "euro using countries are not considered monetary sovereign. They are beholden to the ECB to determine, basically how many euros they can use"
+ ],
+ [
+  0,
+  526,
+  ", how many euros they get, and they have to tax or borrow for those euros. Now this does issue this raises an interesting question with whic"
+ ],
+ [
+  0,
+  539,
+  "h is"
+ ],
+ [
+  0,
+  539,
+  "once municipalities start issuing their own currencies, how much monetary sovereignty do they get? I would argue quite a bit, but it's still"
+ ],
+ [
+  0,
+  550,
+  " dependent on the resources that are available within their locality. You still have to use a larger level currency to buy and sell things."
+ ],
+ [
+  0,
+  561,
+  "There isn't really much advantage to using your own currency. So, yeah, monetary sovereign state is one that issues its own currency, doesn'"
+ ],
+ [
+  0,
+  571,
+  "t borrow in foreign currencies. So this is a big one. When you have foreign denominated loans, you have to issue your currency to buy that f"
+ ],
+ [
+  0,
+  581,
+  "oreign currency. Going to do is it's going to devalue your own currency"
+ ],
+ [
+  0,
+  586,
+  "as you make the foreign currency more valuable. And so this is the classic way that we end up with hyperinflationary crises. Otherwise, hype"
+ ],
+ [
+  0,
+  597,
+  "rinflation doesn't occur from normal money issuance, particularly for things which are economically valuable. More on that in a bit. And it "
+ ],
+ [
+  0,
+  608,
+  "has a floating exchange rate."
+ ],
+ [
+  0,
+  610,
+  "Floating exchange rates are you know, there are there are degrees of this. There are currency boards. There are currency pegs. If your curre"
+ ],
+ [
+  0,
+  619,
+  "ncy is completely pegged to another currency, then you don't really have as much monetary sovereignty. And then you also have ways in which "
+ ],
+ [
+  0,
+  628,
+  "exchange rates are manipulated, say, in China, and that is part of their sovereign"
+ ],
+ [
+  0,
+  633,
+  "monetary policy. So, essentially, there is no purely financial constraint on spending. The main constraint is inflation, and you do not crea"
+ ],
+ [
+  0,
+  642,
+  "te inflation when you are doing things which are productive in the economy. When you do things that are productive in the economy, you can a"
+ ],
+ [
+  0,
+  651,
+  "ctually create deflation. If you are building out railroads,"
+ ],
+ [
+  0,
+  655,
+  "which makes the cost of, exchange go down, well, then those goods are gonna cost less money in your economy. Goods costing less is the defin"
+ ],
+ [
+  0,
+  666,
+  "ition of inflation. And so deflation. Okay. Thought I said that. Is the definition of deflation. So if you actually spend money very wisely "
+ ],
+ [
+  0,
+  678,
+  "and you do things which are"
+ ],
+ [
+  0,
+  680,
+  "create more returns than what you have spent and generally government spending creates about two and a half times return on investment, alth"
+ ],
+ [
+  0,
+  690,
+  "ough certain things like NASA can create upwards of seven times returns on investment, then you can make your currency more valuable. And so"
+ ],
+ [
+  0,
+  700,
+  " good policy that issues currency into the right places is the heart of having a valuable currency."
+ ],
+ [
+  0,
+  707,
+  "And that's why good deliberation, good governance, good sense making is so critical to having a valuable currency. So, I got into this hyper"
+ ],
+ [
+  0,
+  718,
+  "inflation being more or less a myth. It occurs with corruption of governments. It occur it occurs when countries don't have monetary soverei"
+ ],
+ [
+  0,
+  729,
+  "gnty. So when,"
+ ],
+ [
+  0,
+  730,
+  "Greece stopped issuing the and then you had the, they took on the euro, and then they, you actually saw that the northern banks over lent to"
+ ],
+ [
+  0,
+  739,
+  " Greece because they wanted the high returns before they switched over to the euro. And then they went on the euro, and then the ECB basical"
+ ],
+ [
+  0,
+  748,
+  "ly said, you have to stop spending so much. They enforced some austerity policies that"
+ ],
+ [
+  0,
+  754,
+  "dramatically reduced GDP. And then the debt to GDP went up even though the relative debt was supposed to or the the absolute debt was suppos"
+ ],
+ [
+  0,
+  766,
+  "ed to be going down. The GDP went down so much that they had a debt crisis. And that's the problem when you try to impose, essentially, a Ge"
+ ],
+ [
+  0,
+  779,
+  "rman style of,"
+ ],
+ [
+  0,
+  780,
+  "monetary policy onto a still developing economy that really does require stimulus and requires, growth, and has a lot to do there. So this i"
+ ],
+ [
+  0,
+  793,
+  "s the, very simplified sort of little graph, about the yield curve. Basically, the point of this graph is that,"
+ ],
+ [
+  0,
+  803,
+  "government bonds, the interest rates that are created on treasuries, you know, there there was a big, you know, thing with the bond markets "
+ ],
+ [
+  0,
+  815,
+  "and, US essentially needing to pay higher bond rates and, you know, that kinda scaring Trump. And the thing is is that the Federal Reserve h"
+ ],
+ [
+  0,
+  827,
+  "as"
+ ],
+ [
+  0,
+  827,
+  "full ability. Like like okay. The Federal Reserve only has really three main things that it can do. One of which it doesn't really do anymor"
+ ],
+ [
+  0,
+  837,
+  "e, which is change reserve rates for the banks, how much they have to hold on to and, to how much they can loan out. So in some places, it's"
+ ],
+ [
+  0,
+  846,
+  " like 10%, and so they can lend out 90% of the savings that you put in."
+ ],
+ [
+  0,
+  851,
+  "And so they don't really use that tool anymore. But they do use, basically, open market operations. So that's quantitative easing. It's esse"
+ ],
+ [
+  0,
+  862,
+  "ntially buying up assets, and manipulating asset prices. It helps it really mostly affects stock market prices and stuff, which has become t"
+ ],
+ [
+  0,
+  873,
+  "he sort of, like, hidden third mandate of the"
+ ],
+ [
+  0,
+  877,
+  "Federal Reserve, the main two mandates being inflation and unemployment or, like, how well the economy is doing. They're supposed to balance"
+ ],
+ [
+  0,
+  888,
+  " that. Open market operations, which includes basically buying up their own bonds that are issued by the treasury. And so they essentially c"
+ ],
+ [
+  0,
+  899,
+  "ontrol how much bonds are actually owned by people."
+ ],
+ [
+  0,
+  903,
+  "And so the Fed has full power to basically say, yeah, you only get, point 25% on a ten year government bond, so point two five percent annua"
+ ],
+ [
+  0,
+  913,
+  "lly. And the Japanese government did that for a while. They held in check the prices of the the returns on bonds. There's various reasons yo"
+ ],
+ [
+  0,
+  923,
+  "u can do that, but the point is is that, essentially,"
+ ],
+ [
+  0,
+  927,
+  "bond rates are also monetary policy. Governments are not beholden to investors. They're not beholden to the markets and the return rates. So"
+ ],
+ [
+  0,
+  942,
+  ", yeah, taxes. Taxes are essentially more or less a a good you are paying for,"
+ ],
+ [
+  0,
+  951,
+  "through the government, more or less. And so if if you take that broader definition of taxes, it's it's both goods and services that are ava"
+ ],
+ [
+  0,
+  961,
+  "ilable within a currency, but it's also the fact that you need to pay your taxes in a currency that makes it valuable. It creates demand for"
+ ],
+ [
+  0,
+  971,
+  " the currency. So supply and demand, essentially,"
+ ],
+ [
+  0,
+  975,
+  "demand for something increases the price of something. So when you increase taxes, you increase demand for currency, you raise its value, be"
+ ],
+ [
+  0,
+  985,
+  "cause people need more of it. So, essentially, you got a thing in New Zealand occur where, you had inflation occurring, post corona with sup"
+ ],
+ [
+  0,
+  995,
+  "ply chains being disrupted. And, people were,"
+ ],
+ [
+  0,
+  998,
+  "you know, kinda doing it hard, and there was a good amount of popular support for wealth tax. And the labor government went, oh, no. There's"
+ ],
+ [
+  0,
+  1008,
+  " there's inflation happening right now. The the economy is in turmoil. Now is not the time to tinker around. We just we'll leave it to the c"
+ ],
+ [
+  0,
+  1018,
+  "entral banks. We're not gonna impose a wealth tax. When if if you understand economics,"
+ ],
+ [
+  0,
+  1024,
+  "issuing a wealth tax at that point when inflation is occurring is exactly the monetary policy that you would want to do. You want to make yo"
+ ],
+ [
+  0,
+  1033,
+  "ur currency more valuable at that point. So, like I said, bringing demand, for the nation's currency, value for it, moving resources from th"
+ ],
+ [
+  0,
+  1042,
+  "e private to the public sector. So this can also be a matter of, moving goods from luxury resources,"
+ ],
+ [
+  0,
+  1048,
+  "if you're doing a wealth tax, to commodity resources, to consumer goods, that the the people with a lot of money tend to buy more luxury ite"
+ ],
+ [
+  0,
+  1060,
+  "ms. We can incentivize more creation of consumer goods with, with wealth tax with by addressing inequality in the economy. Managing aggregat"
+ ],
+ [
+  0,
+  1071,
+  "e demand. So like I was saying,"
+ ],
+ [
+  0,
+  1074,
+  "controlling, especially demand driven inflation. So if it's caused by too much spending, you can essentially reduce the spending, reduce, de"
+ ],
+ [
+  0,
+  1085,
+  "mand driven inflation, and, again, wealth redistribution. So this is the typical, view of the economy, through a monod monetary view, and I'"
+ ],
+ [
+  0,
+  1095,
+  "ve actually kinda modified it so it's a little more accurate."
+ ],
+ [
+  0,
+  1100,
+  "So the typical view is that it's like a a faucet, and you fill it up with water. And when there's water in the sink, I mean, you you probabl"
+ ],
+ [
+  0,
+  1109,
+  "y don't wanna drink from a a yeah. A bathroom sink. But, basically, the idea is there's water there. People can use that water, and the econ"
+ ],
+ [
+  0,
+  1119,
+  "omy functions very well. When you have enough money in the economy,"
+ ],
+ [
+  0,
+  1123,
+  "you it's it's like the lubricant in the economy that allows for exchange to occur and allows it to continue. And when you are constantly man"
+ ],
+ [
+  0,
+  1134,
+  "aging the amount of money that's in the economy to allow exchange to occur, that's how the economy works and function. Look at monetary poli"
+ ],
+ [
+  0,
+  1144,
+  "cy as not just not just interest rates,"
+ ],
+ [
+  0,
+  1147,
+  "not just open market operations, not like monetary policy is not just what the central banks do. It's also things like unemployment insuranc"
+ ],
+ [
+  0,
+  1156,
+  "e. You know, you get fired, you get unemployment insurance, you're still spending in the economy. It's things like investing in infrastructu"
+ ],
+ [
+  0,
+  1165,
+  "re. It's things like investing in education. These are all monetary policies that encourage monetary growth."
+ ],
+ [
+  0,
+  1172,
+  "So and then the basic idea is, that the drain is taxes. And, if you tax all of the money out of the economy, if you're trying to run a budge"
+ ],
+ [
+  0,
+  1181,
+  "t surplus, you know, be responsible. The government's making money. You know, we're doing really well here. Well, that means there's you're "
+ ],
+ [
+  0,
+  1190,
+  "literally deleting money from the economy. I like to say, like, if if everyone's seen Batman, like,"
+ ],
+ [
+  0,
+  1196,
+  "it's the Joker Rises where he burns the giant, like, pile of cash, like billions of dollars. I like to joke that, the Joker paid more in tax"
+ ],
+ [
+  0,
+  1210,
+  "es than, Batman did. So, essentially, you can either spend more into the into the economy, and or you can,"
+ ],
+ [
+  0,
+  1220,
+  "change where money is being drained with tax policy. So I I like to say that it's actually really, like, an ice cube tray. Like, you know wh"
+ ],
+ [
+  0,
+  1228,
+  "en you have an ice cube tray and you're putting water into it, you have to, like, run it over the whole ice ice cube tray. If you put it if "
+ ],
+ [
+  0,
+  1237,
+  "you try to just spill it up from, like, the corner, it's gonna overflow. So it's the same thing in, in government spending."
+ ],
+ [
+  0,
+  1244,
+  "If you try to spend where there's already, like, full economic activity, if you try to, like, hire a bunch of data analysts because you're g"
+ ],
+ [
+  0,
+  1253,
+  "onna do the data analysis of the century, you're gonna hire all the data analysts in the economy. Well, the private sector is still gonna wa"
+ ],
+ [
+  0,
+  1262,
+  "nna try to hire those people, and they're going to drive up wages. And that is how you create inflation. And"
+ ],
+ [
+  0,
+  1269,
+  "so, essentially, if you if whereas if you hire somebody who's rather unemployed and they are, you know, start doing something that's economi"
+ ],
+ [
+  0,
+  1279,
+  "cally productive, then you again, like I said, you can create deflation. And so good monetary policy is about filling up each of the little "
+ ],
+ [
+  0,
+  1290,
+  "ice cube trays to the right point"
+ ],
+ [
+  0,
+  1292,
+  "and making sure that you're not overflowing it with too much injection of cash. We don't need unemployment in the economy. We can actually d"
+ ],
+ [
+  0,
+  1304,
+  "o with a 0% unemployment if we wanted to. And as long as we are hiring throughout the sectors of the economy that we need to. So that is a b"
+ ],
+ [
+  0,
+  1316,
+  "rief introduction to modern monetary theory or analysis."
+ ],
+ [
+  0,
+  1321,
+  "Thanks very much. We definitely wanna make time for q and a and audience participation, but we're gonna we're gonna go through these three c"
+ ],
+ [
+  0,
+  1329,
+  "oncepts first. So let's move on to Ben and ZK Identity and Unchained. Yep. Okay. So if that seemed like far away, like the government is lik"
+ ],
+ [
+  0,
+  1336,
+  "e this big thing, we are now on the cusp of a technological web three revolution. And there's a chance that we might get to do these things,"
+ ],
+ [
+  0,
+  1344,
+  " you know, ourselves and design experiments to take care of this. So"
+ ],
+ [
+  0,
+  1348,
+  "let's talk about that. So Bitcoin showed us that we can make money, and that's something that we couldn't do before because how are you gonn"
+ ],
+ [
+  0,
+  1357,
+  "a stop counterfeiting as just an individual person? You need a military. You need government. You need agents to stop that. But now it's onl"
+ ],
+ [
+  0,
+  1366,
+  "y math, but that's just, you know, half of the financial system. So we can also take it out of supply,"
+ ],
+ [
+  0,
+  1372,
+  "and we kind of do that in Ethereum. You know, we've got a EIP fifteen fifty nine, burns the gas fees. It's a we call it ultrasound money, bu"
+ ],
+ [
+  0,
+  1382,
+  "t it's not necessarily. But, well, like ultrasound money does not create necessarily an ultrasound economy. Yeah. It's yeah. It's it's a thi"
+ ],
+ [
+  0,
+  1393,
+  "n thing. So gas fees, you know, they're a regressive tax. They cost the same whether you're you've got a million dollars or you've got $5."
+ ],
+ [
+  0,
+  1403,
+  "And the only really option we have for doing taxes when anybody can make as many accounts, when there's not when you can have Sybels is the "
+ ],
+ [
+  0,
+  1413,
+  "term, and you can only do a flat tax, which some people are very into, but we are not up here. We support the progressive tax. So new tools "
+ ],
+ [
+  0,
+  1423,
+  "like Raremo ZK passport that where you scan your passport with your NFC on your phone or even a non Aadhaar for Indian citizens or I think t"
+ ],
+ [
+  0,
+  1433,
+  "here's there's another country that also has an ID card, Georgia maybe."
+ ],
+ [
+  0,
+  1438,
+  "You can start doing things where civil resistance is baked into contracts. And so you can do one person, one vote, one person, one account, "
+ ],
+ [
+  0,
+  1447,
+  "one person, one message. You can really say that we are these people, and you can do it in privacy preserving way so that you're not reveali"
+ ],
+ [
+  0,
+  1457,
+  "ng anything more about yourself than you want to. You like, you could reveal, you know, I'm from this country. I'm over 18,"
+ ],
+ [
+  0,
+  1465,
+  "but you're nobody's gonna be able to track it actually down to you. So if you're a dissident and you actually say something that the governm"
+ ],
+ [
+  0,
+  1473,
+  "ent doesn't like, they're not gonna be able to find you. And Raremo does amazing projects, Russian exit voting, Georgian UBI. So it's really"
+ ],
+ [
+  0,
+  1482,
+  " cool the kinds of things that go beyond, you know, DeFi, and we're gonna just really see new applications whence people can do this. And th"
+ ],
+ [
+  0,
+  1490,
+  "ere's also there are other"
+ ],
+ [
+  0,
+  1492,
+  "proof of humanity. We got circles that use social graph. And if you look so there was a paper a couple years ago called Who Watches the Watc"
+ ],
+ [
+  0,
+  1500,
+  "hmen, and that paper is really good. The the point I disagree with though, they make this huge point that only 85% of people in the world ha"
+ ],
+ [
+  0,
+  1508,
+  "ve access to government ID getting passports, and they're like, oh, that's not enough. But, like, to me, 80 if we could get 85% of the peopl"
+ ],
+ [
+  0,
+  1516,
+  "e in the world on board,"
+ ],
+ [
+  0,
+  1517,
+  "that's pretty good. So doing passports and like even me, I don't have a phone that supports NFC reading, so yeah, it is a little bit of a bu"
+ ],
+ [
+  0,
+  1525,
+  "rden. There's still UX things, so it's still somewhat in the future, but with these kind of technologies, we can say, thanks for your ID ser"
+ ],
+ [
+  0,
+  1534,
+  "vices nation states, and now we can do the monetary policy. We can do the same things that you've been doing"
+ ],
+ [
+  0,
+  1540,
+  "with central banks and all that, and we can do progressive taxation on chain and kind of come up with whatever we want. We can do all kinds "
+ ],
+ [
+  0,
+  1550,
+  "of experiments, and we can get people on board. So, like, what could we build? Would you have taxation when you swap in and out? If you didn"
+ ],
+ [
+  0,
+  1560,
+  "'t have your ID verified, the transaction could just fail because you're not registered on the contract."
+ ],
+ [
+  0,
+  1567,
+  "We can do regular taxation over different periods of time based on your wealth in the currency. There's all kinds of things that we could do"
+ ],
+ [
+  0,
+  1576,
+  " and see what works. Obviously, there's gonna be challenges as far as getting, you know, whales onboarded to something like this, and you've"
+ ],
+ [
+  0,
+  1584,
+  " got to come up with, you know, so you got to imagine that that they are getting other things though, even if they're getting taxed more tha"
+ ],
+ [
+  0,
+  1593,
+  "n they would otherwise."
+ ],
+ [
+  0,
+  1594,
+  "So, you know, you've got you know that these are real people and there's you can actually count the number of people who are using it. It's "
+ ],
+ [
+  0,
+  1603,
+  "not like there's a bunch of just sock puppet accounts. So while we finish up the presentation, I'd like you to think about what would a prog"
+ ],
+ [
+  0,
+  1612,
+  "ressive taxation experiment look like to you? How would you think it could be done in a way that would appeal to people and would also help "
+ ],
+ [
+  0,
+  1621,
+  "us reduce wealth inequality? And so if you wanna go in the meerkat and"
+ ],
+ [
+  0,
+  1625,
+  "help us out, we'll talk about those at the end of the presentation. Okay. I guess yeah. Yeah. I'm gonna give a talk, another day on alternat"
+ ],
+ [
+  0,
+  1633,
+  "ive, monetary system balancers for community currencies, cooperative currencies. So if you're into that, there'll be more on that. We I'll s"
+ ],
+ [
+  0,
+  1641,
+  "how you a flow chart and then we can come up with other sort of brainstorming methods that you guys have. Cool. Here's the Meerkat link if a"
+ ],
+ [
+  0,
+  1649,
+  "nybody wants to scan and put it up. Just start dumping your thoughts in there. The idea here is what we wanna do at the end is take everythi"
+ ],
+ [
+  0,
+  1657,
+  "ng from this meerkat, take our presentation,"
+ ],
+ [
+  0,
+  1659,
+  "feed it into ChatGPT, have us come up with almost like a constitution of, like, what the system would look like. So, I'll leave that up for "
+ ],
+ [
+  0,
+  1670,
+  "a minute here and maybe actually, we're I think we're doing pretty well on time. So if anybody has any questions, now would be a good time t"
+ ],
+ [
+  0,
+  1682,
+  "o maybe do one. Anybody? Yep. Go ahead. Ecosystem."
+ ],
+ [
+  0,
+  1686,
+  "If I got it right, you you said that, fee, like a gas fee, is like a kind of taxation. I would rather disagree with that. I would say that t"
+ ],
+ [
+  0,
+  1699,
+  "his is like a service fee for using a a block space. Now, of course, you can have a different take on that. But my point is that why we are "
+ ],
+ [
+  0,
+  1712,
+  "talking about progressive taxation"
+ ],
+ [
+  0,
+  1715,
+  "if we don't even have, like, a linear taxation of any form in in Ethereum? And and this is, a huge problem in in a way, which we'll be talki"
+ ],
+ [
+  0,
+  1724,
+  "ng about during the next session. But at the current state of the first, I I would say that probably any taxation has to be like a voluntary"
+ ],
+ [
+  0,
+  1734,
+  " base, which is not taxation. Like, a voluntary tax is not a tax. It's like a"
+ ],
+ [
+  0,
+  1739,
+  "it's something else. Or it would have to be limited to a certain group that wants to operate within, a certain economy that they create with"
+ ],
+ [
+  0,
+  1748,
+  "out that, like, a broader space. So many thoughts and one comment that I don't think, like, you can you can you can call a a gas fee, taxati"
+ ],
+ [
+  0,
+  1758,
+  "on because I I think this is a little bit misleading. Also because, like, the like the gas fees regulated by, like, very market forces, like"
+ ],
+ [
+  0,
+  1767,
+  ", of, like, how many people, how many not not people. What what is the demand for the for the block space, basically? Yeah. Do you guys have"
+ ],
+ [
+  0,
+  1776,
+  " a take?"
+ ],
+ [
+  0,
+  1777,
+  "I mean, I I would say that, you know, you are paying for a service with it. So it is a it is a sort of, fee that goes to the community that "
+ ],
+ [
+  0,
+  1786,
+  "runs the currency. Yeah. I will say there's been in my mind at least, there's been one attempt at creating, like, more complex fiscal policy"
+ ],
+ [
+  0,
+  1795,
+  " within Ethereum, and that's, you know, Vitalik's, like, multimodal EIP one five five nine proposal. So that basically proposes different ty"
+ ],
+ [
+  0,
+  1804,
+  "pes of fees for different types of transactions."
+ ],
+ [
+  0,
+  1807,
+  "And that's kind of a more of like a sales tax, VAT tax sort of thing. Sure. I I would claim that at the moment, this is more like a Internet"
+ ],
+ [
+  0,
+  1819,
+  " service provider payment or or like a utility bill. Right. Fair. Yeah. Yeah. I have a lot of issues with the monetary"
+ ],
+ [
+  0,
+  1830,
+  "theory in general because it used to not work. And the thing is that well, we want we want a super monetary system, or we want the people to"
+ ],
+ [
+  0,
+  1844,
+  " be happy, to be fine, to be alive. Yeah? In the real world, when you the places that the people have highest levels of"
+ ],
+ [
+  0,
+  1855,
+  "life are the places that the people can do more transactions. Yeah? If the people take with other people, without just money. Okay? But if t"
+ ],
+ [
+  0,
+  1864,
+  "he places that the people has more amount of interaction, economy, and transaction. That's why in Dubai, that you can buy, sell, and all of "
+ ],
+ [
+  0,
+  1874,
+  "these, you have a lot of people going to Dubai and believe in and living there because it's a nice place that you have a lot of people reall"
+ ],
+ [
+  0,
+  1883,
+  "y specializing in some specific things working,"
+ ],
+ [
+  0,
+  1886,
+  "and you can make transaction with them. I mean, Zimbabwe in a rural place. You brought in Zimbabwe in a rural place, have less taxes than th"
+ ],
+ [
+  0,
+  1896,
+  "an Dubai. But and why it's almost zero? What's the question? I think we're just little short on time. I don't see that the taxes are value f"
+ ],
+ [
+  0,
+  1907,
+  "or the people for the people. And the idea that we can make taxes for"
+ ],
+ [
+  0,
+  1912,
+  "we need to create a better place for people make transactions. You put taxes in some kind of log chain. For example, hey. You can in your pa"
+ ],
+ [
+  0,
+  1919,
+  "ssport, we can tax you in your passport. It's like, I will not use that. If someone come and say, we will put taxes in Ethereum, I will say,"
+ ],
+ [
+  0,
+  1927,
+  " I will never again in my life use Ethereum. The people will run. I will run. So the the point I made is that, you know, you can great deman"
+ ],
+ [
+  0,
+  1934,
+  "d for the currency with either taxes"
+ ],
+ [
+  0,
+  1936,
+  "or with goods that are denominated in that currency. And so in places like Dubai and places like with a lot of oil money, they're essentiall"
+ ],
+ [
+  0,
+  1947,
+  "y selling off their oil. They you know, the foreign, markets have to either give them dollars or buy that currency, their local currency, an"
+ ],
+ [
+  0,
+  1957,
+  "d drive up the value of it. And so places that don't have just massive natural resources to use have to create demand for their currency in "
+ ],
+ [
+  0,
+  1968,
+  "another way."
+ ],
+ [
+  0,
+  1969,
+  "And so you do that with things like taxation, and then, like, taxation doesn't even have to be like like income tax wasn't always a thing. W"
+ ],
+ [
+  0,
+  1977,
+  "e we don't exactly need income tax. That typically, the sort of taxes that existed were for limited liability corporations. These, like basi"
+ ],
+ [
+  0,
+  1985,
+  "cally, if you're gonna have limited liability, well, you're probably gonna create some externalities, and we should probably tax you for tha"
+ ],
+ [
+  0,
+  1993,
+  "t."
+ ],
+ [
+  0,
+  1993,
+  "Beyond that and there's a model of the economy, which is of of issuing currency, which is called the economy for the common good. HaifaDAO a"
+ ],
+ [
+  0,
+  2001,
+  "ctually sort of implemented some of the things with the economy for the common good. And that's essentially like, okay. Well, the the rates "
+ ],
+ [
+  0,
+  2009,
+  "of lending we're gonna give out are gonna be based on all of the externalities in the economy essentially. It's more based on actual constit"
+ ],
+ [
+  0,
+  2018,
+  "utional values. Pretty interesting, but"
+ ],
+ [
+  0,
+  2020,
+  "shouldn't get too much into that right now. Also, using Dubai as an example in the context of us, we're trying to talk about how to reduce w"
+ ],
+ [
+  0,
+  2029,
+  "ealth inequality. And in Dubai, I mean, it's great if you've got a lot of money, but if you're one of the migrants from India that goes ther"
+ ],
+ [
+  0,
+  2038,
+  "e to work there, it's a totally different experience, and it would be"
+ ],
+ [
+  0,
+  2043,
+  "different if there was less wealth inequality. The the other point I wanna make is the other form of of taxation that, like, essentially wou"
+ ],
+ [
+  0,
+  2050,
+  "ld be a lot more fair is something like a land value tax. So Georgism is the classical example, and that's where you're essentially paying f"
+ ],
+ [
+  0,
+  2058,
+  "or the value of the land that you're using. Is this short? Short question? You pay for the value of the land you're using. So if you're taki"
+ ],
+ [
+  0,
+  2065,
+  "ng land away from the community, you should be paying to the community for it. So sorry. I don't wanna cut you off. I do wanna move on to th"
+ ],
+ [
+  0,
+  2072,
+  "is last subject because that's a really good segue into wealth taxes. So if you can just save that question for the end. Sorry. Okay. Let's "
+ ],
+ [
+  0,
+  2079,
+  "talk Swiss wealth taxes for a sec because wealth"
+ ],
+ [
+  0,
+  2082,
+  "if you think of, like, land value tax is sort of a derivative of property tax. Right? A property tax is one form of a wealth tax. Right? You"
+ ],
+ [
+  0,
+  2089,
+  " have you own this property. You're getting assessed, what that the value of that property is, and then you get taxed on an annual basis. It"
+ ],
+ [
+  0,
+  2096,
+  "'s not it's not related to income or the value whether it went up or down that year. Right? That's capital gains. Okay. So wealth taxes. So "
+ ],
+ [
+  0,
+  2103,
+  "first of all, Switzerland is not unique on wealth taxes in Europe."
+ ],
+ [
+  0,
+  2106,
+  "Spain does one. France does one that's more selective, but it's not a unique concept. But I think the Swiss system is probably the most all "
+ ],
+ [
+  0,
+  2114,
+  "encompassing in terms of how it deals with this. So this is done at the cantano level. So the federal government does not charge a wealth ta"
+ ],
+ [
+  0,
+  2123,
+  "x, but all 26 cantons do have some form of a wealth tax. Those tax rates go anywhere from point 1% of your wealth to 1% annual."
+ ],
+ [
+  0,
+  2130,
+  "So for example, in Zurich, on a net wealth of CHF1,000,000, we're looking at, like, point three to point 5%. Other, municipalities, cantons "
+ ],
+ [
+  0,
+  2141,
+  "charge more, And this is a progressive system. So that means that the higher your wealth is, that rate is gonna go up past certain amounts. "
+ ],
+ [
+  0,
+  2151,
+  "Okay. Who pays? So Swiss residents pay."
+ ],
+ [
+  0,
+  2154,
+  "Foreigners with Swiss residents, pay. And those taxes apply to worldwide assets. So you can't hide. K? You can't leave. And if you're a Swis"
+ ],
+ [
+  0,
+  2163,
+  "s citizen, like, it follows you. Okay. So what's included in that wealth tax? So we have real estate. We got bank accounts. So just like cas"
+ ],
+ [
+  0,
+  2173,
+  "h in your bank, securities, so stocks, assets, crypto as well,"
+ ],
+ [
+  0,
+  2177,
+  "vehicles, so cars, and then art and jewelry. So, again and that's progressive. Your debt is reduced from that. So if you have loans, that am"
+ ],
+ [
+  0,
+  2186,
+  "ount is reduced from that net wealth. And then things like pension entitlements and personal effects are excluded. One more point I wanna ma"
+ ],
+ [
+  0,
+  2196,
+  "ke is that the process to assess these is different based on asset. So for example,"
+ ],
+ [
+  0,
+  2201,
+  "things like securities are gonna be based on the year end value of those securities. Real estate is assessed basically, I think around 30% b"
+ ],
+ [
+  0,
+  2209,
+  "elow the market rate. And then everything else, is more like art vehicles. They're self assessed. And if the government decides you're under"
+ ],
+ [
+  0,
+  2217,
+  " reporting, they will challenge that. So, actually, that's one thing that, you know, on chain a non chain economy would help with this. Righ"
+ ],
+ [
+  0,
+  2225,
+  "t? Like, we can track wealth in a much more fluid way. We're creating markets for more, like, esoteric things like art where, you know, we'r"
+ ],
+ [
+  0,
+  2234,
+  "e creating more liquidity for for art and"
+ ],
+ [
+  0,
+  2236,
+  "all kinds of things by fractionalization. So then we're not we're going to decentralize the authority that determines the price of these thi"
+ ],
+ [
+  0,
+  2243,
+  "ngs as well. They'll be more market driven. So, that would help with administering something like this. Okay. So why does a wealth tax matte"
+ ],
+ [
+  0,
+  2250,
+  "r? Well, for one, because one of the perceptions against wealth tax, one of the arguments has been that they're hard to administer. It's rea"
+ ],
+ [
+  0,
+  2257,
+  "lly hard to track wealth. Well, clearly, Switzerland doesn't have that problem. They figured out a way that works. It's already integrated w"
+ ],
+ [
+  0,
+  2265,
+  "ithin the annual tax filings."
+ ],
+ [
+  0,
+  2266,
+  "So there's really no additional infrastructure. The only infrastructure that would be helpful here is what we're talking about, which would "
+ ],
+ [
+  0,
+  2273,
+  "actually make it easier to do. Asset valuations, I I kinda went over that, how they are they already have a streamlined system for that, and"
+ ],
+ [
+  0,
+  2280,
+  " it's been working for over a hundred years. Okay? Cool. Number two, wealth taxes scare off the rich. Oh, no. Like, all our, like, wealth cr"
+ ],
+ [
+  0,
+  2287,
+  "eators are gonna leave the country and go invest somewhere else. Not really."
+ ],
+ [
+  0,
+  2291,
+  "Despite taxing it, this is still one of the top destinations for wealthy people. Like, this is a very wealthy country. You don't see people "
+ ],
+ [
+  0,
+  2299,
+  "leaving here because they have to pay a wealth tax. The thing is the the rates are moderate. Okay? And the actually, the the rates on capita"
+ ],
+ [
+  0,
+  2306,
+  "l gains are much lower here. So just because you have a wealth tax doesn't mean you also have, like, high capital gains taxes. Switzerland u"
+ ],
+ [
+  0,
+  2314,
+  "ses the wealth tax as a way to just more fairly tax"
+ ],
+ [
+  0,
+  2317,
+  "wealth, and it's still a very investment friendly environment. And the other thing is the what really matters here is the high living standa"
+ ],
+ [
+  0,
+  2326,
+  "rds. Right? Like, people are gonna stay here because the standards of living are high, and wealth taxes help fund that. Not directly as as, "
+ ],
+ [
+  0,
+  2334,
+  "you know, Kai would say, we're not using taxes to fund that, but because it helps maintain social stability and it helps maintain"
+ ],
+ [
+  0,
+  2342,
+  "the, the stability of the currency itself. K? Alright. So the third thing is, well, taxes don't raise meaningful revenue. Well, the cantons,"
+ ],
+ [
+  0,
+  2350,
+  " they are now raising about 1% of GDP versus taxes, which is pretty significant, And this is stable and predictable. That's the other thing "
+ ],
+ [
+  0,
+  2358,
+  "is, you know, capital gains, the markets fluctuate, and you it's hard to predict how much tax you're gonna collect. A wealth tax gives you a"
+ ],
+ [
+  0,
+  2366,
+  " guarantee that people are going to pay a bill on their wealth."
+ ],
+ [
+  0,
+  2370,
+  "And and that works especially well here because, again, capital gains income is actually very, reasonably, taxed even versus against a place"
+ ],
+ [
+  0,
+  2381,
+  " like The United States. K. So that's the wealth tax. Cool. Well, I think we can now go into a little bit more q and a. Yeah. I'll just wann"
+ ],
+ [
+  0,
+  2393,
+  "a add two points on this. The,"
+ ],
+ [
+  0,
+  2395,
+  "if you're curious about the wealth taxing and how even, like, very small percentages of wealth tax make a a huge difference, look into the e"
+ ],
+ [
+  0,
+  2405,
+  "conomophysics simulation on wealth taxes. Because of wealth's tendency to compound, to accumulate and compound, and and they use a a very st"
+ ],
+ [
+  0,
+  2414,
+  "raightforward model on this, that you never end up with skewed wealth distributions and wealth taxes massively flatten that"
+ ],
+ [
+  0,
+  2423,
+  "over time while still allowing for plenty of market free exchange sort of things to occur. Also, wealth is not just in financial assets that"
+ ],
+ [
+  0,
+  2436,
+  " are internationally mobile. Most wealth is actually within the country in capital, like, you know, in production in land. And"
+ ],
+ [
+  0,
+  2447,
+  "so it makes a big difference. It's rather you know, it's hard to move your building abroad. So, yeah, let's go into q and a. Do you let's ge"
+ ],
+ [
+  0,
+  2460,
+  "t, the guy who raised his hand first. Actually, the the the question before was about, like, why we are not talking about, like, a wealth ta"
+ ],
+ [
+  0,
+  2472,
+  "x in the context of"
+ ],
+ [
+  0,
+  2474,
+  "inequality because, obviously, like, wealth inequalities are this is if not incoming qualities for that. But I can have another question. No"
+ ],
+ [
+  0,
+  2484,
+  " problem with that. So I guess what first, like, coming to the to the first part, just to understand that better, isn't, like, saving also t"
+ ],
+ [
+  0,
+  2493,
+  "he answer, not only taxation? Like, so increasing, like, tax rates and, like, taking money off them. Just just just asking about that. Savin"
+ ],
+ [
+  0,
+  2503,
+  "g is an interesting one because we look at it as this, like,"
+ ],
+ [
+  0,
+  2507,
+  "very, like, virtuous. The more savings that exist in the total economy, specifically liquid savings that can be spent at any time, can actua"
+ ],
+ [
+  0,
+  2515,
+  "lly introduce instability into the economy if people start to liquidate their savings to go into other assets that can start to really deval"
+ ],
+ [
+  0,
+  2523,
+  "ue the currency. You know, if there's, like, a lot of fear or and that people start stockpiling"
+ ],
+ [
+  0,
+  2529,
+  "with all of the money that they have that that can destabilize an economy. So fortunately, now we have essentially, you know, FDIC insurance"
+ ],
+ [
+  0,
+  2541,
+  " backing up the banks with central bank money that, you know, gives a guarantee. But, yeah, that's why I think that it's actually quite good"
+ ],
+ [
+  0,
+  2553,
+  " to move to a more social security model where,"
+ ],
+ [
+  0,
+  2557,
+  "you know, you don't have to rely on having collected a bunch of savings. I mean, because essentially, like, social security, like, in The Un"
+ ],
+ [
+  0,
+  2564,
+  "ited States, they do this whole complicated thing. You spend into it, and that money goes into a big investment fund that gets managed by la"
+ ],
+ [
+  0,
+  2571,
+  "rge institutions that make money off of it. And then there's this pot that's only supposed to be so large and, like, oh, no. We're gonna run"
+ ],
+ [
+  0,
+  2578,
+  " out, so we have to reduce our our spending for it. Whereas really, it's just ultimately can be spent into existence and it does the exact s"
+ ],
+ [
+  0,
+  2585,
+  "ame thing,"
+ ],
+ [
+  0,
+  2585,
+  "and fees don't go to large institutions. And and the second last question, I promise I will not ask any more questions and not take too much"
+ ],
+ [
+  0,
+  2592,
+  " too much of your time. Like, is the other side of the equation in your thinking UBI or how would you propose to distribute all those taxes?"
+ ],
+ [
+  0,
+  2599,
+  " Or we just, like, tax and burn it and, you know, like, we are happy because we we made the inequality smaller. I'm a a fan of UBI. I actual"
+ ],
+ [
+  0,
+  2606,
+  "ly work for the, Basic Income Earth Network."
+ ],
+ [
+  0,
+  2608,
+  "I do technology for them. I think that slowly introducing a UBI, it allows people the bargaining power for a market economy to actually work"
+ ],
+ [
+  0,
+  2616,
+  ", to be like, well, no. I don't want this job at this price. Like, you know, we sort of, you know, when we talk about labor in the market, y"
+ ],
+ [
+  0,
+  2625,
+  "ou know, you're supposed to, like, negotiate for what you're worth. But, like, if the whole point of raising interest rates is to make money"
+ ],
+ [
+  0,
+  2633,
+  " harder to get, so businesses go bankrupt and people go unemployed and it reduces the wages,"
+ ],
+ [
+  0,
+  2639,
+  "then how can there be any real wage negotiation that it actually, like, where you you negotiate for what you're worth because the market pri"
+ ],
+ [
+  0,
+  2648,
+  "ce is ultimately manipulated by the central bank. In a system like this, taxes would not be funding UBI. We could do a UBI with MMT today. T"
+ ],
+ [
+  0,
+  2657,
+  "he government could literally be like, we're doing MMT now."
+ ],
+ [
+  0,
+  2661,
+  "And the what would taxes would come into play if the creation of that new money into the economy causes inflation. Right? It's like because "
+ ],
+ [
+  0,
+  2675,
+  "now we've created unproductive, currency, so we have to burn some of that supply. Correct. Exactly. Mhmm."
+ ],
+ [
+  0,
+  2686,
+  "Okay. Any other live Yeah. Do you think Switzerland will maintain its relatively low tax rate environment and keep attracting the wealthy? T"
+ ],
+ [
+  0,
+  2694,
+  "hat's a good question. I mean, I think in terms of, like, Gini coefficient, I think Switzerland's better than a lot of countries right now, "
+ ],
+ [
+  0,
+  2703,
+  "a lot of developed nations. So they've done a good job of balancing wealth inequality to some degree."
+ ],
+ [
+  0,
+  2709,
+  "But I don't know. Do you guys have taken this? That they, you know, attract wealthy people. That doesn't really, you know, it it enables cer"
+ ],
+ [
+  0,
+  2718,
+  "tain sort of things to happen, but it also makes cost of living tend to go up. So on the whole, it's kinda arguable whether it's, like, that"
+ ],
+ [
+  0,
+  2728,
+  " great. Like, they invest really heavily in education and in infrastructure here, like the trains and being able to, like, you know, get stu"
+ ],
+ [
+  0,
+  2737,
+  "ff in the mail same day or next day, like, right when you expect it. It's like,"
+ ],
+ [
+  0,
+  2742,
+  "this is good infrastructure that helps the economy function. Like, the more things like, distribution. When when the economy when the govern"
+ ],
+ [
+  0,
+  2750,
+  "ment gets involved in distribution and can become a main distributor, like, distribution is the thing that scales most with economies of sca"
+ ],
+ [
+  0,
+  2758,
+  "le. That's how things like Amazon end up taking over, and they because they end up basically becoming that, like, primary distributor for al"
+ ],
+ [
+  0,
+  2765,
+  "l things."
+ ],
+ [
+  0,
+  2766,
+  "In between, just buyers and and, and suppliers are is the distributors. And so having good distribution is is major for an economy. Same thi"
+ ],
+ [
+  0,
+  2779,
+  "ng with education. Same thing with, support for the most desperate. Yeah. I I don't think things will get much worse. They have a pretty sta"
+ ],
+ [
+  0,
+  2792,
+  "ble political system,"
+ ],
+ [
+  0,
+  2794,
+  "but I'm also not an expert on the Swiss economy. Yeah. I think I mean, I really like what we're pushing for here is the modernization of the"
+ ],
+ [
+  0,
+  2803,
+  " infrastructure that Switzerland is using to administer. Like, we're I'm a fan of the Swiss taxation system. The rates are up for debate. Su"
+ ],
+ [
+  0,
+  2812,
+  "re. But what's important is they have this, like, system of, like, progressive taxation, wealth taxes,"
+ ],
+ [
+  0,
+  2819,
+  "and just envision what that would look like in an on chain economy and how that would actually increase, like, just increase the efficiency "
+ ],
+ [
+  0,
+  2826,
+  "of of the system. Right? Okay. So I think we have a few more. We still have a little bit of time. Do we wanna take one of these questions ma"
+ ],
+ [
+  0,
+  2834,
+  "ybe? Yeah. That sounds Ben, did you see something that I yeah. I saw one that's Someone someone said, I have an idea to to implement this an"
+ ],
+ [
+  0,
+  2841,
+  "d make it fun. I'm curious if"
+ ],
+ [
+  0,
+  2843,
+  "Do you want do you wanna volunteer yourself, whoever yeah. Yeah. Sure. Give a Was it? Was it? Yeah. So I was doing a session yesterday night"
+ ],
+ [
+  0,
+  2854,
+  ". You should join, by the way. And I was showing that with Motoko, so this programming language, you can create containers with code, and yo"
+ ],
+ [
+  0,
+  2865,
+  "u can basically, for lines each line of code that you run,"
+ ],
+ [
+  0,
+  2869,
+  "you can get charged in this cycle, so it's like gas. But you can can change that. Like, you can make it linear to, let's say, your container"
+ ],
+ [
+  0,
+  2881,
+  " has, like, 10 Bitcoin insights. You could get the price of that and, you know, linearly charge the code based on that. So you could have so"
+ ],
+ [
+  0,
+  2893,
+  "me system"
+ ],
+ [
+  0,
+  2894,
+  "like this where the more you have accumulated somewhere, the more expensive it is to run something so it would balance it out. Yeah. Yeah. T"
+ ],
+ [
+  0,
+  2903,
+  "he the the reason that, like, I got into crypto and that, like, we are excited about cryptocurrency is because, like, you hear this thing, l"
+ ],
+ [
+  0,
+  2912,
+  "ike, code is law. You know, we're gonna make, you know, code is going to become,"
+ ],
+ [
+  0,
+  2917,
+  "you know, the new law. And it's like like, the important caveat to that is that, like, what it's best suited to is to financial law, is to a"
+ ],
+ [
+  0,
+  2928,
+  "utomating, like automating your taxes because everything's already, like, categorized, everything's done. See, like, anything about, like, y"
+ ],
+ [
+  0,
+  2938,
+  "our personal transactions,"
+ ],
+ [
+  0,
+  2940,
+  "but you can verify that that's actually what you owe in taxes. And then you don't have to fill out freaking IRS forms, you can make the whol"
+ ],
+ [
+  0,
+  2949,
+  "e economy more efficient because people don't have to fill out paperwork, like, in the same way that they do now. And also, when I think for"
+ ],
+ [
+  0,
+  2958,
+  " the faucets, I like that you talk about faucets. There was this, like, you know, faucet where you get you get credit to to build,"
+ ],
+ [
+  0,
+  2966,
+  "infrastructure, but now it's closed because there is not, like, sustainable way to make that. So I see a parallel here. Like, for example, w"
+ ],
+ [
+  0,
+  2975,
+  "hen you have hackathon, you have, like, boot camps, you need to get new developers with credits to build on the on the on whatever platform "
+ ],
+ [
+  0,
+  2984,
+  "you're you're using. So that could be, like, a a parallel here, the faucets. Yeah. Somebody said also, like, I had a question I wanted to to"
+ ],
+ [
+  0,
+  2993,
+  "uch on on here, was how"
+ ],
+ [
+  0,
+  2995,
+  "can we implement this without government? I would say that unless you actually have a network state, which is at the level that it is, like,"
+ ],
+ [
+  0,
+  3006,
+  " quantifying people's ownership of different assets that there isn't really, that more or less we are reliant on institutions that exist alr"
+ ],
+ [
+  0,
+  3018,
+  "eady to do these things well."
+ ],
+ [
+  0,
+  3020,
+  "And that while we can prototype models and we can experiment on community levels, specifically, the more sovereignty that localities have, t"
+ ],
+ [
+  0,
+  3028,
+  "hat we can experiment on these, and then we can bring it to the government and show, okay. Well, we ran all these different experiments and "
+ ],
+ [
+  0,
+  3036,
+  "different trials of different community currencies, and here's what we found. And here is, like, hard evidence and not these, like,"
+ ],
+ [
+  0,
+  3044,
+  "econometrics models that are pulled out of economist's asses and just, like, being like, oh, it it it looks good from a from a theory point "
+ ],
+ [
+  0,
+  3054,
+  "of view. Like, let's let's just implement this into the whole economy right now because it it agrees with my, you know, with with, you know,"
+ ],
+ [
+  0,
+  3063,
+  " Milford Friedman's, like, ideas on how the economy works. And I like I like that guy."
+ ],
+ [
+  0,
+  3069,
+  "So we can actually have, like, experimentation, a scientific method to the economy, and that can create abundance for everyone. Cool. Alrigh"
+ ],
+ [
+  0,
+  3079,
+  "t. Oh, we have no sorry. Oh, on the the one where somebody asked about the oh, I can't scroll. The the MEV, people taking your taking over y"
+ ],
+ [
+  0,
+  3089,
+  "our account if you got a Zika passport. Raramo has recently come out, and they've got the face"
+ ],
+ [
+  0,
+  3096,
+  "face detection versus the image that's on your passport, and it actually runs the machine learning algorithm in ZK. So they've actually done"
+ ],
+ [
+  0,
+  3105,
+  " a huge leap forward compared to, like, ZK Passport in the last few months. So that is, like, awesome that they're doing that. Do we have on"
+ ],
+ [
+  0,
+  3115,
+  "e more question, Pranika? Yeah. Okay. I was wondering. Yeah. So I I love the mean, I I like the idea of changing"
+ ],
+ [
+  0,
+  3122,
+  "kinda removing capital gains and implementing wealth tax. I think that's seeing that Switzerland has done that and still attracts wealth, a "
+ ],
+ [
+  0,
+  3131,
+  "lot of wealth people is great. So to the extent you think that this is kind of the two parameters, the most important in the equation, like,"
+ ],
+ [
+  0,
+  3141,
+  " are are are we able to is this, like, one or the other, basically? Like or are there is there some other parameter that's other than, like,"
+ ],
+ [
+  0,
+  3150,
+  " like, the the zero capital gains tax that makes wealthy people still come to come to Susan? And also one thing I wanted to before I forget,"
+ ],
+ [
+  0,
+  3159,
+  " could you link up that simulation you talked about on Telegram at some point? Sure. Yeah."
+ ],
+ [
+  0,
+  3165,
+  "The I I find the question sort of skewed and that, like, there's still this focus on attracting wealthy people. The point of modern monetary"
+ ],
+ [
+  0,
+  3174,
+  " theory is that you can generate wealth through issuing your currency, that there are already resources even if, like, in your locality, the"
+ ],
+ [
+  0,
+  3184,
+  "re isn't, like, a ton. There are some people who are unemployed."
+ ],
+ [
+  0,
+  3188,
+  "There are some, you know, excess resources. Maybe there's, like, some steel lying around. And, you know, like, supply and demand isn't just "
+ ],
+ [
+  0,
+  3196,
+  "like these linear two lines that you see in economics. They're very often, like, these flat curves where there's like, you can have more sup"
+ ],
+ [
+  0,
+  3204,
+  "ply and more supply, and the price doesn't really start going up until you start, like, really increasing demand, like, a whole lot."
+ ],
+ [
+  0,
+  3212,
+  "And so that's that's Slack where you can you can use those resources. They're pretty much spare in the economy. And so if you identify where"
+ ],
+ [
+  0,
+  3219,
+  " those are, you can identify good projects to invest in because they'll be like particularly affordable and you can see like, okay, well, we"
+ ],
+ [
+  0,
+  3226,
+  " have some people who are unemployed who might have these skill sets and you can generate wealth right there, right now. No reliance on outs"
+ ],
+ [
+  0,
+  3233,
+  "ide investors. No reliance on entracting"
+ ],
+ [
+  0,
+  3235,
+  "wealthy people. I will I will say this to to your point. I think like if on the on the when we're thinking about that equation of like, can "
+ ],
+ [
+  0,
+  3242,
+  "a wealth tax replace a capital gains tax? I think you just have to see if the math ends up. Right? Like, if if we can generate as much reven"
+ ],
+ [
+  0,
+  3249,
+  "ue to replace our cap gains tax and that actually produces better outcomes for society, like, yeah, let's do it. But that might necessitate "
+ ],
+ [
+  0,
+  3255,
+  "while taxes being even higher. Right? Like, we could be looking at over, like, a $100,000,000"
+ ],
+ [
+  0,
+  3260,
+  "being taxed at, 3%. Right? I don't know what that right number is. I'm I'm really just putting stuff out there. Okay. We'll do one more ques"
+ ],
+ [
+  0,
+  3267,
+  "tion and then I wanna do a quick experiment before we we we finish off. Taxes has a issue with consent. So that would be nice to have that c"
+ ],
+ [
+  0,
+  3275,
+  "onversation about if we highly value consent and especially high tax rates, people haven't opt in. I I know this is very last bit, so let's "
+ ],
+ [
+  0,
+  3282,
+  "just put a pin on that because I don't think I've seen any conversation about how we reconcile tax and consent. But what I wanted to chat ab"
+ ],
+ [
+  0,
+  3289,
+  "out right now, the last question is"
+ ],
+ [
+  0,
+  3291,
+  "fair market value. People, especially with LLMs around, that people can, on their own, do things and then make a statement of of what that f"
+ ],
+ [
+  0,
+  3299,
+  "air market value is. And then we can at at least have a a record of value, and then we can come in and and retroactively fund it, etcetera, "
+ ],
+ [
+  0,
+  3307,
+  "etcetera, etcetera. So for instance, bullshit jobs employed, a lot of the times went to boarding school and and they would keep us busy. Idl"
+ ],
+ [
+  0,
+  3314,
+  "e hands is devil foreplay, you know. And so but if we do things, that's one of the issues of modern society I see is that we're we're our at"
+ ],
+ [
+  0,
+  3322,
+  "tention is is grabbed with things that don't actually provide value in our communities."
+ ],
+ [
+  0,
+  3327,
+  "But if we just do things of value with with, you know, permissionlessly and then get that statement put up somewhere by something like an LL"
+ ],
+ [
+  0,
+  3335,
+  "M. Anyway, so we maybe we can investigate that as well. I know this is very end of your of your conversation, but Sounds great. So, I mean, "
+ ],
+ [
+  0,
+  3343,
+  "Seb is kind of working on a thing which is like kind of this seeing what people are doing and value they're adding and then like, you know, "
+ ],
+ [
+  0,
+  3351,
+  "creating a journal of that and and doing"
+ ],
+ [
+  0,
+  3353,
+  "things with that. I I would say on your point about taxes that, you know, income tax, like, didn't really exist. And I think that's where we"
+ ],
+ [
+  0,
+  3362,
+  " see the most, like, lack of consent to to tax and the most, like, dissatisfaction there, and that we don't really need an income tax, that'"
+ ],
+ [
+  0,
+  3371,
+  "s levied on everyone. But that was a wartime measure when we were on the gold standard. So modern monetary theory really applies when you're"
+ ],
+ [
+  0,
+  3379,
+  " off of the gold standard."
+ ],
+ [
+  0,
+  3381,
+  "You know, money is now no longer this, like, strict good that essentially you what's the point? That taxes are kind of there to make people "
+ ],
+ [
+  0,
+  3394,
+  "hate taxes. Income taxes are really there to make people hate taxes so that they go, okay. Well, I'm gonna impose all sorts of taxes."
+ ],
+ [
+  0,
+  3406,
+  "I don't want an increase of any taxes, and we end up with more conservative policies that end up leading to more wealth inequality. Alright."
+ ],
+ [
+  0,
+  3414,
+  " So thank you for the questions. There's there's I'm eyeing a thing here on the meerkat that says, what can we do in practice to implement i"
+ ],
+ [
+  0,
+  3421,
+  "t now apart from debating and promoting wealth tax? Well, we're gonna try something. As a last thing, we've queued up a chat GPT prompt. Her"
+ ],
+ [
+  0,
+  3429,
+  "e's what the prompt says right now. It says, help me craft a proposal for a decentralized digital currency identity and tax system inspired "
+ ],
+ [
+  0,
+  3436,
+  "by the following document comments."
+ ],
+ [
+  0,
+  3438,
+  "The document is our presentation. The comments are gonna be the meerkat. I'm literally gonna like copy pasta those right now. And it says, i"
+ ],
+ [
+  0,
+  3445,
+  "magine it as a global scale system. Ignore aspects of the presentation related to Switzerland. We don't this is not like a Switzerland proce"
+ ],
+ [
+  0,
+  3452,
+  "ss. We were like thinking really big here. And suppose the currency requires no backing. Right? So we're thinking MMT. Oh, okay. I got the a"
+ ],
+ [
+  0,
+  3459,
+  "ttachment."
+ ],
+ [
+  0,
+  3460,
+  "Let's make sure I get that. Okay. And let me take the Meerkat comments. Let's see if we can get all of them all at once here. Yes, we can. C"
+ ],
+ [
+  0,
+  3480,
+  "opy that. Alright. Let's see what it comes up with."
+ ],
+ [
+  0,
+  3487,
+  "Alright. Civitas. Civitas. A global digital decentralized currency identity tax system. Core assumptions. Wealth inequality is a major socie"
+ ],
+ [
+  0,
+  3494,
+  "tal problem. We can create money without centralized states or militaries. Three, monetary systems to support redistribution, privacy, and s"
+ ],
+ [
+  0,
+  3501,
+  "overeignty. Here's our design for the CVT token. Created when the system spends, grants, basic income, public goods, destroyed when taxes ar"
+ ],
+ [
+  0,
+  3509,
+  "e paid or burned, analogous to EIP one five five nine. The system does not require reserves or backing, echoing MMT, deflationary mechanisms"
+ ],
+ [
+  0,
+  3516,
+  ","
+ ],
+ [
+  0,
+  3516,
+  "transaction fees, optional burns. Alright. Identity layer, ZKID and social graphs. We have centralized similar systems. We use ZKID, ZK Fast"
+ ],
+ [
+  0,
+  3525,
+  "4Raremo. Okay? Social graph opt in connections. It's interesting it would include that. That's cool. Taxation model, progressive digital wea"
+ ],
+ [
+  0,
+  3533,
+  "lth tax based on total wallet value. Imagine that. A wallet. It represents your total wealth and just assessed."
+ ],
+ [
+  0,
+  3540,
+  "Inspired by the Swiss model, transaction level taxes, tax when swapping in and out of the system to fiat or other chains. That's an interest"
+ ],
+ [
+  0,
+  3548,
+  "ing idea. Encourages value staying in the system. Taxation goals, create demand for CVT by requiring it for services and taxes. As Kai said,"
+ ],
+ [
+  0,
+  3555,
+  " right, taxes are good that, you know, you gotta purchase. Manage inflation and control. Okay. Alright. Yep. Pretty standard stuff. How does"
+ ],
+ [
+  0,
+  3563,
+  " the governance layer work? Okay. We got quadratic voting from verified identities. Proposals include spending budgets, tax tiers, system pa"
+ ],
+ [
+  0,
+  3571,
+  "rameters. Family trust and legacy accounts can be re encoded via decentralized"
+ ],
+ [
+  0,
+  3575,
+  "value certificates. I think somebody had a question about family trust. So maybe, hopefully, that answers some of your question. What can we"
+ ],
+ [
+  0,
+  3582,
+  " do? We can okay. So we can deploy ZKID and CVD prototype on Eth l two or AppChain. So maybe we create a new AppChain that bakes all this st"
+ ],
+ [
+  0,
+  3590,
+  "uff in at the base layer. Right? And then we start with some low low stakes use cases. We put it all public, incentivize onboarding via repu"
+ ],
+ [
+  0,
+  3597,
+  "tation or early governance. Does that make sense? Okay. Cool. Alright. Tagline, Civitas, the monetary system for the unbanked, the unbanked,"
+ ],
+ [
+  0,
+  3604,
+  " and the unafraid. Alright. There you go. Thanks, Chat GPT. Alright. Thanks. Now we have DeepGov"
+ ],
+ [
+  0,
+  3609,
+  "with the one, the only, David Dow. Do your workshop on DeepGov. There he is. Like, everyone give a hand for him. Actually, my understanding "
+ ],
+ [
+  0,
+  3657,
+  "is the workshop is not what's happening. No? Actually, next we have Funding Ethereum Forever with David, Sejal, and Yulian. Cool. But thank "
+ ],
+ [
+  0,
+  3704,
+  "you for the Yes. Okay."
+ ],
+ [
+  0,
+  3712,
+  "Shall we start? Shall we? Shall we? Okay."
+ ],
+ [
   1,
   1,
   "Testing. Testing. Okay. Thanks everyone for joining. So this is the first session for the future of living track. We'll we'll mention a litt"

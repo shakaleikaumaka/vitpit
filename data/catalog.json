@@ -10,13 +10,14 @@
     "id": "1_XBfWl2J2hFI4SNswWCFeRfYIwHfSrm3",
     "kind": "video",
     "size": 2157251028,
-    "stream": true
+    "stream": true,
+    "hosted": "https://pub-3d88701638314a20ad2241ee26e6824f.r2.dev/audio/1_XBfWl2J2hFI4SNswWCFeRfYIwHfSrm3.mp3"
    }
   ],
-  "transcript": null,
-  "duration": null,
+  "transcript": "1_XBfWl2J2hFI4SNswWCFeRfYIwHfSrm3",
+  "duration": "01:02:01",
   "quality": "ok",
-  "transponder": false,
+  "transponder": true,
   "thumb": "thumbs/1_XBfWl2J2hFI4SNswWCFeRfYIwHfSrm3.jpg",
   "note": "Title truncated in the source folder listing; the filename also carries a stream-operator artifact — “have to stop and start the stream to rebrand.” We keep the artifact. Pits are honest.",
   "speakers": []
