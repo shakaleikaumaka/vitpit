@@ -891,13 +891,14 @@
     "id": "16U1oHvj5cfgmNsrkEnFDC4FjPYPV0qVH",
     "kind": "video",
     "size": 0,
-    "stream": true
+    "stream": true,
+    "hosted": "https://pub-3d88701638314a20ad2241ee26e6824f.r2.dev/audio/16U1oHvj5cfgmNsrkEnFDC4FjPYPV0qVH.mp3"
    }
   ],
-  "transcript": null,
-  "duration": null,
+  "transcript": "16U1oHvj5cfgmNsrkEnFDC4FjPYPV0qVH",
+  "duration": "00:34:31",
   "quality": "ok",
-  "transponder": false,
+  "transponder": true,
   "thumb": "thumbs/16U1oHvj5cfgmNsrkEnFDC4FjPYPV0qVH.jpg",
   "speakers": [
    "@bestape"
