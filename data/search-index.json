@@ -33680,6 +33680,2866 @@
   "Alright. Everybody, in just a couple minutes, this room is going to be you"
  ],
  [
+  18,
+  0,
+  "In the room and also outside there on the web. And, of course, most likely everyone feels like we want to break free. We want to be free. We"
+ ],
+ [
+  18,
+  11,
+  " want to determine our lives. We want to be creative. We want to co create our future. But the question is, you know, how does that really w"
+ ],
+ [
+  18,
+  22,
+  "ork?"
+ ],
+ [
+  18,
+  22,
+  "And there are different ideas about it. Some idea is that we should just have a competition for the strongest. And the strongest who is most"
+ ],
+ [
+  18,
+  35,
+  " successful and accumulates most money, has most power, and determines how the world works and everyone would have to play along."
+ ],
+ [
+  18,
+  47,
+  "And that, of course, is troubling many because people are different and people need different frameworks, conditions in order to flourish. A"
+ ],
+ [
+  18,
+  62,
+  "nd I'd also like to point out that we know mathematically from the area of game theory that"
+ ],
+ [
+  18,
+  71,
+  "there are certain issues. If everyone selfishly optimizes and looks for the best solution for themselves, the system may go down. We may hav"
+ ],
+ [
+  18,
+  86,
+  "e a so called tragedy of the commons. It's well known since about fifty years, I think."
+ ],
+ [
+  18,
+  96,
+  "And it has been applied to people in order basically to justify why we now need to have a centralized control of the world in order to avoid"
+ ],
+ [
+  18,
+  108,
+  " this tragedy from happening, but it turns out people are actually not that selfish as it's often assumed. Most people not. But companies ar"
+ ],
+ [
+  18,
+  121,
+  "e because they do"
+ ],
+ [
+  18,
+  122,
+  "maximize profit. They're supposed to because they need to satisfy the stock market. And so a tragedy of the commons or something alike, that"
+ ],
+ [
+  18,
+  135,
+  " means a situation where selfishness drives the system into a valley of tears is expected to happen, and it's happening. Now,"
+ ],
+ [
+  18,
+  147,
+  "we can make libertarianism work under one condition, if we consider externalities. And I will talk about today how to do that, how we can ma"
+ ],
+ [
+  18,
+  160,
+  "ke it work. So I've mentioned already this tragedy of the commons. This is based on so called public goods games or also prisoners dilemmas "
+ ],
+ [
+  18,
+  173,
+  "games,"
+ ],
+ [
+  18,
+  174,
+  "social dilemmas. These kind of dilemmas exist since thousands of years. Right? Humans have had trouble sorting out solution for that kind of"
+ ],
+ [
+  18,
+  190,
+  " thing. And so, was looking for basically a slide on blockchain, on"
+ ],
+ [
+  18,
+  198,
+  "tragedies of the commons or tragedies altogether, dilemmas, and on also altruism. And this is one of those slides. You see the prison's dile"
+ ],
+ [
+  18,
+  209,
+  "mma I mentioned over here. And this slide relates also to effective altruism. One approach that has been discussed for a long time and one o"
+ ],
+ [
+  18,
+  221,
+  "f the proponents"
+ ],
+ [
+  18,
+  222,
+  "was him. It didn't end so well for him, and so in a sense, this is a warning for all of us that while we're engaging into all sorts of adven"
+ ],
+ [
+  18,
+  233,
+  "tures, we still need to be a bit cautious, and science may sometimes help to avoid mistakes. Now, been mentioning that we need to consider e"
+ ],
+ [
+  18,
+  245,
+  "xternalities."
+ ],
+ [
+  18,
+  246,
+  "That means our impact on the world, our effects on the environment, on other people. Same thing, of course, applies to companies. And I've b"
+ ],
+ [
+  18,
+  258,
+  "een working on an idea that I called interaction support processor, which was aiming at creating digital infrastructures and basically"
+ ],
+ [
+  18,
+  269,
+  "help systems work out well while people interact with each other in a distributed way or companies do. And so, are all sorts of ideas like c"
+ ],
+ [
+  18,
+  281,
+  "reating a social mirror or a social adapter, social protector, social money. So, I will talk about money today, and even a cultural adapter "
+ ],
+ [
+  18,
+  293,
+  "or culture culture pedia system basically to make"
+ ],
+ [
+  18,
+  297,
+  "to help the different cultures interact with each other fruitfully, synergetically, symbiotically. But so far, many of this doesn't exist, a"
+ ],
+ [
+  18,
+  309,
+  "nd I hope this will change today because there are a lot of people in this room and outside listening, and I hope I can inspire you a little"
+ ],
+ [
+  18,
+  321,
+  " bit."
+ ],
+ [
+  18,
+  321,
+  "Because coordination so far is not working large scale in the world, we have a top down approach, a big data approach. And this big data app"
+ ],
+ [
+  18,
+  335,
+  "roach is combined with AI. AI, some people expect to be superhuman pretty soon and perhaps more intelligent than all people on this planet"
+ ],
+ [
+  18,
+  348,
+  "in about thirty years from now. I mean, you don't have to believe that, but don't be surprised if it happens. Any case, many people have bee"
+ ],
+ [
+  18,
+  359,
+  "n thinking about how we could use big data, basically run the world in new ways, in a cybernetic way to replace governance by cybernetics. S"
+ ],
+ [
+  18,
+  371,
+  "o,"
+ ],
+ [
+  18,
+  371,
+  "data would be governing the world, and so basically there is the attempt to create an operating system for the planet, not just for your sma"
+ ],
+ [
+  18,
+  383,
+  "rtphone, not just for your computer, but an operating system for the entire planet. And this has been in the works for decades."
+ ],
+ [
+  18,
+  393,
+  "You know, hundreds of billions have been invested into this. Most people don't know much about it. And the idea of some of these people is t"
+ ],
+ [
+  18,
+  402,
+  "o run the world from a control room or sometimes they also call it a war room. So, if you had all the data, you could see what's happening o"
+ ],
+ [
+  18,
+  412,
+  "ut there in the world. You could see the problems, and you would want to fix them quickly, and so it's a military"
+ ],
+ [
+  18,
+  419,
+  "approach to fix the world, and a very similar approach is also found in many big IT companies these days. So, example, Tristan Harris has be"
+ ],
+ [
+  18,
+  431,
+  "en talking about how the Google control room he's been working in has been manipulating the minds of billions of people including yours. And"
+ ],
+ [
+  18,
+  443,
+  " the overall idea is basically that"
+ ],
+ [
+  18,
+  446,
+  "we could now create something like an AI based Benevolent dictator, data driven. So, basically, create an algorithm that would optimize the "
+ ],
+ [
+  18,
+  459,
+  "world, determine the optimal future, and then basically enforce this path towards this optimal future also by"
+ ],
+ [
+  18,
+  470,
+  "manipulating your thinking, feeling, and what you do. Because otherwise, you would mess up this optimal outcome, and probably you feel it. I"
+ ],
+ [
+  18,
+  481,
+  "'m quite skeptical about it, and it has to do with the fact that optimization sounds good, but it's based on a one dimensional goal function"
+ ],
+ [
+  18,
+  493,
+  "."
+ ],
+ [
+  18,
+  493,
+  "Otherwise, you cannot optimize. You have to compare two solutions, and we have to make greater, smaller operations, so you need one dimensio"
+ ],
+ [
+  18,
+  504,
+  "nality. And, of course, that one dimensional goal function is a cross oversimplification of the world, and that's why the best of all worlds"
+ ],
+ [
+  18,
+  516,
+  "created by a Benevolent dictator is not digital paradise. It feels like hell. You know? And we need to have a different approach, a non util"
+ ],
+ [
+  18,
+  530,
+  "itarian approach, and I will tell you how to do that. Okay? So, a benevolent dictator, what would that"
+ ],
+ [
+  18,
+  541,
+  "AI system do? It would want things to be planable, predictable, and controllable. This is, of course, not so well compatible with democracy "
+ ],
+ [
+  18,
+  554,
+  "and freedom, plus even if you wouldn't care so much about this, What would the bend the walled data do?"
+ ],
+ [
+  18,
+  563,
+  "So, most likely try to determine everyone's utility function, that means what you care about, how much, what's important for you, so that wo"
+ ],
+ [
+  18,
+  573,
+  "uld need mass surveillance and it's happening, and then basically the system would determine the average utility function, and then find the"
+ ],
+ [
+  18,
+  584,
+  " optimal solution to this average utility function which would be the goal function,"
+ ],
+ [
+  18,
+  590,
+  "and then implement that. Is this the best of all worlds? I doubt it because the average utility function may serve and even represent nobody"
+ ],
+ [
+  18,
+  604,
+  " well. We are not average people. We are all different. Right? So, it could be that actually that seemingly optimal solution is quite bad fo"
+ ],
+ [
+  18,
+  618,
+  "r everyone."
+ ],
+ [
+  18,
+  619,
+  "But, anyway, people have attempted to build this control room approach towards creating a better world. And in fact, there are different for"
+ ],
+ [
+  18,
+  635,
+  "ms of society, all data driven, all AI based, all AI controlled,"
+ ],
+ [
+  18,
+  642,
+  "all cybernetic societies, and here probably not even all of them, many of them have been tried out silently, secretly. So, we have not been "
+ ],
+ [
+  18,
+  653,
+  "informed about this. I would say consent is lacking for this. Legitimacy for this is lacking, but they've been trying out different kinds of"
+ ],
+ [
+  18,
+  664,
+  " systems. They're still doing that, and most of them have performed poorly,"
+ ],
+ [
+  18,
+  670,
+  "and that's why they move on to try out new systems until there is one system that works. But what they haven't done is try out digital democ"
+ ],
+ [
+  18,
+  682,
+  "racy, and now I will talk about this today. I'll just touch upon one of those systems, cashless society combined with digital ID because yes"
+ ],
+ [
+  18,
+  694,
+  "terday evening we have been discussing a little bit this subject."
+ ],
+ [
+  18,
+  699,
+  "So, this is obviously one of the ideas that is around, and many people do worry that it could end up like a surveillance nightmare, probably"
+ ],
+ [
+  18,
+  712,
+  " a justified concern. So, it would be possible basically to store all your consumption patterns forever, all your transactions buying,"
+ ],
+ [
+  18,
+  724,
+  "selling, plus it would make our consumption better and controllable. You know, if you eat too much meat from the point of view of certain pe"
+ ],
+ [
+  18,
+  738,
+  "ople or an AI system, if you fly too often, if you are not supposed to have a car using carbon fuels,"
+ ],
+ [
+  18,
+  748,
+  "you know, basically you could just stop the transaction. You would not be able to do what the system does not like you to do. So, basically,"
+ ],
+ [
+  18,
+  757,
+  " it's a totalitarian system and still people are thinking about it because the idea is, oh, we could now micromanage the economy and societi"
+ ],
+ [
+  18,
+  766,
+  "es altogether and wouldn't that be great? So, basically, having totalitarian systems in the past failed just because we did not have enough "
+ ],
+ [
+  18,
+  775,
+  "data, we did not know enough about the world, and now we know everything, and so basically now it's going to work."
+ ],
+ [
+  18,
+  782,
+  "Well, again, I'm quite skeptical. I'm quite worried, and I guess many of you too. And also, you need for such a system a digital ID, and tha"
+ ],
+ [
+  18,
+  795,
+  "t would be potentially more dangerous than you think. The different ways of implementing this, one of them is pretty"
+ ],
+ [
+  18,
+  805,
+  "unknown based on converging technologies, basically using nanotechnology to make everyone's body measurable, to turn your body into a passwo"
+ ],
+ [
+  18,
+  817,
+  "rd, and passport in the bank account would be comfortable. I agree. But, you know, your entire movement patterns could be checked a thousand"
+ ],
+ [
+  18,
+  829,
+  " times a day,"
+ ],
+ [
+  18,
+  830,
+  "so everyone who has access to the system could know where you've been at any time and whom you've met, and that would certainly not be anyth"
+ ],
+ [
+  18,
+  842,
+  "ing like a democracy I would say. Plus, there are scientific concerns, you know, because the idea here is that we could basically create a b"
+ ],
+ [
+  18,
+  854,
+  "etter world by controlling every single component of this world."
+ ],
+ [
+  18,
+  859,
+  "All the people, all the cars, all the TV sets, all the companies, and so it's a so called component oriented approach. And this is based on "
+ ],
+ [
+  18,
+  871,
+  "the idea that the system is characterized by the properties of the components. So, if you know the properties of the components and control "
+ ],
+ [
+  18,
+  884,
+  "those components, we we know the system"
+ ],
+ [
+  18,
+  887,
+  "and we can control the system. But this is entirely wrong since the digital revolution because we have networked the system. We have network"
+ ],
+ [
+  18,
+  899,
+  "ed everything almost. Right? And those network connections create interactions. Those interactions create forces. Those forces create change"
+ ],
+ [
+  18,
+  912,
+  "s,"
+ ],
+ [
+  18,
+  912,
+  "and those changes are often, as I will show you on this slide, unpredictable. So, in many cases, are not the intended effects, are side effe"
+ ],
+ [
+  18,
+  923,
+  "cts, they are feedback effects, are cascading effects. So, those network interactions make things uncontrollable in that component oriented "
+ ],
+ [
+  18,
+  934,
+  "way. You need to have a systemic view."
+ ],
+ [
+  18,
+  937,
+  "You need to understand the world as a complex, dynamical system and not like a simple controllable system such as a car. In fact, even thoug"
+ ],
+ [
+  18,
+  949,
+  "h a single car is well controllable, the interaction of many cars is not. This is a simple task to drive in a circle and to avoid an acciden"
+ ],
+ [
+  18,
+  962,
+  "t and also a traffic jam, and the traffic jam is just there."
+ ],
+ [
+  18,
+  967,
+  "It happens because very small deviations would amplify, delayed reactions would cause overreactions, people would brake a little bit stronge"
+ ],
+ [
+  18,
+  979,
+  "r, next car even stronger. This will stop vehicles. The traffic jam is there, and importantly, nobody wants this to happen."
+ ],
+ [
+  18,
+  990,
+  "You know, we have modern technology here. Everyone is well skilled, has a driver's license, perfect visibility, the best intention, you know"
+ ],
+ [
+  18,
+  1002,
+  ", and still something that nobody wants happens. And this is not an exception. Right? It happens on many streets every single day in"
+ ],
+ [
+  18,
+  1013,
+  "almost every country in the world, and in fact, there are many similar problems based on systemic instabilities that show that we just didn'"
+ ],
+ [
+  18,
+  1025,
+  "t get it. You know? We have the wrong way of thinking about the world. So, crowd disasters is another example of people dying even though no"
+ ],
+ [
+  18,
+  1037,
+  "body wants anybody"
+ ],
+ [
+  18,
+  1039,
+  "to die. Then, we have often unstable supply chains. We know it from booms and recessions throughout the world. We have also unstable social "
+ ],
+ [
+  18,
+  1052,
+  "dynamics. We have those tragedies of the commons that I mentioned before, like overfishing, environmental"
+ ],
+ [
+  18,
+  1061,
+  "change, and many other examples actually that are pretty much unsolved still. Conflicts throughout the world, in many cases, not intended. Y"
+ ],
+ [
+  18,
+  1072,
+  "ou know? Just also think of couples who marry, you know, at some point in time, many of them will face a divorce that was certainly not plan"
+ ],
+ [
+  18,
+  1084,
+  "ned. So, you know, something went wrong and same thing can happen between countries. So,"
+ ],
+ [
+  18,
+  1091,
+  "systemic instability, revolutions as well. Okay? And if we want to understand these systems and fix those problems, then we need to have a d"
+ ],
+ [
+  18,
+  1101,
+  "ifferent approach because we have basically tried everything. We've had big data for a long time now. We have had AI already for some time, "
+ ],
+ [
+  18,
+  1111,
+  "and still things haven't been better as if you open the newspaper or watch TV, it seems like every day things get worse, you know, and then "
+ ],
+ [
+  18,
+  1121,
+  "I will show you"
+ ],
+ [
+  18,
+  1122,
+  "it happens as predicted. Okay. But, before I go into this, let me introduce you a little bit into the nature of complex dynamical systems. A"
+ ],
+ [
+  18,
+  1134,
+  "nd, what you see here is six simulations of pedestrians interacting with each other. Is all based on the same equations, a social force mode"
+ ],
+ [
+  18,
+  1146,
+  "l"
+ ],
+ [
+  18,
+  1146,
+  "which has some model parameters in it. Those model parameters have been varied a little bit, and that makes quite some difference in terms o"
+ ],
+ [
+  18,
+  1157,
+  "f the systemic behavior, right? So, on the right you see groups forming, on the left you see the crowd is always in some dynamics, and in th"
+ ],
+ [
+  18,
+  1168,
+  "e middle you see that people are distributing over quite some space."
+ ],
+ [
+  18,
+  1173,
+  "So, pretty different behaviors, and even AI will not help I think really to get control of complex dynamical systems. And just to give you a"
+ ],
+ [
+  18,
+  1186,
+  "n idea, I show you here the game of life, everyone knows it, a very simple cellular automaton based on three simple rules."
+ ],
+ [
+  18,
+  1197,
+  "Produces patterns that sometimes are at least look non periodic, surprising given its simplicity. Of course, you could store all those data "
+ ],
+ [
+  18,
+  1210,
+  "produced by the game of life, you could teach or have AI system learn these dynamics and basically reproduce"
+ ],
+ [
+  18,
+  1220,
+  "it, and most likely you would do that with a model with say a thousand parameters or a million or even a billion, you know, if you can affor"
+ ],
+ [
+  18,
+  1231,
+  "d it. And it will approximate these dynamics, but it will not return you these three simple rules. So, there's some asymmetry. It's simple t"
+ ],
+ [
+  18,
+  1242,
+  "o produce complex dynamics,"
+ ],
+ [
+  18,
+  1244,
+  "but it's difficult to understand it sometimes. You know, it's a similar asymmetry as between encryption and decryption. Right? Okay. Now, th"
+ ],
+ [
+  18,
+  1258,
+  "ere's no doubt we're in an age of big data. Now, have enough data to take good decisions in principle"
+ ],
+ [
+  18,
+  1268,
+  "if we interpret data right, and however, there's still an issue because data volume overtakes processing power. Data volume just grows faste"
+ ],
+ [
+  18,
+  1282,
+  "r than processing power, and that means that there is dark data that will never be processed"
+ ],
+ [
+  18,
+  1291,
+  "and the percentage of dark data goes up every day, right? So, things will get worse basically. We need to know what data to process in order"
+ ],
+ [
+  18,
+  1305,
+  " to get good results. If we leave out the wrong kinds of data, then basically we'll be misled by the system."
+ ],
+ [
+  18,
+  1315,
+  "So, dark data is a problem and networking can also lead to new problems. So systemic complexity is increasing even faster in a combinatorial"
+ ],
+ [
+  18,
+  1326,
+  " way. It's a factorial function, I believe. And so even though we have the best technology ever and more data than ever in human history, hi"
+ ],
+ [
+  18,
+  1338,
+  "story,"
+ ],
+ [
+  18,
+  1338,
+  "we are losing control of the world as we try to control it in a top down way. We need a new control approach. Unfortunately, there is one, w"
+ ],
+ [
+  18,
+  1350,
+  "hich is bottom up control based on self immunization. That self immunization I will show can be assisted in a digital way. So, we can use th"
+ ],
+ [
+  18,
+  1362,
+  "e same technology, but we should use it in a different way."
+ ],
+ [
+  18,
+  1367,
+  "There are many examples of complex system and turbulent fluids, traffic flows, large supply chains, social, political, economic, ecological "
+ ],
+ [
+  18,
+  1377,
+  "system, financial markets, group dynamics, route behavior. This is just the beginning. And also, our brain and immune system, ecosystems, an"
+ ],
+ [
+  18,
+  1386,
+  "d entire societies are complex, dynamical, self organizing systems."
+ ],
+ [
+  18,
+  1391,
+  "Now, all the important systems are complex, dynamical systems, you know, that means this kind of class that we have not paid enough attentio"
+ ],
+ [
+  18,
+  1403,
+  "n to. These systems are based on self organization, the brain, the immune system, systems, and so on, society. How does it work? Well,"
+ ],
+ [
+  18,
+  1415,
+  "we have to acknowledge their limits of predictability, and even if you would have a million times more data, it would never be able to predi"
+ ],
+ [
+  18,
+  1430,
+  "ct the weather in a hundred years on Tuesday, January 2 exactly. Why is that? Because we know"
+ ],
+ [
+  18,
+  1440,
+  "some physics of that process and it includes the phenomenon of turbulence, and turbulence has this feature that under certain conditions, ve"
+ ],
+ [
+  18,
+  1452,
+  "ry little changes will have a large effect after some time. Even the slightest change, even invisibly small changes would have a massive imp"
+ ],
+ [
+  18,
+  1465,
+  "act"
+ ],
+ [
+  18,
+  1465,
+  "on the long run. There are other systems that have a similar behavior in a sense. You may have heard of the Lorentz attractor that produces "
+ ],
+ [
+  18,
+  1477,
+  "strange attractors or deterministic chaos as people say, and here you see this strange attractor, and it turns out that even if you have two"
+ ],
+ [
+  18,
+  1490,
+  " trajectories"
+ ],
+ [
+  18,
+  1491,
+  "very close to each other in the beginning, eventually, they will behave very differently. And this is called the butterfly effect. It has ev"
+ ],
+ [
+  18,
+  1503,
+  "en made it into the cinemas. Butterfly effect is really hard to imagine, I admit it, you know, like the idea is if a butterfly flaps its win"
+ ],
+ [
+  18,
+  1515,
+  "gs"
+ ],
+ [
+  18,
+  1515,
+  "under certain conditions, not always of course, it could really turn a calm weather into a storm in three months from now? It's kinda really"
+ ],
+ [
+  18,
+  1526,
+  " hard to imagine, but, hey, there's mathematics behind this, and it even gets more puzzling if you look at this double pendulum, a very simp"
+ ],
+ [
+  18,
+  1536,
+  "le mechanical"
+ ],
+ [
+  18,
+  1537,
+  "system, we would think this is perfectly predictable, but it turns out it actually shows deterministic chaos, and if even such a simple syst"
+ ],
+ [
+  18,
+  1550,
+  "em behaves chaotically, you know, then how much more chaotic would the world behave? Then, of course, we can try to control chaos."
+ ],
+ [
+  18,
+  1562,
+  "There's chaos control in fact. Here's just a simple example. It's an oversimplified model of an ecosystem, a predator prey system like rabbi"
+ ],
+ [
+  18,
+  1573,
+  "ts and foxes say, and there's a Lotka Volterra equation system that describes that dynamics. And we assume that the perfect ecological"
+ ],
+ [
+  18,
+  1584,
+  "equilibrium would be here, the red cross, and a hunter would try to push the system to this point, but instead will end up somewhere very di"
+ ],
+ [
+  18,
+  1599,
+  "fferent, namely over here, that means the intention may be fine, but the outcome is not. This is just when trying to control two variables."
+ ],
+ [
+  18,
+  1613,
+  "Just suppose we are trying to control a million or a billion variables at the same time, you know, how much more failed control attempts we'"
+ ],
+ [
+  18,
+  1624,
+  "ll see. That doesn't mean control is doomed. I'll show you here a different control attempt. First, we are simulating stop and go traffic on"
+ ],
+ [
+  18,
+  1635,
+  " roads based on mathematical equations that allow us to understand where stop and go traffic appears,"
+ ],
+ [
+  18,
+  1643,
+  "and then eventually we'll turn on a traffic assistance system, but it's not a traffic center that controls every car. So, now we're annoyed,"
+ ],
+ [
+  18,
+  1656,
+  " we take a helicopter, we'll see what the cause of that stop and go traffic is. We see this on ramp over there,"
+ ],
+ [
+  18,
+  1666,
+  "right? So, cars are trying to squeeze themselves on the freeway that produces small disruptions, those will be amplified, it causes stop and"
+ ],
+ [
+  18,
+  1676,
+  " go traffic. We'll turn on the traffic assistance system. Cars will be able to use a laser or radar sensor basically to measure distances an"
+ ],
+ [
+  18,
+  1686,
+  "d relative velocities, and that data would be used for an adaptive"
+ ],
+ [
+  18,
+  1691,
+  "driving of the car. It's an autonomous car. So, it will be able to accelerate and decelerate differently from drivers and see the traffic ja"
+ ],
+ [
+  18,
+  1703,
+  "m is gone even though the same number of cars enters the freeway per time. So, it's the same traffic volume. Still, we were able to dissolve"
+ ],
+ [
+  18,
+  1714,
+  " the traffic jam by"
+ ],
+ [
+  18,
+  1716,
+  "actually changing the interactions. We've used real time data for real time feedback to change the interaction slightly, and even if only 40"
+ ],
+ [
+  18,
+  1729,
+  "% of cars would do that, it could dissolve that traffic jam. So, we neither need the traffic control center nor do we need every car to beha"
+ ],
+ [
+  18,
+  1742,
+  "ve according to that algorithm."
+ ],
+ [
+  18,
+  1745,
+  "It's just that we managed to induce coordination, to support, to assist coordination among cars by slightly changing interactions, it's the "
+ ],
+ [
+  18,
+  1755,
+  "interactions that matter in complex dynamical systems. Okay? And so, I'd like to say that with the Internet of Things, we can now make self "
+ ],
+ [
+  18,
+  1766,
+  "work. Three hundred years after Adam Smith's invisible hand concept,"
+ ],
+ [
+  18,
+  1771,
+  "which also means self you know. It took three hundred years. Now we have the technology to make it work, you know. So, importantly, complex "
+ ],
+ [
+  18,
+  1781,
+  "dynamical systems tend to self organize in the sense to do what they want, but this is not necessarily bad if we know how it works. So, esta"
+ ],
+ [
+  18,
+  1791,
+  "blishing suitable interactions will produce disciple outcomes by itself."
+ ],
+ [
+  18,
+  1796,
+  "We don't have to force the system anymore. There's degrees of freedom. Even if there's some variability, if not everyone behaves exactly as "
+ ],
+ [
+  18,
+  1808,
+  "this formula would suggest, it would still work. Of course, not if everyone just ignores those principles entirely, but there's freedom in b"
+ ],
+ [
+  18,
+  1819,
+  "uilt. Okay? This is important."
+ ],
+ [
+  18,
+  1822,
+  "So, mechanism design is basically the way to make this work, to learn how to shape those interaction mechanism that can be done actually by "
+ ],
+ [
+  18,
+  1833,
+  "real time feedback. Okay? So, there is a new paradigm to go from control to coordination, and we've learned that also from pedestrians, one "
+ ],
+ [
+  18,
+  1843,
+  "of my research areas. So, you can see over here at the bottleneck,"
+ ],
+ [
+  18,
+  1848,
+  "we see oscillatory flows of pedestrians. There's no police telling people to do that. There's no traffic light even. It just happens based o"
+ ],
+ [
+  18,
+  1859,
+  "n pressure building up and being released, and so basically, the system makes this happen itself by self organization. And then we saw, hey,"
+ ],
+ [
+  18,
+  1871,
+  " that's cool."
+ ],
+ [
+  18,
+  1872,
+  "Couldn't we build a traffic light control based on self immunization? Could we have the traffic flows control the traffic lights rather than"
+ ],
+ [
+  18,
+  1883,
+  " the traffic lights control cars. Of course, that's a dictatorship in our democracy. You know, why can it still exist? It does not have to b"
+ ],
+ [
+  18,
+  1894,
+  "e this way because we actually showed that"
+ ],
+ [
+  18,
+  1897,
+  "this can create large scale coordination by self organization. So you see green waves happening here, which are not enforced top down, but t"
+ ],
+ [
+  18,
+  1909,
+  "hey happen by self organization. And it really works. It has been implemented, for example, in the city of Lucerne in Switzerland. You can s"
+ ],
+ [
+  18,
+  1921,
+  "ee up there"
+ ],
+ [
+  18,
+  1922,
+  "the state of the art system that they had before, and it does enforce green waves as you can see, but it has a lot of red color in this plot"
+ ],
+ [
+  18,
+  1934,
+  " which means waiting times. Well, after it was changed to the self organized control solution on the bottom, you see much less red"
+ ],
+ [
+  18,
+  1946,
+  "color which means much less waiting and we still have green ways, but they're not so regular. This system uses gaps in the traffic flow, it "
+ ],
+ [
+  18,
+  1958,
+  "uses them as opportunities, it does not enforce it, okay? And it's much better. There are stunning improvements even though it was supposed "
+ ],
+ [
+  18,
+  1970,
+  "to be the best system on the market that they had before."
+ ],
+ [
+  18,
+  1975,
+  "Okay? So in other words, going from top down control to bottom up self organization can improve systems, can improve their performance, cann"
+ ],
+ [
+  18,
+  1986,
+  "ot control everything top down. Also, because many problems are NP hard, computationally unfeasible. So, in conclusion, informational assist"
+ ],
+ [
+  18,
+  1998,
+  "ed self organization works well, is efficient and resilient, can handle reasonably large deviations, perturbations,"
+ ],
+ [
+  18,
+  2007,
+  "is compatible with freedom, democracy, and human rights. So, hey, that's the that's the solution we were always waiting for, isn't it? Let's"
+ ],
+ [
+  18,
+  2019,
+  " do that. Okay. I promised to talk about new kinds of money. I mentioned Internet of Things. So, how can we use it basically to make this dr"
+ ],
+ [
+  18,
+  2030,
+  "eam happen?"
+ ],
+ [
+  18,
+  2031,
+  "So, there's a book. It's even open access, so you can download it. Feel free to do that. And it proposes a totally different financial syste"
+ ],
+ [
+  18,
+  2043,
+  "m, socio ecological finance system. And importantly, it goes away from that utilitarian approach, that one dimensional approach which"
+ ],
+ [
+  18,
+  2054,
+  "basically all the economic optimization, profit maximization, all that classical approach is based on. It introduces many kinds of money tha"
+ ],
+ [
+  18,
+  2066,
+  "t are not frictionless convertible into each other. That's important because otherwise, it comes down to one sort of money again."
+ ],
+ [
+  18,
+  2078,
+  "Okay. So, this will already change something if you go from a utilitarian approach, a one dimensional approach to a multi dimensional one. O"
+ ],
+ [
+  18,
+  2093,
+  "kay? And the way I propose to introduce these new kinds of money is to base it on"
+ ],
+ [
+  18,
+  2101,
+  "measurements as they can be made with the Internet of Things. So, what we have proposed in this book is to combine Internet of Things techno"
+ ],
+ [
+  18,
+  2110,
+  "logy with blockchain technology. It would not necessarily have to be blockchain technology, but could be. Okay? And so, there are many measu"
+ ],
+ [
+  18,
+  2119,
+  "rement procedures, measurement for temperature, CO2, for noise, for humidity, for whatever you care"
+ ],
+ [
+  18,
+  2126,
+  "about, and you can measure that. And that measurement can be turned into money and into incentives, and those incentives will be able to cha"
+ ],
+ [
+  18,
+  2139,
+  "nge people's behavior. And if we do it well, then basically this can improve our environment, it can help"
+ ],
+ [
+  18,
+  2149,
+  "to self organize our society. Even formulated that a bit strange, I should say, we could allow our society to self organize in this way beca"
+ ],
+ [
+  18,
+  2161,
+  "use this is taking into account externalities, I will come back to this later on. I've also proposed some time ago"
+ ],
+ [
+  18,
+  2171,
+  "to invent something that I called investment premium. It's a bit similar to basic income, but also very different. It would be a new kind of"
+ ],
+ [
+  18,
+  2183,
+  " money which you could not spend for yourself. You would get it every month, everyone would get the same amount, and you could invest it"
+ ],
+ [
+  18,
+  2194,
+  "into companies, into social project, into cultural project, into environmental projects, whatever. You can invest this money. You cannot use"
+ ],
+ [
+  18,
+  2210,
+  " it for yourself. Okay. And that would be like voting every month for project. This is thing that would improve the world. Yes? This"
+ ],
+ [
+  18,
+  2226,
+  "I think both would be possible. We have been thinking this as a system that would not necessarily imply a profit on investments, but I'm fin"
+ ],
+ [
+  18,
+  2237,
+  "e with adding this aspect too. You know? It's not the investment, but it's the investment. Yes. But I think this is really very important th"
+ ],
+ [
+  18,
+  2247,
+  "at the people would decide"
+ ],
+ [
+  18,
+  2249,
+  "where to invest money and what projects should be going forward because then I think we would have the kinds of project that we would really"
+ ],
+ [
+  18,
+  2260,
+  " need. There are many bullet points over here. I won't read them, but it's being recorded, so you can kind of have a look. And I should say,"
+ ],
+ [
+  18,
+  2271,
+  " so far, we have not been able to get this investment premium idea implemented,"
+ ],
+ [
+  18,
+  2277,
+  "unfortunately. Hopefully, it will still happen one day. But something similar has been happening, and this is called participatory budgeting"
+ ],
+ [
+  18,
+  2288,
+  ". And we'll come back to this, but I will talk a little bit more widely about the concept altogether. And so I will dive into the subject of"
+ ],
+ [
+  18,
+  2300,
+  " digital democracy. How to make democracy"
+ ],
+ [
+  18,
+  2303,
+  "work in the digital age. Obviously, it's not doing very well at the moment. Some people think it's outdated technology. I personally think w"
+ ],
+ [
+  18,
+  2314,
+  "e should upgrade it with digital technology. I think democracy is about, among others, enabling distributed knowledge and collective intelli"
+ ],
+ [
+  18,
+  2326,
+  "gence."
+ ],
+ [
+  18,
+  2326,
+  "It's making the best out of all our ideas and talents and engagement and resources. So, this is inspired by swarm intelligence. We're often "
+ ],
+ [
+  18,
+  2340,
+  "very impressed by what we see out there in nature, and among them is those beautiful flocks of birds that"
+ ],
+ [
+  18,
+  2350,
+  "amaze us for the coordination ability. And there's no lead bird that tells every other bird how to fly, in what direction. And, in fact, the"
+ ],
+ [
+  18,
+  2362,
+  " idea is old, it's also 300 years old, that society could basically work like a beehive in a self organized way. Yes, there is a queen bee,"
+ ],
+ [
+  18,
+  2374,
+  "but that queen bee does not hand out commands and tell every other bee what to do. It basically lays eggs. So, there is self immunization th"
+ ],
+ [
+  18,
+  2386,
+  "at makes this wonder of the beehive happen. And the similar thing is known from humans. Humans, of course, are much more complex than bees,"
+ ],
+ [
+  18,
+  2397,
+  "and we talk not about warm intelligence there, but about collective intelligence or of wisdom of crowds, and there have been quite a few boo"
+ ],
+ [
+  18,
+  2407,
+  "ks about it, and it's really stunning. And I think we could use this to learn how to build digital democracy. So, it's about learning to bri"
+ ],
+ [
+  18,
+  2418,
+  "ng the best ideas of many minds together, and a nice example, I believe, is the Netflix prize."
+ ],
+ [
+  18,
+  2425,
+  "Netflix has a recommender system. They hope to make their customers more happy with this, with good recommendations of the movies that they "
+ ],
+ [
+  18,
+  2436,
+  "would enjoy watching. And they had their big data approach, but they wanted to be better because they were not satisfied with how predictive"
+ ],
+ [
+  18,
+  2446,
+  " it was. So, they said, okay, here's a million."
+ ],
+ [
+  18,
+  2450,
+  "Take it if you manage to improve our algorithm by 10%. You know, everyone said, oh, that's easy, you know, let's do it. And there were many "
+ ],
+ [
+  18,
+  2460,
+  "teams kind of engaging into this competition. I think for two years or so, nobody managed to improve for more than 10%. And then one day, th"
+ ],
+ [
+  18,
+  2470,
+  "e best performing team, as far as I recall,"
+ ],
+ [
+  18,
+  2473,
+  "was combining their algorithm with other algorithms that were performing more poorly than theirs. So, you'd think how stupid is this? You kn"
+ ],
+ [
+  18,
+  2484,
+  "ow? It would make your algorithm even worse than before, but just the contrary happened. Now, out of a sudden, they jumped over the 10% line"
+ ],
+ [
+  18,
+  2495,
+  ", they got the million, you know, and so basically combining different"
+ ],
+ [
+  18,
+  2500,
+  "approaches is often better, often better than even the best expert solution. Sorry to say that. That's the wisdom of crowd. Okay? But it doe"
+ ],
+ [
+  18,
+  2511,
+  "s not automatically happen. There's also sometimes the madness of crowd. So, there needs to be some organizational principles for wisdom of "
+ ],
+ [
+  18,
+  2521,
+  "crowds, collective intelligence to happen, and"
+ ],
+ [
+  18,
+  2525,
+  "an organization in several phases is helpful like having an exploratory phase where many different kinds of participants would basically go "
+ ],
+ [
+  18,
+  2535,
+  "out, look for information, try to come up with solutions independently of each other. They should not be influenced in that phase. Modern se"
+ ],
+ [
+  18,
+  2546,
+  "arch engines would influence everyone. You know, it's kind of they are not helpful for this process, not made for this. They're manipulative"
+ ],
+ [
+  18,
+  2556,
+  "."
+ ],
+ [
+  18,
+  2556,
+  "Second phase, information exchange. Only then do people come together and talk about their ideas, their solutions, and in phase three, they "
+ ],
+ [
+  18,
+  2566,
+  "would try to integrate solution and combine them with each other to come up with better solutions. So, there's the liberation that creates n"
+ ],
+ [
+  18,
+  2576,
+  "ew solutions. So, there's innovation happening by talking to each other. Okay?"
+ ],
+ [
+  18,
+  2581,
+  "And then in the end, we would have perhaps several integrated solutions. If it's not one everyone agrees with, then we would have to vote. A"
+ ],
+ [
+  18,
+  2590,
+  "nd that's not a bad thing. Voting is actually quite an interesting approach. It does not require everyone to agree on the goal function. You"
+ ],
+ [
+  18,
+  2599,
+  " could all have different goal functions, but you could vote and there would be a result."
+ ],
+ [
+  18,
+  2605,
+  "So, we don't need to assume the one dimensionality of the optimization approach. Right? Now, it turns out, however, that the most common way"
+ ],
+ [
+  18,
+  2618,
+  "s of voting, majority voting are actually quite bad, among the worst actually. There are several issues, like it could cause"
+ ],
+ [
+  18,
+  2629,
+  "what people call the tyranny of the majority or it could in the worst case, it could be a tyranny of the minority even, some minority. And a"
+ ],
+ [
+  18,
+  2639,
+  "lso, you don't get spatial fairness when talking about how money is being distributed over different districts of a city, then, of course, i"
+ ],
+ [
+  18,
+  2649,
+  "n some districts, there are more people, they have more votes, so, basically, they can determine where the money goes."
+ ],
+ [
+  18,
+  2658,
+  "So, as a result, the periphery is often forgotten, and that creates social tension over decades, and these are very hard to fix right now. S"
+ ],
+ [
+  18,
+  2671,
+  "o, spatial fairness is not ensured by majority voting. So, we need a better system. Okay? We need different ways of voting. And so,"
+ ],
+ [
+  18,
+  2683,
+  "what is voting about? It's about voter preferences on the one hand. It's figuring out what you want. Okay? And you express that typically th"
+ ],
+ [
+  18,
+  2693,
+  "rough a ballot. It could be also done in a more sophisticated way, and those expressions, those ballots then go into a ballot box, and there"
+ ],
+ [
+  18,
+  2703,
+  "'s a vote aggregation which then determines the democratic outcome. So, there's an input method,"
+ ],
+ [
+  18,
+  2710,
+  "a measures of preference, and an output method or aggregation method that determines the final outcome by basically summarizing over the vot"
+ ],
+ [
+  18,
+  2720,
+  "es in one way or the other. And we have created a smartphone app in order to make experiments with different kind of voting methods in the l"
+ ],
+ [
+  18,
+  2730,
+  "ab or also online experiments could be done"
+ ],
+ [
+  18,
+  2733,
+  "with this, and there are different kinds of voting, and I mentioned just a few of them to show you some of the differences. So there's appro"
+ ],
+ [
+  18,
+  2745,
+  "val voting where you could basically put one for the solutions that you like, And there's combined approval voting where you can also"
+ ],
+ [
+  18,
+  2757,
+  "abstain, which is zero here, or disapprove, which is minus one. And so, this is already more differentiated than just approval voting, goes "
+ ],
+ [
+  18,
+  2769,
+  "into the ballot box. And what really worked a lot better, of course, are many input methods, I cannot mention them all over here,"
+ ],
+ [
+  18,
+  2780,
+  "What worked very well is asking people to distribute 10 points and you could basically accumulate points for the projects that you like most"
+ ],
+ [
+  18,
+  2793,
+  ", so you can express the intensity of your liking. And as it turns out later on, this is much better than approval voting."
+ ],
+ [
+  18,
+  2804,
+  "So, this is one thing we can improve, the input method. The other method that we can improve is the output method. So, traditionally we do t"
+ ],
+ [
+  18,
+  2815,
+  "he majority voting, and suppose it's about selecting a project and projects do have costs, but actually the majority voting does not even ca"
+ ],
+ [
+  18,
+  2825,
+  "re about costs. It would just basically select those projects with most votes"
+ ],
+ [
+  18,
+  2831,
+  "until the budget is used up, and all the other proposals will go their way to the base basket typically. Right? However, you could also do i"
+ ],
+ [
+  18,
+  2844,
+  "t in a different way. So, you could divide votes by cost and say, oh, let's go for those projects that have most votes per cost."
+ ],
+ [
+  18,
+  2856,
+  "Okay? Then it turns out you get a very different selection of projects, and rather than I think it was two projects, we we can actually sele"
+ ],
+ [
+  18,
+  2868,
+  "ct four of them. Right? And there is a method called equal shares. That's a little bit similar to this idea of the investment premium"
+ ],
+ [
+  18,
+  2879,
+  "where everyone gets a virtual sum of money, same amount, and you distribute it over the projects, and all the projects that accumulate enoug"
+ ],
+ [
+  18,
+  2889,
+  "h money will be put in practice. Okay? Now, importantly, those different approaches will differ produce different outcomes. For the majority"
+ ],
+ [
+  18,
+  2900,
+  " voting, you see on the left, you you often get a situation where one project consumes"
+ ],
+ [
+  18,
+  2906,
+  "most of the budget. And then they will say, oh, sorry to all the other projects. You know, we don't have any money left. That's a pretty dif"
+ ],
+ [
+  18,
+  2916,
+  "ficult situation, but, you know, you could make a lot more people happy if you had you had many projects and you get this with the knapsack "
+ ],
+ [
+  18,
+  2926,
+  "approach also with equal share. So,"
+ ],
+ [
+  18,
+  2929,
+  "this really makes a big difference. Now we have actually tested this in reality. In the city of Arau, it was called Staatidea. We did that i"
+ ],
+ [
+  18,
+  2943,
+  "n Switzerland. And so, basically, there were brainstorming sessions. You see Mentimeter in the background."
+ ],
+ [
+  18,
+  2953,
+  "And there was a map and people could basically put sticky notes at the map with ideas that they wanted to be implemented. Okay? This is how "
+ ],
+ [
+  18,
+  2964,
+  "it all started. In the beginning, we had about 161 projects, and then there were additional meetings basically to figure out which projects "
+ ],
+ [
+  18,
+  2975,
+  "can be put together,"
+ ],
+ [
+  18,
+  2977,
+  "which projects cannot realistically be implemented or financed, and which projects do have sufficient community support. So, you know, it's "
+ ],
+ [
+  18,
+  2988,
+  "just not like they are saying, oh, somebody do this for us, please, but it's more like we're going to commit to this project and help it com"
+ ],
+ [
+  18,
+  3000,
+  "e"
+ ],
+ [
+  18,
+  3000,
+  "reality. And so, in the end, there were 33 projects, and basically those over here people could vote on, could vote with ballot boxes, but a"
+ ],
+ [
+  18,
+  3013,
+  "lso electronically. It was announced all over the city, and this is the outcome. So, you see, basically,"
+ ],
+ [
+  18,
+  3022,
+  "those projects that had most votes per budget were winning even though we were using this proportional fairness approach. Now why is it a lo"
+ ],
+ [
+  18,
+  3036,
+  "t better? Because with the major itarian approach, majority voting, we would have received only"
+ ],
+ [
+  18,
+  3045,
+  "seven projects and would be concentrated in the centers. It means a very unfair distribution of money. With our new approach which was befor"
+ ],
+ [
+  18,
+  3058,
+  "e tested in a laboratory for legitimacy and trust, the new approach was liked very much by the citizens. It"
+ ],
+ [
+  18,
+  3068,
+  "selected 17 projects and they were distributed all over the city. All districts got some money. Plus, it was a lot more representative and i"
+ ],
+ [
+  18,
+  3081,
+  "nclusive. There were more young people, more elderly people, more women, more foreigners who were contributing to this. So"
+ ],
+ [
+  18,
+  3093,
+  "those people usually feel left out. They had they saw the opportunity to make a difference. And in conclusion, we can say, yes, democracy ca"
+ ],
+ [
+  18,
+  3104,
+  "n be upgraded. We can have more projects approved and realize we can have more resourcefulness. We have more participation, more inclusion, "
+ ],
+ [
+  18,
+  3115,
+  "more transparency,"
+ ],
+ [
+  18,
+  3116,
+  "more trust, more satisfaction, and more fairness. And you cannot reach that by optimization, by data driven AI controlled optimization. You "
+ ],
+ [
+  18,
+  3128,
+  "know, It's a social process that matters here. Okay. So, one should or could, I think should actually implement more democracy, not less."
+ ],
+ [
+  18,
+  3140,
+  "Questions can be efficient. Right? So, we typically think of deliberative democracy and more people participate it takes, the more frustrate"
+ ],
+ [
+  18,
+  3152,
+  "d people get, you know, in the end you have a compromise, but often everyone is unhappy, this can be made in a different way. We have"
+ ],
+ [
+  18,
+  3163,
+  "worked on an approach that we call remixing, peer production. So, suppose everyone could develop solutions, they would be available digitall"
+ ],
+ [
+  18,
+  3175,
+  "y on some platform. Everyone can download those solutions, modify them as they like, upload them again. Yeah, a little bit like GitHub,"
+ ],
+ [
+  18,
+  3187,
+  "I guess, and or Wikipedia. GitHub more than Wikipedia even, I would say. Then basically, there are many solutions, some of them popular, oth"
+ ],
+ [
+  18,
+  3202,
+  "ers not so much. Populars will be further improved and others will be forgotten about, and so there's branching"
+ ],
+ [
+  18,
+  3213,
+  "process. It's like a tree in a sense. It's peer production. Okay? Co creation also, importantly. Then however, the important point is can we"
+ ],
+ [
+  18,
+  3224,
+  " still evaluate all those proposals, you know. Suppose you would have to review hundreds of proposals, you know, would get very frustrated a"
+ ],
+ [
+  18,
+  3234,
+  "bout that. So, we need to have a distributed voting approach, a peer review approach, say everyone just looks at 10 randomly chosen"
+ ],
+ [
+  18,
+  3244,
+  "proposals and rates them. And then if we want everyone to involve in the end, we could create a short list and have everyone vote about, say"
+ ],
+ [
+  18,
+  3257,
+  ", the top 10 list. And importantly, even though nobody has seen all the proposals, nobody has full control, It will deliver"
+ ],
+ [
+  18,
+  3269,
+  "a very good solution. So, you know, we don't need to control this process. It's distributed process from the beginning to the end, and if we"
+ ],
+ [
+  18,
+  3281,
+  " do that in the right way, that means we have we share all those solutions in a open source, open access way, creative comments, and"
+ ],
+ [
+  18,
+  3293,
+  "we do have a situation where we have a very steep innovation curve, but also at the same time a maximum fairness among majorities versus min"
+ ],
+ [
+  18,
+  3317,
+  "orities because everyone can benefit from other ideas no matter from what camp they come. Yes? Yeah. So"
+ ],
+ [
+  18,
+  3334,
+  "in in fact, this is part part of the ongoing work. There's one publication which is out, which you can find over here, but there are two mor"
+ ],
+ [
+  18,
+  3343,
+  "e at least publications following. So interesting indeed enough, the expectation is this approach works better the more people participate, "
+ ],
+ [
+  18,
+  3352,
+  "while the deliberation approach works better the, you know, if not too many"
+ ],
+ [
+  18,
+  3357,
+  "participate. I don't think we need 5,000,000 for this to work, to be honest, but if we're a thousand for example, I think it would already b"
+ ],
+ [
+  18,
+  3368,
+  "e working tremendously well, and even with less, I would expect it to be pretty stunning in its performance. Alright. So, all of that speaks"
+ ],
+ [
+  18,
+  3378,
+  " in favor of the making"
+ ],
+ [
+  18,
+  3380,
+  "culture. Some people have even proposed to apply making to entire cities, you know, like an alternative approach to smart cities in a sense,"
+ ],
+ [
+  18,
+  3390,
+  " and we have even proposed to take it up to global level to address the global challenges of humanity, and we call this city Olympics or cit"
+ ],
+ [
+  18,
+  3400,
+  "y challenges or city cup. So we know that nation states and United Nations have tried to fix the problems of the world."
+ ],
+ [
+  18,
+  3409,
+  "They have failed to do it on time, frankly speaking. Same thing with global corporations. They have tried as well. They've promised they wil"
+ ],
+ [
+  18,
+  3419,
+  "l fix everything, but it hasn't happened on time. So, we need new approaches, perhaps complementary approaches, and that's the do it yoursel"
+ ],
+ [
+  18,
+  3428,
+  "f and do it together, the City Olympics. And so, the idea is basically to have a combination of competition and cooperation."
+ ],
+ [
+  18,
+  3437,
+  "So, cities would compete with each other, say every year or every two years, there would be different disciplines like reducing energy consu"
+ ],
+ [
+  18,
+  3451,
+  "mption, reducing carbon emissions, whatever you care about, you know, improving solidarity,"
+ ],
+ [
+  18,
+  3460,
+  "helping other people, environmental projects, anything could be a discipline. Okay? And so, cities would compete in those different discipli"
+ ],
+ [
+  18,
+  3472,
+  "nes. Everyone could contribute, companies, media, scientists, citizens, and basically they would develop new solutions and try to implement "
+ ],
+ [
+  18,
+  3484,
+  "them, and would be compared among cities and there would be then a best off list of"
+ ],
+ [
+  18,
+  3491,
+  "solutions created and those would be open source and creative commons. So, everyone could use them in the second phase to basically develop "
+ ],
+ [
+  18,
+  3501,
+  "them further, to combine those different approaches, to adjust those approaches to your local conditions, to your budget, to the account ful"
+ ],
+ [
+  18,
+  3512,
+  "l context or whatever, okay?"
+ ],
+ [
+  18,
+  3514,
+  "So, basically, it would be a pluralistic competition for combinatorial solutions, and we have proposed that for sustainability related quant"
+ ],
+ [
+  18,
+  3531,
+  "ities. And, basically, the idea is to go for localization"
+ ],
+ [
+  18,
+  3538,
+  "rather than globalization. And what is this about? It's about thinking global but acting local, endeavors to experiment, to learn from each "
+ ],
+ [
+  18,
+  3549,
+  "other, to help each other. We've done that. We've done these making projects. We have created own hardware and own software, and we have hac"
+ ],
+ [
+  18,
+  3559,
+  "kathons and communities have been"
+ ],
+ [
+  18,
+  3562,
+  "contributing to these competitions. And so, the idea is to combine the success principles of VeriSystem like the best of the best, combine c"
+ ],
+ [
+  18,
+  3572,
+  "ombination with collective competition, with collective intelligence, experimentation and selection, and intelligent design. Right? So, we a"
+ ],
+ [
+  18,
+  3581,
+  "re not ideological here. We just try to combine the best of the best with each other in an innovative and constructive way that would be abl"
+ ],
+ [
+  18,
+  3591,
+  "e to help many people."
+ ],
+ [
+  18,
+  3592,
+  "And so, to use that to address among others sustainability problems, which are probably among the biggest challenges in the world right now."
+ ],
+ [
+  18,
+  3603,
+  " Most people would agree if we would go away from those wasteful supply chains of today where we use a lot of new resources to produce mass "
+ ],
+ [
+  18,
+  3614,
+  "products,"
+ ],
+ [
+  18,
+  3615,
+  "push them on consumers by advertisements, then they would throw it away and would be waste. If we could turn that into a circular economy, t"
+ ],
+ [
+  18,
+  3627,
+  "he prospects, the future of many people in the world would increase dramatically. Okay. But we cannot get there, not by force, not by legisl"
+ ],
+ [
+  18,
+  3639,
+  "ation."
+ ],
+ [
+  18,
+  3640,
+  "And and so how to get there? So, I do think we can make it happen using the Internet of Things, but using it in a different way. Not to coll"
+ ],
+ [
+  18,
+  3653,
+  "ect as much data as possible in one centralized place and keep them forever, but in a participatory way, in a distributed way, and also"
+ ],
+ [
+  18,
+  3665,
+  "forgetting about the data again. Because nature has fixed circular economy, you know, nature is circular, so we know it's possible to create"
+ ],
+ [
+  18,
+  3677,
+  " a circular system, and so we can learn from nature. How does nature do it? Interestingly enough, it does not have a supercomputer that coll"
+ ],
+ [
+  18,
+  3689,
+  "ects all the data about a forest or the entire world and then try to optimize"
+ ],
+ [
+  18,
+  3695,
+  "a solution and then impose it on the entire system, enforce it, control the system centrally, keep these data forever. No, it's not working "
+ ],
+ [
+  18,
+  3709,
+  "this way. It's all distributed. It's local, it's temporary, and it's participatory. And so, how can we create such a system?"
+ ],
+ [
+  18,
+  3722,
+  "Okay. So, I told you externalities need to be considered to improve the world. So, we should and we could map noise, temperature, environmen"
+ ],
+ [
+  18,
+  3737,
+  "tal change, also good things, you know, like people's happiness, culture, jobs people like, whatever."
+ ],
+ [
+  18,
+  3747,
+  "So, basically, we can measure externalities, but the goal is to increase positive externalities to reduce negative ones and to ensure fair c"
+ ],
+ [
+  18,
+  3757,
+  "ompensation. Alright. And this brings us back to those new kinds of money that combine Internet of Things measurement with, for example, blo"
+ ],
+ [
+  18,
+  3768,
+  "ckchain technology"
+ ],
+ [
+  18,
+  3769,
+  "to define new currencies that would create new incentives, that new market forces that would make everyone change behavior or production or "
+ ],
+ [
+  18,
+  3782,
+  "consumption a little bit in response to the situation they find. So, a co evolutionary process would set in"
+ ],
+ [
+  18,
+  3792,
+  "everyone improves in response to everyone else's improvement. There's a co evolution going on basically. And this is the way how we would ge"
+ ],
+ [
+  18,
+  3803,
+  "t towards a circular and sharing economy. Now, importantly, a multi dimensional approach would be a huge paradigm change. Okay? Nature does "
+ ],
+ [
+  18,
+  3815,
+  "not use one control variable like dollars or so. Right?"
+ ],
+ [
+  18,
+  3819,
+  "It has many feedback loops, carbohydrates, proteins, many vitamins, minerals, and so on. Now, let's compare just a typical supply chain of t"
+ ],
+ [
+  18,
+  3833,
+  "oday, pretty hierarchical to pretty linear with what nature does. This is a metabolic network. That means how digestion works"
+ ],
+ [
+  18,
+  3845,
+  "in a body, and you see this looks very different. And here, suddenly, you do have circular elements. Yes,"
+ ],
+ [
+  18,
+  3879,
+  "exactly. This is what I have in mind. So, yes, this is the outcome of millions of years of evolution, but we don't have to wait for millions"
+ ],
+ [
+  18,
+  3889,
+  " of years because we can basically learn from how nature does these kind of things. And now, importantly, there are suddenly these circular "
+ ],
+ [
+  18,
+  3898,
+  "elements. Right? And here, we suddenly have a situation"
+ ],
+ [
+  18,
+  3902,
+  "where we cannot say anymore who is in control. Say, if a influences b and b influences a, then who is in control? A or b? So, basically, wha"
+ ],
+ [
+  18,
+  3916,
+  "t I want to say is you have to give up on control in order to allow this circularity"
+ ],
+ [
+  18,
+  3924,
+  "to happen. As long as you're trying to force such a circular system by controlling a top down way, I don't expect this to happen. Rather, we"
+ ],
+ [
+  18,
+  3934,
+  " need to have this bottom approach, this coordination based approach, self organizing and co evolutionary approach in order to get there. An"
+ ],
+ [
+  18,
+  3945,
+  "d this is what I have proposed with this new money system that I just suggested before. So, basically,"
+ ],
+ [
+  18,
+  3952,
+  "the idea is to have an evolution process which creates increasing levels of symbiosis between different levels of the system, so not one wou"
+ ],
+ [
+  18,
+  3964,
+  "ld determine the lives of everyone else. And we have made a very interesting experiment, you know, we have been introducing voting into traf"
+ ],
+ [
+  18,
+  3977,
+  "fic"
+ ],
+ [
+  18,
+  3977,
+  "control. We have been democratizing traffic in a sense. So, we've assumed that different cars would have or different drivers would have dif"
+ ],
+ [
+  18,
+  3987,
+  "ferent goal functions, right? Some want to minimize travel times, others want to minimize stops, others want to minimize fuel consumptions, "
+ ],
+ [
+  18,
+  3996,
+  "others want to minimize CO2 emissions, and so on. You know, let's have let's have people have pluralistic goals."
+ ],
+ [
+  18,
+  4004,
+  "At each intersection now, there's a different percentage, a different composition of these types and they will vote. And then the traffic li"
+ ],
+ [
+  18,
+  4016,
+  "ght will basically respond to that voting. And interestingly enough, the result is that we get away from the old fashioned"
+ ],
+ [
+  18,
+  4026,
+  "efficiency oriented optimization where, yes, there is one goal that we achieve in an optimal way, but the system performs poorly with respec"
+ ],
+ [
+  18,
+  4037,
+  "t to other variables we care about. Instead, you would get a system that's the orange triangle instead of the blue where we have high perfor"
+ ],
+ [
+  18,
+  4049,
+  "mance"
+ ],
+ [
+  18,
+  4049,
+  "on several variables that matter. So, we have a pluralistic approach and this can be enabled by those voting procedures. So, I'm coming to t"
+ ],
+ [
+  18,
+  4060,
+  "he end. I'd like to thank you for your interest and attention. I am asking you to be a game changer because, obviously, the old systems don'"
+ ],
+ [
+  18,
+  4071,
+  "t work any longer."
+ ],
+ [
+  18,
+  4072,
+  "I think the success principles of a complex world of the future would be co principles and co learning, co creation, coordination, cooperati"
+ ],
+ [
+  18,
+  4083,
+  "on, co evolution, and change is coming. So, contribute to it, you know, create this chain reaction. And here's one more paper I'd like to me"
+ ],
+ [
+  18,
+  4095,
+  "ntion"
+ ],
+ [
+  18,
+  4095,
+  "on participatory resilience where we are describing resilient system based on people's activities and what kind of digital system we would t"
+ ],
+ [
+  18,
+  4109,
+  "ake in order people to take their own faith into their hands also in situations of crisis. Plus, is"
+ ],
+ [
+  18,
+  4119,
+  "two science fictions I've recently co created with ChatGPT where I'm addressing some of the issues I'm worried about and also just trying to"
+ ],
+ [
+  18,
+  4136,
+  " hint at some of the solution approaches. So, if you're a science fiction fan, I hope you'll enjoy this. And the link down there also does n"
+ ],
+ [
+  18,
+  4153,
+  "ot require you to log in. Thanks so much. That was it."
+ ],
+ [
+  18,
+  4160,
+  "My best fan critical fan. I'm everybody's best critical fan. So what I see is that all of this has been researched and rightfully so under t"
+ ],
+ [
+  18,
+  4173,
+  "he paradigm of a given society, a given a given nation state, given populations that are already up and running and so on."
+ ],
+ [
+  18,
+  4184,
+  "And another way of turning this completely upside down, not bottom up, but in the in the conceptual way is you create a new society and let "
+ ],
+ [
+  18,
+  4194,
+  "people opt in, and this is what we do here to a degree. And this is another completely different game changer. And I see many, many concepts"
+ ],
+ [
+  18,
+  4204,
+  " that I handled here completely dysfunctional"
+ ],
+ [
+  18,
+  4207,
+  "in our world because of no. Not completely, but but deeply. Democracy and collective intelligence. This this tells me that the it's research"
+ ],
+ [
+  18,
+  4219,
+  "ed like this would be the only overlap. If we don't if we have an opt in society and if we want to be autonomous and independent,"
+ ],
+ [
+  18,
+  4231,
+  "we will have to have an academia function and epistemic function that is segregated and totally separated even from the decision making func"
+ ],
+ [
+  18,
+  4240,
+  "tion where we have different stakeholders on different levels. And, of course, this is a solution that can work in already established syste"
+ ],
+ [
+  18,
+  4250,
+  "ms and is very important. But I think that there is and you presented a lot of good concepts, and I think we can take a lot of value from th"
+ ],
+ [
+  18,
+  4259,
+  "em. I just want to call"
+ ],
+ [
+  18,
+  4261,
+  "the reminder. We if we think through these concepts and how we can apply them, we should really be aware about this fundamentally different "
+ ],
+ [
+  18,
+  4272,
+  "prerequisite that we don't start with a society that has, by chance, these and these needs and need to self organize, but we have the luxury"
+ ],
+ [
+  18,
+  4282,
+  " of actually picking the people or,"
+ ],
+ [
+  18,
+  4285,
+  "yeah, generating these societies ourselves, and this would not would partly be lost in translation, which is not a criticism to your talk be"
+ ],
+ [
+  18,
+  4296,
+  "cause it was legitimately researched for the already existing ones. Alright. Thank you very much. I am very much a fan of opt in. I don't ag"
+ ],
+ [
+  18,
+  4308,
+  "ree"
+ ],
+ [
+  18,
+  4308,
+  "with any forced systems. I do think that this approach can work in an incentive based way and that it's based on the idea of growing communi"
+ ],
+ [
+  18,
+  4320,
+  "ties, self organizing. So, not that far away, but I'm a bit skeptical about having kind of a million different societies"
+ ],
+ [
+  18,
+  4331,
+  "in the world that are disconnected. I do think that we're still also live Yeah, that's not necessarily so, but potentially so. I mean, we ne"
+ ],
+ [
+  18,
+  4344,
+  "ed to also keep the social cohesion I think in mind because we're also living, most of us, the real world,"
+ ],
+ [
+  18,
+  4354,
+  "not only in the online world. And cohesiveness is I think has gotten lost in recent years to some extent, and it creates some of the problem"
+ ],
+ [
+  18,
+  4393,
+  "s and stresses and also hate that we see in society and I think we need to keep that in mind at least. Okay."
+ ],
+ [
+  18,
+  4423,
+  "Thank you very much. Very much appreciate it, but there are other voices as well. Yes, please go ahead. So you've obviously spent a lot of t"
+ ],
+ [
+  18,
+  4433,
+  "ime with complex systems and complex systems have in them attractors. I'm just wondering if in your experience, if you could share an attrac"
+ ],
+ [
+  18,
+  4442,
+  "tor that you discovered or you came across that you found shocking or just beautiful or sort of like the butterfly?"
+ ],
+ [
+  18,
+  4450,
+  "Yeah, in fact, my PhD thesis, I have been working on deterministic cases as well, and I've been looking into opinion information abstract mo"
+ ],
+ [
+  18,
+  4462,
+  "dels in a sense, not necessarily fully realistic, but they produced also very beautiful Strange Attractors. We shouldn't be guided too much "
+ ],
+ [
+  18,
+  4473,
+  "by Strange Attractors though because it's also"
+ ],
+ [
+  18,
+  4477,
+  "a very particular thing and only an approximation of reality, but it's good to be aware that these kind of things do exist and that we shoul"
+ ],
+ [
+  18,
+  4487,
+  "d not assume the world to be predictable and controllable because that's what many are currently trying to do to control and predict the wor"
+ ],
+ [
+  18,
+  4498,
+  "ld, and I think it's very much cutting down on our freedom and creativity"
+ ],
+ [
+  18,
+  4503,
+  "as well. Okay. Next one. Yes. Okay. Thank you for this talk. I would like to comment on many aspects of it, but we we we are already a bit l"
+ ],
+ [
+  18,
+  4516,
+  "ate. So I'll just limit myself to a question, not a comment. How do you deal with voter apathy? Because a lot of voter apathy,"
+ ],
+ [
+  18,
+  4528,
+  "the a lot of new ideas you are discussing are how to better aggregate different ideas, different viewpoints, different needs, and so on. And"
+ ],
+ [
+  18,
+  4541,
+  " I do agree with that we already came up with a really, really good alternatives to the current system that we know work in certain"
+ ],
+ [
+  18,
+  4553,
+  "conditions. But, you know, even best solution do not really work if no one shows up. And we can see this even in, like, blockchain environme"
+ ],
+ [
+  18,
+  4564,
+  "nt. There are a lot of projects that are using, for example, in a quadratic funding or quadratic voting to distribute enormous sometimes amo"
+ ],
+ [
+  18,
+  4575,
+  "unts of money in, like, participatory budget way,"
+ ],
+ [
+  18,
+  4579,
+  "but they are not attracting that many people. And, obviously, even quadratic funding is a huge improvement no matter how many people are act"
+ ],
+ [
+  18,
+  4589,
+  "ually participating. But if you want to actually utilize the wisdom of the crowd, it really does matter if 500 people show up or 5,000 or 50"
+ ],
+ [
+  18,
+  4600,
+  ",000. Mhmm. So how to make people actually more engaged and"
+ ],
+ [
+  18,
+  4604,
+  "how to make them vote actually? Yeah. I think what you're mentioning is basically a fragmentation. So some people committed to Wikipedia Wik"
+ ],
+ [
+  18,
+  4614,
+  "ipedia and others to other kinds of communities. If you sum up how many people do something, it's probably quite a lot. If you care about ho"
+ ],
+ [
+  18,
+  4624,
+  "w many people contribute to one particular"
+ ],
+ [
+  18,
+  4627,
+  "thing or platform, then it can be quite a few, and basically has to work for few people as well as many. That's kind of the challenge, needs"
+ ],
+ [
+  18,
+  4640,
+  " to be scalable. I do think that as people see that their voting has some impact on reality,"
+ ],
+ [
+  18,
+  4649,
+  "on the projects that are being implemented, on the future, people will be engaging more. I certainly want to co create the future, my future"
+ ],
+ [
+  18,
+  4660,
+  " in particular. I guess many of us do want to do this. My feeling is I don't have much control even of my future these days because digital "
+ ],
+ [
+  18,
+  4672,
+  "systems have taken over and"
+ ],
+ [
+  18,
+  4674,
+  "you know, there's these invisible boundaries in many places, and so I don't think we have a co creation system at the moment. This is very f"
+ ],
+ [
+  18,
+  4686,
+  "rustrating in fact, and I hope we will be able to overcome this soon. As it turns out, this is the proof that needs to be given,"
+ ],
+ [
+  18,
+  4697,
+  "that these bottom up systems perform better altogether than the top down controlled ones. So, they're more creative, more innovative, have a"
+ ],
+ [
+  18,
+  4707,
+  " better performance in a sense. Perhaps we have to look at different performance measures as well, but this is what I think matters. And so "
+ ],
+ [
+  18,
+  4718,
+  "if we have good examples to show"
+ ],
+ [
+  18,
+  4720,
+  "for bottom up co creation is better, and I'm sure tons of examples, but most politicians don't know. For everyone's information, we'll start"
+ ],
+ [
+  18,
+  4730,
+  " with a 12:00 session. So we have five to ten more minutes for questions and then a quick break. I have the next question here. Hi. So it se"
+ ],
+ [
+  18,
+  4740,
+  "ems that unlike most academics, you actually had some of your ideas implemented in the real world, some of your early work, it seems like fo"
+ ],
+ [
+  18,
+  4750,
+  "r, you know, traffic control and crowd control."
+ ],
+ [
+  18,
+  4753,
+  "Are you engaged with policymakers now on some of your bigger bigger ideas on, you know, democracy and participatory decision making? Yeah. I"
+ ],
+ [
+  18,
+  4764,
+  " I must admit, you know, even though we've been pushing for this consistently over the years, I do feel some frustration. I've been sitting "
+ ],
+ [
+  18,
+  4776,
+  "in all sorts of political committees for some time,"
+ ],
+ [
+  18,
+  4780,
+  "and I had the feeling there were basically more to give the impression that now everything is going to change, but it was just basically del"
+ ],
+ [
+  18,
+  4791,
+  "aying action and it never happened. So it's kind of more to absorb criticism rather than to improve the system and I feel very much cornered"
+ ],
+ [
+  18,
+  4802,
+  ", very much limited in what I can do at the moment because"
+ ],
+ [
+  18,
+  4806,
+  "to some extent, of these ideas are revolutionary in the sense that I could change systems fundamentally, you know, and some people don't wan"
+ ],
+ [
+  18,
+  4816,
+  "t to see that change. But I do believe that good ideas will eventually win through, kind of there's and it will make it. So, I do hope that "
+ ],
+ [
+  18,
+  4826,
+  "other people will be picking it up and will happening in in other places. And it does happen in other places. Actually,"
+ ],
+ [
+  18,
+  4835,
+  "sometimes in quite remote places, which I lost track of for some time, like India. Now it it turns out that some of the ideas I've proposed "
+ ],
+ [
+  18,
+  4847,
+  "have found fertile ground over there and have been scaled up and we're making quite some difference. So, you know, let's don't lose hope and"
+ ],
+ [
+  18,
+  4858,
+  " just get going and try to implement some of those ideas to make them scalable."
+ ],
+ [
+  18,
+  4865,
+  "Yeah. So I thank you for this. It's really insightful and exciting. We tried to build a startup built built on a lot of these principles a f"
+ ],
+ [
+  18,
+  4875,
+  "ew years ago, and the reality was that, at least for us, you need to get to a certain scale and success as sort of, I think, Burns touched o"
+ ],
+ [
+  18,
+  4886,
+  "n before those crowd dynamics maybe start working. Have you got any advice or input or learnings in terms of getting"
+ ],
+ [
+  18,
+  4894,
+  "getting things to that scale where they can be implemented? And, yeah, potentially, like, any thoughts on how you get from zero to one? Beca"
+ ],
+ [
+  18,
+  4904,
+  "use definitely the the the reality experience of building something is that this works in theory, but doesn't work in practice for a startup"
+ ],
+ [
+  18,
+  4915,
+  " trying to build exactly this future. Right."
+ ],
+ [
+  18,
+  4918,
+  "I I I do think that we should not give up if we're convinced that we're on the right way because there's a lot of resistance, you know. Ther"
+ ],
+ [
+  18,
+  4930,
+  "e's kind of adversaries who are trying to undermine, for example, democracies and and these distributed approaches. It's it's a power strugg"
+ ],
+ [
+  18,
+  4941,
+  "le in a sense, you know, but I do think distributed scales better. So"
+ ],
+ [
+  18,
+  4947,
+  "eventually, it will win through. Now what can we make in order to succeed more quickly? I think collaboration across different initiatives i"
+ ],
+ [
+  18,
+  4959,
+  "s better. I know everyone wants to have their own blockchain or system to be proud of, but importantly, we built digital ecosystems that"
+ ],
+ [
+  18,
+  4970,
+  "basically amplify each other, that strengthen each other, so together we can create more functionality, a bigger community and more power. A"
+ ],
+ [
+  18,
+  4981,
+  "nd perhaps that can happen in a forum like this one over here that you stick your heads together and agree to do something together to some "
+ ],
+ [
+  18,
+  4993,
+  "extent. So the ecosystem allows you to have your own thing, but also"
+ ],
+ [
+  18,
+  4998,
+  "it would be collaborative and would be creating something bigger. Yes? Is the delaying and subsequent political frustration the result of th"
+ ],
+ [
+  18,
+  5009,
+  "e basic fact people don't really want to give away power that progressive decentralization, for example, doesn't really work historically? Y"
+ ],
+ [
+  18,
+  5020,
+  "eah. I I do agree that there are some people who just like to stick to power, but it's it's toxic for the environment and for humanity"
+ ],
+ [
+  18,
+  5031,
+  "and, you know, it has become a matter of life and death to some extent even, I would say. So, we really need to win this competition and and"
+ ],
+ [
+  18,
+  5040,
+  " make it happen. I I do Can I can I throw something there? I think it's too simplistic to say that people like to stick to power. Some, I sa"
+ ],
+ [
+  18,
+  5050,
+  "id. Yeah. Even some. I think that the bigger problem that we've seen is that when you try not to stick to power and you try to do things, no"
+ ],
+ [
+  18,
+  5059,
+  "thing necessarily happens. It's I think it's it's"
+ ],
+ [
+  18,
+  5062,
+  "very much too idealistic to just, like, put an idea into the world and hope that people will help you build it. It hasn't worked out like th"
+ ],
+ [
+  18,
+  5070,
+  "at in the past for us. And the reality be like, the reality was that, you know, you build something, you try and decentralize it, and then y"
+ ],
+ [
+  18,
+  5079,
+  "ou end up with an illegal entity that has a lot of costs, and you're the only one paying for it. Like,"
+ ],
+ [
+  18,
+  5085,
+  "I I think it's just too simplistic to kind of, like, think that people aren't trying to do that and failing. And we need better systems in p"
+ ],
+ [
+  18,
+  5094,
+  "lace that support people that want to try and do that. And where it's cheaper to do that, where you're not setting setting yourself up for e"
+ ],
+ [
+  18,
+  5103,
+  "nding up, yeah, alone with a lot of costs, basically. No. No. I I understand this fully."
+ ],
+ [
+  18,
+  5109,
+  "I I think, you know, in in fact, we want to empower everyone digitally kind of to give everyone more abilities to contribute to a better fut"
+ ],
+ [
+  18,
+  5121,
+  "ure. Right? So power per se is not a bad thing. When I I think this huge inequality in power, this is an issue, and it's not compatible with"
+ ],
+ [
+  18,
+  5133,
+  " democracies,"
+ ],
+ [
+  18,
+  5134,
+  "and it's not compatible with bottom up principles. And here we need to make some progress. Yeah, I I know distributed systems are more diffi"
+ ],
+ [
+  18,
+  5145,
+  "cult to build, so if you just want to be the first to build some functionality, you often would not do it in a distributed way. It takes oft"
+ ],
+ [
+  18,
+  5155,
+  "en more time,"
+ ],
+ [
+  18,
+  5156,
+  "more effort, more costs. Still, we are eventually learning how to do that and we can learn from each other and we learn how to make these sy"
+ ],
+ [
+  18,
+  5169,
+  "stems scalable. So I I still think it will win eventually and will be the fundamental principle of the future. But we're not there yet."
+ ],
+ [
+  18,
+  5181,
+  "It could be, however, quite around the corner. I mean, not far away, a few years perhaps. So, yeah, just keep faithful. We have a quick comm"
+ ],
+ [
+  18,
+  5190,
+  "ent and a quick question. Yeah. Actually, it's a bit late now, but I just wanted to add on the power thing that I think there is two sides. "
+ ],
+ [
+  18,
+  5198,
+  "Like, every time we say something, there is an opposite. And it's not so much that people want to stick to power. It's that there is also a "
+ ],
+ [
+  18,
+  5207,
+  "large group of people that don't want to take responsibility or they don't have incentives for it. So it's always like there is an opposite "
+ ],
+ [
+  18,
+  5215,
+  "statement."
+ ],
+ [
+  18,
+  5216,
+  "And other than that, I really enjoyed the talk. I'm doing an experiment on Friday, an a new way of coding and, like, starting a project with"
+ ],
+ [
+  18,
+  5229,
+  " some of those ideas, and Right. I'm invited to to join us. Okay. Thanks. Sounds amazing. Hey."
+ ],
+ [
+  18,
+  5238,
+  "Thank you. What do you think of incentivizing people with illiquid tokens or yeah. To run for elections, to increase political participation"
+ ],
+ [
+  18,
+  5246,
+  ", like to create their own political parties or to like give them these tokens to reach KPIs, like, the online reach of the parties that the"
+ ],
+ [
+  18,
+  5254,
+  "y created or yeah. Just, paying them again with these tokens to ask other people to write down their intentions to vote at specific dates an"
+ ],
+ [
+  18,
+  5262,
+  "d times in order to, yeah, again increase that participation."
+ ],
+ [
+  18,
+  5266,
+  "Well, like, alternatively, if this yeah. What do you think is the quickest and best way to, yeah, effectively increase this participation? Y"
+ ],
+ [
+  18,
+  5279,
+  "eah. I I would take an experimental approach, but, you know, based on digital ad ethics and we'd say based on"
+ ],
+ [
+  18,
+  5289,
+  "participants that have agreed with the experiments. So we we often do lab or online experiments to compare different kind of mechanisms and "
+ ],
+ [
+  18,
+  5300,
+  "see what works better, what people like better also. So that's not even very costly these days. On the other hand, I'd like to come back to "
+ ],
+ [
+  18,
+  5310,
+  "the the point of money, you know, like, I know many people want to be rich,"
+ ],
+ [
+  18,
+  5316,
+  "but honestly, I do hope that not too far from now, nobody would think and have to think about money anymore. You know? That would be for me "
+ ],
+ [
+  18,
+  5328,
+  "a real utopian future where we don't waste our time on thinking about how to earn money and how to spend it. You know? This is so old fashio"
+ ],
+ [
+  18,
+  5339,
+  "ned and outdated. You know? And then and some"
+ ],
+ [
+  18,
+  5343,
+  "of the idea of this money based system, you know, it comes across like, hey, there's even more money that you made, kind of appeals to greed"
+ ],
+ [
+  18,
+  5353,
+  " of people, but in fact, the idea is to kill greed by greed, you know. And how do I mean this? I think what is really important is to overco"
+ ],
+ [
+  18,
+  5363,
+  "me this utilitarian one dimensional"
+ ],
+ [
+  18,
+  5366,
+  "optimization approach, you know. Even though it may sound good at times, I think it's very harmful to the world and we need to have a much m"
+ ],
+ [
+  18,
+  5378,
+  "ore pluralistic system. And basically, multidimensionally destroys utilitarianism with this, the basic of the current financial"
+ ],
+ [
+  18,
+  5389,
+  "thinking and kind of profit maximization, nothing else matters, you know. So basically, this would allow everyone to contribute and be kind "
+ ],
+ [
+  18,
+  5402,
+  "of getting reward for contributions, but their own contributions. You would not have to first submit to an economic system"
+ ],
+ [
+  18,
+  5414,
+  "in order to then earn some money, to then live on that money and then be allowed to do what you want to do with a lot of restrictions. So, y"
+ ],
+ [
+  18,
+  5424,
+  "ou know, I really want to have financial freedom in a sense like in the end, nobody should even think about money anymore. That would be my "
+ ],
+ [
+  18,
+  5434,
+  "dream. And I love that as well. So like, would love a society like post"
+ ],
+ [
+  18,
+  5439,
+  "money where, you know, humanity yeah. Like, Star Trek, the next generation kind of vibe. But, like, in Romania, for example, we have, I thin"
+ ],
+ [
+  18,
+  5446,
+  "k, like, 50% of people voting, and you have, like, a core of people from the yeah. Old social democrats or liberals that basically it's, lik"
+ ],
+ [
+  18,
+  5454,
+  "e, 1,000,000 or so people and their families, they consistently vote, and then that's kinda the rest of the people that don't vote as much. "
+ ],
+ [
+  18,
+  5461,
+  "So, like, for me, it's, hey. It has not been going that great for the past forty something years. How do I attract the rest of the people to"
+ ],
+ [
+  18,
+  5468,
+  " also go and vote? And then I was thinking that, yeah, incentives kind of drive behavior and like how can I act like, what's my quickest and"
+ ],
+ [
+  18,
+  5476,
+  " best way of, you know, increasing that political participation? And like if you have any I don't know."
+ ],
+ [
+  18,
+  5481,
+  "I I think if people feel it really matters and their voice does or could make a difference, then they will be more active. And we have seen "
+ ],
+ [
+  18,
+  5491,
+  "that in the last German election where people got worried about the future of democracy and we had a record turnout where more voters than e"
+ ],
+ [
+  18,
+  5502,
+  "ver, and this is a good sign that even though democracy"
+ ],
+ [
+  18,
+  5506,
+  "seems to be crumbling, people still believe, many people, not everyone, but a lot of people still believe in democracy. And now that's make "
+ ],
+ [
+  18,
+  5518,
+  "it better, that's upgraded with digital means, you know, to serve us, to be able to make better contributions to the future. Thank you. I th"
+ ],
+ [
+  18,
+  5529,
+  "ink this is a good note to end on."
+ ],
+ [
+  18,
+  5532,
+  "Thank you very much, Dirk. Was You're welcome. A Thanks. We'll have five minutes of break and then start shortly after twelve."
+ ],
+ [
   20,
   0,
   "So good morning everybody. We have an echo here. My name is Uwe. I'm delighted to introduce you to Swiss democracy, more particularly Swiss "
