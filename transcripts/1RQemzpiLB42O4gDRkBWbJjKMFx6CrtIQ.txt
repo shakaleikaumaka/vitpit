@@ -1,0 +1,287 @@
+# Intro to Base Scale Math
+
+Date: 
+Source video: Intro to Base Scale Math
+Drive: https://drive.google.com/file/d/1RQemzpiLB42O4gDRkBWbJjKMFx6CrtIQ/view
+Duration: 01:03:19
+Transcribed: 2026-07-27 · deepgram nova-3 · PIT BULL harvest fleet v3
+
+---
+
+[00:05] Hey, everyone. Thanks for for joining. So this is an intro to base scale mathematics. Hopefully, we can have this a bit collaborative. In the write up, I I focused on the computer science aspects of this because I thought that would be something that would be general interest, and it was at the time of the cryptography conversations. So concepts like lossy and lossless, those I've thought quite a bit about with this
+
+[00:32] form of mathematics. But, yeah, in this presentation, I'm gonna focus on this artisan event and the aesthetics part of the the the what I did in the write up. But if you're interested, I can also touch on, like, tracing functions with with plural zeros. That's something that's different than this. But if someone's interested in that and showed up for that, I can definitely get into that stuff. So yeah. So if you're here for the computer science, just let me know and and we can have a discussion about that. Yeah. You are here for okay. Yeah. Yeah. Okay. Great.
+
+[01:05] Okay. Well, yeah, actually, so we can, yeah. So let's I know where we can go immediately into the computer science. So this is a artisan where we're, raising for the architectural. So right now, these patterns, they're two d. And what do they look like in three d and especially as as architectural pieces. That's in part because
+
+[01:28] historically, there was a mathematician named Vira Despinadell, and she was an architect mathematician. And she generalized the golden ratio with the metallic mean family. And that was what I was looking for in my computer science. But then by the time I found her work, I had done so much of my own work that her work was a piece to a more generalized puzzle
+
+[01:51] that was, in some sense, what she was looking for because it can be used for architecture. So for what she found, the area, shrinks too fast in in the index. But with this, it's a continuous index, and we can have the area shrink very, very slow. So yeah. Any and anyhow, so that's what this artisan is for is to explore the three d architectural possibilities first in virtual reality and then
+
+[02:16] also then actual architecture within these these these new kinds of crypto cities, smart cities that are forming. So we had predominantly right now it's in Costa Rica that people are interested in making buildings, Ecovia and, Medicamp, but also potentially on on Rotond and Honduras and potentially
+
+[02:42] more places. And, yeah, Zaha Hadid, that have a circular robotics factory on Roatan in in Honduras, they had a competition when Vera Despinedale passed away, to honor Vera because, Hadid even though she didn't directly use Vera's
+
+[03:05] mathematics again because it didn't have surface area for for architects need that math that needs to have some architectural, material to it, It was still an inspiration in the way of thinking about design. So they had a a celebratory competition. So that's just a thread. And so Max Medina, he's one of the people we've been working with on thinking about basic architectural design concepts with this,
+
+[03:32] and and he's involved in that in that community. So so even though Costa Rica, the villas are more interested, the actual architects and such that could potentially be the people that create the first design concepts, aesthetics based on this or that uses this at least, could potentially be more connected with with Hondros.
+
+[03:57] Okay. So here. Now getting into the computer science. This alright. Well, actually, let me stop real quick and and and explain about this this picture. Yeah. Of all of this? Yeah. How did you get started? Yeah. The
+
+[04:21] starting point of all of it was actually, Bellagy. You know Bellagy? Yeah. In 2013, long ago, while he was still a Stanford professor, he did a a MOOC, a massive online course, and was one of the pioneers in in MOOCs. It was startup engineering. And then in that course, he taught
+
+[04:45] SSH, bash dot file environments, and also what a framework is. And, yeah, that concept of a framework to make a a website to get a company going online. You know? Start up engineering from from a Balaji's way of of of doing things. You know?
+
+[05:08] Just way it went. So he said, yeah, whatever you do at the end of the class, don't make your own framework. And so then I after that class went and and started my own framework. And and so that took many, many years. And then I I was reducing the framework more and more into algebra. So the variables in just a, b, c just removed the opinion because it was it was messing with the patterns. I was just replicating
+
+[05:35] the same pattern over and over in in the framework. And so if there's a bloat, you know, that was happening and when I could just yeah. Computational reduce reducible, it was just, oh, let me think algebraically, you know, to to solve it. And then I I was watching Roger Penrose, and he was he he did he does the Penrose tilings, asymmetric tilings.
+
+[06:02] And that is how he sees mathematics so he can do things like black hole decay. And so at the core, it's information theory. And so that's the point of this. I the way my brain works, I'm I'm that really I'm great with geometry and and also music. So kind of the calculus of geometry, the movement of it. Like a fretboard is is physical
+
+[06:26] environment and and so much so is this and Leibniz says, you know, music is the subconscious counting and and so enjoying that, you know, all the all the symmetries and beauty of of it, you know. So so yeah. So I went, okay. I'll use tiling to to to
+
+[06:49] move to the next step from the framework, which is a kernel. So kernel the kernel I I developed is 200 lines, and it works on a a JavaScript level. And so when the script is being written in JavaScript, it's a bit different of a syntax than normal JavaScript and in part so we can weave it into the kernel over and over again.
+
+[07:13] And and just yeah. One of the people that I worked with or not worked with. Pardon me. One of the people who's an inspiration to me are kind of around the Bellagi time was Robert Heaney, a simple made easy. And so the difference in complect and and complex dealing with complexity and because the thing is extensibility, like, as it gets more and more extensible, the framework. So so yeah. So I was thinking about Heaney complecting
+
+[07:40] as I was as I was making this framework that was getting harder and harder with, like, namespace collisions, that kind of thing. So the kernel is is that that and so so yeah. The kernel for yeah. Let me jump into that. So this is more of the computer science stuff, but no. That's great. So I'm just going to open c and then I'm going into this
+
+[08:19] collection, which is the collection I do to test things. Come on. No. Okay. We're getting started. Yeah. Okay. So it's front end
+
+[08:46] test. So the the way I see NFTs is that as long as NFTs are being rendered in a browser, then the token that they are is a document object model. So it's that's what the most I mean, that's ultimately what it's embedded in because it's in a browser. And so it might as well just be a document object model. An NFT. Yeah. So
+
+[09:13] that's that's that's not the the the tiling math, the base scale math, but, I mean, it is, yeah, my my way of of engineering and and so that that's part of the math as well. But, so so an NFT. Right? Like, isn't what is the token? What is the token? A non fungible token. I does do any of you know of a token that isn't expressed
+
+[09:37] as a browser, within a browser? Yeah. Like NFTs, you know, like, you know, punks and stuff. They're all in browsers. Right? They're all in brow like, they're all browser rent like, what's rendering the NFT? It's always a browser that's run rendering NFT. Right? Yeah. Yeah. And and and
+
+[10:04] that's that's within the the browser. That's yeah, SVG scalar vector graphics is is is an HTML embedding. Yeah. Yeah. So I just think of NFTs as as their maximum as a as a an embedding. Yeah. So, like, this one right here, this actually, I'll I'll take a pause. And this is the this is the math
+
+[10:28] again. So I guess this shows how how this stuff's kinda intimately related. So if you go to this one, says, yeah, that's the front end test collection. And then this one is the number 16, and then there was number 23. So this one this one is the mathematics. And so I can then
+
+[10:53] or you can. What what we all can go here and modify this these numbers here. So this is this is the direction Vera went. So this is why it's not good for architecture because the first, recursion,
+
+[11:16] the it it you can't even see it. So let's have this go the other way. Let's just have this be 10, and let's see what happens there. So now it's decay. We can see it, the tiling, and it'll go for a long time. So yeah. So this right here, this one is an SVG. So if we look at it, if we inspect it. So, yeah, SVG. Yeah. It's an SVG.
+
+[11:51] So that's cool. So that's still the NFT is still a base 64, first JSON object because that's the metadata token URI. And then within that base 64, the application URI, the schema that OpenC people are are using, at least OpenC is using it. That then is another base 64, and that base 64 is an HTML object. And then, in this case, that HTML object
+
+[12:20] calls an IPFS that then includes the, SVG. And SVG does does calculation, so SVGs are great because they also are little Turing machines if if you need them to be, so for animations and such. So, yeah, just to go back to the kernel because we're getting into the math. So inspecting this one. So this one, because it does like, it calls the the wallet address.
+
+[12:48] It, OpenC even though it renders iframes, so it renders DOMs, it it doesn't allow same origin. Well, I'm gonna show you the current one in a sec. But so I gotta jump in here. And so this HTML object. Nope. Here it is. Okay. So the the funny thing sorry about all this noise in here.
+
+[13:30] Okay. So the the fun okay. So even though the document object model OpenSeed shows it on their website, they don't allow same origin because that's a attack vector. So that's good. They do that. Though, I hope they look at these static things and then they allow some of them for same origin. And it shows that they're they can do this intermediary job of of protecting the customer.
+
+[13:55] But, anyway, here, they they do still have to render the website. So they're still fully rendering the website. So I don't have to render the website at all. It's OpenSea and all these other NFT collections that then just freely are our website hosts. And, yes, they block the same origin, but you can just grab what they have to host at the baseline. See, so so it has OpenC's logo there.
+
+[14:22] Okay. Now I can show you the kernel. So this is on this is base 64 directly on chain, kernel, and this is this is not the kernel. This is config file.
+
+[14:48] Oh, no. This is the kernel. Yeah. So this is kernel. Wait. One sec. Nope. It's not the kernel. It just configurates everything. So read. No. Come on. Oh, I think it's in the head.
+
+[15:14] Yeah. Here we go. Here's the kernel. Apologies. It's been a while. Me grab my glasses. And let me zoom this up because it's obvious it's pretty hard to see, I bet. Okay.
+
+[15:45] Okay. So, yeah, so this is a kernel. So it's got a log function. It's got a sync, like a synchronized or a actually synthesis function. That's what that stands for. And then it's got a a a I think it's got a tie function. Anyway, it's not very big. You can look at it. And it's it's a very, very simple kernel.
+
+[16:12] And then the console. So here's what the kernel does. So then so that's at the the kernel and then write the script, JavaScript like you write JavaScript. It's just that the syntax is a bit different so that you're constantly weaving into the kernel so that every all the rest of the functions in the JavaScript are interact with the kernel or basically, yeah, the kernel is like a thread it's threaded through the kernel, which is really, really short amount of that's why it's kernel, like, you know, like on a hardware kernel. Like, all the rest of the code
+
+[16:39] is is woven through that short little bit of hardware kernel so that we've got all these different apps that run just seamlessly on a general purpose computer because of that that Rosetta Stone that the kernel does. So that's similar idea here. And, again, simple made easy, Robert Heeney, and then also Roger Penrose tiling to understand simple made easy, essentially. And that's the point of the the math. So that's what this kernel got. And then so this is the object that the kernel has. So just write normal JavaScript,
+
+[17:10] and then the object is is this. So if we run the script, then it'll update it's a tree, and it'll update the tree, and it'll it'll, every time there's a function call, it'll add to the tree, but then the tree can prune itself and such. So so then there's no namespace collisions in the JavaScript, and there's no framework. So we can start to have more and more complex websites on chain with very limited footprint. I did it for event driven stuff initially because
+
+[17:38] event driven is great for front end programming, but then it to make it extensible, it gets more and more comp complected. And so because of the frameworks and and all the SDKs and the bloat, like, Reacts and such. So this is a a way to to to to have stuff be to deal with events, but it turns out it's also a shorter it's it's much smaller footprint for low
+
+[18:02] data availability, which is is the case for blockchain tokens, which are apps. I'm saying tokens are apps. They're not punchable tokens. So okay. So that's the computer science. Now is that is that so yeah. So now I'll go into the the math. Okay. So here's a way to tie it together. I know that's really abstract, but the deal is like this this here
+
+[18:26] is, what I needed. The problem was that I my patent agent, I hired he's a laser at Stanford because he's comfortable with infinity math. So that's the underlying difficulty of making the kernel when I made it was thinking in because if you think about, like, just the actual tree, because this is a tree, but as an analogy, but it works really well, actual trees because, like, physically, they're very similar. If you got a seed and you plant it in the in the soil depending on this like, the weather it experiences,
+
+[18:59] depending on, you know, where you plant it. It it will it will manifest itself in infinite different possible ways that just that same seed. And then, of course, you've got all these different seeds themselves. So there's so much possibility in the space that it's it's overwhelming. And so, basically, instead of having these data stores that are I mean, you just have to accept infinite data stores, a bunch of infinite data stores. So how do have a bunch of infinite data stores? Well, that's what this is. So each one of these is a data store
+
+[19:34] in a finite space, but it's it's infinite because we can continue to just add a new cell, and and we never run out of space. So I I like doctor who, you know, he's got his when you open it, it's much larger on the inside. I think being, you know, on the top of the Alps and looking and you see a house and it's tiny little speck and you're like, and then you walk up to that house stone and, you know, you're in the house and cooking and stuff. So that's this. Right? We have such vastness in the universe actually that but within our field of of view, like, and so train tracks, you know, that are totally parallel.
+
+[20:14] They they have that vanishing point, so they look like they're intersecting. But but with this mathematics, this is they never do actually intersect. They just they get so small we can't see them. But remember, small is also at the top of the Alps looking at that house. It's not actually small then. It's just distant. So the difference between small and distant is, it's ambiguous,
+
+[20:38] at least in in thinking about tessellations and such. And and so we can use that as a Turing machine cell structure. So instead of having the ticker tape go this way, we should have the ticker tape go this way. And and, yeah, it's microscopic way down the line, but the point of these things is they're generating functions. So we can just pop in coordinate 1,000,000 and, you know, zoom there, and then we're at that spot. And then there's something in the far in the distance, you know, that's 10,000,000 away, and you can then zoom in there.
+
+[21:07] But we just know the finite space is this, and we don't have to worry. And then so the golden ratio does that. But and then Vira's work actually on the on the looking at how JavaScript is done with with nesting functions. I'll show that right now. That one is actually closer to that's why I was saying she she found what I needed and I found what she needed kinda thing because
+
+[21:35] Basically, what I needed was I needed even though that's good for JavaScript, that's just one function as far as, like, unique identifier, like, true unique identifier. The golden ratio is just one function that is finite with infinite within it. But I a a program isn't just one function. It's there's a bunch of unique identity functions. And so I couldn't just have the golden ratio because then I wouldn't have the variety
+
+[22:01] of of infinite store finite space objects. And so but Beer's metagamine family did that. It's just a natural number index. So then I I can just say, you know, function number 50 is this and function number 30 is that, But it it doesn't allow surface area. It's fine for it's great for symbols and and just pure numbers. But yeah.
+
+[22:36] So, yeah, about about at this one, it it it starts to get too small. So the second recursion is already hard hardly visible. But look at this. This is very much like a function nested in a function nested in a function nested in a function. It so that's that's why it's the same thing we're doing when we're we're nesting functions from the functions from the functions
+
+[23:03] as what's happening here with with Vir's work. And then so more more viscerally so there's some interesting mathematics here. This is basically saying the b side, just real quick on this this piece that's gonna be start to sell in in a few days as a collection on Artisan. It's saying that this b side, there's four of them make the a side. So this is the this is the special
+
+[23:29] scale symmetry that with that special property, scale symmetry with that special property where the b side here is equal to four of them is equal to the a side. And so when that's the case, this is the decay rate. So so this is exponential growth or exponential decay. Again, remember, this could be a house far in the distance. So we could think of this decay as actually, you know, us zooming towards something that's actually quite large. It's just far away kind of thing. So
+
+[23:56] or we can just go in the other direction. We can we can scale up. But this is the natural resonance of of that exponential rate. So this one that I have here, it's not that different in size, but this one is a Pythagorean triple, and so it's five six. So this is then five six the size of that one.
+
+[24:19] And and again and again. So this is the exponential growth or decay or whatever of five six. That's that's what what this is. So then we can look at three fours and other fractions as as their exponential. And humans aren't very good at exponential change, so this could if we teach and I'm working with some people through this program on on doing education materials starting with children all the way up to, like, college level.
+
+[24:47] But, yeah, at at the kind of just looking at this level that could people could potentially have be more intuitive understanding of of exponential change, especially that there's different kinds of exponential change. Another way to look at this is that it's the logarithms, but instead of log base two, log base 10 and such, it's logs between zero and one. And and so this one is log base five
+
+[25:10] over six. That one is a base where the b and a so the formula is c minus b over a. That's the formula for for this this ratio. And let me show the proof right now. Actually, no. We're we're gonna we're gonna construct the proof. I'm I'm not gonna show it.
+
+[25:35] Okay. Yeah. So logs are is that's that's on the on the college level. Right? So first graders can have this, but we won't harass them with logs. I don't know. When did you learn logs? Do you all know when you did people learn logs? Okay. Yes. Lincoln logs. Yeah. There you go. Yeah. Log rhythms. Log rhythms. They're just ways to work with exponents because this is this is the exponent
+
+[26:06] pardon me. So when you multiply it by the same number over and over again, then you can just call that indexing an exponent. So instead of saying this multiplied by this multiplied by this multiplied by this, you can just say to the zeroes power to the first, to the second, to the third, to the fourth, to the fifth. And, and the whole Fibonacci stuff, which does relate to this, that there's then the generating function. I'll just really quick show the Fibonacci generating function. I know that this is a bit of a
+
+[26:34] lot of stuff, but it's a it's a it's a teaser. Maybe more of an a mooseboosh than an intro. So in here so this is this is the Fibonacci sequence stuff. This is much closer to the bone with computer science because it's all linear algebra sequences
+
+[26:57] that computers are doing. The computational number line is not our number line. It's it's lossy. But so in these, there is, like, for instance, this one oh, it says expansion. Sorry. This one, g f generating function.
+
+[27:24] That's what that stands for. So these are the Fibonacci these relate to basically, so there's a Fibonacci pattern, like a Fibonacci sequence pattern, and that approximates all the natural number square roots. Like a like a Gauss approximation, but just using index of of of natural numbers at a ratio of those just however arbitrarily precise you want for the square root. You just if you want it more precise, you go to these big ones, these big numbers, and divide them by each other, and then you get approximation of the square root. So in this case, the approximation of this square root is
+
+[27:56] this one right. Square root 11. That's square root 11. Wait. No. Wait. Sorry. It is a square root of square root of two and then multiplied by
+
+[28:20] by other numbers. So in this case, square root of two multiplied by three. Square root. So in a Turing machine, like, with the computation number line, square roots are are kind of the big difference in computation number line because it that's a yeah. It'll just if if you have a Turing machine going on a computation on on a on a square root of two, it'll just keep on calculating square root two. It'll never halt. So it gets stuck on on on
+
+[28:44] the irrational numbers. And so that's why it's, that's why we need to approximate square roots and and such on the computation number nine because this is the way it it's lossy. And then transcendental numbers are even even more lossy. And the way I see them now is irrational numbers have this infinite. They have this. So that's why it's getting stuck because it's literally an infinite store. That's what it's landed on, an infinite store that starts, you know, within a finite parent.
+
+[29:09] And so so then, yeah, the transcendental, at least the pie that's using Thales' theorem and and that the proof will get to, hopefully, it is the the the it's the index for every single one of these. Basically, the logs between zero and one, all the numbers between zero and one. Thinking about normalizing data, it's all one over. You know? So
+
+[29:35] this is infinite, then that's an infinite index of these infinites. So that's why it's transcendental. So each one of these is an infinite data store. So a Turing ticking tape gets can get stuck in it and it's gradient descent so that, you know, AI has gradient descent that's and local gradient descent, it just goes like, it immediately just goes to the local. Well, that's why because it's this is the same thing. It's I mean, that's literally what this is. A little vortex
+
+[29:57] it gets stuck in. This is just testulating out that gradient descent that's used in AI systems. Yeah. So a thought there was, okay. Well, this if it's like energy, energy can go potential energy, kinetic energy, that kind of stuff, then that's what we can do in geometry because geometry from a yeah. It's fixated in some material, so it's gonna be electromagnetism and it's gonna behave like like energy. So so that was one of the theories I had is like gradient descent, which is something that is
+
+[30:26] scalar. We could then take that energy and then transfer that in another form from its gradient descent potential energy to its actual surface area material expression. Okay. So so, yeah, generating function.
+
+[31:00] So so yeah. So this is a generating function, and this is very, very special. So I'm not gonna get in in in too much detail, but it's a really it's yeah. You basically so for there is a trade off. It's special because there's usually a trade off between instructions and data. So for instance, this square root of two, I we can create an instruction to to, like, do a what is it? To approximate.
+
+[31:26] Let's say yeah. Let's approximate the square root of of five because that's so if we wanna if we wanna approximate this, so we can create a function approximating the square root of five, which is the Fibonacci sequence. And that'll approximate the square root of five. Oh, do you see there it is? See in the OEIS?
+
+[32:09] Here we go. So we can say this. We can here's here's the here's the So those are the instructions there and then and then or we can actually compute the data. And then so say if we wanted to get to f 19. Instructions for f 19, that takes a lot of energy. But if we just store f 19 as a data point, then that takes less energy. So, again, thinking about potential and actualized energy, that's that that this is kinda that where the difference between instructions and data. And that's how von Neumann machines are are structured. So our phones, all hardware is are von Neumann, and they they separate data and and instructions.
+
+[32:47] And this is a trade off between the two. So the generating function is really special because it's it's an instruction that you don't have to do an algorithm. You just tunnel. You just pop into into this number 19. So then you you have the efficiency of the of of the instructions
+
+[33:11] and you have the efficiency of the data. So generating functions are amazing. And how does it work? I don't know. But to to to publish in OAIS, they they made me tell them the generating function. And but I cheated because I don't tell them that I use Wolfram Alpha. So the AI told me,
+
+[33:36] it's still magic. Pardon? Functions inside of NFTs? Yes. Yes. That's yeah. Yeah. If you can ask ask. Yeah. Yeah. Please.
+
+[34:09] Hi. Okay. We are putting functions inside NFTs for create outputs. Wonderful outputs. How many space we have inside of the NFTs for create functions and have outputs? Not not very much. And I hear that's changing. And there's also l twos that could specialize in that kind of thing. But
+
+[34:32] the way I I do this is that there is the parent HTML NFT and then that it there is enough space for at least a rest call or what I want at ERC seven eight two seven call, and that's calling RPC instead of rest. But the one I showed you with with the SVG file, that was an IPFS call. So, basically, I yeah. I want it to be as much gateway calls where distributed ledgers
+
+[35:00] are but but we also REST calls are fine. There's enough space for that. And then we at least should have our our financial function. So Curve for like, I think the same day I was showing this solution, Curve had their DNS hacked and and replaceable. If they use this solution that they would have, at least for the parts of their website that the actual levers that are pulling the smart contracts,
+
+[35:24] those would still be all in the same rails as the smart contracts. Like, right now, the actual interface is a different rail system, the smart contracts. Like, fly by wire. Like, it's to me, it's from an engineering point of view, it's it's ludicrous. I said, I'm thinking in in video games, sometime our competitions that create a video game that you can put in the smaller amount of
+
+[35:50] storage space. And some people may quit sitting. So I see that and say, who can create video games and if it is that you can share and play with that? Like Yeah. I'm trying to find him. He's a he's a Mozilla. He's yeah. Here we go. This one. JS 13 games.
+
+[36:14] So this would yes. If if we can get the community energy together, I would then that is what I would do is I'd reach out to this community. Yeah. They did in 2024. And and Mozilla, so it'd be it's really tasty JavaScript then. Yeah. Okay. So
+
+[36:38] back to the artisan. So here, here's what Kaya got, this game. So I x'd it because Kaya got it. So
+
+[37:02] so here. Here's here's the this is the entire quit quiz or pardon me, riddle. This is an entire riddle, just this image. There it is. There it is. Just this image. So Kai got the answer to this riddle. Yeah. It's Mudeng. Speaking of, by the way,
+
+[37:31] if anyone wants a Mu Dang sticker, welcome to yeah. So stop by and grab one. Yeah. So does anyone know the answer to this this riddle? Again, one of our community members got it. One of the Zwits. I I put it up. Again, in Megazoo, no one got it. No one got it. So no no shame in it. 50
+
+[37:55] god tier developers quote unquote Megazoo. No. I got it. But at Zwitz, first day. What? Yeah. So does anyone else? Does anyone know what's the riddle? What yeah. This is the riddle. Do you right. Okay. So, Shaga, do you know? Okay.
+
+[38:19] So so here it is. So the answer is legal engineering. So yeah. So okay. Now you know the answer. Why do you think the at symbol is off, but that's fine. I I gave it to Kai anyway. Yeah. Why do you why do you why do you think this is
+
+[38:44] this the answer is legal engineering for this? So I've been saying Turing cells, Turing machines. Right? This is why I needed to find this pattern was for that. And yes, with with the pentelic mean family,
+
+[39:14] this is very much nesting functions. It's so I I got what I needed each I had each right. This is at each n is at its own index on a on a Turing machine. So then I basically created infinite parallel Turing machines, the way to look at this. Right? N one is one Turing machine, n two is second Turing machine, n three is third Turing machine. There we go. So now we created we got it with Vera's
+
+[39:39] math. Doesn't work well in architecture, but no worries. We already got it with with Vera's math. Okay. But it's still Turing machines. So the cool thing about my math is that we can express the Turing machine, yeah, also as a as a geometric, as not just as a symbol, but also with the surface area it needs
+
+[40:05] for this. So this is the decay rate. The decay rate here is the decay rate for one, two, three, four, five, six, seven, eight squares or eight cells. So what is eight cells? It's a byte. So what do you think the cell is?
+
+[40:34] Oh, your logarithms. What are what are the logarithms people use frequently? They fat they're in vogue logarithms above one. Or, you know, all the logs between zero and one. That's what this beautiful pattern is. But but what are the logs people use these days? Well, our decimal system is log 10 log base 10. Yeah. So we use decimals. With our clocks, we use log base 12.
+
+[41:00] Pardon? Base eight. Base eight? Yeah. We use base eight occasionally. But the one we use for computers. So if I just said byte, what is the log base we use for computers? It's base two. It's binary. It's true or false. So what do you so what the cell is here? The cell here is
+
+[41:24] is a, yeah, it's a bit. Yeah. It's a bit. So what do you think Mudang is represents if this is a bit and this whole line is a byte? True. True? Which Sorry. One more time. The whole line is a number. The whole whole line is a byte. What?
+
+[41:56] Mudang. Mudang. Yeah. Here, you want a Mudang sticker? Yes. Mudang is true. That's exactly right. Yes. Mudang is true and no Mudang is false. Here you go. Here's a here's a Mudang. Yeah. Okay. Yeah. So
+
+[42:22] so then what we do is we then go to the final thing we need to know is well, it's a it's a little bit tricky, but what when we have bytes,
+
+[42:45] then we can we have eight byte we don't we only need seven actually for ASCII. So we have eight bytes a bit or base eight. Yeah. And and here we go. So this is what Kaya did. As Kaya looked at this, looked at the the base. I don't see it here.
+
+[43:14] Let's find let's find the right table. Yeah. This table is not very good. Let's see if we can find a good table. One that just is very clear.
+
+[43:39] Here. So this table was the very first yeah. It's only seven bits. Yeah. So this ASCII table was the very first first way that we create a text. And so one of one of the principles in in my studies, you know, since Bellagy's
+
+[44:06] class two thousand thirteen is UNIX, UNIX philosophy. And UNIX philosophy has text as the universal interface. And so this is very important realization that the computer numb number line is all linear algebra sequences. And then how do we get to text? We we have have this this number system. So I'm not finding a very clear expression
+
+[44:30] of it with with seven symbol characters, but I don't wanna waste more time because we only have five minutes. So it just basically spells out l e. Right? So each one of these bytes is a is a letter. And we can see that we can infinitely just add more letters, so we have an infinite store of of of letters here. And so in this particular,
+
+[44:55] finite space, we've only spelled out legal engineering, but we could see just visually, we still have a bunch that we could have space remaining for bytes. So just, like, actually, practically for an entire byte, this is practically how much space we actually have. Like, this is the resonant. That that's how that's how fast it has to decay, for eight bytes.
+
+[45:19] So no faster. This is the Goldilocks amount it has to decay. So we still have this this many more cells remaining, you know, until it's difficult to see. But there's a practically, that's actually, like, how the physical information systems we have to comply with are is is this particular pattern since we're using bytes. Okay. So I wanna do the construction real quick. Hopefully, we have time
+
+[45:48] for for the the proof. So I don't know if we do, I think I'm I'm gonna actually just have to share it. Yeah. We don't we don't have time. So let me just share it. Here it is. Okay. So and actually maybe we can do this
+
+[46:55] sloppy way to to deal with it. Okay. Yeah. Okay. So the problem when when I'm I'm teaching this to people, just haven't had time to circle back is that they get confused about about this thing. So I'm gonna just fix that right now quickly. Okay. So if we take this and we duplicate
+
+[47:20] it, That's a yeah. That's essentially a square. Okay. Let's just make it a an actual square. Okay. So the golden ratio,
+
+[47:44] usually, the way we represent it is a square. And so then we take that square and we reduce it by 0.618 or just one divided by 1.618. So the golden ratio is 1.618. But remember, we wanna normalize the data, so it's between zero and one. So we do one over 1.618, which is golden ratio special. So it turns out to be 0.618.
+
+[48:11] It's golden ratio conjugate. So there we go. So there's that. Put that there. I'm a do a different color so it's easier to see. And we're gonna do it a again. There it is.
+
+[48:47] Okay. It's kinda nice that these edges are rounded because it kinda shows off how how these are actually two rectangles together. Or or there are also two rectangles together. Because it's a square. It's a tessellations. We can cut it up and move it around. We can play around. That's the that's the game aspect of tessellations. Okay. So this is oops.
+
+[49:12] This is the moment of truth. Is it the special ratio? If it is, then this should fit in perfectly here. It does. Okay. Great. So then we can see now that this parent shape here, this parent shape here is the same shape as, as this what I call cork in in here because you can add, again, infinite cells in here. So I'm paying to get
+
+[49:39] infinite energy is available. Okay. So here we go. So we know this is the golden ratio. So all we've done in this proof is we've we're recognizing and, again, that electromagnetism or fixating in in materials, it's electromagnetic, so it follows electromagnetism, which has its spin, and it also has polarity. So so we we take that to heart, and and we we think geometry falls that way as well. So there you go. So we put half of the golden ratio there.
+
+[50:09] We put half of the golden ratio here. See? So that's how we get that. And then we can do that with with this. Now it's spin. So I'm gonna so okay. Yeah. So the thing is the thing is with the golden ratio, what's special about it is if I do this and I rotate it,
+
+[50:35] it looks the same. Right? So yeah. So it's it's it's rotation invariant, but we've actually halved it. So now this is actually very different. And so then we move it over to here. And then this one goes over here, and then we continue with this oops,
+
+[50:58] with this. So this one's fine. It's the right spin amount, so we don't have to change it. But then this one is not fine. It's not the right spin amount. We spin it because the special property has a single spiral, the gon ratio that that is invariant, but having it as a double spiral, it then does become variant.
+
+[51:29] And then there you go. And so we can just do that infinitely. And again, the golden ratio is just one of of infinite. So this is one that uses pythagorean triple. We showed one the one that you can collect, an artisan is one that celebrates when a and b or b's a is four times b. And so, yeah, one of the reasons the algebra is easier. So in this, it's just c minus b over a. That's the formula.
+
+[51:52] But in in this one, the formula is two times b. And this this one is a is a single spiral, like like the golden ratio. So if we, for instance, if we have this also 10 oops. One sec. There we go. So so they obviously this is the golden ratio as a single spiral, but but it has to have two b.
+
+[52:28] So underlying that is when we have a double spiral, what we've done is we've put this infinite, point at infinity. We've we've we have it the same as the middle of just the parent rectangle of the parent rectangle here. So if you see the the intersection there
+
+[52:51] and there, it's the same. The intersection there and there is the same as as the decay. But we've got the traditional way of doing the golden ratio here, and we see that's a different one. If we have a single spiral, we have two different basically, if we think about, like averages, these things as averages, but just, yeah, different kinds of of, intersects. That's what I've called them here, intersections
+
+[53:14] that that that's more information to carry along than just just one, and then invariant. It hasn't this is this has this becomes invariant, whereas this has has variants, basically. Okay. So that's that's a lot. Oh, I just wanna just real quick final thing. So this is the semicircle. This here. So this is the the, radius, but it's also c.
+
+[53:40] This is b, and this is a. So we just showed that this is b and this is also b, because they're just split in half. So this down here is b. That's b, and we can see that the here's the right triangle that's seeding the golden ratio, and the right triangle that sees the golden ratio is a one by two right triangle. We see that the the longer side of it is the radius. So then we go down here. That's also the radius. So this is also c.
+
+[54:08] And we know that this b is also this here. So this is b. And then so we have c and we have minus b, and that's gets us this. So this is c minus b. Now to get the scale symmetry, we have to we're we're rotating. So then this c minus b is also the shrunken a. And so how do we figure out how much we have to shrink a? We just take c minus b divided by a, and that gives us something between zero and one,
+
+[54:36] and then we know what the scale symmetry is. So in in the case of a one by two by square root of five, then square root of five minus one, and then that's two. So square root of five minus one divided by two, and that is the congregation conjugate formula. But it works for, yeah, again, all right triangles. So all we do is we just move the radius along. So every point on the radius
+
+[55:04] is has one of these infinities in it, one of these Turing cells, basically. Okay. Final thing I wanna show is just a picture, so it'll just take a second. Is this right here. Okay. So this one this one is so the silver ratio is also used a lot in architecture, not just the golden ratio. Golden ratio is used quite a bit in architecture.
+
+[55:40] Silver ratio is used much more in in pagodas and and Asian architecture. So this is the East and this is the West. And both of them, interestingly enough, have that same rotational variance just in different ways. I mean, to me it's fascinating. The individualism of of the
+
+[56:03] the West and it's the single spiral that when when the square is invariant and then the dualism of the East and it's the the like, the yin yang spiral that that has the the square and variance. So square root of two, that's the the geometric series as well. So that one we we know has that property. That's how how it's shown in in more on the western mathematics. But, yeah, in architecture,
+
+[56:27] that it was it's been adopted by eastern architects. And then the Gon ratio as a double spiral, it it doesn't include that. It loses that in in variance to the silver, but those are the two. And then there's some fun stuff with the metallamine family as well, and there's lots of rabbit holes to get into. I showed this one here. This one's four fifths. This one's five sixths,
+
+[56:49] and our artisan fun one is a when b is, four b equals one a. So five six four b equals one a, and, and then and then oops. Sorry.
+
+[57:12] And then four fifths, four fifths, which is 20% decay. Alright. That's it. Thank you, everyone. Have a, I'm happy to answer some questions, but I know I'm over time. Thank
+
+[57:37] you for the presentation. Where did you learn about all of this? Like, I don't understand how you felt into this rabbit hole. Like, you mentioned some some books and courses. I I want to know more. I was completely lost, to be honest. Like, it's just but it's touching something interesting. So It's an Amous Bouche, not Malinator Art. Yeah. So
+
+[58:01] I guess yeah. I didn't show this. Where is it? This. So if you wanna go to so yeah. So I'm building curriculum. And, again, there'll also be some aspects of it that are for that people can actually just physically interact with. They don't happen to know anything about mathematics.
+
+[58:25] And then and then all the way up to college level stuff. And and I do believe it can be applied in many, areas. I'm we're first exploring architecture, but there's next. But, you know, I've applied it to areas I have applied it to. But if you yeah. So here's an example of some more, yeah, of this theory. So what we've been taught is that the irrational number is on the longer side of a of a right triangle, but actually,
+
+[58:49] it it can be on the longer side or the shorter two sides. So again, thinking about energy transfer, we always show square root of two as the diagonal, but but if this is the the diameter, then then the square root of two is is on the shorter sides. So that yeah. So we've got a bunch of of this way of seeing. And then and then I am working with someone who's also
+
+[59:13] focused a lot on it for psychology and and kind of self actualization stuff. So it I'm I'm excited about the kinds of aesthetics that can be built out of it far beyond what I'm particularly doing. But if you wanna stay up to date with with this whole new kind of world, just go to join.nohalt.art.
+
+[59:39] And that's the underlying, I guess, if you've one way core way of seeing that I I had different than traditional mathematics is I want something that doesn't halt, an attorney halting system. So for instance, if I fully reduce, then then it's halted. So I'd one before full reduction. So four six rather than two thirds. Like, two thirds is halted. Oh, we've gone too far. So because a local machine that's not that only knows its local
+
+[01:00:07] scope doesn't know that after four six, it's the end of the line. So that is actually a very different state than that machine then going into two thirds and then halting, Thinking about Turing computation calculus. So that's at the base of all this. So that's why it's called no halt. And then from an artist's viewpoint, that's why tessellations are so helpful because I can I can use my
+
+[01:00:33] imagination, the part of my my brain that is into aesthetics and such? So that's why it's nohalt.art. And then, yeah, just go to join.nohalt.art. And over time, piecemeal actual lessons, you know, that that focus on one thing rather than this this smorgasbord of of different flavors that are possible. Especially because,
+
+[01:00:56] you know, at the beginning, we had interest in in computer science at that so that that connection I mean, that's the more high level stuff, like college level probably. Yeah. You mentioned a book. I think it was complicated met made simple or hard made. What was it? Simple made easy. Yeah. So Simple made easy. So there's two the two things I referenced. If you go to my
+
+[01:01:26] GitHub, the best at GitHub, and you go to the repositories, this repository here, that right there, startup class dot files. That's Bellagi's course. So this is a fork of Bellagi's course. It's it's a bit old, but I still use,
+
+[01:01:51] an updated version of of Bellagi's for, course fork. So there's that one. And then and then there you go. Simple made easy. Rich. He Heikki.
+
+[01:02:15] Heikki. This is Ethel. So he's he's speaking about a particular programming language, so some of it is quite opinionated. But the the philosophy that he stated, the complex, that that word and and his definition of that word and how he used it as a philosophical argument is is, yeah, is
+
+[01:02:40] definitely what I I did I pursued. Yeah. Yeah. Yeah. Closer. Yeah. Alright. Thanks, everyone.

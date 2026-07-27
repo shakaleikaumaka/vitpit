@@ -478,13 +478,14 @@
     "id": "1RQemzpiLB42O4gDRkBWbJjKMFx6CrtIQ",
     "kind": "video",
     "size": 0,
-    "stream": true
+    "stream": true,
+    "hosted": "https://pub-3d88701638314a20ad2241ee26e6824f.r2.dev/audio/1RQemzpiLB42O4gDRkBWbJjKMFx6CrtIQ.mp3"
    }
   ],
-  "transcript": null,
-  "duration": null,
+  "transcript": "1RQemzpiLB42O4gDRkBWbJjKMFx6CrtIQ",
+  "duration": "01:03:19",
   "quality": "ok",
-  "transponder": false,
+  "transponder": true,
   "thumb": "thumbs/1RQemzpiLB42O4gDRkBWbJjKMFx6CrtIQ.jpg",
   "speakers": [
    "@bestape"
