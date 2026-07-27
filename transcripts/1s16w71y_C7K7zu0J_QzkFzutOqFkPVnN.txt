@@ -1,0 +1,365 @@
+# Cypherpunk Sessions
+
+Date: 
+Source video: Cypherpunk Sessions
+Drive: https://drive.google.com/file/d/1s16w71y_C7K7zu0J_QzkFzutOqFkPVnN/view
+Duration: 01:17:14
+Transcribed: 2026-07-27 · deepgram nova-3 · PIT BULL harvest fleet v3
+
+---
+
+[00:00] They asked me to talk about ideas to, you know, grow Switzerland and turn it into a hub. And, you know, if I had one hour, two hours, I would go really deep in that topic. So I have fifteen minutes. So it's gonna be more like a just a Zoom past. And then and also I'll talk about, the infrastructure we need, and this is what we're trying to build.
+
+[00:24] So I I'll just start if that's okay. So, you know, there's been a five thousand, year spiritual war since the origin of civilization itself. And if you look up civilization on Wikipedia, like anybody can go and do it, it would civilization is defined as,
+
+[00:48] you know, densely populated hierarchical settlements, you know, a ruling elite, you know, systemization, taxation, a lot of things sociology uses descriptors for civilization. But that civilization, what we understand as civilization
+
+[01:11] was one legacy in this Cambrian explosion at the start of, you know, the beginning of history, the beginning of written history. And, you know, the history that we learn in schools is is a history of, you know, the state of the state civilization. But there is but it but our history is not just a history
+
+[01:34] of, you know, the ruling power, the ruling system. But there's there's also another history, the history of democratic, you know, society of freedom movements. And, you know, freedom, you know, it's it's it's like a there's a struggle that's been going on for thousands of years, you know, with swings and reverberations
+
+[02:02] both ways. And, you know, we're here and we are freedom forces that are preparing, you know, to be there, to have the infrastructure, to be ready when that moment materializes. So, you know, for example, in Syria, when the Syrian government collapsed
+
+[02:26] in 2015 in the Kurdish areas and, you know, ISIS was coming, it wasn't that people randomly picked up guns and, you know, started shooting and made a revolution. That is not how revolutions work. There was an organized group of people that was able to come to people in society
+
+[02:48] and say, you know, here's a gun. Here's how you use it, you know, to give people ammunition, to organize people. But, you know, fighting a struggle, especially in a war situation like that, it's not just about fighting a war on the frontline. There's many other things in society because, you know, war is also about logistics.
+
+[03:11] It's about the education, you know, the the health care economy. All these questions which anarchists as the freedom forces have not really dealt with these questions in a meaningful way. So so, you know, so you go like, oh, who's this guy here now, you know, talking about revolution? And, like, just give you some context, you know, it was like,
+
+[03:38] you know, '20, '13, 2014, you know, I was there in the beginning, like, building cryptocurrency. Then I heard about the the revolution in Rajava, in Syria. And so I was, went over there. And that was, like, the beginning of a revolution. You know? And how is that situation is so intense because
+
+[04:02] everywhere you go in society, there's a sense of optimism, of drive. Everybody is is connected to one movement, to one cause. And, you know, there's like an aura. There's like an atmosphere in the air. There's momentum. So when it comes to changing things, when it comes to making change or bringing forth freedom,
+
+[04:26] fundamentally, it's a question of people and how people move together. The way that people understand revolution or what revolution is is wrong. Revolution is not tearing down the system. Revolution, if you look up the definition, is a period of great moral, social, and political change. It's basically an era where and, you know, it's like a quote from Lenin where Lenin says,
+
+[04:52] you know, you know, there are decades where centuries happen and there are centuries where decades happen, which is there are these flash points in history where things suddenly shift very quickly. So, you know, when we're talking about revolution, we're not talking about some new system that we're putting in place.
+
+[05:16] And in fact, you know, a lot of the old freedom forces of the last century, they sought they had a critique of the system. They sought to change the system, and they fell into this trap this trap of, you know, systems and positivism. But actually, our work is a moral and a political work. You know, we're not just we're not just trying to, you know, reconfigure
+
+[05:40] the balance of power. We're trying to create a new form of society, a future oriented society. So and and this is infectious. The more that you are successful in changing things, the more that invigorates people. The more people get excited. The more that things that seem really abstract become real and tangible. So, you know and, you know, when I was I was 16, I was, like, very young guy and I was, like, oh, you know, I'm into, like, you know, all these crazy ideas.
+
+[06:13] And I went into free software and I fell into this crowd of these, like, anarcho hackers who are who are squatting, spaces and making hack labs. And I went into these spaces and I was I was I was enveloped with all these, like, ideas. And, you know, that had such a drastic effect, like, psychologically. Like, I I saw that.
+
+[06:36] And, you know, it gives you energy. And, you know, we went around this this and and, you know, people are creating these spaces to work on political technology. That was the origin of the hacker space movement which, you know, the hacker space movement, they ended up, you know, taking the idea of hack labs which was originally
+
+[06:58] about using technology to politically change society, to, like, actually have an impact on society. And they took out that aspect and like, okay. Actually, it's just spaces to toy on technology, and it lost its power. And, you know, that's part of our fault. And this is something I I see all the time happen on repeat where activists, they would come together, they would mobilize, people would get excited, they would start to move, there's momentum,
+
+[07:26] and, you know, as things start to go a bit more forward, you know, people were like, okay. They didn't really have a vision. They never didn't have a strategy, a road map, you know, like this, you know, organization to achieve. They didn't they weren't even sure what the goals are themselves. And, you know, the later on, the anarchists, you know, that's when they,
+
+[07:51] you know, they made the, you know in in Barcelona, that's when they first got together and they made the CIC, which was a network of 10,000 cooperatives. And, that was that was the first time that, you know, I I saw anarchists for the first time. They were, like, really pondering questions of economics. And,
+
+[08:14] that's really important because, you know, you don't construct an ideology for a committee. You don't, like, come up with a vision with everybody going, oh, I think should I like, they're like it's like a fabric that's forming. In fact, people coalesce around ideas, you know, this and, you know, like a really good example for this place is the example of Bell Labs, which they had a vision and that really changed everything. They they brought together the smartest guys
+
+[08:46] and, you know, that was the birth of the Internet operating system, Multics. You know, they were they were really concerned with, like, the idea of a lot of the people there, if you see, like, what's his name? James McCarthy, who invented AI. He actually also invented the precursor to the Internet. And the reason why is he was like, okay. We need to
+
+[09:10] his idea was that computing could be like an electrical utility. Anybody can plug into the wall and have access to that. So these ideas were very prominent at Bell Labs, the idea of, like, connecting compute and, like, using that in society, you know, to socially change things. So right now, we're also a special period, and then we have to understand
+
+[09:33] this period we're in now. We're not in hundred years ago or whenever. We're in now. We're a transition point where the logic of the economy is changing. Old industrial era notions, you know, of mass mobilization of politics no longer hold power, you know, just the nature of as technology, as a driver has fundamentally changed things. And
+
+[09:56] with at the same time, there are all these other effects like the the inevitable breakup of globalism. The overarching world system has exhausted its potential for change. It's on the way out. Everybody wants to see it go. The third world nations who've been exploited, the first world nations who are at the helm of that. They're everybody's like, it's just unsustainable. And in this place, we're seeing the emergence of multipolar world.
+
+[10:22] You know, there's not a value judgment, but a multipolar world, it starts to bring more movements, more freedom movements in the cracks where power dissipates. And as a response, a lot of governments, their power receding will resort more and more to authoritarianism. This is the context we live in. And will you be there? Will you be prepared
+
+[10:45] when that opportunity presents itself? You know, I gave the example of Syria, you know, when, you know, the the regime collapsed. There's a power vacuum. People are racing to occupy that power vacuum. Are you do you have the means to defend freedom? What's that gonna take? That's gonna take a huge amount of, you know, new technologies, mobilizations, and our role is central to that. You know?
+
+[11:10] We are responsible as technologists to reinforce those freedom movements with, infrastructure. So, you know and this this is what we're trying to do with, you know, Dark Fi. And so, you know let's just go. So we really we have our test net. You know, it's just released.
+
+[11:34] So if you wanna help the project, you know, right now it's proof of work. And in the test net, anonymous dials, anonymous swaps, anonymous transfers, you know, generalized smart contract programming. Like, imagine, you know, an authoritarian government comes into power and they start putting your friends in jail and you are mobilizing
+
+[11:57] to support the cause of freedom, you need some way to communicate anonymously. It's it's incredible that billions of dollars, you know, and and decades later in cryptocurrency, people still have not built a chat app, still not have built everybody's using Google Docs. It's embarrassing. You know, like so you need a way to organize amongst your people that's censorship resistant,
+
+[12:23] that's anonymous. You need a way to form a DAO, anonymous DAOs that allow you to aggregate a treasury and to manage that collectively because in the because collectives have more power in the market than individuals. You know? And you need to be able to send money to, you know, exchange your OTC and to pay people, you know, to do your activity. You know? This is the infrastructure that people need. You know?
+
+[12:48] So, you know, that's some examples of the apps. And also, you know, this, browser based paradigm is dead end. It's a mistake. You know? The the whole point of the browser originally was people are gonna be shopping online and, you know, one click, but then somehow it's emerged that browsers are smart contract platform. You see all these old mock ups from the past, like, you know, missed wallet, and they look so cool. I like I was like, oh, that's what we were meant to have, but we never got it.
+
+[13:23] You know? And, also, you know, cryptocurrency industry is meant to be doing something new and generative, yet we're just copying the same, you know, dated, boring design paradigms of Silicon Valley. Like, what happened to sci fi? I was watching movies in the nineties, and I was like, wow. I really cannot wait to live in the future. Instead, you get these, you know, crappy JavaScript
+
+[13:52] delivery apps that crash and it's, like, disappointing. So, you know and the the third pillar is, you know, tornado cache, you know, how they got them. They had access to their internal chats. You know, the dial was public. Yeah. They had
+
+[14:18] yeah. So it's it's really important, like, all the infrastructure is completely deniable from the ground up that you are censorship resistant. And in industry that's, you know, focused on shortcuts, you know, and huge marketing budgets. You know, it's kind of it's not engineering to really change things. If if you're a privacy project and you're telling people, join my Discord, you're obviously not afraid. And if you're not afraid, you're probably not doing anything important.
+
+[14:52] So, you know, this sorry. I just I placed this, you know, global sovereign the global sovereign nation. This is a big project that we're all taking part in constructing. You know, maybe it might not even happen in our lifetime. Maybe we're just laying the groundwork for the people that come after us. But you know?
+
+[15:17] And I so I'm intro so anybody who want to, you know, go in after, you can chat after. So I'm gonna end there because I've got fifteen minutes. It's finished. Thank you so much, Amir. We're going to transition immediately into then q and a panel with Amir and other folks from Dark Fi. I'll let them take it because they're more smarter
+
+[15:45] than me, to be honest. Well, then in that case, do you mind answering question while we transition over? Or Okay. Yes. Alright. But I'm also around. I can just ask answer questions. Okay. But anyone if okay. Go on. One question. Go on. Kai. Kai. Hey. I wanted to know if the traffic
+
+[16:07] you're doing is is if it's obfuscated and prevents identification of use of suspicious blockchain, DarkFi usage. That is like it doesn't look like normal traffic so that to prevent people from Well, if you build all the applications anonymous, then you prevent metadata leakage.
+
+[16:32] So So yeah. Okay. Like, are you thinking of using Nim MixNet? We actually have we have Tor. We have Nim, TCP IP, I two p. Cool. And are are you thinking of going beyond the IRC and No. No. The IRC is just a front end. There's no it's not a protocol on the back end. It's just, you know, a lot of people have clients they can use they wanna use.
+
+[16:57] But there's an app there. It's not IRC. I I mean, are you planning on, like, going to GUI for, like, mass adoption? GUI app. Maybe I wasn't clear. Okay. But that's why I was saying, like because, I mean, I don't wanna get too technical, but we started building it in OpenGL. So it's automatically cross platform Windows, Mac, Linux, iPhone, Android. So that and then there's a plug in architecture directly in the app so anybody can extend it.
+
+[17:26] Interesting. Cool. Thank you. And now we'll transition. John will be moderating a panel on Cypherpunk. Test. Test. Testing. No. You're to talk as well. You should do it. I would like maybe people have more questions there for you.
+
+[17:53] Amir, Okay. Please join us if you I think Amir should join. Yeah. Go on. Go on. Thank you. And then John, we're gonna Yeah. Yeah. Mhmm. Okay. Hi,
+
+[18:27] everybody. Could we run through really quickly and just say who we are? So I'm John. Some of you have met me already. I'll be moderating the session from WEDF. Amiya has just given an amazing presentation. Rose, what do you do for? Yeah. So I'm with Dark Fi as well. I'm a programmer. I'm also a writer, and I wrote a text that
+
+[18:52] called Lunar Punk and the Dark Side of the Cycle, which like, I know you had a Solar Punk panel earlier, so I bring that up. Yes. So I'm Amor, and I'm Dark Fi art director. So yeah. I just do all the visuals and stuff. So you're responsible for all of the amazing stickers and swag and everything else. We just hello? Test.
+
+[19:15] The Dark Fi aesthetic. Oh, no. Was just saying we, amongst ourselves, discuss all the time about, you know, memes, narratives, and stuff. And, you know, with Benoit and he does all this artwork. So So to jump straight in, you spoke about flashpoints in your your talk. Think that's really, really interesting because people sometimes mistake the nature of privacy
+
+[19:42] as something that is about the individual and we want to put our lives in some sense beyond the reach of states and corporations and anything else. But you seem to be talking as if Dark Fi itself doesn't have a specific mission even though it has a manifesto, which maybe you would want to touch on. But rather you're preparing the grounds for providing the preconditions for the possibility of people finding
+
+[20:06] their ways to assert their freedoms and their liberty in this regard and to protect that when necessary, to increase the scope of freedom when necessary. Could you touch on the difference between a defensive resistance attitude to privacy, where you're just saying, no, Amazon will not have my purchase history, and saying, actually, networks are really important. They communicate structures.
+
+[20:29] A lot happens historically because of the work of networks and the flow of communication. And how you're architecting your solution to make sure that you're protecting that communication flow. Is that something you could elaborate on? I'm happy to answer first. So I think you touched on something very real, which is this there's an association between privacy
+
+[20:52] and individualism, and this idea that privacy is is somehow protecting the individual from the state. And I think that's that comes from the cypherpunk movement and its origins in American libertarianism, which is like fundamentally like, you know, focused. It's the the the subject of cypherpunk
+
+[21:14] and American libertarianism is the the individual. But Dark Fight and also, you know, like the the neo cypherpunks are try are trying to say that actually we need to expand beyond this limited scope of individualism if we actually want to like achieve like society level change.
+
+[21:38] So it's not by acting simply as an individual and having your, for example, transaction Amazon purchases private that that anything about, you know, the broader world can actually will will will change. It's it's just about being kind of comfortable and protected within the existing system. But what what's interesting about networks is that when the people work together, they have a, like, much greater
+
+[22:05] reach of power and and scope. So they their actions, like, resonate in a much greater way. I think, you know, in terms of, like, there's there's a lot of SciFi influence on these these memes that we have like cypherpunk and solarpunk and lunarpunk and so on. And with the cypherpunks, the influences I think it comes from cyberpunk.
+
+[22:29] And actually, the cyberpunk dystopia of you have a lone wolf who's like this heroic individual that's like isolated within this like hostile society. And them as like a as an individual is like, you know, demonstrates this terrorism and kind of becomes like this this, like, single rogue actor against the the force of the system. Whereas the solarpunk perspective is more like, no. We need to form like groups and, like that's where that's where the real kind of sovereign power is like, you know, manifests.
+
+[22:59] And so Dark Fi is generally speaking, we don't think too much about like the privacy of the individual, although that's like a huge aspect of that's an important aspect of privacy as well. But, you know, we're orienting our software towards, like, coordination and communication are like the two pillars. So that means, like, the chat app is actually the center of of what we do. We built it because we had no way to communicate in a in a peer to peer anonymous manner. We started using matrix,
+
+[23:31] but it was when we you enable encryption on large groups, it was very laggy. So it was disrupting our work. So we had to create our own solution, which is how we ended up with the chat app. Then we have, like, the DAOs. That was the second thing major thing we built. And the idea is, like, you know, we need we need to enable communities to operate a treasury anonymously, which didn't exist. And that also comes from our experience with, Assange Dao and the unique kind of issues I brought up, but I'll but I'll pass on to Amir. I think he has more to add. Okay.
+
+[24:03] As Rose said, freedom is not purely negative. A big part of freedom is if you imagine when you're walking in a forest, you know, it's dark at night and you're all alone, it can actually be quite frightening. But when you're with a group of people, it can actually be very fun. And you actually you you know, it's this is like freedom,
+
+[24:27] you know, towards something, to aspire to something, being part of, a greater will. There's something about that which imbues you with life, with force. And nature is about, you know, growth and expansion and driving towards something. And, you know, that's what we're trying to do when I talk about moral political society.
+
+[24:50] I spent years going to conferences talking about philosophy and stuff, and everybody was confused. And then they I was just like, oh, Lunapunk. And they're like, woah. Subculture. We have to also, you know, develop people. We have to uplift people. This is the biggest failure I've seen in Ethereum in, you know, all these conferences
+
+[25:12] where there's a vast amount of latent potential, and it just gets lost. It just gets sucked into corporations and wasted. Instead, we should have a pipeline. We should be training we should be creating the next generation of hackers, of renaissance, you know, hacker leaders. Because we're not just a subculture. We're a philosophy. We're something that's, you know, gonna
+
+[25:38] grow itself deep within a substructure of society. And, you know, democracy and politics are synonymous. Basically, what they mean is, like, the human activity that we engage with that we use to secure our needs, you know, our desires that you know, our security.
+
+[26:01] And this process of engagement in society transforms people. It, like, fashions a character of people that becomes individuated. So the actual structure that we create is not just that there's a structure that exists. This is the biggest lie of of, you know, the liberal view of democracy, which is the institutions exist to mediate conflicts
+
+[26:25] between individuals that have pre political desires. It's not true. People are transformed through life experiences, And self defense is a crucial pillar of, you know, of nature, of organism. Every organism in nature has a cell wall that it uses to defend defend itself. So we have an ideology which is is freedom society. That's what we're building this infrastructure for is to expand that, and that exists everywhere.
+
+[26:53] So it's the biggest constant that predates civilization itself. It's the natural state of humanity. Contingency is a really important factor here. I mean, we we don't rightly try to model reality and life and history and its course and its changes and vicissitudes ahead of time and then build a solution thinking that we can constrain the scope of freedom. It looks as if you're building
+
+[27:16] a precondition which is effectively leading people to exercise their freedom in particular ways after their own fashion according to the uses of the networks. Now here's a playful thought experiment. Generally, people will come back and say, ah, but what about the drug dealers? What about therefore, you know, horsemen of the infopocalypse and all of those things? What would you feel if if your network was used? Well, I'd say the morality between the rich and the poor can never be the same. Well, where I was gonna go with this actually was the following. It's that what would you feel if your your, you know, dark find, dark
+
+[27:52] CLI and everything else was sorry, I beg your pardon. Was used to develop the next range of enormously monopolistic corporate power and that was where this was done. Can I answer? I think my answer is probably different to Amir's and Armour's answer. But like I see I DarkFi is fundamentally it's a it's a technical solution. Right? It's a
+
+[28:19] it even though we talk a lot of politics and philosophy, I see that as they're they're like separate problems in a sense. It's very possible that Darkphi will provide a technical solution. And since it doesn't offer a real solution to social problems or, you know, philosophical problems in society, that that technical solution will be adapted to a form of society that we don't agree with. I think that's like a very, very, very possible,
+
+[28:46] which is why, like, you know, in in a we try our best to put a strong emphasis on philosophical, like self development. So it's it's small, but like we we we try to do every week or every two weeks a philosophy discussion in our chat. So, you know, we're we're trying to create a a community around the product, which is in some ways like
+
+[29:12] activated, you know, they're like they're they're they're they're they're read they're actively reading, they're questioning narratives, and, you know, they're they're critical of the the world that they see around them. And I don't think that this is sufficient to, like, you know, prevent, like, the adoption of Dark Fi by some, like, you know, something that we would consider evil or bad. I don't think it's sufficient in itself, but it does mean that the core of Dark Fi is like is in a way
+
+[29:39] has a degree of like ideological self defense. So like that's something we we try to nurture. But I'm not saying it's a it's a it's a solution because I I believe that that's that's not something you can necessarily solve with technology. I believe it's a it's their social problems, their, you know, moral problems. I mean, like, whenever people make these kind of questions, they're like in they're like literally internalizing
+
+[30:04] the morality of the state where they're like, oh, well, that's criminal. You know? But who's the real criminals, really, if we're really honest? Three million people died in Iraq for nothing, for absolutely nothing. How shocking is that? And suddenly, oh, you're making a freedom uncensored anonymous technology. What if somebody used for that?
+
+[30:27] I I think that's completely hypocritical. There's something really interesting. So Corey Dottrow wrote a really interesting book about seizing the means of computation. It's the the Internet coin is what it's called. And right at the very beginning, he says something along the following lines. He says there's something very special, almost unique about about digital space and computation that it's simultaneously the the arena in which we are
+
+[30:54] protecting our freedoms, fighting for them, and advocating, and also find ourselves surveilled and controlled by governments and corporations. The default is for people to feel that the Internet, in some sense, is this great threat, that it is the way the corporations and governments have any control us. But we forget all too easily, which you appear not to have done, That is also it's also how we coordinate our efforts and
+
+[31:17] develop communities and tactics and efforts to to Yeah. I mean, it's within technology, there's always been two legacies. Documentary. Yeah. And, you know, this was our mistake that we made when I the Internet was coming up. I was very young and everybody was like, the Internet is gonna change everything. Everybody will have access to the world the world's information is a fingertip. Everybody will become enlightened.
+
+[31:43] And, you know, that was our complacency that allowed that to happen. I give many more examples. The open source movement and free software where that went wrong. You know, the Soviet Union and its collapse, like you know? So it's like, these two legacies of technology, you know, the democratic versus the,
+
+[32:06] monotechnics, which is what Lewis Mumford calls them, they've always been, you know, trying to compete to shape technology. And it's it's very interesting that the technologies that are created are reflections of the creators. So this is why if the developers are just this slave labor that is enslaved by,
+
+[32:32] you know, corporate company I mean, think think about this. There is there is I mean, library of Alexandria. You know, why did the Christians come and burn it down? It's because these scientists with their ivory towers, they they they literally had steam power. They had electronics. They they had, like, you know, cryptography. They had really advanced
+
+[32:58] science and the potential to have an industrial revolution. And instead, they used that technology just to make toys to amuse kings. Meanwhile, everybody else in the outside in the countryside doing backbreaking labor, they just saw these scientists in ivory towers, and they came and they burned it down. When we learn that lesson of history, we're never taught that. We're always taught, oh, the darkness of Christianity
+
+[33:26] that came and enveloped the ancient world and burned down this library. There's a whole other side to that story, which is the technologists did not step up. Amazing. So in terms of darkness, if the technology is a reflection of the the technologists who create it, To what degree, Benoit, is the aesthetic of DarkFire a reflection of the technology itself? Why have you chosen to look the way you do and feel the way that feel sort of the way you do? And the reason I ask is that Tor, on the other hand, has been really distancing itself
+
+[33:58] from, you know, the dark side of the Internet, the nightmare evil twin, as Ben Collier calls it, of the dark web, throwing off the very term dark web and looking to erode that narrative. But it's something that you've embraced, but that was manifestly a conscious decision. Does that get decided? Well, I think that's well, I'm kind of interested in playing with inversions,
+
+[34:22] you know. And I think it's also like trying to redefine darkness and that's something that, you know, Rose talks a lot about, which is redefining darkness as a space of, you know, creation. You know, it's of like that's like where, you know, life starts essentially. You know, it's like in this in this primordial darkness essentially. So it's like a positive
+
+[34:49] affirmative darkness rather than, you know, fear. And so, yeah, I mean, and I I think that's also like, you know, like the the way we work on this is like this, yeah, this inversion. Same same when it comes to, like, working on, you know, like, being very colorful and expensive. So yeah.
+
+[35:13] Also, the the Western world is deeply connected to, you know, the concept of a shadow cosmology, you know, like Mithra. Another epithet is Sol Invictus, which means the eternal sun. But the sun is not eternal. It it dies and is reborn every day. So when they talk about the eternal sun, they mean like a shadow sun. They exist in a shadow cosmology.
+
+[35:39] It's why the Zoroastrians and the Mithraes and all the ancient mysteries of Greece were underground spaces, which were liminal spaces, which were interfaces between this world and the spiritual world. So actually the concept of the moon and the shadow is very connected to nature to, you know, western, you know, idea of future Prometheus.
+
+[36:03] So they're very they're very natural concepts. And it's actually this idea of the of the sum of, you know, monotheism, which is is a foreign idea to Western civilization, which is, you know, this idea of of the of the hierarchy of the state and the system.
+
+[36:28] Well, I I kind of was still thinking about the question. Can you hear me the question from before? I don't I hope you don't mind me answering that the second time, which was although, like, I can talk about that all day. But, yeah, it was you know, when I said that there's technical problems and then there's, like, social problems, I'm not trying to imply that technology is apolitical. I don't mean to say that. And I think that one way to judge I do think genuinely that technologies reflect the political biases of their creators.
+
+[36:58] And one way to judge a technology is to, like, look at its architecture and, like, see, like, what like, what are the, like, what are what are the organizational forms that, like, that, like, spread from this, like, architectural design, like, for like, very simple as, like, server client, like, model is, like, you know, obviously a, like, some kind of neo feudal system where, like, the server has, like, has, like, like, full domination and surveillance control over, like, all the users.
+
+[37:27] But in in the way we built DarkFi is that it's, a 100% peer to peer. We do have seed nodes, like when you enter the network. So like that's a point of centralization. But otherwise, everyone is running daemons locally on their machine and connecting and connecting with each other other daemons. Also, the code is a free software AGPL license, which is like one of the strictest free software licenses,
+
+[37:50] which means there's not none of this like MIT stuff. So anyone who uses our code also must have like license at free software. That doesn't protect completely against the corporations like stealing the tech, but like it's a little bit of a legal buffer or a legal self defense that we can use. And again, like like full uncompromising approach to anonymity, which is just underscoring like I think when you study dark five from a purely technical level, you can, like, understand this, like, all this ideology,
+
+[38:19] like, just from, like, the analyze analyzing the architecture and the code. Like, it's very plain and simple, like, privacy and anonymity for the people. What's so a couple of questions really. The first is why is anonymity at this time as terrifying to corporations and governments as it manifests years? Huge amounts of money are spent on trying to find final answers to
+
+[38:45] the exceptional access problem to encryption, finding back doors, seeing if there's a way not to break encryption and yet still break it, etcetera, etcetera. So on the one hand, what do you think the motive there fundamentally is? Do they even know? And secondly, are you fundamentally optimistic, human beings, that you believe the power of the individual individuals as a collective and networks are capable? I've been waiting my whole life for this period,
+
+[39:15] and I every day, I'm so thankful that I wasn't born in my parents' generation. We have the biggest opportunity of a lifetime to plant a flag in the ground and to shape, ages to come. Like, it's it's exciting. Why wouldn't you want this? Why are you afraid? It's gonna things are gonna change, of course, but it's exciting. Sorry to cut you off. No. No. It's I think my microphone's coming. But like
+
+[39:43] But there's there's a sense that, you know, we're each of us individuals among the biggest population the globe has ever had. Our lives are obviously you've spoken about history and war and, you know, historical calamities and and catastrophes. We're naturally bound up with a common fate and common destiny. However, it's also the case that potentially because of the technological infrastructure we have,
+
+[40:08] the ability that, you know, we have to create code of our own, that never before has human collective destiny been so bound up with the decisions of the human individual as well. Is that what you mean by the planting of the flag that we have despite the surveillance, despite the control, despite the disinformation? We have more power potentially than ever before to make a difference at scale for networks, protecting those, allowing them to work their own effects.
+
+[40:32] It requires moral, you know, epistemic moral maturity unlike anything has ever done before. It's a it's a remarkable time. Maybe you could talk a bit more about this and why that's cause for optimism rather than despair. I mean, this is where it kind of harkens back to me to the question about the dark fire aesthetics where, you know, darkness as like a space of potential and
+
+[40:57] also like Amir connected it to life and and nature. And I often talk about the forest as, like, a symbol of, like, multiplicities and the like a a hyper generative space where, like, just kind of the seeding of, like, new potential in all directions. And, yeah, I think I think that
+
+[41:20] we're in some kind like, transitionary period where you have, like, hybrids of, you know, this this this this nude attempts to I I don't think we're a 100% there yet. Like, we're I don't think we're it's it's like the the I don't think we're in the full flower, let's say, of this era, but we're in the early stages of something that is gonna end in, a large scale, like, paradigm shift.
+
+[41:48] And, you know, a part of that is, you know, all these new technologies which are gonna, like, reshape the nature of power. And also, there's the the kind of attempt to build like a new ideologies and philosophy belief systems that are like more adapted to this to this era. You know, like a lot of the old, like, mysticisms
+
+[42:12] and religious beliefs are kind of challenged by the, like, new awareness that we have of, like, you know, the the universe and, you know, like exoplanets and the possibility of alien life and the possibility of changing the the future of, like, humanities through gene editing and reviving extinct animals
+
+[42:35] and, like, you know, all like like human speciation at a on a massive scale, like, potentially in space, like in like, on different planets. And, you know, this is these kinds of challenges are are are gonna force us to create a new a new way of thinking. So, like, at the moment, I think we're in that early stage where, you know, there's a lot of, like, monastic experimentation
+
+[42:57] going on and a lot of, like, like, seeding of of of new ideologies, new belief systems, new future visions. And, you know, we're we're like, Dark Fi is one small part of that. Switzerland, all these network state projects, like, trying different angles on on a similar quest. So, yeah, I'm I'm I'm extremely optimistic, and I and I agree that it's an exciting time to be alive. The the problem is if we aren't able to develop a new spirituality
+
+[43:26] and human go humanity goes into space, it will literally just be like America and China nuking each other but in space. So to really, like, expand outlets, we're gonna have to, like, create something new. I have a bunch of questions, so I'll choose one.
+
+[43:51] What do you guys think from your philosophical point of view about transhumanism and its effect on this, let's say, freedom movement that's happening on the underground? Yeah. I I think I think okay. So there's a few things. For speciation to actually happen, like, for humans to, like, split into, like, it's like subspecies,
+
+[44:17] there needs to be a, like, large enough population that's actually, like, applying some, like like, transhumanism or gene editing or, you know, they made some change. It has to be big enough. If it's just purely, a extremely small number of elites and they're make they're making changes to their biology, but they're not necessarily
+
+[44:40] passing them on at on a large enough scale, then it it doesn't look like speciation to me. So I think for like, I I I'm actually excited by the prospect of transhumanism and and, like, human speciation, but I think it has to be done on a large scale. Like, it needs to be, like, a like a on the level of a population rather than, like, on like, small elites,
+
+[45:03] basically. I I think a lot of those guys, they're just like, woah. Tech. And, you know, they just but then it's not they haven't got any morality behind it. So it's it's good to be future oriented. You know, we don't wanna regress, but, you know, we have a vision of the world that we're aiming towards. Hey.
+
+[45:28] Love the sort of philosophical angles that you brought up. That's off topic. So do you think we can culturally resist the development and evolution that we're seeing with regards to surveillance capitalism? So for context, like the fact that Google the Google's products are not Google Maps. It's not Google Mail.
+
+[45:51] It's not even the users. The end product of Google really is the future behavior of people. That's the context there. So, you know, stuff like you're on Instagram, and Instagram knows better what is going on in your psyche. And people are happy that, you know, Instagram and Facebook knows that they like spicy salty chips, and they are happy about that, and they are fine with that. But overall, if you are able to predict the future behavior of individuals, you'll be able to predict the future behavior of society at large as well as movements and be able to put up a counter force to that. So I wonder how do you see that culturally
+
+[46:27] changing because currently people don't care enough about their privacy. They prefer comfort. Yeah. I I mean, I agree with you. I think it's like insidious and like very difficult, very challenging, especially when you have this issue, this straw man issue where privacy has just been presented as something for evil people. And so if you start to demand your privacy, it's very easy just to, like, dismiss that person as, a criminal or like a body.
+
+[46:55] And this is creates this creates a real challenge for for privacy when you actually you know, it's kinda has, like, anti memetic qualities. Like, it's like where it's, like, becomes hard to actually talk about pricing and to demand privacy. But I I I do recommend that book by Shoshana Zuboff called Surveillance Capitalism, where she basically studies like two parts of the book. One part is like journalistic,
+
+[47:20] looking at the business practices of Google, how that evolved, etcetera. The other part is very interesting looking at the ideology and how, like, this idea of, like, a control society walled into, I think Skinner was the name, how like, this idea that if you could create a utopia where, like, everyone's needs are just, like, perfectly balanced and, you know, there's there's no free will, but, like, there's no need for that because, like, everyone's so comfortable.
+
+[47:45] And this it was first proposed by Skinner and Walden too, he was a behavioral psychologist. He also wrote other books, But when he presented this in the form of utopia, people were grossed out, and they were like, this is a nightmare. And it was it was it was, you know, kind of unpopular. But Zuboff documents how it it went, like, quite rapidly to being, like, something that was accepted by people and and even something good. And a lot of people in Silicon Valley thinking
+
+[48:15] that sounds really great. Like, let's build that. That sounds like some kind of optimal society. And so, you know and she dot also documents how that was, like, slowly through narrative tactics and, like and a lot of, like, you know, pressure, like, from these, like, massive monopolies like Google that it was, like, normalized slowly and, you know, things like
+
+[48:40] this just the the the the continual expansion of surveillance was depicted as something that was, like, natural, like, the like like, just some kind of, like, natural evolution and that it was, like, you know, natural law, some something that was unstoppable and outside of our control. And it was just the nature of of of surveillance to just keep expanding And, you know, we just have to kind of accept it, and people have become very docile. And not only are you know, it's like there's a feedback loop where the they they get they're giving up their power to use these
+
+[49:12] platforms, and they're also becoming in that process, like, more disempowered. And it's like, you know, it's like it's like taking people's agency away, wearing them down. And I I I think this is all, like I I don't think I don't agree with the surveillance capitalists that this is, like, something inevitable. Like, I I think that it's something very difficult to challenge, but it's very, like, very, very fragile,
+
+[49:36] in fact. And that, like, through the, like, propagation of of technologies such as Dark Fi and other forms of privacy preserving tech. And through their adoption, we can, like, slowly, like like strip away at the at those power structures. And also that, you know, there's been a lot of work in the privacy community in crypto also about narrative and how to counter this
+
+[50:04] this idea that, you know, privacy is something forbodies, like something evil, and if you do privacy, it's wrong somehow. And so there's been a lot of concerted effort. You know, there's this whole privacy is normal narrative. I I have a critique of that. Like, I I don't I don't think privacy should be normalized in the sense that, like, I like to emphasize, like, the the exceptionality
+
+[50:28] of privacy and its rarity and its importance, but also its vitality. And I like to talk about things that I find interesting and exciting, like, you know, this idea of like the the the new societies that are popping up and that they require privacy to to survive and to actually have like genuine autonomy and sovereignty. That's what excites me. Maybe the privacy is normal narrative will win. And if it does win over like, huge numbers of people, it has my support. But the my point is is that there's many different groups all testing different narratives, all working on this. Many, many smart people, like like like trying to chip away at the surveillance
+
+[51:04] capitalism. And I as a result, I don't think it's eternal or unstoppable or or any of those things. Surveillance capitalism, it's it's a phenomena. It's a thing that exists, but we don't need to, you know, work against that, you know, as long as we're, like, strong working in, you know, what we are aiming towards. The biggest issue that I see is that
+
+[51:28] we are meant to be a force for freedom, and yet we've fallen into the same mental traps. Like, she mentions, BF Skinner, which contemporary with Skinner was Lewis Mumford. But Skinner, his you know, he started with these experiments with the pigeons in the boxes where he was like, oh, you know, it's more effective
+
+[51:52] rather than, like, shocking the pigeons to reward the pigeons. And that's a more effective means of control is through incentive. And they then took that experiment to the mental hospitals where they start issuing money and the money would be used to be able to sit at a more posh table, you know, to be able to get access to, like, more enjoyable activities.
+
+[52:16] And so they were able to use that to control the mental patients. And at the time, a lot of people when they saw that, they saw that as a dystopia, but then there was this emergence of this, like, fusion in California of the Californian ideology. Sorry, Californian people. I see you in the crowd. I know who you are, but just by how you look. But anyway but
+
+[52:41] We there was this fusion of, like, the hippie ideology and these things where people saw these dystopias, you know, another one like the Panopticon. They're like, woah. That's a really good idea. That's a way we can manage society. And this Silicon Valley mindset is why we have been inundated
+
+[53:04] with all these products, which rather than helping people to I mean, like, let's look at Linux. Right? Linux is a really good case study about this where when Linux first came out in early nineties, everybody was like, wow. You know, it's really innovative. You can do things with Linux you can't do with any other operating system.
+
+[53:26] And, you know, as, you know, free software got bigger, you know, people came along and they said to Stuhlman, look. We gotta take this to the next level. We've gotta compete at scale. And Stuhlman was a was a, you know, an idealist to the extreme, and he said, no. It's freedom. And, so they they forked away from him, and they pushed him out. And that was the open source movement.
+
+[53:50] And the open source movement, they started taking all this big VC money, and they started to grow big, started to become wealthy, which is like what happened in cryptocurrency. But along the way, they lost something. They lost their soul. And the big objective of Linux in 2000 was, you know, Microsoft Windows. We need to be Microsoft Windows but better.
+
+[54:15] And so what happened to Linux? Linux became just this project that was always playing catch up to Microsoft Windows and always one step behind. And then what happened? You know, iPhone came along and mobile phones have passed us by. And then Mac came along and passed us by. There has been recently a dawning realization
+
+[54:38] within Linux, which is, you know, Linux getting back to its core principles. Proprietary products like Microsoft and Mac and so on, you know, you have a commercial vendor. They develop the software, and the users are seen as consumers, as low this is what they see, low IQ normie cattle to be harvested,
+
+[55:02] to be taxed. They're not whereas Linux has a different mentality. Linux is about building infrastructure that allows communities to scale, you know, to become sovereign. And this is what's this the cryptocurrency, which was meant to bring a new paradigm, has has failed to has fell into that same mental trap of playing the same game,
+
+[55:28] which has actually lost its ability to effectively change things in a meaningful way. I mean, I have a lot more to say about this. I'm gonna stop. Yeah. We'll take one final two questions, and then you we'll speak for a few more minutes and then move on. My question is not just short, but it's also long answer resilient. So Star Trek or Snow Crash, which is more your vibe?
+
+[55:55] Sorry. I haven't read the Snow Crash novel. I've read Neuromancer. But yeah. I I have I've seen the Star Trek. My main issue with the I I don't like the aliens in in in Star Trek or Star Wars. But I I'm sorry. I don't know the Snowcache reference.
+
+[56:20] Is there another question? Yeah. It's also a quick one. Is there anyone or multiple people working at Dark Fight that are completely anonymous? And if not, would you think it would be a good idea? Yes. We we have fully anonymous developers. We actually use so we have our anonymous chat app, and then, like, we're working on NIM. But right now we do have, like, a tour support enabled. So you can connect,
+
+[56:48] like, anonymously over tour. And then we use something called CodeBerg, yeah, where you can create an account over tour. And so we allowed developers like, majority majority of our, like, commit developer community is fully anonymous and using Tor and DarkFi. So is that time for the panel?
+
+[57:12] Just to say that the issue with the aliens in Star Trek is and Star Wars is that they're too humanoid. So it's like like what actually would life look like in, like, other biology biological context? Like like, maybe you could argue that, like, there is a thing, I think it's called convergent evolution, that, like, maybe the the humanoid types would would happen at some sometimes, but it's not gonna be all the times. So I think it's a limit limited imagination to imagine the aliens look like us.
+
+[57:41] So just to wrap up, the one of the things that was said at the end, I thought was really important, and it was effectively taken hold of privacy space that people are really conflicted over how to represent the privacy question. And I loved the remarks about the way in which people are testing and AB testing the narratives. A few of them which are worth remembering because it's always worth pushing back on. One is that
+
+[58:05] privacy is normal when, in fact, it's actually anomalous given the way things currently are. It's a it's something that we would like to see more normal. The other is that privacy is a human right as if that shouldn't be something everybody is aware of and as if it somehow derives its importance from its status as a human right. That has always struck me as very strange because, in fact, it's a human right because it's so important, and we've lost connection, I think, with why privacy has mattered all along.
+
+[58:33] That is an empirical claim, and it's down to the long painful histories that Lesson has taught us, the sorts of things that have been touched on today in the panel. And just be wary of letting those narratives drift because they can have enormous consequences for everybody from, you know, politicians and regulators to developers and the fears they might have as they're developing technologies that could become the platforms that enable us to create the technologies of the future that give us the guarantees of freedom that we so sorely need as networks.
+
+[59:04] Thank you very much, all of you. Sue? Thank you. Thank you. Like, we have actual enormous power to change things, like, really make a big difference. If we just seat that territory, it's just wasted. It's lost. You know? So we should take that up. We like, people are suffering.
+
+[59:26] We can really improve things a lot, human freedom, etcetera. Thank you all again so much. We will transition directly into zoo and to capture. Okay.
+
+[01:00:50] Okay. Hello. Hello. Here.
+
+[01:01:44] Hello. Ready to go? Okay. Hello. Oh, my name is Zug. Hello. Very nice to be here talking to you today.
+
+[01:02:10] Wanna show a little bit of the work we've been doing in Blockful towards making governance more resilient. I know anti capture resilience, DEC, is something that we care a lot about in here, and how we govern ourselves really needs to take a look into that. Very quick intro, Zug doing
+
+[01:02:34] governance research with Blockful. We look at coordination as a goal. Governance is a path for us to coordinate better, and we see DAOs as very good experiments for us to learn how to do better governance. Truth is it's not very good right now. We see some of the best experiments in Ethereum, and we see that
+
+[01:02:56] some of those best experiments constantly fail at different points, and we're trying to learn why and how to improve them. And at this point in time, we're trying to find out how to make them safer. And the reason for that is because over the last ten years or so, almost $500,000,000 got stolen out of DAOs,
+
+[01:03:18] but not into a perspective of stolen as a security attacks on the code or anything. But with code behaving as it should, audited and safe, it was stolen or misappropriated or moved differently to the mission of the DAO or the goal stated true governance. This research we're doing, we found
+
+[01:03:44] two attacks in this last year that were open attack vectors and through applying this, we were able to help prevent over $150,000,000 to be vulnerable at those spots. And, well, that's what we that's why we're advancing this research to try to make this as clear for other DAOs too.
+
+[01:04:08] It is there's a challenge in it though because a machine to find attacks to prevent them can be used as a machine to find attacks to execute them. So we're currently in the process of finding out how to open source a good part of what we're doing. So if you have ideas of how to make a framework that could attack DAOs secure to be openly published, please reach us out. We'd love to know more
+
+[01:04:32] how we can make this completely public or if we should or if we shouldn't. We got to it by working over last few years into governance models, governance tools, governance design, every little bit around DAOs. We're looking at AI delegates and reputations. And when you look at AI delegates, AIs in governance,
+
+[01:04:55] you realize that if they are exposed to humans, they're not gonna last very long once AIs decide that that's easy money to take. We were as active service providers for Yenest DAO when we found the first signs that their governance were was not safe. They had very low, delegation amounts and even smaller than the voteable supply of tokens they had. They had even smaller activity.
+
+[01:05:21] We started looking to that scenario, what that could mean, and started realizing that there were some problems. For those who are not familiar, I'll go very fast with what's the compound governor model that they use. It's basically between a token, a governor, and a time locked contract, and a proposal life cycle. A governor's life cycle goes from someone that gets tokens, they buy tokens, or they get tokens
+
+[01:05:44] in an airdrop. They delegate those tokens to a wallet that gets the power to vote. That wallet, depending on their balance, is able to also propose or not. And from proposals, they can then vote. And through the time lock, that proposal will be scheduled and executed. On the ENS case, what we found is that the liquid treasury that we call is basically their
+
+[01:06:07] stables and their ETH, counting their own governance tokens, as that would suffer a lot during an attack. But that drainable amount was way above what was needed to take it. So it's simple methods. I put $10, I got a $100, that's a 10 x and there's quite a few of those available. But beyond, like, beyond that, not only the delegated amount, the voteable supply was small, but the activity was way smaller.
+
+[01:06:34] And in the market, you could see wallets that had more than that or more than enough to just go and drain. So at around $30,000,000, at the time with the biggest possible cost of attack to reach around, like, half the delegated cap, you'd be able to move forward to do that drain. And that's not only because of market conditions, but also of other parts of how the DAO is set up.
+
+[01:06:59] Those are like the governance implementation parts of it, the market conditions of it, and they're quite similar to constitutional constraints if you try try to start looking into DAOs and code as similar to constitutions, the rules of what it allows you to do. So other ways you could make this attack even cheaper would be through borrowing, ENS, shorting
+
+[01:07:21] in an open market just to reduce your cost or increase your profit, or even like by delegation from bribes even directly on chain or through a call. Beyond that, they had even more points of their governance that was very worrying. So a voting delay of one block, a voting delay is the time between when a proposal is created and the power for that vote is accounted.
+
+[01:07:48] ENS has currently still this one block voting delay, which gives no time for reactions. When I see a proposal, it's already ready to get voted twelve seconds later, not a lot of time to think about what to do or coordinate shareholders or investors or community to try to defend. And also, I can buy the tokens, make a proposal, and sell in the next block and reduce my risk here.
+
+[01:08:13] Also, they had no spam proposal, no defense against spam proposals, which could just lead into a war of attrition with a script, spamming proposals to try to get through with a way lower cost. Basically, the case led us to start mapping those two things that could lead to an easy attack. So a weak governance stack and bad economic conditions,
+
+[01:08:38] we cannot really look too deeply into the second one as something that would be stable, Either something on your treasury spikes or your governance token gets dumped. We're seeing a lot of volatility here for what could be defined, so we're focusing on understanding how to improve a governance stack and how to identify what it needs. What we did for ENS to solve this, not only identify was to put a security council in place, it just holds the DAO
+
+[01:09:06] safe until we can solve the whole stack of governance they use. Basically, it's a contract that allows security multisig to veto a proposal. They only have a veto power. They cannot execute and that expires over two years. So we also guarantee that they cannot over this security council capture the DAO in the long term. Basically, it makes the attack
+
+[01:09:31] not really viable. The amount of risk that you would have to take as a malicious actor knowing you can just get canceled just makes it not really worth it. We turned that into we found the attack. We solved the attack. And after we went to get a a security bounty, looking at this idea of getting retrofunded because really going to the data and saying, hey. You have a problem.
+
+[01:09:55] That's how you could be attacked. Let's solve it together. Wouldn't really do it. Right? And once you bring that into life, you're in a bad spot. And we were very happy to see, unanimous accept our own abstention, basically, unanimity to support us at that. If anyone wants to know more of that case specifically, it's in our mirror. You can read our mint. But just keep a little bit ahead to be sure we get in time.
+
+[01:10:21] The attack let us start digging more into a bunch of governance attacks. So over 30 governance attacks that we were able to analyze, look for patterns to try to create a standard that we can use to make more DAOs safe. It's a framework that's based on four vertical four verticals of analysis. Basically, we're looking to economic conditions, token distribution,
+
+[01:10:43] the governance implementation, and activity. Economic conditions is basically if it's profitable to attack. Recent clear example was Aragon that basically it was a risk free value. So you look at the market, you see it's a simple multiplication of how much money you have to put to how much money you have to take. They have also legal structure behind it. It was quite the debate for a while whether
+
+[01:11:10] what side was right, but that's not the debate. The idea here is to observe that the balances that they had in treasury in ad market made it a profitable attack to be executed. Token distribution, so where is the power and how accessible it is? One other recent example is like manual markets after the they had other problems with attacks,
+
+[01:11:34] but they had this more recent one where buying tokens from broken FTX in an OTC deal and using those tokens to vote a proposal for the DAO to buy the tokens back for you. So the profit and the weapon are both on the same piece. Governance implementation is looking at more details of how that governance is made.
+
+[01:11:58] There's a list of over 40 things that we're looking at when we're making a full analysis of a DAO. A few of them are vote mutability, your front end security. I'll have to speed up a little bit so not get into the details of that one. And governance activity, which was another recent attack on compound where the golden boys
+
+[01:12:21] had this this proposal, that is also available for you to read who was in Georgia last year. We followed that along, Walls Of Georgia was happening. And the way we're looking at attacks is understanding that how would we attack a DAO with unlimited and fin financial and technical resources, looking at its context,
+
+[01:12:43] looking how its governance works, what it controls, it's only treasury, is it protocol rules, what can it actually move to be an incentive? Because we have we normally look at Lazarus Group as this big hidden enemy and we have to assume that Lazarus already knows. Right? If you don't know your governance is not safe, someone gonna do before you do. We
+
+[01:13:06] assume that attackers are always creative, they're smart and they're well capitalized and we also have problems in our defense given, like, normalcy bias as one of the big issues for that. We very much see on, like, the space people thinking that buying 51% of your votes is how you you get a DAO attacked. It's can be very much cheaper than that and we see a few examples.
+
+[01:13:32] And for normal CBIAS, we see a lot of, oh, this is never gonna happen to me. My favorite centralized exchange is too big to fail and then suddenly you're all gone. So those are parts of what makes it hard to defend. More than once, we've come to a DAO now and say like, hey, you're not safe. We need to look into some matters here to go to a a steward, to a big delegate, to someone on a foundation,
+
+[01:13:56] and they're like, no, we're safe. We're gonna be alright. And we're just hoping they're right for now. And as Lazarus knows, so we have to know too. We're looking at accelerating and they capture resistance based on l two bit and what it's done for l twos that is not only bringing data, but also making the players accountable for their for the decentralization
+
+[01:14:22] in the state in the case of of L2B and for their DAO security in the case of anti capture. That's the platform we're bringing up. We're working with Uniswap, ENS, and now with optimism under analysis. We're looking at a stages framework in a series of risk areas that we are defining based on governance implementation and community metrics and market metrics.
+
+[01:14:46] It is for now a few composed data points and a lot of direct data points, so, token distributions and economic values. Very much invite anyone to go to anticapture.com and check it. And the view is that it's dangerous in governance. It's dangerous out there. So take this. We wanna make this public. We wanna make this open as much as possible.
+
+[01:15:13] We can't right now publish all the DAOs we're analyzing because there's some points that are just at high risk. So right now we have Uniswap and ENS public as we consider they are in a safer position to give people an understanding of what we're aiming at. We're looking at some solutions, alert risks, proposal alerts, upgrades to governor models, We're with governance audits. We did one for for Uniswap recently,
+
+[01:15:37] trying to increase the the defenses that we've seen in delegation and also starting to work towards a white hat attack fund as it's better if we're able to organize, attack, drain, restore than to wait for it to just disappear. We're looking at expanding the research we're doing. We want to adapt this beyond governor compound model. There's way like there's many DAO and governance models and we're trying to get to them all.
+
+[01:16:07] We want to help DAOs start resilient, not wait for a problem to arise to fix it. And we're very much welcoming anyone that wants to help us find the right questions, the right paths to do this. A few ways you can help us get at it is connect us with DAOs you think that need more defense with investors that are looking into governance tokens that might be interested in what do they want to know before they invest because people who do due diligence
+
+[01:16:38] as their job are quite good at looking at some of those things already. So learning what they're looking for and what we can provide to them can be very helpful. And, well, in general, get in the platform, give us feedback, tell us how to improve this, how would you you would want to see more data to know a Daudier part is secure or not. We're looking to make this as efficient as possible as soon as possible.
+
+[01:17:03] I wish we had time for questions, but we don't. Thank you, Amir. You here still? No? Okay. Thank you.

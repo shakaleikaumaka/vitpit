@@ -53,13 +53,14 @@
     "id": "1s16w71y_C7K7zu0J_QzkFzutOqFkPVnN",
     "kind": "video",
     "size": 2687403854,
-    "stream": true
+    "stream": true,
+    "hosted": "https://pub-3d88701638314a20ad2241ee26e6824f.r2.dev/audio/1s16w71y_C7K7zu0J_QzkFzutOqFkPVnN.mp3"
    }
   ],
-  "transcript": null,
-  "duration": null,
+  "transcript": "1s16w71y_C7K7zu0J_QzkFzutOqFkPVnN",
+  "duration": "01:17:14",
   "quality": "ok",
-  "transponder": false,
+  "transponder": true,
   "thumb": "thumbs/1s16w71y_C7K7zu0J_QzkFzutOqFkPVnN.jpg",
   "speakers": [
    "@Narodism",
