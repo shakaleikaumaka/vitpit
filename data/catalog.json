@@ -112,13 +112,14 @@
     "id": "1Z1t6-NzrhzpSWjeknKLkBQriLZUD2e1Y",
     "kind": "video",
     "size": 4386553296,
-    "stream": true
+    "stream": true,
+    "hosted": "https://pub-3d88701638314a20ad2241ee26e6824f.r2.dev/audio/1Z1t6-NzrhzpSWjeknKLkBQriLZUD2e1Y.mp3"
    }
   ],
-  "transcript": null,
-  "duration": null,
+  "transcript": "1Z1t6-NzrhzpSWjeknKLkBQriLZUD2e1Y",
+  "duration": "02:06:02",
   "quality": "ok",
-  "transponder": false,
+  "transponder": true,
   "thumb": "thumbs/1Z1t6-NzrhzpSWjeknKLkBQriLZUD2e1Y.jpg",
   "speakers": [
    "Vitalik Buterin (Ethereum co-founder)",

@@ -1,0 +1,535 @@
+# d/acc Morning
+
+Date: 
+Source video: d/acc Morning
+Drive: https://drive.google.com/file/d/1Z1t6-NzrhzpSWjeknKLkBQriLZUD2e1Y/view
+Duration: 02:06:02
+Transcribed: 2026-07-27 · deepgram nova-3 · PIT BULL harvest fleet v3
+
+---
+
+[00:02] Good morning. Happy Sunday. Good morning, Switzerland. I'm very excited to see so many of you so early. I hope you enjoyed the village tour. And yes. So we will be having today a very intense morning as
+
+[00:24] a specific part of the DIAG track as part of Switzerland. I'm here with four amazing panelists who I introduce from the left to the right. So I'm here with Pusha Olhaver, Glenwell, Vitalik Buterin, and Thomas Sorry. Stanket.
+
+[00:48] The last names, not so there. So and for this panel, we will throughout the entire day, we will talk about Diag, but also the difference of solarpunk and lunarpunk. This morning this morning panel, it's more on the solarpunk side and it's solarpunk futures. So I wanted to
+
+[01:12] start off with a question to all four of you. What where would you see the subtle differences on privacy between Solarpunk and Cypherpunk? And yeah. Who wants to take the first step? I guess I mean, I feel like Solarpunk and Lunarpunk are like the ones that really get like defined.
+
+[01:36] Right? Like, cypherpunk always feels like a like a much broader bubble. Right? And, you know, there there's always also this kind of like subtle mix between cypherpunk with a p h and cyberpunk with a b which is insignificant part meant to be dystopian. So it's like good to be careful about these things. But my
+
+[02:00] the the way that I generally understands that right is like Cypherpunk is generally about like using crypt technology is like particularly cryptography to ensure things like personal privacy, autonomy to enable economic and governance structures that can be secure and protected from
+
+[02:25] outside interference. And solarpunk is I mean, it's a combination of like sort of technological and social themes and aesthetic. Right? And they can in a lot of ways, you know, the aesthetic even came first. Right? And the aesthetic tends to be much more about kind of, you know, like back to the back to the land being being surrounded by nature,
+
+[02:51] having avoiding the downsides of, like, higher physical density, having a more collaborative economy and society. And I mean, look, within our circles, there's been an interest in, like, mechanism design ideas and technological ideas that can enable that kind of society. Right? So, you know, we talk things like quadratic funding, things like DAOs, things like retro funding, I think, and
+
+[03:20] deep funding, like various governance ideas tends to tends to fall into that bubble, but there's definitely a lot of people who understands that like those kinds of ideas very differently. Right? And and then, you know, the aesthetic side of it generally consists pictures that are often inspired
+
+[03:42] by, yeah, like, I think either kind of, you know, like, positive visions of cottage culture or Singapore depending on, you know, like, where you fall on that spectrum. So it will likely like, they all mean different things to different people. Yeah. I would would add to that. I would say, you know, solar punk probably, you know, some more emphasis on shared public infrastructure and an emphasis on transparency
+
+[04:07] and to kind of extend the categories here. Like, Lunar Punk is more of a, I would say, historically or chronologically a reaction to that saying, okay. Well, look. There's, you know, great for transparency, but there are also risks of surveillance and how do we have privacy. But I'd also like to introduce a third category, stellar punk, which I think which I which I introduced,
+
+[04:31] which is actually something in between solar punk and lunar punk that balances privacy and, you know, transparency for within social context and partial privacy depending on where your perspective is. Yeah. I mean hello? Yeah. I'm not sure these punk things mean a lot to me. And
+
+[04:57] I'm not particularly personally partial to like deep philosophical conversations in meme speak. So but I have every respect for those who are. But I would make a distinction between sort of a conception of privacy that understands it in sort of an individualistic
+
+[05:20] way and what I would call plural publics where the emphasis is on having a diversity of social groups and ensuring that they can both achieve publicity internally so that they all understand something together and that they can protect that shared public space from external surveillance.
+
+[05:44] And I think that's kind of what's going on here, I think, but I'm not totally sure. And yeah, I don't, you know, someone who's more up on the memes will identify each of those things with one of these memes But or yeah. Glenn, can I make the panel interesting and like, why ask a fiery question? Yeah. What is what is the distinction between the idea of plural publics and enabling groups to have privacy
+
+[06:15] from the outside but still understand each other internally and building technology that makes it easier to make conspiracies? I think it's pretty similar. Okay. Yeah. I mean I do think it's pretty, those are like not that different ideas and like that is kind of the natural sort of dark side of
+
+[06:38] the plural public's discourse. I think that there needs to be like I I think plural public's is like only one aspect of like what I think, you know, the world should be like. I don't think it's like a complete description. It's just distinction in technological affordances. And yeah, terrorist groups, conspiracies are all sort of like the dark side of plural publics. But like I'd rather be operating in that matrix and talking about that stuff because I think it's more relevant.
+
+[07:08] And maybe, you know, people think of those memes to to invent a way of talking about privacy into different ways that it is understood, like the privacy to be to be left alone and for nobody to to look at what's my life and what my actions are, and the privacy to participate in the in the public discourse to be able to express opinions without the risk of retaliation.
+
+[07:31] But then even even then when you when you split it into this like solar or maybe daylight privacy and and the lunar bank or night like privacy, is it that easy to say that you you participate in society like during the day, during the public speeches, during the decisions on on infrastructure and how to arrange the city? Are you actually participating in the society's decisions in the night when you when you're a bit more of a rebel and and you you just write on the forums and want to fight your battles?
+
+[08:03] And then do you do you go and participate in social life in the daylight or in the night? Some of this mixes, and I think it's part of the part of the future and just understanding where you put a bit more stress. Maybe to zone out a little bit from, like, the philosophical topic of Solarbank, Cyberbank, Lunarbank, and and all the definitions that are there and to understand the very individual understanding that people have.
+
+[08:29] Go touching on something you just said, Tomas, is if you have to point to one thing, what is, like, your biggest frustration at the moment about technology? And maybe, Glenn, you already touched on it before where you said, like, how does social coordination and civic
+
+[08:51] participation can be enabled technology? My biggest frustration about technology right now is that it's being used as a smokescreen to like basically destroy people's lives and and like, you know, possibly undermine democratic regimes in a bunch of places and like that that's pretty frustrating. Yeah. I would say technology is often being treated as an end in itself as a talos as opposed to a tool for for humans and extension of human coordination.
+
+[09:25] Mhmm. I would add the facts that often the the regions of technology that exacerbate like either those kinds of problems or even like things like concentrating power are also the types of technology that have the most easily accessible business models, at least in our current society? Yeah. I I don't have any frustrations about technology. Mean, like frustrations
+
+[09:49] of daily thinking about all the all the aspects of society and technology is one part of it that maybe makes things visible more or less. But that's that acceleration, deceleration, defensive mode, aggressive mode into into evolving and then checking how to avoid the injures is just ever ever existent and ever visible with all the technological progress and all the, like, society
+
+[10:14] explorations. So no rotations and just more more of an observant and I think it's definitely satisfying curiosity now a lot, like the the technological progress and ability to have discussions. I I actually have an extension of this point. Like, part of my frustration is technology today is this actual extreme and this extension of Glenn's point, extreme, like, individual privacy
+
+[10:37] at the expense of not capturing social contacts and contextual integrity and, like, the lunar punk is this is this not working? Okay. The the lunar punk the lunar punk impulse for individual privacy away from surveillance that actually does lead to conspiracies and, like, less accountable conspiracies amongst groups than if you actually do have, like, social context,
+
+[10:59] right, and some accountability within the group. And I think we kinda see that today, for example, like, in, for example, these, like, side signal channels, right, where groups who you know, having Lunar Ponk in individual privacy doesn't stop social coordination. It just actually makes it, like, less transparent and more opaque, and those participants who, you know, wield power do so in even more or less accountable ways that affect, you know, our political economy.
+
+[11:28] Thomas, yesterday, Vitalik and yourself, you have been had a very interesting fireside chat where you also went, talked a lot about autonomous models and AI agents. What's, like, your perspective on the role this yeah. Autonomous agents and and and AI overall will play in an advancement of tech.
+
+[11:53] So definitely exploration of privacy in this context is is important. I mean, in solar banks, lunar pack context, think, to keep the memes. If you if you have a drone that is just constantly flying over the city and trying to to participate and, you know, policing the city, how do you define the the set of rules that the drone tries to
+
+[12:16] observe and say that's like this this requires some intervention. Right? So we worry that those drones will be just observing us and saying somebody wants to protest, somebody wants to say no, whether it's in the daylight or in the night. We we can define the systems that will tell all of those all of those surveillance mechanisms to say there's only very, very minimal set of rules that we all agree on. But then how you even create
+
+[12:40] the fluid transition between societies with different set of rules. So I think building this AIs that are very independent, autonomous, verifiable within some broader set and always responsive to the to the localized set of desired laws is, like, the way to go. And maybe this is that Switzerland localization. So any any automatic policing system
+
+[13:06] any automatic policing system that is being introduced as kind of adaptive to the to the society that it's observing. And and some kind of only, like, really edge cases leads to disagreements where where individuals have the ability to just move away move away and the fluid lease flow into into different different legal systems. So if we can if we encode it in this like decentralized autonomous verifiable
+
+[13:34] human focused way, also adaptive and and also allowing always to escape or move in to to those jurisdictions, I think it can all work and and it can work in this, like, very automated AI context. So so to connect that to the conversation about PluralPublic and so forth and also Vitalik's work on privacy pools, one way I think about this is what I would call subsidiary accountability. So, you know, you may have a drone flying over the whole city and maybe there are some things that it's doing. It's extremely tightly restricted. There's all kinds of formal verification that it's not doing anything other than those things. But like in a neighborhood,
+
+[14:08] you know, that might in a in person setting be, you know, a focus of community policing, you might wanna have some other drone or CCTV or whatever that is monitoring things in a richer way and depositing that information not to a publicly available, you know, chain, but rather to something that is, like, you know, only available to that local community.
+
+[14:32] The same way that, like, if people are in the community, like, they might all hear if someone screams, but maybe there's sometimes when they wanna be putting on, you know, earplugs, but they still wanna be able to hear if somebody screams, but they don't want, like, everyone to know if somebody screamed in the neighborhood. They wanna be able to respond to it. So, like, I think trying to mirror some of the, like, texture of community, you know, information availability that has happened in in the past, but in a digital context,
+
+[14:58] you know, and also not purely physically local. There could be, you know, cyber security bots with similar structures for localized communities. Like, I guess that's kind of what I imagine. And then those communities having accountability to higher level if sort of the aggregate behavior of things like screams inside is leading to some problem detectable by by others. On
+
+[15:24] touching on what you said about building tech for for privacy and also enabling I I wonder often when talking to people not in the industry, How and saying, like, do you even think about privacy?
+
+[15:48] Do you think about what tech can enable or can protect you yourself? And for me, it's always shocking to see how few people even think and care about it and how it is now particularly more autocratic regimes or other or other actors when we touched on policing that are trying to use the limit of privacy as a form of control?
+
+[16:14] And where do you see blockchain and potentially also AI and agents enabling people to see privacy as a core value of human life? I think a lot of people make really difficult decisions based on their circumstances and environment, right, on on the privacy of it's it's probably a luxury to be able to safely trade privacy for a lot of technology
+
+[16:41] If you live in the environment where you where you feel relatively safe and and you don't have to execute actions that are rebellious because you kind of think that you're in in agreement with the society around you, then you can really get a lot of this acceleration is technology. But then as a society, we can easily get really worried about about the transition, like regime changes
+
+[17:06] when everybody feels safe and and gives up the privacy to the level where suddenly when when this, like, centralizing authoritarian actor appears, all that privacy is lost forever. Because very often when you share that information once, it's it's not going away. So I don't think that people necessarily, you know, avoid talking about privacy. Very often, they're just feeling very safe in in the environment and think that now it's fine. But it's like the
+
+[17:34] the inevitability of the future is like understanding all the possible futures changes, like how dramatic changes can be. It's it's particularly difficult and to incorporate into every single small decision on technology. It's it's draining. I'd also add that institutions often do care about privacy and that's often in a way that's very visible through their actions. Like there's often
+
+[17:58] organizational policies and sometimes laws that ban entire categories of common products and like the privacy consequences are often used as a justification. So there already are quite a lot of context in which all kinds of decision makers make decisions with
+
+[18:21] privacy in mind. And I think what we've seen is that if there are solutions that can protect privacy and then like they actually don't get targeted in the same way. Right? I mean, there there's always a risk because they get targeted for other reasons, but, like, not for the privacy reason. Right? So I think that's, like, another reason to just to to not despair in about the idea of, like, of of people not caring at all.
+
+[18:49] I also think in oh, sorry. June. I also think in order to make AI agents work and be effective in representing interests, I mean, then you do need some you need to think about privacy even if you're whether you're an individual or whether you're a coalition. And so, like, what is an agent? I'm a principal. I have an agent. I want my agent to be accountable. I don't want it to have more information and control over me than I have over it. That's actually a a privacy problem.
+
+[19:15] Right? And and the same thing is also true for making coalitions effective. Like, individuals, you know, we can all kinda try to be sovereign individuals and, like, end in moloc and discoordination, or we can band together in groups, right, and try to achieve our objectives together. And to do that effectively, we also need an agent which we, as a group, right, can hold accountable and we have more information control about it than it has about us. And that again is another privacy and that goes into the the plural publics
+
+[19:40] that that Glenn was talking about. I mean, I I think that's a big part of the problem and the reason why it's an institutional thing rather than an individual thing that actually works is that privacy is effectively a collective or public good. And the reason is that it is an individual good if you're one of the relatively small, usually subset of people that has something to hide. But
+
+[20:04] the thing is that if everyone treats it as a private good, it unravels because the people have the least to hide, give up their privacy, and then the next people have the least to hide among the people who still have privacy, and then they, you know, start being public, and and it all falls apart. And then the ultimate consequence of that ends up being not just that everything is revealed because when everything's revealed, it's kind of not that interesting anyway,
+
+[20:28] but rather that people are unable to communicate because they're now constantly thinking about being seen by someone else. Like, I I think most of what actually is ultimately valuable about privacy is not the thing that you hide, but rather the things that you can no longer do because you know that others are watching. So like, you know, I I live on a piece of land,
+
+[20:51] and I think what is the value of my privacy there? It's not like that I'm afraid someone is gonna like see some particular thing I'm doing with my kids or whatever. It's that like my kids can't run around naked in the house anymore because I know that other people are watching us. Right? And So it's not like they're gonna be scandalized by seeing a kid naked once. It's that like the whole type of behavior that is possible changes because it's now has a broader context
+
+[21:16] in which certain types of communication are just not possible. And I think that like that value of changing that context is such a tiny thing from the perspective of any individual, especially those who don't have something, you know, to hide. But the systematic effect of that is to like totally undermine a way of behavior or communication. And so I think it is a public good. It's not a private good even though it's called privacy. That's another reason why I hate the word privacy. I don't think it captures what you're after at all. So anyway.
+
+[21:50] Well, on on that note, I kind of wanna open up questions to the audience. I see one in the very far back and also two in the oh, here? No. In the middle there. In the interest of time, let's take all of the questions and just a question. You can have up to one sentence comment and then one question, and then we can use the rest of the time to respond. So
+
+[22:14] touching on what Puja and and Glenn said, if if we build a society and do you see the threat of this fallacy of using privacy tech to replace interpersonal trust to rely on tech at the early stages when we haven't even had the chance to build up a community as a fundamental value lines
+
+[22:37] community to to then decide on which technology use? I mean, I I think Wait. We're collecting take the question. We're collecting two free calls. But you can you'll be have the first. Hold that thought. So our topic here is DIEG. DIEG means basically integrating
+
+[23:00] the interest of individual with interest of the collective. We will also have the Lunar Punk guys here. I was hopeful that why is it the plural commons versus the evil Lunar Punk? Why should not both be integratable and why should not both be absolutely crucible to society and individual where and I agree with Glenn as he pointed out.
+
+[23:24] It's yes. I think Arseny also had you had a question? Of tech stack that enables the integration of solarpunk and monopunk and cypherpunk.
+
+[23:49] Any ideas on what's missing for that and how we build that coordination primitive of privacy for the for the collective, but also the coordination? I think there were three very hard questions. Do you remember all them? I'll respond to the first one. I don't know that I fully understood it, but I what I heard was, isn't there a danger to having tech substitute for human trust? And I think absolutely. I think this whole trustless thing is idiotic. Like I
+
+[24:20] think that that type of discourse is totally wrong, but there's nothing outside of technology. I mean like all of us live in a completely technically mediated universe. Mean everything here is techne, so you can't get away from that. So the question is how does technology or how could or should technology shape the way that human trust develops? Like one really surprising example I would give is like I think deepfakes might be great because now it becomes impossible
+
+[24:45] to like just take a picture of something and be like that is reality. Like now you actually have to have social context for things. And so that actually might help restore privacy. So technology is gonna do things to reshape norms however things go, and we can affect that some. And and it will affect the formation of human trust, but the notion that's gonna substitute for I think is idiotic. So Yeah. I I think
+
+[25:09] to to relate, you know, privacy actually supervenes on trust in some way. So another way to think about privacy is what are the what information how how do we agree? What are the valid and legitimate versus illegitimate uses of information that we generate together in conversation or as groups? Right? And the extent to which, right, that that line is will will depend on actually the amount of trust within the group. Right? So I actually think privacy is something that's like emergent from, right, trust within groups
+
+[25:41] and not actually a replacement or at odds with it. I think, I mean, to talk to the second question a bit, like one of the things that's I think like very correct about, I mean, like solar punk and lunar punk as being the memes, right, is that like day and night are not not like enemies that you're supposed to balance between, right? They're two parts of the same day and
+
+[26:07] that's something and so I think, I mean, if we will like having a functional society requires revealing information in order to be able to coordinate and it also involves not revealing all information and in some context having certain a lot of confidence that some information will be revealed beyond some particular
+
+[26:32] like boundary that you understand, whether that's just yourself or a particular group of people or you and your bot. Right? So like to me, these two things do need to integrate with each other and I expect some, you know, will definitely be disagreements in terms of like what makes, like what quantity of one makes sense in what context and even like in what direction we might need still like try to actively nudge for
+
+[27:02] public good reasons. But like I feel like everyone here does agree that like both are very important. It's like nowadays integrating this day and night solar pank, lunar pank. Yes. It's definitely possible. I mean, even even literally when you think about day and night, it's it's like temporarily you can move between the two very naturally and geographically you can keep flying and following the night all the time, I guess, if you fly fast enough. The question is with technology in the future, maybe maybe you'll start having actual debates of being able to you've seen those like startups promising the the sunlight in your house or sunlight in your city. Imagine that someone gets control over that and we have to debate whether it's the endless night or the endless day and are we only able to just escape it for for trouble?
+
+[27:55] So this is kind of debate I think that we have about privacy because we cannot talk about it in the in the sense of of day and night, but we do talk about it in the sense of privacy. We're being forced to choose between are we forced to to give out all our privacy, all our data, or are we want to live in this like privacy focused and almost no public debate as we said here that there's tension that if I if I cannot if if I start being worried even about what I can talk about because of the privacy aspects.
+
+[28:25] Amazing. Who wants to react to, like, Eila's question? Do you want to repeat it quickly again? Or or do you guys remember? It was about the coordination and the tech what should we build? Integrating Cypherpunk and Solarpunk. Yeah. I mean, we're trying to build this sandbox society where we can integrate the two.
+
+[28:47] We believe technology is an optimistic good thing, and we want to also protect individuals and defend their rights. Any thoughts on building that tech stack and the social coordination and how that might look? Yeah. So I'll so I think there's a lot of really cool social primitives that, you know, we have to play with and we're very early in.
+
+[29:14] And some of those are like non transferable objects. I think community currencies are really interesting and they actually inherently in their design negotiate privacy with individuals within groups nested within larger publics or plural publics. I'll be talking about that. I don't know. Glenn, do you have any I mean, I'd like to see group chats with end to end encryption and designated verifier proofs for forwarding.
+
+[29:39] So basically, you have some check on your ability to forward messages coming from the group. I mean, I personally, yeah, like just like the general idea of like Switzerland and the Zooverse, like building the tech stack as an entity. Like I think it's like there's a lot of benefits that you can get from having a kind of relatively holistic
+
+[30:05] context where you see know, communication, governance, and like other different ingredients all interacting with each other and you get to like actually see the consequences of different choices, like not just on how individual people behave but on the whole organism. So I'm really glad that that whole dream is continuing. One other thing I'd mention is end to end encrypted,
+
+[30:29] broad spectrum collaborative tools. So, I mean, there's a little bit of some Proton, but, like, it would be really great to have, like, Slack, Google, all intend encrypted versions. Okay. I think we're almost out of our time. I have a closing question to Vitalik mostly. As we're
+
+[30:52] this morning, it's all about DEAG. So I'm curious if we could leave us on a note where do you see DEAG in relation to Ethereum as a whole. Is it for your critical piece of Ethereum or something some movement totally entirely different? I mean, think of it even the other way that Ethereum is an important piece of DEAG. Right? I think DEAG is much more about
+
+[31:16] a collection of higher level goals and I think a significant to a significant extent and attempts to answer the question like if you were to have the kinds of goals that would lead to you creating something like Ethereum? And then like what would that imply toward like where you would want to see other directions of technology going? I mean I see I think in general like
+
+[31:45] you know, DEAC as a whole like needs to move from the, you know, just philosophizing phase to also more of an active building phase and ideally like active building with feedback loops. And so to me, yeah, you know, like Ethereum and, you know, the the zoo world can be a big part of that and hopefully we'll see that in, you know, the the cyber
+
+[32:08] and the info sphere and also in the physical world as well. Well, thank you so much. Can I have a round of applause for this panel as we are about to move on to our first speech for the day? Also, while we are changing here and setting up for the next speaker, you know that Aaron in the back, he has set up like a nice tea
+
+[32:34] tasting spot. So enjoy some good green tea and other teas as well as next to Aaron, there is like for those people who have not yet collected some of Switzerland swag. So that's also in the back there, and we will be ready to start soon with the next speech. If you're looking for the the WC, the toilet is down these stairs. And we'll get started in just a couple of minutes. Don't go far. Thank you.
+
+[36:37] Grab your tea and your conversation. Take a seat. We got more presentations from Glenn. Glenn, can you give me some check stuff from my slides. Hello. Hello. Hello. Please please sit down again.
+
+[39:00] We're about to start. Thank you. K. Thank you. Thank you. Amazing. Yeah. Should I go ahead? Awesome. Whenever you're ready. Awesome. Great. Thanks. So thanks for having me here. This is
+
+[39:28] is a set of thoughts about how to reimagine the sort of joint business model, user experience and recommender systems behind social media. And I think that, you know, there was a huge amount of enthusiasm for social media at its dawn about, you know, two decades ago.
+
+[39:52] And I think that that, you know, is probably most visible in its relationship to culture and news. So there was a feeling that media had traditionally been controlled by a small number of gatekeepers, that this was really reducing the diversity of content and sort of the participation in the process.
+
+[40:15] And social media has really opened that up. A lot more people are able to be heard by a lot more different communities, but that's not just true in like those kind of more visible aspects. It's also true in the way the social media has changed the productivity landscape. Things like GitHub and and
+
+[40:38] LinkedIn have broken down a lot of organizational silos that used to exist within companies, allowed people to collaborate more easily across those silos. That's kind of the organizational equivalent of the gatekeeper problem that existed in, you know, news and culture. And this aspiration actually has like a very deep history. There's a wonderful book called The Democratic Surround that I recommend to people.
+
+[41:04] After World War two, there were a lot of theorists like Margaret Mead and Ted Nelson who basically thought that the reason why fascism had been so successful was that, you know, broadcast had sort of an authoritarian centralizing tendency and that we needed to build like different kinds of media experiences that would get past this. So the term multimedia
+
+[41:27] comes out of that from Margaret Mead, the idea of like hypertext and a lot of these sort of Internet ed cultural experiences come from the work of people like Ted Nelson, and they've allowed like a lot broader range of audiences to sort of like express themselves and self actualize
+
+[41:50] than was possible in the kind of like leave it to be for Walter Cronkite universe. And the way that they've done this is they've tried to replace like a relatively small number of professional editors with basically a bunch of ingested social signals that are then algorithmically processed. And often the word algorithmic
+
+[42:12] sounds kind of scary, but like, you know, a very simple algorithm that can be used actually not that ineffectively to process this is like the number of upvotes that something gets. Right? So like that's just simple democratic procedure. Now, that's not actually the most effective procedure. It like runs into some issues and there are better ways to do it than that. But like there's nothing kind of like mystical about this algorithmic nature of the processing. It's just trying to use a much broader range of more democratic inputs
+
+[42:39] in order to organize content instead of having it done by gatekeepers. Now unfortunately, the algorithms that have been used have run into number of challenges. This includes polarization and the creation of echo chambers, and we hear about that a lot politically. But I I just wanna be clear, this is not about like politics or whatever. It's really a property of the technology and the experiences people have with it. This has been happening within churches. It's been happening as you probably all have noticed
+
+[43:14] within like crypto communities. Like there's, you know, there's a tendency to like set up the Bitcoiners versus the like, there's all these kind of like things that really have nothing to do with politics traditionally conceived that are just a result of like the dynamics of the way that the technology engages people. There's issues of dis and misinformation. There
+
+[43:37] are there's the sensitivity of these things to adversarial attacks. So there's a really nice set of research showing that like this idea of like the great firewall in China is like actually greatly overstated. Like, yes, there's a certain amount of like straight up censorship, but that actually like most of the social control happens through flooding of the environment with, you know, content or up amplifying
+
+[44:02] content or when there is a moment of social coordination, distraction attacks. And all of those things are sort of taking advantage of various features of the technology rather than just like cracking down on the technology. And of course, there's also, you know, partly in the mechanisms that are done to address these things,
+
+[44:24] the concentration of a lot of power in a small number of people who control various non transparent features of these algorithms. One recent thing that was reported on was that, know, many of the far right influencers who were welcomed onto X by Elon Musk when they said things that were not to his liking
+
+[44:48] ended up seeing their traffic go down by several orders of magnitude and getting demonetized. So like that gives you a sense of how things with brand promises around various properties of speech, etcetera, know, features that are used ostensibly to deal with disinformation or whatever problems can be used just in like pretty straightforwardly
+
+[45:13] authoritarian ways. And a final problem that has arisen from this environment is this notion of like social isolation, anxiety among young people. But that's not inevitable, and in fact, you know, there are places that are actually much more digitized than the places that primarily consume these tools
+
+[45:41] and yet have not seen these problems nearly to the same extent or in some cases, these problems have actually improved during the social media era. So Taiwan has come, for example, to be the second least polarized country in the world despite being by many measures the most digitized country in the world. And despite having a lot of really deep social tensions including
+
+[46:06] a three week long occupation of their national legislature. Japan has also been, you know, surprisingly resilient despite having a very digitized society in many ways, and they have a number of platforms that help scaffold this like Smart News. And I think people are starting to catch on to this, so
+
+[46:29] community notes on X was inspired by two things within the Taiwan environment, the poll the use of POLIS consensus based ranking system and the distributed fact checking COFAX ecosystem. And community notes has now become kind of like the gold standard for how to address these issues and is spreading to the rest of the platforms.
+
+[46:54] But community notes is actually a very narrow functionality. It's for providing context, know, for potentially misleading posts. It doesn't actually drive the underlying engine of the recommendations in the first place. It's not very central to the user experience and it plays no role in the business model. And so for all those reasons, it's like not really reshaped the fundamental nature of the social media experience.
+
+[47:19] And there's a really interesting moment that we have right now. I think that let's say that social media roughly started twenty years ago. I think this is the moment over those twenty years where it is most being disrupted and there's the greatest fluidity. There's the TikTok ban issue and what's gonna happen with that. There's a big exodus of people from x. There's the rise of a bunch of alternative platforms that Renee Rust has called the great decentralization,
+
+[47:47] and there's a bunch of court cases at the same time against these platforms, and because of the election and other things a lot of them are changing the way they're approaching content moderation, and there's the entry of AI into the system. Okay. So what would a better state look like if if things are getting disrupted, if they're fluid, where could we take things? So I think this is gonna be familiar to most people here,
+
+[48:12] but I just want to briefly talk about POLIS and vTaiwan as well as the engine behind community notes. So like the basic idea here is pretty simple, there's a notion of consensus across difference within a community, so basically people are expressing their opinions, opinions are getting clustered, and then things that find agreement across things that are across groups that are usually divided
+
+[48:40] according to a variety of different algorithms can be surfaced as things that are bridging. And this is related to one another one of the like most important movements. If someone could tell me how much time I have, that would be great. Ten minutes? Okay. This is related to one of the most important movements
+
+[49:04] along with what Mead and Nelson did in in the postwar era. So one reaction to the war was like centralization causes fascism. But another reaction is that actually if you look at long term metrics on polarization and disinformation, they were actually worse before the second world war than they are now. So those are like kind of the two local maxima. It was like the twenty years before the second world war and now. And
+
+[49:33] after Pearl Harbor, basically, there was a lot of fear that people were gonna blame The US's lack of armament and preparedness for the war on this and that all the media was gonna get nationalized. And so they convened this thing called the Hutchins Commission, which was set up basically what became the like post World War two journalistic ethics standards
+
+[49:56] that led to this period that people perceive as having been much lower polarization and disinformation. And and there's a bunch of stuff involved in that, but like the basic principles were that like you're supposed to put as news the stuff that people agreed on across the divides within society, and then you're supposed to like in a balanced way show the major opinion groups that existed in the opinion section. So like very simple ideas that are pretty familiar, but like this is actually what Polis and V type one are kind of doing algorithmically.
+
+[50:24] They're like figuring out in a user generated content democratic input environment, what are the different opinion groups, what brings people together across the differences, and like what are representative opinions for the opinion groups. But the problem is that like that's for a single environment, but the whole point of social media is that there's lots of different audiences. There's like your university, you know,
+
+[50:47] and there's like the Ethereum community, and there's, you know, etcetera etcetera, and the idea is how do you do that in that setting? One way of conceptualizing this is Georg Simmel's idea of intersectional identity. Every person is a part of a bunch of different communities, and your feed is gonna like be coming from all those different communities that you're a part of.
+
+[51:10] And this is a little bit like how in the, you know, analog world, you would subscribe to a bunch of different magazines. Like when I was a kid, our family would get like 10 magazines that represented different interests that the family had. And the idea here is that we could take the concepts underlying POLIS, but apply them algorithmically to a diversity of communities that are detected by the system. And in fact, systems are already doing this, so like the way that you do targeted advertising
+
+[51:39] is already that you like pick out communities that you want to target, but the thing is that's not made transparent to the participants. So the notion is that we could define content within a community by the things that are unifying within that like subgraph, and then you could up rank that content and then have someone within their feed
+
+[52:03] basically seeing content labeled by the communities within it which it's consensual and the communities where it's divisive, and where it's divisive you can, you know, click and see contrasting perspectives within that community from other points of view. And the idea is that rather than the customer for this just being advertisers, though advertisers of role,
+
+[52:28] a core customer would be the communities themselves. That they would pay just like there's payment for public media, there's payment for, you know, by Harvard University to print the Harvard University Press, you know, etcetera. There would be payment by the communities to up rank within their community members feeds the content that brings that community together or gives people a balanced understanding of that community,
+
+[52:53] and that advertisers might also value advertising in the context of such unifying content because it gives them a chance to speak to a coherent audience as a whole in a way that allows them to define their brand. Almost all targeted advertising right now is like go empty your shopping cart. It's like an individual purchase decision, but the most valuable advertising is not that. It's like Super Bowl ads that try to define a brand as being about sharing or as about independence and individualism or whatever,
+
+[53:20] and that is not really possible if you don't know who else is consuming the content at the same time. Five minutes or yeah. Okay. That's the basic idea. This can apply in productivity networks to help people form groups across organizational boundaries. It can apply in news settings to help deal with division,
+
+[53:43] and there's a lot of really interesting opportunities with blue sky that we're exploring. And it can also apply within cultural networks to try to create a sense of popular culture rather than you just being stuck to your phone and seeing videos that you find fun. You have a sense of like who's going to this concert with you or who's like into this thing, what's the subculture that it's defining lunar punk or solar punk, guess,
+
+[54:05] etcetera. Okay. I think I want to stop there, so I have time to answer a couple questions. Hey. How do you see the integration of, I guess, pro social media and things like cryptocurrencies
+
+[54:28] or Pooja's talking community currencies, these sorts of things? How what in your ideal sort of vision of the of these experiments, how would you see that integrating? Yeah. Didn't get to talk too much about the economic side of this, but the basic idea is that people would so when you create content that ends up getting like high ranked
+
+[54:51] within the context of a community, in addition to like any payments you can get, and we can talk about the financial side of it, you would receive from that community some like reputational currency. And then when you want to post into the context of that community so that people see it at all in the first place, and therefore you get the chance to get the ratings from people that will then lead to up ranking of the content,
+
+[55:14] you can stake some of that community currency and you'll get it back, you know, more than fully if it ends up doing well. But if it ends up being like, say, you know, unhelpfully divisive or not popular or whatever, then like you won't get that back. So the notion is like you have a community specific way to get things visibility in that community, and then if you sort of serve the goals of that community, you get, you know, that back with interest basically.
+
+[55:39] Can I ask a quick question? Oh, Go ahead. Yeah. So you you hinted earlier on on on these tools. Can you speculate for us on whether there's hope for them infiltrating more authoritarian regimes? You know, don't have the words You mean like like The United States or Male All of them. All of them. All of them. Yeah. So is there hope? Mean Well, mean I think that there's still access to blue sky in The US as far as I can tell, but, you know, I mean,
+
+[56:11] like I would love to see a project I've talked about is called Internet free world. So like, you know, there used to be radio free Asia, radio free Europe, they don't exist anymore as of a few weeks ago because of the decisions of some technology leaders, but I would love to see trying to create that environment
+
+[56:36] for Internet funded by free countries such as they still exist, And I'd love to see that have a hardware component that is, you know, satellite based and based on lightweight new receivers, but also a software component with cryptography using some of these things, and and we've been exploring that. But a lot of the traditional funding sources for that are not forthcoming now and we'll see what happens to that.
+
+[57:03] My other question about the governance of the algorithm and, yes, sort of a plurality of that. How do you envision making the black box less black and then also empowering the user to understand these highly complex things under under the hood, but still empower them to make a a deliberate choice of which algorithm they may prefer and any projects that do a good job here?
+
+[57:28] There's so much to say in response to that question that I don't think I really can do it in, like, a minute. I'd be happy to talk about it more. We talked about it in the paper. We're working on it as part of the project, but I I don't think I can give a concise answer. Sorry. We'll take two final questions, and then you can answer both, and then we'll move on. Hi. You talk a lot about the content and people watching content. But, like, before
+
+[57:54] recommendation systems were invented, I personally read content from people because of the people, my friends Yeah. Like, in Facebook or something. And the content was not the best. But I was reading it because of the continuation of the relationship with those people. And if I wanted, like, really good content of the top people, I read books. Yeah. Now it's kinda fucked up because
+
+[58:19] I don't really want content. I want, like, reconnection with my friends. Yeah. Do you think, like, why that happened and would we kinda come back or evolve to some other? I think that I think that the bilateral relationship thing is real and and has a role, but I think one thing that was really missing is that like people are not primarily about bilateral relationships.
+
+[58:42] They're really about social context. There's like groups and like, you know, milias, and a lot of those are hard to define. So like you don't just join a group or form a group, but they're like implicitly defined and that's why we ended up in this algorithmic content space. And so I think like recovering that would be great through making more transparent to people those communities that are being identified. My my question goes on a similar line. So when you were talking about communities, it was kind of making me wonder how you're defining communities.
+
+[59:11] Yeah. Because I found it helpful lately to think of myself as a large language model trained on x y and z. How are you how are you defining communities in this context? Is it like reading the same things? Is it like, yeah, maybe you might have said it and I missed it, but I would be curious about that. Again, this sort of calls for a longer answer, but I'll try to answer concisely. To to to me, communities are defined by common knowledge.
+
+[59:37] That's the idea. A set of things that everybody knows and everybody knows that everybody knows and everybody knows that everybody knows, so like there's a language community because everybody knows that same language, and they know that everybody knows that, and they sort of, like, have that common understanding. So, like, anyways, that that is the conceptual framework that I used to think about community, but to explain what that means and go much beyond that, I think would take more time than I have. Thanks.
+
+[01:00:03] Thank you so much. We're going to move directly into the next talk with Alice. One, two, 3.
+
+[01:01:48] But do you see anything? I can also if it if it helps to send to someone else.
+
+[01:03:31] Alright. I'm told I should start. Okay. Any, any, civilization fans around here other than Glenn who I saw yesterday playing on his the game. Yes. It mayors. Well, civilization as a whole also. It would be bad if if if only so few of us were here. Yeah. So
+
+[01:03:59] I guess I got invited to speak at this DIAC event, this is my speculation because at the time when Vitalik published his his DIAC essay, I was working at Convergent Research on something very related for for very related reasons. So I I thought that DEAC was was a really good rebrand of of a much older idea that that
+
+[01:04:25] I would refer to as differential technology development. I don't know to what extent that was an inspiration for Vitalik or not, but, you know, as I was young and naive, I grew up with this picture in my mind of the civilization tech tree where we look ahead to where we want to get and look at what's important, what are the key civilizational capabilities,
+
+[01:04:51] and then backward chain to today and look at the enabling factors, the technologies that can get us there and prioritize the ones that are going to take the longest, that are the hardest, that require the most coordination. And so the the prototypical example of where where I think this differential technology development
+
+[01:05:15] is concept is is is really key is in pandemic preparedness or or biosecurity, which was, of course, the focus of of Vitalik's essay as well. And at the time, I was working at Convergent Research, this meta science organization on looking for projects in in biosecurity. So starting with the observation that that
+
+[01:05:39] vaccines did save the day along with PCR and antigen testing during COVID, and and they're wonderful technologies. But if if you look at the the timeline of of the COVID response, like, we did have to wait wait a year for for the first vaccines, not not to mention the the scale up of production. Same with antigen testing and PCRs. It took hundreds of days to develop the primers and antibodies.
+
+[01:06:07] And we were pretty lucky as we were because there was a lot of previous research on on SARS, which had a lot of related properties with with SARS CoV two. So if you just look at the the r zero, the reproductive number of of Omicron, and think through how long it would take to sweep through a population,
+
+[01:06:31] it's it's it's it's really humbling and, like, the even the aspirational goal of of a hundred days to a new mRNA vaccine that that CEPI, a major organization in this space, is pioneering would would basically imply that that the pathogen sweeps through through the population. And, you know, lots of people are dead, depending on on how bad the pathogen is, it it could be substantially worse than COVID.
+
+[01:06:58] And, you know, as as I hinted, there's there's a lot more space in among viruses and and other pathogens that that we are not necessarily preparing for. Like, we're very anchored on on coronaviruses and flus because that's that's what we're we have most experience with. And, yeah, the the biggest probability mass probably if you are were to bed where the next pandemic is going to come from is going to be a flu. But,
+
+[01:07:24] you know, there's if if you if you just look at the pareto frontier of viruses in terms of their reproductive number on the one hand and and case fatality rate on on the other, like, becomes clear that that COVID was far from the worst that we could face or that we have faced indeed. So this is actually a graph from like the very beginning of the pandemic when there was uncertainty about the parameters.
+
+[01:07:53] It's overestimated the case fatality rate fortunately of SARS CoV-two, but if you look at places elsewhere on the Pareto frontier, there are pathogens like smallpox that combines like, tens of percent depending on various parameters, thirty to even more percent case fatality rate with
+
+[01:08:15] an r zero that's five or more. And we're heading to to a state where zoonotic viruses, that is ones that would infect us naturally jumping from animals, might not be the only problem because it so happens that you can make viruses
+
+[01:08:38] relatively easily just by stirring a bunch of DNA in culture and magically they self assemble into into a full functioning virus. And this has been done even with horsepox, which is a virus very close to smallpox, roughly the same complexity. It's actually
+
+[01:09:02] and this is like the upper bound the difficulty of synthesizing a virus basically. Box viruses have more than 100,000 base pairs and many of the damaging viruses have far less, COVID like was was less than 20,000 for reference.
+
+[01:09:25] But so they're going going back to the idea that we we would prioritize the technologies that that would help us win this race between, you know, with both nature and also the means of producing potentially deadly pathogens becoming cheaper and more widespread,
+
+[01:09:49] it would make sense to look at which technologies we could start building today that would protect us quite broadly against a whole range of pathogens, whether natural or man made. And there there is definitely like a portfolio of technologies that that we could be investing in quite heavily on on that front.
+
+[01:10:15] And the the one that I'm going to give as as a brief example is is far UVC. This is this is ultraviolet light in in lower wavelengths. This is something we've worked on at Convergent with with various organizations, including the Oslo project that is, is, quite close to to Balvi and
+
+[01:10:43] Blueprint Biosecurity that that is now continuing the work. Let me let me see if I can get the experts to introduce the idea. Hit the body with a tremendous, whether it's ultraviolet or just very powerful light. And I think you said that hasn't been checked, but you're gonna test it. And then I said, supposing you brought the light inside the body, you can which you can do either through the skin or in
+
+[01:11:13] some other way. And I think you said you're gonna test that too. Sounds interesting. Right. And then I see the disinfectant where it knocks it out in a minute, one minute. And is there a way we can do something like that by injection inside or very powerful UV light that you can use use to kill viruses. Not necessarily inside your body. I don't know what what troubles we're imagining there.
+
+[01:11:42] But more specifically, like you've probably seen UV used for disinfection in various places. Like it's quite common in water disinfection, works very, very well for both viral and bacterial pathogens, and it's actually often or not often, but not
+
+[01:12:07] uncommonly used in coupling with with ventilation where you have upper room UV in in wavelengths around 254 nanometers. There's upward facing and and you you in combination with with airflow, you can disinfect disinfect air reasonably well. And we've seen in COVID that that a lot of transmission was not only close contact, but also
+
+[01:12:37] aerosolized aerosolized virus across the room. So this this has been shown actually over time to to work very well, but but the technology hasn't been widely adopted partly because it's like, well, there's there's a lot of reasons. There's engineering complexity. The the heyday of this research was roughly at the time when
+
+[01:13:00] when penicillin started being deployed and and and vaccines started working really well. So people kind of gave up on the technology. But but I think that the engineering complexity is is a big part of it. More recently, it was found that in lower wavelengths or rather it was known for a while that that in lower wavelengths,
+
+[01:13:24] this far UVC 200 to to the to the 35 nanometers roughly, the UV radiation is is primarily absorbed by protein. What it means is is that a lot of it and the vast majority of it gets gets absorbed by the dead gunk on your skin and by the tear tear layer
+
+[01:13:47] on your eyes. So some physicists asked like, hey, maybe we could crank the the doses up quite high for for human exposure and and instead of instead of these lamps that are upward facing and only work with with ventilation, maybe we could have ceiling mounted lamps that that potentially even could address
+
+[01:14:12] short range transmission that is that is unclear, but but definitely could could have a higher impact even than than this than this air duct coupled upper room UV on on disease transmission. And the the reason why this is exciting is that being being a physics based technology,
+
+[01:14:36] it is something that that could work across across all viral species and even even new engine engineered pathogens to the extent that they use that they are based on protein and DNA. There is very good evidence that this is going to work reasonably well across
+
+[01:15:01] across viral species. The the exact parameters not not worked out yet. There are there are these small chamber studies and and room room size studies that that all show very significant reductions in viable virus in, in the air, depending on on the dose, could be after,
+
+[01:15:24] after minutes or after seconds. But I mean, they're clearly, is this is a technology that we should be investing in in terms of expected value in in our civilizational port portfolio and, you know, the the vision that people in this in this space have for for this particular technology is like, could we get it to a state of mature maturity where where
+
+[01:15:51] this safety against air airborne viruses is is where fire safety is today, where there are building regulations and and insurance schemes that that incentivize building owners to to install sprinklers and and sensors to to make sure that we're, you know, reasonably safe against fire.
+
+[01:16:18] And so I won't go into the the details of what I think the the bottlenecks and and and things to do in this in this space are. Suffice it to say, it's it's not really a single Gordian knot that that I think you can untie to to make this technology scalable. There is there is a lot of threads you need to pull in parallel.
+
+[01:16:42] And, if anyone is interested in in this, FireUVC technology in particular, I highly recommend checking the work of Blueprint Biosecurity, which is taking this forward in, in a much more detailed way. But I I want to talk a bit more abstractly now about what what the fact that sorry. Yeah. So just about just about the the the state where it's at and what it tells us about our incentive systems. So, like, basically, anything in pandemic preparedness, it faces this this problem of
+
+[01:17:19] this don't take this graph seriously. It was generated by GPT earlier today. But what what this illustrates is, there is there is this, like, sudden demand spike for, you know, vaccines, PPE, Even even there was some demand for for these far UVC lamps during COVID, but shortly after COVID, everyone forgets that there are pandemics and
+
+[01:17:41] and basically all the companies go under. This is this is an illustrative annual report from Ushio, which is one of the main main manufacturer of these Faribisi labs. These numbers look good, but they're from 2023. No longer so good. Yeah. So instead of the these expectations,
+
+[01:18:03] we, you know, face a reality where we're all optimizing sort of short term for how we can survive, feed our families and look cool and prestigious and so on. And, you know, people often say that, look, VC is funding is funding fusion companies. Surely, can't be so bad with our capacity to
+
+[01:18:29] fund sort of technologies for for for the long term, but I think this is kind of an an artifact of of this being a technology where you can capture value reason reasonably well and somehow the company is being able to persuade persuade VCs that they can plug into the grid in in ten years, which, you know, you can make
+
+[01:18:54] make your own own judgment on, but wouldn't really be the case if if the timeline timeline was longer or there there was some public good other than other than the r and d captured that that the company couldn't couldn't capture. And so in principle, we have this this amazing system in academia
+
+[01:19:18] where where we are funding individual labs led by led by PIs to do exploratory research, and it works amazingly well. Like, it it gave us these, like, early results on on FarUVC and and, like, mRNA vaccine proofs of concepts, etcetera. And it work it works amazingly well for this, like, breadth first shallow exploration.
+
+[01:19:44] But my former colleague Adam Marblestone really liked to use this use this picture from from the annual meeting of the society of of neuroscientists where where you get this, like, one to one mapping between the poster and and the researcher, which sort of really nicely represents how the system is set up. Like, you you do get small group
+
+[01:20:11] short term collaborations in in academia, but each each PI, each each lab faces this churn of of PhDs and postdocs, and you can only really work on projects where you have some citations visibly in in your in your time frame.
+
+[01:20:35] And so switching gears a little bit because this is a is a field where where I can illustrate the principles better to to connectomics, which, you know, you you you can have different assumptions about whether it's positive or negative from a dag perspective. I think the consensus is shifting towards positive, but
+
+[01:21:03] personally, I'm quite uncertain, but it certainly like has a direction. So what I want to talk about is connectomics, the idea that you would map the brain of first small animals and later mammals and then humans at a synaptic level that is
+
+[01:21:28] not only the single neurons and their positions, but also how they are connected together and build a large map of the brain. So there was this this brain initiative in The US that was launched some fifteen years ago, I think, by my current boss, Tom Collio, who who was at the Office of Science and Technology Policy at the time working with Obama that invested billions in
+
+[01:21:57] in tools to to develop these these maps of the brain and also also in the in the maps themselves. What it ended up running into was was this incentive structure in academia where if you if you ask the different labs, like, what are the tools you need to build to really scalably get to
+
+[01:22:24] human brains, they would give you a list of, like, engineering heavy projects if whether it's whether it's barcoding or or microscopy development that that would need to happen in order for us to be able to scan not not one brain with billions of dollars, but but, like,
+
+[01:22:47] many brains with with more, like, tens of millions or possibly millions. But these labs weren't really incentivized to to take on these engineering heavy projects, take on a long term five to seven year 15 to 25 person kind of effort. Not only incentivized, but they also didn't have didn't have the structure even if if they had had the funding to to pull this off.
+
+[01:23:18] So my former colleague Adam asked this question for for this particular problem, like, there there is a reasonably good mechanism in in physics to to solve these publicist problems where where the field gets together, figures out that they really can't make progress on on particle physics unless they big unless they build a really, really big accelerator
+
+[01:23:41] and and make make a case that that without this piece of infrastructure, the the field really is is stuck and and can't make a move forward. So just so that you don't all fall asleep and and to get a sense of how calibrated you are, I want to ask you about some numbers like how much do these did these things cost or do they? So any idea of of how much the Manhattan project cost?
+
+[01:24:11] Can be today's dollars, can be dollars, and can be percentage of GDP, order of magnitude. 100,000,000,000? Yeah. That's a pretty good guess. So at peak, it was about point 4% of US GDP, which works works out to some somewhere north of a 100,000,000,000 today. A frontier semiconductor fab for, like, sub seven nanometer with EUV machines.
+
+[01:24:37] Yeah. Order of magnitude, like, 15 up some some 30, but it's it's roughly that. The human genome project? Yeah. Three billion. Why why is it 3,000,000,000? Yeah. But but but but there was actually a reason historically. Like, it it was they wanted wanted a nice number, and and the human genome has has 3,000,000,000 bases. And and they were like, okay. We're gonna make it a a dollar per base. But that that was the the fundraising
+
+[01:25:07] fundraising approach. A single EUV machine for sub seven nanometers. Again, like, it's the the prices are moving, but roughly. Yeah. It's, like, 250, something like that. A million. Yeah. GPT-four training, rough roughly same order of magnitude.
+
+[01:25:32] What any idea of what what a typical, NIH grant in The US? This is the National Institutes of Health, and, it serves the the the One. So, actually, the the median is, is around 300,000, I think. Maybe it uh-huh. Yeah. Yeah. Yeah. And then you you you can you can crank crank it up to a couple of million if if you're lucky and have have a good lap. But but that's that's sort of roughly the the scale at which most most labs
+
+[01:26:05] operate, and and the time frame is typically, like, two or three years. A typical DARPA program. Do people know about DARPA and how it works? Yeah. 50 to 100,000,000 typically. There are there are sometimes smaller ones, but about that. So so Adam, my my former colleague at Convergent, asks us this question, like, could
+
+[01:26:32] we could we incubate something like a private ARPA with philanthropic money? Like, very very conventional funding source, no decentralized funding, but, you know, come come ask the high net worth individuals who are interested in science philanthropy that would instead of doing
+
+[01:26:54] decentralized or sort of coordinated research project like DARPA is doing that that outsources the r and d, incubate these very focused startup like nonprofits that would have a longer time frame, five to seven years, 15 to 25 people, 30 to 50,000,000 in budget to to fill fill this niche of of
+
+[01:27:20] engineering heavy engineering heavy projects that just can't happen in academia and and can't be funded privately because either the the end product can can't be captured on the private market or the time frame is is too long. And he called this concept the focused research organization. This
+
+[01:27:44] is an old slide, but I I would prefer Frodo because a lot of them are development organizations. So this will be focused research or development organization. And, you know, 50,000,000 is is could could seem like a large or small number depending on on where you're coming from, but but I think the best way to think about is is is this mid mid scale science that sits between the NIH grant
+
+[01:28:10] and and these large projects like the human genome project. And obviously, like, you don't don't find the money on the street, but but Adam was able to to press persuade some philanthropists to to test test out a couple of pilot projects of of this type and and start this organization called Convergent Research and, you know, has has a reasonable traction over the last three years, incubated around nine of these
+
+[01:28:38] projects that are too complex for a multi lab collaboration and too big for a single academic lab and bad as startups. So the first one, the reason why I talked about connectomics, e eleven bio is sitting in in Alameda and and working hard on developing these these barcoding and optical tools to to get us to scalable
+
+[01:29:05] scalable brain mapping for mammalian brains. There are now many other ones in other fields, single cell model model organisms proteomics, high throughput drug screening. But, you know, this is this is a very specific type of organization, I think. And and I was at Convergent. I was sort of trying to use this hammer and to to find find the nail. But
+
+[01:29:30] bigger picture, we need many more organizational funding experiments of of this type and and see which ones actually work in practice. Currently, work at Renaissance philanthropy, which is a bit more agnostic about about tool that we're using and among other things, my colleagues are trying to develop these playbooks for different problem solving strategies for when the incentive structures
+
+[01:29:56] in equity management industry aren't aligned with where we want to get. And we work closely with with ARIA, which is a new UK civilian ARPA type entity. K. Looks like the last slide. Alright. I think I'll I'll leave it here. And questions? There's a question. Hey. Great talk. I think you see you're mentioning here a lot of, like, private funding, philanthropic funding for research, and also, of course, like, governmental funding through DARPA, etcetera.
+
+[01:30:31] Obviously, the history of R and D through military industrial complex has been quite strong in The U. S. In particular. A lot of these things are funded through that. How do you see the sort of conflict or the benefits of private funding versus, let's say, militarized funding? There's a it's a massive question, but it's just something like, what's your high level opinion on it? Yeah.
+
+[01:30:54] It's it's complex. Like, I'm not happy that the that DARPA, which I think is is a great experiment in terms of how to structure r and d funding was or has been driven by by military needs. And in practice, what you see often is these incoming program managers torturing their problem to that is, like, very much civilian in application to to add a final slide about how it how it helps the warfighter.
+
+[01:31:24] So I think it has become, and I I think has has always been, to some extent, the rhetoric rhetorical exercise. We're not on a livestream of of how to sort of play the the DOD DOD funding for nonmilitary purposes, but ARIA in The UK, which we work with, is, like, very much civilian and and is, like, very strongly trying to position itself to stay stay away from anything
+
+[01:31:56] anything defense related. So I think you can sort of separate separate the model and and its embeddedness in the military industrial complex. But, of course, like, that's that's where the money for r and d is and probably is going to be for for some time. So, you know, personally, I'm not not too keen on, like, embedding myself in that space, but it's it's probably
+
+[01:32:24] good to learn how to work within within the structures until we sort of replace them with with better ones. Yeah. Thank you so much. We'll have we have one more talk now before we'll break for lunch, so then the rest of also offline conversations can happen then. Thank you. You can do the livestream?
+
+[01:34:32] Okay. Okay. Let me let me just close this this thing here. Okay. Maybe you need to move the screen over.
+
+[01:35:14] It's on? Okay. Great. Yeah. That's fine. I think that's fine. And I can move back and forth. Okay. Great. Alright. Alright, everybody. Last talk before lunch. So yesterday, there was so much excitement and idealism about the interaction of technologies like blockchain and AI agents and even drones,
+
+[01:35:37] and I would say even some tacit assumptions that we would be operating under conditions of perfect competition and perfect information. The reality is that's not the world that we live in, which is imperfect in both competition and often asymmetric information. So really there's another future that we need to consider of AI agents, for example, that know more about us than we know about them, and this actually is also the nature of drones, which are also asymmetric by nature, seeing more, about us than we can see about it from our vantage points.
+
+[01:36:07] So some here might want to deputize drones to hoover up information on other sides of the world, but part of DEAC, is also defense against nonconsensual surveillance and relying on cooperation and coordination to avert outcomes like drone wars that bring the flood of chaos and entropy. As was also suggested yesterday, identity is key to all this, but I what I want to do here is not only introduce an identity paradigm, but to also show you that the identity problem is actually an enforcement or governance problem, which, by the way, also corresponds to the alignment and accountability problem we grapple with an AI and making sure that agents and drones do what we want them to do and be being able to hold them accountable when they don't. So let's first consider a few paradigms in identity. This this conversation is about community currencies. I will get there. But let's first consider a few paradigms in identity so we can understand how identity, is an enforcement problem. I don't know how to do this. Think
+
+[01:37:03] okay. I just won't touch it. So the first paradigm that we're often familiar with is proof of personhood, one person, one vote, and this is the ambition of protocols like Worldcoin. And this was a topic of a paper I wrote with colleagues last year compressed to zero, the sound strings of proof of personhood. And what we showed is that protocols can achieve civil resistance, one human, one account, and avoid this problem of account splitting, but nonetheless have to grapple with this flip side problem of collusion or account consolidation into managed pools which end in oligopoly at best.
+
+[01:37:36] Specifically, when humans are given financial incentives to differentiate themselves from bots in the form of a universal basic income, for example, humans also have incentives to align, control, and puppeteer other humans like bots as if they were bots to amplify their own biases, and this collapses a system that was intended to be one person, one vote into one token, one vote where plutocrats and even less savory actors like puppeteers gain outsized influence.
+
+[01:38:01] And the result is an enforcement problem that has to police voluntary cooperation from coercion and puppeteering, ultimately ending in surveillance and ending in information oligopoly at best, contrary to the ambitions of one person, one vote. Now another form of identity is actually tokens or one token, one vote. You are the tokens that you hold, and a lot of people, you know, take this sort of anarcho capitalist view, and this actually is kind of the early de facto form of governance of early crypto protocols,
+
+[01:38:28] and ultimately, it led to many adversarial attacks where plutocrats buy up tokens to gain governance rights and then loot their own protocols. And these outcomes were akin, if not worse, than the joint stock era at the turn of the century where investors' inability to distinguish between solid investments and speculative bubbles led to things like adverse selection, lemons, and looting ultimately culminating in a devastating crash in the Great Depression.
+
+[01:38:52] So we have these two dominant models of identity and governance, in crypto and experiments, and both have ended in oligopoly at best, where the most unscrupulous actors gain power in game systems. Now some protocols have been tempted to introduce checks and balances into these systems to avoid these outcomes, drawing on, for example, the wisdom of constitutional republics which pit, for example, pits three branches of government against each other with defined and limited powers.
+
+[01:39:16] So even there is even though there is primacy of one person, one vote, these other features of the constitutional system constrain the tyranny of the majority, and also oligopolistic outcomes. But even here in these systems, they aren't perfect, and we have to deal with other other problems like democratic capture where you get private benefits doled out at public costs, and, of course, this is a public choice critique, and, of course, democratic overreach, the opposite where public benefits are doled out at excessive private costs. The classic examples here, for example, being eminent domain or or forms of populist regulation.
+
+[01:39:49] Similarly, we've seen a lot of protocols trying to lean into something more sophisticated token, one vote with corporate governance, also a system of checks and balances that forces a compromise between the CEO, board, and shareholders to align management with the interest of shareholders. And corporate governance has also had seen a series of modifications accumulated over the last century intended to correct for the tyranny of managers and majority shareholders,
+
+[01:40:13] for example, by imposing fiduciary duties and giving minority rights to share giving rights to minority shareholders. But even here, you get corporate overreach where private benefits are doled out at public costs, a classic case being pollution, and you also get corporate capture where public benefits are doled out at disproportionate private costs. And, of course, this is the rights critique of ESG and corporate social, responsibility and so on.
+
+[01:40:37] So even with these correctives and checks and balances, both corporate and democratic systems have to grapple with overreach and capture. Now to be clear, lot of folks here are talking about capture resistance and governance. The reality is, in my opinion, my humble opinion, in crypto court most crypto court halls lack these checks and balances and are dealing with much more primitive problems when we talk about capture. We're often talking about things like puppeteering and looting resulting from simple one person on vote and one token on both systems.
+
+[01:41:07] What's happening in democratic and corporate governance, modern, you know, democratic and corporate governance, and I would say probably in the analog age before before the advent of social media, is something more subtle. One way to think about it, capturing overreach, whether democratic or corporate, is private goods are being treated as public goods and vice versa, public goods are being treated as private goods. That's one way to look at, but another compatible way to state the problem is also these systems. These are fundamentally different systems of influence with inherent tensions.
+
+[01:41:37] For example, in democratic capture, the bottom left, money can undermine votes, and this is because, for example, money buys campaign donations, lobbying for candidates, and wins them attention. In corporate capture in the top right, shareholder votes undermine the functions of money, and this is because shareholder votes lead to decisions which don't maximize shareholder value per se. In other words, money and voting, even within the most sophisticated systems of democratic corporate governance, interact with each other, resulting in one tool of influence excessively undermining the other.
+
+[01:42:08] At the extreme, when money buys votes, for example, the principles underpinning both forms of governments collapse into one token one vote. Now in democracies, the price may be as cheap as a beer or a lottery ticket, and in corporations, for example, the cost may be as cheap as the derivatives to strict economic interest from shares leaving only voting power. In both cases, voting power detaches from genuine stake,
+
+[01:42:33] shielding plutocrats from the downside risks of their choices and enabling them to profit from decline at personal benefit, whether it be a nation state or a firm, And not only does it lead to decline, but concentration of power into oligopoly in the process. And, of course, a very explicit example of this is, Trump coin, where, my president's personal fortunes can be boosted by foreign adversaries
+
+[01:42:56] who can lobby for changes, you know, to my country's national security to to its own detriment. So is there a system of identity or governance beyond personhood and tokens that is not vulnerable to looting and puppeteering, and it's even more sophisticated counterparts that can avoid these problems of capture and overreach, and also avoid these worst outcomes of collapse into one token and one vote. Now most people here are familiar, I think, with non transferable objects like verifiable credentials or sole bound tokens.
+
+[01:43:25] Why can't sole bound tokens solve this in my opinion? Well, the idea behind Soulbound Tokens was to instead of have a single global identity credential to have as many as diverse as associations, affiliations, and memberships that differentiated us, each year represented by a circle. The idea was to introduce a richer sense of identity without a global identity system that promises one person one vote, but really ends in oligopoly while opening up the computational space to correct for biases that arise from overlapping affiliations or really overlapping
+
+[01:43:55] and correlated conversations. But the Solbaum paradigm has several key weaknesses. First of all, it presumes affiliations are binary, where in reality most are fluid and porous along a spectrum. We have degrees of membership in community, and this is true for every association set. Second, it doesn't really deal well with this messy intersection of money and votes. Many groups do have an economic component that interacts with a non financial component,
+
+[01:44:21] and the failure to acknowledge these interactions is precisely what leads to the problems of capture and overreach, the enforcement problem, or simply spoofing systems with artificial credentials to gain greater influence, particularly in, systems that are quadratic and plural, which I which I which I am, biased towards. So identity is not just about memberships of social groups, but should also account for economic stake and specifically the trade off between money and influence in and across groups.
+
+[01:44:48] This brings me to a draft of a paper, which I recently released, Community Currencies, the Price of Attention and Cost of Influence, and I gave it a second title because I couldn't quite decide the price of entry and cost of exit in a networked age. Now the paradigm I introduced is called PECARE, the plural community asset resource exchange. It builds on SBTs and sees identity as our constellation to participation in different groups, different social groups. Some examples of communities churches, music, parks, online forums, network states, research societies, scientific societies, labs, basically all of civil society.
+
+[01:45:24] How does peak care work? Well, step one, a community comes together around a shared mission, values, or goals. They make a currency which they distribute to their members. Now how it distributes that currency can happen on a spectrum of financialized to non financialized interactions. For example, they can auction off a new lot of tokens the highest bidder. I would call that financialized. They can issue bounties, prizes, or dominant assurance contracts,
+
+[01:45:48] or they can distribute tokens based purely on the time spent contributing to the community. For example, attending community events. Step three, each member at their discretion irrevocably locks some portion as nontransferable community stake and holds the remainder as transferable tokens. Now in exchange for irrevocably locking stake, the participant gains voting power within their community. Now this model reduces money and votes to the same unit of account, but it doesn't simply collapse money to votes like one token, one vote systems.
+
+[01:46:18] Instead, the model is opening a trade off space between money and votes. A participant has to choose between treating currency as a medium exchange or transferable money or not or, you know, transferable money or non transferable votes, but not both. How much voting power? Well, anywhere between linear to quadratic to plural. Of course, I am partial to square root or quadratic staking,
+
+[01:46:42] which avoids excessive influence, by holders of stake while allowing participants to express the intensity of their commitment with diminishing returns, and of course P care is an improvement on that by rewarding informational uniqueness, and this avoids excessive influence by people who act like bots or informationally homogenous groups, but both P care and q care assume that communities can penalize actors who attempt to bypass the square root by creating fake accounts, the problem of account splitting, or colluding to distribute Christ's stake across multiple accounts, the problem of account consolidation.
+
+[01:47:14] So to the extent enforcement is weak, a problem which I will return back to, some communities may adopt lesser discrimination of sublinear, which I called scare, or linear staking care. So already taking a step back, the nice thing about this model is it already accommodates a spectrum depending on how much participants stake for influence. All members receiving tokens and not irrevocably staking any token is basically equivalent to your standard ERC 20 airdrop, and that's on the left.
+
+[01:47:42] While all members receiving the same number of tokens and irrevocably staking them is equivalent to all members holding one sole bound token on the right. And this, of course, also translates to the extreme of pub private and public goods or markets and democracy for provisioning. Now because we are in the spectrum of public and private, just as there are partial shared costs, there are also partial shared benefits, which brings us to step four of the model. Being a member of a community gives you a right to receive inflation rewards or community based income proportional to your stake. Now this is not UBI,
+
+[01:48:13] this is a CBI, a community based income, which will vary community to community as they govern their inflation rates through deliberation and stake weighted voting. What's the result? Well, we get a constellation of communities to which we belong with varying degrees of commitment as reflected in varying degrees of stake earning different kinds of CBI, which are used as currency to enter and exit and stake in other communities. Members face a trade off between staking for
+
+[01:48:38] greater influence in the community versus keeping tokens transferable for use as a medium of exchange or currency. Choosing between gaining more control within a channel and the opportunity cost of engaging with new communities for novel information. Now if you, you know, everyone probably has their own theory of power, but if you think of power as both information and control, peak air force is a continuous trade off between the two. Now by expressing this tension into a single unit of account as a trade off, a kind of push and pull, we saw both the standardization and spectra poems I referred to earlier while making explicit what really is at stake, our attention and influence over it, or the information we receive and the control we exert on the world.
+
+[01:49:20] Another way to think about this is the tension between voice and exit. Whereas markets enable totalistic exit via money at the expense of accountability and politics relies on totalistic voice at the expense of autonomy, community currencies strike a middle ground. Members to a community never entirely escape accountability, holding their irrevocable stake forever, but they never entirely give up autonomy either, earning community based income to spend and stake elsewhere.
+
+[01:49:47] Is this communism? Degen communism? No. I would say it's actually an extension of Hayek into Ostrom acknowledging the economic reality of shared goods. Just as prices in the spirit of Hayek serve as signals for coordinating dispersed knowledge, allowing individuals to make decisions based on local conditions without understanding the broader economic picture, community currencies
+
+[01:50:10] in the spirit of Ostrom similarly function as information signals for shared plural goods between public and private encoding the price of attention and cost of influence into the price of currency. Now even if we take this intersectional view of identity, I am the constellation of my commitments and affiliations and conversations in communities and their communication channels, we still have an enforcement problem.
+
+[01:50:33] So let's talk about that. Groups and associations have to police their members, and these are context sensitive judgments. Take, for example, the adjudication between bribery and coercion. Both involve external pressure, and they're only distinguished by whether the choice was made under duress, which is coercion, or whether it was voluntary, which is bribery. So any mechanism we, you know, have,
+
+[01:50:55] designed to detect when agency has been involuntary taken also has to determine what has been voluntarily sold, making actually recovery and enforcement two sides of the same problem. But there's also an even more subtle problem here like adjudicating cases of capture and overreach. Notably, whether you think your group is doing either depends on your position within a social network and the share of costs and benefits you bear relative to the other peers in your community and the broader network.
+
+[01:51:23] Really, these are questions about illegitimate collusion versus legitimate cooperation within the norms and context of a group. So how do community currencies lend themselves to solving the enforcement problem? Well, here I introduce two more principles, subsidiarity and plurality. With subsidiarity, enforcement should be narrowly tailored to narrowly tailored to the scope of the violation,
+
+[01:51:47] inviting only relevant actors and resources who have a stake in the problem, Specifically, juries adjudicating community questions of bribery, coercion, or cooperation conclusion are drawn from a subset who have a stake in the issue, members of the community who are stakeholders. Whereas subsidiary leverages local knowledge, plurality in turn bounces juries across multiple perspectives, drawing on community members who are less alike or dissimilar to cancel out idiosyncratic biases
+
+[01:52:13] or majoritarianism. So whereas subsidiary enriches the depth of context, plurality or diversification increases the breadth of context, and combined both maximize unique information and context sensitive judgments tasked with distinguishing cooperation from collusion or bribery and coercion. But we also need another kind of subsidiarity beyond limiting scrutiny
+
+[01:52:37] to participants with stake. Given that scrutiny will naturally scale with the currency's value, in order for more global currencies to not subsume local scrutiny under their enforcement, which ends in surveillance, local currencies ultimately need to be more valued by their participants. In other words, information control or power should pool locally rather than globally so community currencies exert greater influence over local outcomes than global currencies.
+
+[01:53:04] This vertical subsidiary ensures proportionality and enforcement, sharpening scrutiny in high stakes local communities where context is high and monitoring costs are low, while softening scrutiny in low stakes global communities where context is low and monitoring costs are high. And I try to indicate this by the size of eyes. I'm not sure if that that comes across. Now, of course, this is a huge assumption, but I think places like Switzerland,
+
+[01:53:28] give us hope for this kind of subsidiarity. So hopefully, I've succeeded in explaining to you how identity is an enforcement problem and one that has to balance all these tensions without succumbing to oligopoly at best or singularity surveillance at worst. Now there are ways community currencies also radically transform corporate and democratic governance to compensate for all these limitations,
+
+[01:53:52] enable and enable even more radical experiments in quadratic and plural funding, leveraging collective intelligence. And, you know, if you read those sections of the paper, it refers to lots of experiments in plurality in Taiwan, for example, Talk to River experiment, very beautiful. Feel feel free to read the paper for that. I won't go go into that too much. For the last minutes instead, I want to return to this question actually that I posed at the start about AI agents since it seems to be top of the mind here, and back to this enforcement governance problem or alignment and accountability problem.
+
+[01:54:24] So I'll just quickly introduce this here. It's a very much of a sketch and it's speculative, but if you if you know something about foundation models, weights are set through centralized training basically on surveilled data sets where agents adapt their weights often unpredictably based on real time feedback. This community currency model actually opens up the possibility for weights to be non arbitrarily adjusted through stakes.
+
+[01:54:48] As stakes shift, so do weights mirroring actually how linguistic meaning emerges in networks. As for biases, biases are fine tuned using data and remain fixed to align the model with observed reality. A large bias increases the pre activation value, lowering the barrier for inputs to surpass an activation threshold. Conversely, a small bias reduces baseline responsiveness,
+
+[01:55:11] making activation more dependent on stronger inputs, for example, as deeper social ties. Community currencies introduce a dynamic non arbitrary mechanism for adjusting these biases, real time exchanges of transferable currency where transactions function as offsets. So in this way, community currencies as communication or attention currencies really open a possibility space to embed social context into the structure of neural networks, which I find very exciting.
+
+[01:55:39] Both stake in currency or the price of attention and cost of influence serve as dynamic signals continuously reflecting shifts in weights and biases. In this way, emergent social structures become a form of social computation embedded in neural networks, and the cool thing is this enhances the internal coherence within communities and their agents while negotiating differences across a broader network of beliefs, sharpening meaning, clarifying context, and deepening
+
+[01:56:05] intelligibility at scale, ultimately for greater alignment and accountability through sharper communication. So through communication and shifting commitments, both social networks and information structures co evolve, increasing in complexity and coherence over time. While today's transformer model prioritizes data relevance with sequences, this augments with social
+
+[01:56:28] relevance across communities. Whereas transformers parse internal data dependencies, this approach navigates underlying social dependencies, and together these approaches are complementary. Transformers distill relevance within structured data while community currencies in this model distills relevance within dynamic social structures, focusing attention where it is most meaningful in both technical and human context. And I explore this more in the appendix in my paper, attention is all you have, and encourage folks to check it out. Thank you. I'll take questions.
+
+[01:57:03] Hello. I'm curious as you put a model where you have both stake to vote or trade freely, the, yeah Mhmm. The isn't that in my in my mind, it just makes a straightforward path to capture being I just get enough on the market and get most of the stake and now you govern through me. Like, I make my own secondary governance. I will make a meta protocol on your protocol,
+
+[01:57:36] and I'll just acquire your because you're doing the inflation distribution to the stakers anyway, so there's a financial incentive to staking. And I'll get those fees and be able to have a meta governance governing what should be? Well, it's it's so your voting power is non transferable. So I can't, like, you know, like liquid staking tokens. I'm not envisioning that. That would be that would be treated as a form of bribery,
+
+[01:58:01] which communities would enforce against. Okay. Okay. Next question. Thank you for your presentation. I was wondering, could you give an example of of what a community currency would look like in practice? Like, let's say for Yeah. So Right. Great question. So, like, I I really see the first use cases being reinvigorating civil society. And by the way, this is, like, speculative to some extent, like, that doesn't exist. I don't see a model for this, and hopefully this will encourage experiments. But, you know, I'd like to see experiments,
+
+[01:58:32] for example, labs and research groups are one example building off the last talk. Also, like even, you know, other groups in civil society like churches or even, like, provisioning, like, local news. I think these will all take very different models. Like, I give this and this is, I think, a maybe a point of confusion in the paper is that there's actually like the spectrum of non financialized to financialized use cases.
+
+[01:59:01] And so I think we'll we'll see like a I want to experiment with a spectrum of that. And so how you actually gain access to a community will, you know, differ depending on communities like, right, churches that are auctioning off tokens. Well, they they very transparently a scam church, right, versus ones that focus on your time and, like, heart and commitment. So anyways, I I think there's a spectrum.
+
+[01:59:26] And and and yeah. I'll I'll be writing another blog post about civil society use cases. Next. Just a very quick question because I'm trying to still make sense of this. So how are new entrants put into the system? So, like, if you're a child born into this community society that's run by these structures, it just feels a little bit yeah. Like, an aggravation of wealth still. There's, like, it's almost like pyramid to me. Like, you you would come in. You can have very good
+
+[01:59:53] desires and wants, but you really don't you haven't accrued this wealth, whatever it's called, social wealth. Can you comment a little about that? I mean, actually, like, I am trying to fundamentally change the nature of money here, right, by forcing trade offs. Whereas money just sort of, like, buys votes and the two are the same thing. I'm actually trying to separate the two and and and and counteract this wealth effect so we don't end up in Pareto outcomes.
+
+[02:00:18] Right? But the question about a kid, you know, that's like born, right, is a really interesting one. And actually, Glenn has a lot of interesting ideas about this. But, you know, you you you imagine that you, you know, different communities, for example, I'm very interested in non financialized communities, where you spend time, right, in attending events, and through that you gain greater rights of participation.
+
+[02:00:43] Right? And, in those in those communities, you know, I think kids come and they kind of come to earn, right, their right, their their their influence over time, depending on their their their participation. Right? So it it enables that kind of, like, spectrum of of membership that I was talking about. I think I have time for one more question, and then we gotta break for lunch. Hi. This is my,
+
+[02:01:10] like, big interest. So I I study economics. But so maybe maybe this was touched on and I missed it. But how is currency issuance? As currency issuance is the foundation of community monetary sovereignty in modern monetary terms. How is currency issue approached and as far as funding things
+
+[02:01:34] and if there are other monetary regulation like money regulatory functions beyond staking that are produced in your models? So, like, I communities will issue people come together and they say we're gonna issue a currency, and they and they agree by the rules around that. Right? Including the set of participants who can participate whether it's financialized or non financialized. So there this
+
+[02:02:00] is really a and, you know, enabling groups of people to, you know, set their own terms and most importantly making those terms transparent to participants. You know, one of the goals is that we have lots of organizations and associations that are not really transparent and how, for example, money and influence interact.
+
+[02:02:23] Right? And so, like, churches are a good example of this where it's just kind of opaque. And so participants who enter the group based off of the initial, you know, model set by the initial members, they will have some transparency around that. But the issuance is really bespoke. Right? It depends on the kind of group you're talking about. I suppose part of it is how do we communicate to
+
+[02:02:46] the community how their issuance of currency will likely affect the dynamics of the currency to people who are not expert economists? Well, like, come here well, it it'll yeah. This is this is a very, like, heavy law and economics presentation, but I mean, like, come to, you know, Zoo Switzerland and and I think you'll
+
+[02:03:09] probably just be transparent and say, like, you're participate like, this is a current distribution and based off of your participation, you know, you can earn this amount of currency. It seems like there's also some upfront costs and paying to, like, join the community to cover costs. Right? So there's gonna be some balance there. But it's really, you know, communities can like we'll we'll we'll disclose that to the set of participants who are approaching them to to join them. Right?
+
+[02:03:38] Okay. Well, thank you everybody. It's. Thank you. Thank you. Thank you, Pooja. It was really interesting, and thank you everyone for this morning. We will now have lunch. But before lunch, everybody who is interested is invited to
+
+[02:04:00] follow ICP here. So maybe you want to show people where and also Anita, where we will do a group photo. We'll do a group photo for whoever wants to join. I also shared it in the groups. So we will go down between Community Kitchen and Signina Hotel. There are beautiful there is, like, this big tree and beautiful,
+
+[02:04:25] seating area, and I'm pretty sure the two have are in the lead, and it will be something really nice. So don't feel you have to be part of the photo. It's totally optional, but for whoever wants, it would be nice to see many of you. Thank you. And we are back here at 01:30. Okay? For lunch, there is a special lunch menu at
+
+[02:04:50] the Camino bar. It includes salad, pizza, or some kind of main dish and water. I think it's 20 or CHF25 altogether. And other than that, there is self organized lunch in other places. So but first photo for whoever wants.
