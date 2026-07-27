@@ -888,5 +888,26 @@
   "speakers": [
    "@bestape"
   ]
+ },
+ {
+  "id": "1wTgHBQwq2JBJZ6va9mU1XOuAQ_Jc6aE0",
+  "title": "Zuitzerland Summit Afternoon — Day 1 (May 17)",
+  "date": "2025-05-17",
+  "week": null,
+  "source": "Zuitzerland 2025 Summit · Galaaxy",
+  "media": [
+   {
+    "id": "1wTgHBQwq2JBJZ6va9mU1XOuAQ_Jc6aE0",
+    "kind": "video",
+    "size": 0,
+    "stream": true
+   }
+  ],
+  "transcript": null,
+  "duration": null,
+  "quality": "ok",
+  "transponder": false,
+  "featured": true,
+  "note": "Summit footage joined the residency drive in the Great Rearranging 🏔️ — the Summit folder (now nested inside) still holds only the DaVinci project + sidecars."
  }
 ]
