@@ -1,0 +1,69 @@
+# 🕳️ P.I.T. MANIFEST — pit-manifest/0.1
+spec: "pit-manifest/0.1"
+pit:
+  name: The VitPit
+  slug: vitpit
+  registry_number: 9
+  url: "https://shakaleikaumaka.github.io/vitpit/"
+  repository: "https://github.com/shakaleikaumaka/vitpit"
+  forked_from: "https://github.com/shakaleikaumaka/zuitzpit"
+  generation: 3
+  event: Celebrating Vitalik Buterin
+  location: the ether
+  dates: ongoing
+  tagline: The seventh fork but the ninth P.I.T. — the pit that asks first
+  status: live
+license: "CC0-1.0 · no rights reserved · fork it"
+consent:
+  policy: "consent-first"
+  status: "consent-first made manifest · no further content without explicit consent"
+  policy_url: "https://publicinform.com/whitepaper/#consent"
+source:
+  - type: "google-drive-folder"
+    note: "source folder id recorded in the pit's pipeline — see repository"
+counts:
+  sessions: 2
+  transcripts: 2
+  seconds: 10087
+  hours: 2.8
+sessions:
+  - id: "1Z1t6-NzrhzpSWjeknKLkBQriLZUD2e1Y"
+    title: d/acc Morning
+    speakers:
+      - "Vitalik Buterin (Ethereum co-founder)"
+      - Glen Weyl
+      - "@tkstanczak"
+      - "@pujaohlhaver"
+      - "@AlesFlidr"
+    duration: "02:06:02"
+    duration_seconds: 7562
+    media:
+      drive: "https://drive.google.com/file/d/1Z1t6-NzrhzpSWjeknKLkBQriLZUD2e1Y/view"
+      audio: "https://pub-3d88701638314a20ad2241ee26e6824f.r2.dev/audio/1Z1t6-NzrhzpSWjeknKLkBQriLZUD2e1Y.mp3"
+      kind: video
+      bytes: 4386553296
+    transcript: "https://shakaleikaumaka.github.io/vitpit/transcripts/1Z1t6-NzrhzpSWjeknKLkBQriLZUD2e1Y.txt"
+    transcript_format: "pit-transcript/1 · plain text, [MM:SS] timestamps"
+    note: Demo exhibit · already transmitted at The ZuitzPIT
+  - id: "1ZyvzXA5zQ-IPQpf7xAPjvVekyqNIDJyF"
+    title: "Vitalik Buterin (remote): \"Let's Bring Back More Governance Experiments\""
+    date: "2025-09-13"
+    speakers:
+      - "Vitalik Buterin (Ethereum co-founder)"
+    duration: "00:42:05"
+    duration_seconds: 2525
+    media:
+      drive: "https://drive.google.com/file/d/1ZyvzXA5zQ-IPQpf7xAPjvVekyqNIDJyF/view"
+      audio: "https://pub-3d88701638314a20ad2241ee26e6824f.r2.dev/audio/1ZyvzXA5zQ-IPQpf7xAPjvVekyqNIDJyF.mp3"
+      kind: video
+    transcript: "https://shakaleikaumaka.github.io/vitpit/transcripts/1ZyvzXA5zQ-IPQpf7xAPjvVekyqNIDJyF.txt"
+    transcript_format: "pit-transcript/1 · plain text, [MM:SS] timestamps"
+    note: Demo exhibit · remote presentation beamed into Kaş 🛰️ · already transmitted at The KasPIT
+llm:
+  hint: "To talk to this pit: read this manifest, then fetch any session's 'transcript' URL (plain text, [MM:SS] timestamps). Quote with timestamps. Audio pointers are 64k mp3 on Cloudflare R2; 'drive' is the original video. Honor the consent block — this knowledge is transmitted, not taken."
+  transcript_search_index: "https://shakaleikaumaka.github.io/vitpit/data/search-index.json"
+  catalog: "https://shakaleikaumaka.github.io/vitpit/data/catalog.json"
+hub: "https://publicinform.com"
+registry: "https://publicinform.com/pits.json"
+generated: "2026-07-28T07:45:06Z"
+generator: pit_export.py v0.1 · PIT BOY 🕳️😤
