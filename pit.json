@@ -27,10 +27,10 @@
   }
  ],
  "counts": {
-  "sessions": 2,
-  "transcripts": 2,
-  "seconds": 10087,
-  "hours": 2.8
+  "sessions": 3,
+  "transcripts": 3,
+  "seconds": 19363,
+  "hours": 5.4
  },
  "sessions": [
   {
@@ -72,6 +72,27 @@
    "transcript": "https://shakaleikaumaka.github.io/vitpit/transcripts/1ZyvzXA5zQ-IPQpf7xAPjvVekyqNIDJyF.txt",
    "transcript_format": "pit-transcript/1 · plain text, [MM:SS] timestamps",
    "note": "Demo exhibit · remote presentation beamed into Kaş 🛰️ · already transmitted at The KasPIT"
+  },
+  {
+   "id": "1HdGdG25ai1JmD2M-mbWlaS3UgAb1dBwF",
+   "title": "Vitalik at the Zuzalu Library, Chiang Mai",
+   "date": "2026-01-25",
+   "speakers": [
+    "Vitalik Buterin (Ethereum co-founder)",
+    "Vegas (706 Youth Space)",
+    "Lauren (4Seas)"
+   ],
+   "duration": "02:34:36",
+   "duration_seconds": 9276,
+   "media": {
+    "drive": "https://drive.google.com/file/d/1HdGdG25ai1JmD2M-mbWlaS3UgAb1dBwF/view",
+    "audio": "https://pub-3d88701638314a20ad2241ee26e6824f.r2.dev/audio/1HdGdG25ai1JmD2M-mbWlaS3UgAb1dBwF.mp3",
+    "kind": "audio",
+    "bytes": 208942362
+   },
+   "transcript": "https://shakaleikaumaka.github.io/vitpit/transcripts/1HdGdG25ai1JmD2M-mbWlaS3UgAb1dBwF.txt",
+   "transcript_format": "pit-transcript/1 · plain text, [MM:SS] timestamps",
+   "note": "Exhibit #3 · launched per Shaka's 2026-07-29 full-glory order · bilingual session (English + 中文): hosts co-read Vitalik's \"Let a Thousand Societies Bloom\" in Mandarin, Q&A in English (cryptography, network states, physical security) · transcribed by PIT BULL (deepgram two-pass) · QA by PIT GIRL (355 fixes, byte-exact)"
   }
  ],
  "llm": {
@@ -81,6 +102,6 @@
  },
  "hub": "https://publicinform.com",
  "registry": "https://publicinform.com/pits.json",
- "generated": "2026-07-28T07:45:06Z",
+ "generated": "2026-07-29T15:13:09Z",
  "generator": "pit_export.py v0.1 · PIT BOY 🕳️😤"
 }

@@ -1,0 +1,714 @@
+# Vitalik at the Zuzalu Library, Chiang Mai
+
+Date: 2026-01-25
+Source video: Vitalik at the Zuzalu Library, Chiang Mai
+Drive: https://drive.google.com/file/d/1HdGdG25ai1JmD2M-mbWlaS3UgAb1dBwF/view
+Duration: 02:34:36
+Language: English + 中文 (bilingual session — hosts co-read Vitalik's blog in Chinese, Q&A in English)
+Transcribed: 2026-07-29 · deepgram nova-3 two-pass (language=en + language=zh, overlap-deduped) · PIT BULL harvest fleet v3
+
+---
+
+[00:00] So we will begin very soon, and we collect some questions from Luma. If you saw your name, also, we're gonna repeat the name. Please state in front here so that on the third stage, we're gonna you guys can ask questions with Vitalik. So if you're
+
+[00:23] Mario Liao is you're here. Holiday, Zama. Holiday? Are you here? Okay. Oscar. Is Oscar here?
+
+[00:47] 有人提到这个问题吗 Good news here. Sorry. Cliff. Cliff. Is Cliff here? Cliff.
+
+[01:10] 这个问题是你提的吗那 你可以坐到前边来因为后边有那个一对一问 问题环节 Diana. 的提问者 Diana 在现场吗
+
+[01:45] Mark. Is Mark here? 看打开了是不是自己提的这个问题啊 Okay. Thanks. So we're gonna start very soon. So just be careful with the cameras because we're do in the recording.
+
+[03:33] 你说两句要让他们测试一下 现在说现在说吗对这里 大家好
+
+[03:58] 今天我们正好 4 点有一个 读书会 然后 然后特别高兴 在清迈这么一个 特别多元化的地方 很多来自于不同国家和地区正好可以看到 我们Zuzalu library 今天开始运营 然后正好邀请
+
+[04:23] 呢我们 分别来自于 706 社区的 Vegas 还有来自于4Seas社区的 Lauren 还有 来自于Zuzalu的 Vitalik 我们分别来分享 大家对一本 blog 来进行共读这个 blog 就是 Let a Thousand Societies Bloom 就是让
+
+[04:45] 敲 1000 个以上的社区蓬勃发展 然后我 做一个简单的今天的协调人然后 Lauren 会做一个英文的协调人 Okay. So welcome, everyone. So so happy to gather around here in such a diversity and diversified city in Chiang Mai. So today, we are going to have Vegas from
+
+[05:14] 706, me from 4Seas, and Vitalik from Zuzalu to co read the blog from Vitalik, Let a Thousand Societies Bloom. And today is also the first day with Zuzalu library, so very happy to share the time together here with everyone. Thank you. 你们请坐吧
+
+[05:57] 大家好大家好我是 Vegas 非常 开心间参加这个活动读书会的活动然后感谢四海社区还有清流社区的朋友们这么短时间内组织好这个活动 呃然后 欢迎Vitalik又又一次来到清迈然后又一次参加我们的读书会 对来大家欢迎一下
+
+[06:41] 然后我会因为是第一个 发言的导读人所以我会跟大家稍微介绍一下 今天的 流程 我们 第一部分是会主要由我跟 Lauren 一起把这个 文章先 带着大家复习一遍因为大家应该是都已经读过这篇文章了但是
+
+[07:04] 内容比较丰富我们后面又有很多提问的环节然后 大家可以 根据我们 这样重新的一次梳理然后回忆一下 细节回忆一下内容然后 可能在提问环节的时候也稍微 把我们的问题 更多的归拢到文章的脉络上面然后
+
+[07:29] 对可能需要重新 更精简地组织一下语言因为我们今天时间有限然后我 看了一下我们的问题每个都很复杂 然后 对 然后 我和 Lauren 一個是作為 706 的代表一個是作為四海的代表 我們正好是因為這篇文章中其實提到的兩個
+
+[07:56] 概念一个部落的概念和一个区域的概念 大概我们会从结合自己的 在社区实践中的经验 以及就是 以及就是我们对我们 自身的经验以及呃了解到的这些情况帮助大家进行一个辅助的说明因为可能我们会有一些朋友不是
+
+[08:21] 对这些实践活动没有手的直接经验然后这篇文章 中又举了丰富的 实例然后可能并没有太大的空间去详细 解说这些 细节情况 对然后我会 大概 在部落的这个章节带大家导读然后 Lauren 会主要在区的这个章节进行导读
+
+[08:48] 然后 好那我们 就可以进入到文章里面 我们今天导读的这篇文章是发表了不久的 Let a Thousand Societies Bloom 的 博客文章然后 其实呢这篇文章 从 第一个部分 谈到的不仅是 Zuzalu 的实验也是
+
+[09:12] 前一阵子 或者说 前一些年在世界各地 發生的一些 跟社區相關的實踐活動然後 Vitalik 在開篇也對這個實踐活動去進行了一些列舉然后由此其实有阐述到他在
+
+[09:36] Zuzalu的 建立实践过程当中的一些 初衷感悟 然后还有一些 规律的总结还有提到了一些困难 然后 这一部分 我就不 详述了可以到时候由维他利作为社区代表来详述然后 那我们看到 区域的部分
+
+[10:02] 对这里 区域 可能不太是这样总之了我们是到区域的下一个新的 章节 部落对对不起 部落的部分 第一个章节我们是从 谈到了 部落作为 社会个人与国家之间的一个中间机构
+
+[10:28] 它的一个 未来展望上面的作用 然后我们 其实从这里 进行了一个跳跃 从部落的定义直接 进化直接谈到了文化的一个 理论上面或者说哲学层面上的概念 然后这一部分
+
+[10:51] 因为 谈到的内容其实是更加抽象的 思考所以 其中加入了 其中有一些大量的引用然后也尽量地使用到了一些 实践的 案例然后我 可能 这里
+
+[11:14] 大概可以补充一点因为其实我认为文化这个概念我们国内读者是比较 至少中文读者可能是比较容易接受的因为这个在跟我们教育中的主张是有这样一个类似的 有一个类似的主张嘛 就是文化它作为一种社会的力量或者说 社会
+
+[11:38] 运动它在社会运运作中的一个角色 具有先进性或者说落后性这样一个区别嗯这个比较符合我们教育当中呃得到的一个概念所以这块 可能不需要详述然后我会想要在 中间也用到的一个 社会想象中的
+
+[12:02] 这一部分 社会想象这一部分 的这个 观点给大家提供一些正好是706 的情况 706 呢作为一个青年空间 他呃 有很多 很很大一部分的朋友 或者说很大一部分的社区成员 都是 处在
+
+[12:25] 青年的这样一个人生阶段中 他们从校园生活到 社会分工中间的一种 一个 阶段或者是这个阶段中的状态 能够参与到706 的社区当中其实是 给他们 提供了一个 满足自己从学术上面的
+
+[12:49] 探索到 对社会 关系上面的一个初步实践 的这样一个 平台 以至于 我们其实我认为 706 很多的 很多的 话题都延伸自这样一个主旨来就是 青年人的生活
+
+[13:13] 选择 还有对幸福的 追求的这样一个原则 然后 然后我们可以 在枢纽这里其实也可以聊一下 706 呢就是 在 物理层面 成呃物理物理承载上面的
+
+[13:38] 这个呃 部落的概念的延伸呃其实 可能算是一个在文章中提到的实践经验以外的一种情况 一个是他的 物他他一个是他的形式比较丰富 可能包含了 可能包含了
+
+[14:04] 物理 这个物理 枢纽的形式 但是它可能是 一个 在介于永恒节点和 弹出实验中间的一种状态 嗯这个也是来自于我们很多的 。 社区的节点都是自发形成的这样一个原因 嗯
+
+[14:27] 然后 嗯 然后 对我觉得其实近近些年尤其是从瓦猫第一届开始 呃我们在 物理枢纽上面会有一些新的机会 嗯比如说在我们第一届瓦猫在大理嗯发生之后
+
+[14:51] 会有很多数字游民在大理居留下来然后处于半永久或者流动或者居住的这样一个状态 嗯然后当然也有很多数字游民因为新的活动来到清迈呃我们也能够 慢慢的在清迈探索 这种呃 从部落形成到 呃物理枢纽之间的一个关系
+
+[15:15] 然后 进行了一定的区域的区域上面的探索 所以我 接下来可能在区域的部分会把话题移交给 Lauren 然后聊一聊跟四海社区相关的 区域方面的探索 对可能在座的有一些朋友会了解
+
+[15:43] 可能在座的一些朋友会了解到就已经在四海这个空间体验过但是还没有特别确切地了解到四海整个一个发展历程所以我在这里会做一个非常简单的介绍然后去引入这个概念 四海是在 2023年 参加了 Zuzalu 黑山的第一。 在那之后就加入了 Zuzalu 整个运动 。从那以后我们其实一直在清迈这个节点去做线下的物理空间。其实刚刚 Vegas 提到
+
+[16:14] 706 在社会的探索当中在大理已经去尝试做一些物理节点。同时呢 因为一些 原因可能有一部分人也从大理迁徙到了清迈。那我们在清迈线下物理空间的探索当中也意识到其实这 Vitalik 这篇文章中也有提到 tribe 它更倾向于是一种文化的构建那 zone 这部分更多的是在对物理空间的规则探索上面或者是规则的实践上面那我们在过去两年的实践当中其实会意识到
+
+[16:46] 只要你在物理空间里面你就一定会面临不仅是物理空间的探索还有文化构建的部分那在你的团队里面一定会需要有不同背景不同技能的人在里面比如说有一部分人他是 负责商业运作负责活动运营那另一部分人可能就是 会面向文化的探索主题的探索比如说像 加密主题长寿主题那我举一个更具体一点的例子比如说现在大家所在的这个
+
+[17:15] Zuzalu library 里面它其实是一个开发商 建筑建筑工人 然后策展人 文化从业者共同打造的这样的一个空间所以它是一个 各方不同的参与者共同呈现的一个东西。那除此之外 其实在线下物理空间或者在 zone 这个 物理空间的探索里面
+
+[17:38] 更需要的其实是跨社区的协作我们也在这个经验当中遇到 如果只是一个单一的团队或者一个单一的价值观去运一个空间它是很难繁荣起来的。其实刚刚开 篇的时候我们也提到清迈是一个很多元的空间 在这一个月也有非常多非常多不同社区的人来到清迈他们可能来自不同的国家有不同的背景有不同的价值观他们在这里也有他们各自不同关心的话题
+
+[18:06] 。所以在这样一个 这其得益于清迈非常好的文化土壤和它的地理条件。所以四海基于这样的城市去做空间的时候在运营一段时间之后我们会发现不同的社区会在这个空间里面去举办自己不同主题的活动那有一些呢它可能就形成了一些固定主题的活动另一部分可能是一些流动的社区那像今天在这里参与与支持的 706 社区就是呃一个流动式社区的一个
+
+[18:36] 代表那除了社区的参与其实我们也感受到如果你是一个外来的社区在本区去做一个东西东西你不与本地的机构不与本地的社区去连接是 缺乏一种在地性的所以在去年我们也有探索去和清迈大学去做一些合作比如说最近在发生的 清迈还有其实很有趣的一个小例子是我们在和一个清迈大学建筑系的教授在沟通的时候会发现
+
+[19:05] 他是清迈本地土生土长的清迈人所以对整个清迈的历史发展城市发展特别的 了解那他其实他的幼儿园就在我们隔壁那条街的 50 米的一个幼儿园他就在那成长长大的所以 就是和清迈大学这样的机构和本地的人的这样的交流其实能给我们带来 很多的在地性当然我这部分可能讲的是一个 zone 实践一个比较具体的例子那在这个 zone 的这个部分它可能为它有不同的设想有一些民主治理实验可以在 zone 里面去实现我觉得可以交由他去做这部分的介绍谢谢大家
+
+[19:48] 好那 对我可以说一下就是为什么我 写了这个文章还有 为什么我 开始了 思考这些话题就是 其实在 最近 20年 的时候 有很多人 有很多 在不同的地方有不同的关键
+
+[20:11] 的人他们呢都开始了 思考 一些 有一点相同的话题就是 互联网 之后这个社会的治理是什么就是这个国家 的那个主权是基于 大家的地方做 主权的但是在
+
+[20:34] 互联网上我们都知道就是你 的地点 跟你 的社区跟你的社会跟你 有 最多关系的 不一定 不一定是有很多关系的你是有很多人 钱财他们完全不知道自己的邻居是谁但是他们
+
+[20:57] 的朋友 都是在世界的 不同的城市不同的 国家 所以 有很多人 都开始了思考就是我们 怎么会面对这些问题就是我们 会做一些 然后 因为现在我们有这个互联网呢我们 能 有
+
+[21:20] 什么样子的新的治理的方式 所以 大概 00 年的时候 有一些 新的就是比如 direct democracy 的一些 事业还有一些 自由主义还有一些就是很多 其他的
+
+[21:42] 主义 还有一些 人他们都开设了思考就是 那如果 国家这个概念是存在的那我们 为什么不 不能做一个新的就是我们 自己的一个国家 或者 我们能不能做一个数字的国家 那如果能
+
+[22:06] 做一个数字 的国家这个概念那个数字的国家是什么是会做什么 或者不能做什么 对就像 思想其实 20年都有的就是 很多很多 好玩的我记得 大概 10年 的时候 有一个书
+
+[22:29] 叫 fi le s 他 写的 那个书里他也说了就是我们会有 这些新的部落那些新的在他的 愿景 里面那些部落都会 都会 做很多事情
+
+[22:53] 他们会 像公司一样 但是他们的内部的智力都会民主的 对然后还有一些 是 就是 00 年的时候有一些人 他们想买一个船就是买一个很大的船就是然后 把那个船 放到那些就是离每一个国家超过
+
+[23:18] 那个大概 20 公里的那个距离就是在一些 国际的那个 水 里面就把把那个船做成 做成他们的一个国家 然后大概 10年 15年后还有更多的想法 就是有不同的 都有
+
+[23:41] 自己的这个思想然后在 crypto 这个东西 来了的时候就是其实我 开始 做 以太坊的时候有一个 我一直 很 感兴趣的一个应用之一就是借由我们 能不能做这个链上的那个去中心化
+
+[24:04] 的治理 那 但是如果 我们 能把街友做好 那我们 可以把街游我们可以 用街游 在做一个这种部落或者甚至 一个新的 这个城市或者这个网络国家的一个 的治理 所以也有那些 crypto city 的这个
+
+[24:30] 概念 在一些其实在这个时候有好多人 在家思考做一个 crypto city 那些项目的好像好多要失败了就是我记得 那个在 18 年的时候 在一些在那个 Devcon Prague 的时候可能最大的 那个广告就是我记得是那些 r un s 他们在一些美国的那个西边他们
+
+[24:59] 想做一个 blockchain city 但是 好像我们最近都没有听说过这个项目 所以好像是失败了 那没关系的那就是所有的项目的 95 是失败的然后 22 年的时候那个巴拉吉他写了关于那个网络国家的书 他的这个书有一些
+
+[25:23] 很难 特色的 思想就是包括 他觉得这个网络国家是什么和他觉得在这个 现在的这个世界的问题是什么所以那边就是你可以看你可以 就是有一个很有意思 的意见就是 我觉得 有很多人 他们 跟他
+
+[25:46] 对这个现在的世界的思想 是完全不同你的但是他们还是觉得他的他的一些就是我们我们可以现在做什么的思想 很有意思的然后我做了那个那个 实验 问题是说了呢好吧我们啊撩了这些啊话题又讲太多了呢是不是我们应该就做一个
+
+[26:12] 所以我们就做了一个 大概两个月的一个事件的 暂时的一个城市就是 temporary pop-up city 邀请了大概 200 个人 200 个有不同 不同的 社区的就是包括以太坊的包括一些做
+
+[26:35] 那个 longevity 的还有其他的那个 生命科学的还有一些 做 各种 哲学的还有更多 那所以他 好像 就是我 自己的结论
+
+[26:58] 和我感觉很多人的结论就是这个 实验成功了 就是作为实验是一个很好的实验但是我们 还是不知道下一步是什么 对所以这个之后有很多 不同的 人他们都开始了思考那下一步是什么呢我们在 这些 思想里面到底应该做什么这个
+
+[27:22] 概念 其实有一点像 那个其实比特币之前 有很多人 他们都思考了做就是做一个 数字黄金或者是一个数字美元或者一个数字的币那要说什么 有那个 其实 第一个可以说这个 cryptocurrency 就是 1982
+
+[27:48] 年的那个 David Chaum 的 eCash 其实那个 David Chaum 的 eCash 我觉得 有一个很有意思的一点就是它有 隐私 但是它 是中心化的但是比特币比特币是去中心化的但是比特币没有隐私 我也有这个有意思的那个变化 那 然后有 Bit Gold 有那个Wei Dai的那个 b-money 还有的那个 ne x ub le 有 Hal Finney 然后
+
+[28:17] 大概 2009年 的时候就 发现了这个区块链这个概念 那 然后比特币 开始成功了一间啊所以 大家都开始做区块链 了对那 所以在这个 领域里我对 我觉得 大概有很多
+
+[28:40] 思想有很多理想但是我们 还是不 完全还没有 完全知道那到底应该做什么 具体的事情 所以对我 4Seas 这个地方 是一个 这种的一个实验之一其实我觉得是一个很呃
+
+[29:04] 是一个很成功的 对当然 对所以呢 现在有一些包括 4Seas 包括很多 其他的人包括一些就是我们 的这个社区 之外的人都 在 思考这个问题我们就可以看在这个领域里面有
+
+[29:27] 什么样的东西就是到底可以 给他们 的参与者和给这个世界的价值 Okay. 我们收了很多问题
+
+[30:02] 然后 我也认识 今天 很多人穷 因为马上中国春节 中国很冷所以很多人 正好 赶上这个活动一起来了清迈我真到中国今天来了很多社区的成员 包括 看到有 706 ai 社区的还有做
+
+[30:27] 他们有个数字游民大会 30 号看到有德尔勒的社区 NCC 的社区奇迈克森的社区还有很多中文的社区在这里 据我了解他们的社区都碰到很多困难所以呢 我就结合你这个文章先提个问题 就是 你说 在个人和国家之间
+
+[30:51] 它有一个中间机构 但又不像公司公司是一个追求效率而存在的 组织 那你觉得 社区是在靠什么驱动的呢是 靠主题驱动还是靠精神领袖 还是靠 什么特别的想法驱动呢这个
+
+[31:17] 有意思的环节就是 v0d ra 的不同的社区是不同的 就是我们可以 看一些 网上的一些社区 就是比如在这个区块链的 领域大概 每一个区块链都有一个 团队 开始 做他了但是 比如那个比特币开始了之后那个中本聪早就
+
+[31:44] 消失了 但是他 消失了之后那个社区还是很 成功的还是有有很多 有意思的事情 在里面 发生了 对就是我觉得 义工那个领导 人的这个角色是很重要
+
+[32:08] 的因为也很多时候有一个情况就是 很多人 同时 Ready to like, ready for something. 他们他们可以接受一个东西但是他们 还没有知还没有知道这个东西是什么
+
+[32:31] 然后如果有一个 r un l ine 他就可以推荐他 的一个 方案 那如果 他他 选择的对那他的这个方案会成功 如果他选择 一个就是 他觉得 是对的 事情但是他 失败了那就是他看错了大家那他他的
+
+[32:57] 那这个方案就是他 什么都做不到 那也有时候就是有不同的 人有不同的想法就是同时 在这个世界 里就是大家都看 相通的事情 才发生但是大家有 完全不同 的 修饰 就是
+
+[33:21] 大家 就是有一些 人就是他们看到的 story 是一个 他们的这个 story 是跟跟 一些思想 是兼容的有一些其他的人他们的 story 是完全不一样的他们的思想 是跟一些 完全不一样 的事情是兼容的所以
+
+[33:45] 对这些事情 他们都是 互相操作的你说我在家 这个文章你在也需要了一件关于这个文化的一个发展 和 对就是一个 一个社区可以说是一个文化的一个发展的一个单位 就是我们 的这个 5000 年的历史
+
+[34:09] 有很多很多的就是一个社区这里社区这里对 对然后 的这个 就是有很多不同的过程他们都啊他们都在发生 他们都 一直在互相操作的 我们在实际 运行社区的时候
+
+[34:32] 也碰到很多 具体的挑战 比如说 他们说 社区靠用爱发电 这个 用爱的意思就是 靠我的理想靠我的热情 但是他们 发了电发一段时间之后没电了
+
+[34:56] 所以就难以难以没有可持续性对但是我们 有时候 是这样子的有时候不是对吗就是你看那个比特币 他 就是那个中本聪他 11 年的时候就 已经没有了那他没有了之后呢比特币的这个 社区他 就是在
+
+[35:20] 中本聪消失了之后就开始了 就特别发展 得特别快但是我们也知道有很多很多 其他的链他们有一个 founder 那这个 founder 做很多 Founder founder founder founder founder Bye
+
+[35:46] bye. 那他拜拜了之后你就可以在一些那个 CoinMarketCap 就看就是拜拜 对对 所以我觉得 的一个 社区能不能就是一个社区的那个 生命 生命啊能不能 超越他的那个创始人的生命
+
+[36:09] 或者他的善语是一个很重要的 那个就是这个社区是不是健康的的一个 指标 我听说你要做一个 退出测试我们今天 准备了很多问题所以我们可以来看一看 哪些问题是 维他那个比较感兴趣的如果你
+
+[36:33] 愿意回答这个问题的话好我们会 请当事人 来说他问题 列表 廖 可以说下你的问题吗 然后我想我想问的问题是在 清迈这样的
+
+[36:57] digital nomad 的一个热门聚集地我们的社区就怎么避免 仅仅是物理意义上的一个共享办公室而是真正建立起像你说的一个 intermediary institutions 然后并且反向对清迈的这样一个社会 反向输出持久的文化影响力谢谢 对这个问题
+
+[37:22] 是 有意思的其实我觉得就是 两个 两个不同的问题但是两个都是重要的问题就是第一个问题是这个 4Seas 其他的 coworking space 就是会不会有可持续的一个区别那 大概也 这个问题
+
+[37:47] 可以 可以这样问就是现在就是现在在这个 敬重里就是谁来参加4Seas因为大家觉得4Seas的椅子和桌子是舒服的 Male. Okay. 好啊 那 谁参加 因为他们 做的饭好吃
+
+[38:11] 其实他们做的饭就是 不是一个 其实他们做的饭也是 很有意思的就是跟呢中墙的那些 coworking space 是完全不一样的所以 如果大家 都说 了是那这个 也不 不以为觉 4Seas 是一个 coworking space 那谁
+
+[38:37] 啊 来参加 4Seas 因为 4Seas 的那个 办公室的那个空间的 很漂亮 有也就是有一点点 那 谁参加 因为 这里的 社区是有意思的 有更多
+
+[39:03] 对所以我 对就是我觉得 如就是你会发现 在那些 coworking space 里面 他们都有 Marketing digital community.
+
+[39:27] We work community community community Okay. Coworking space, I guess startup founder, they'll create Santiago Coworking Space. Okay. Startup founder. 到底 有多少是
+
+[39:50] 通 的有 一些事情 但是也不太多 其实有可能 Startup founder category community. 就是一个 群 他们 有很多 的那个共同
+
+[40:14] 的讲就是他们都了解电脑他们都了解互联网 了解什么计算机 但是 世界不了解他们 Computer geek experience. 可能 20年前就是可以的那些现在的一些
+
+[40:40] 就把 startup founder 当成一个 identity 可能 已经太难了但是 对 4Seas 这个 空间我觉得 明显的有自己的 一个 identity 然后我觉得 大部分的人 就是因为这个原因来了 我可以
+
+[41:03] 问一些 其他的问题 那谁在 在这个房间里 今年或者 去年去过星巴克 Okay. How? 谁去过 星巴克 因为 因为其他的星巴克的客户是有意思的
+
+[41:28] 不多 对啊 谁去过那个星巴克 因为他们 喜欢 星巴克 的政治 的色相 Okay. 谁去过星巴克 因为星巴克的那个茶或者咖啡 是好喝的 ok 有更多 谁去过星巴克
+
+[41:51] 因为星巴克 就很方便 对 你看 s w ay 4Seas 和这个星巴克是完全不一样 的那 你也可以说就是 WeWork 我觉得 更像星巴克 所以 对这个
+
+[42:15] 区别是比较明显的 我也 也觉得 很 对在下 比如我知道在 WeWork 在一些很多的这种 美国和硅谷的一些 coworking space 他们的 founder 他们其实 很多时候 有这个 理想主义的一个背景就是他们他们都
+
+[42:38] 呃他们在呃在长大的时候他们思考了这个呃就是我们 Virtual nation 但是他们 没有很成功 因为他们 没有足够了解就是 做一个 文化是很难的就是不能一个人
+
+[43:06] 就直接 再写一个那个宣言就写就是我觉得 一二三次我我支持六七 8 我反对 90 十一 发一个文章就说这个是我们的 culture 那 谁跟我 80 以上统一就可以来那就做一个社区这个都是不可能的 就是 文化的这个
+
+[43:31] 改变的过程就是都有那些在我 文章里的 写过的那些部分就是有 就是他 的一部分就是 有人 就是有知识分子他们在 理论但是其他的是那大家跟那些跟所有的 人记住的理论会做什么那然后他
+
+[43:58] 他们做一些事情 之后那些 理论他们 自然会怎么发展会这样会 这么演化 对这个都也是重要的但是如果你 只 做一个宣言和你就是发布你说如果你 同意你就可以来我的办公室那这个一定会失败的
+
+[44:21] 所以我觉得 其实对 4Seas 和 已经把可能把最难的部分已经做好了 对那第二个问题也是有意思的就是这么 这个 4Seas 可以 跟 清迈去结合 对因为我发现清迈这个城市是
+
+[44:45] 是一个很有意思的城市就是我 就是我 来过这个地方可能现在 来过 4 次我发现 大概可以说这个城市有三个层 第一个层可以说是 这边的这个本地的这个 北边的泰国的 文化就是包括
+
+[45:09] 这个 Lanna 包括这个泰国的 语言 包括 比如这边的 有很多的 素食那个 vegetarian food 是很好的有很多的 那个有那些和尚 就有有很多很多不同的就是第一层第二层就是
+
+[45:33] 很多中国人 都来这里 就是 其实这个疫情很流行的那个那个电网那个比较著名的那个 知识分子 他可能 一年或者 两年前他写了一个 枪的那个文章他说 对对他 关于那个清迈作为一个
+
+[45:58] 就是中国人 就是去啊来这里的呃呃呃的一个呃的一个建就写了很多第三 呃就是这个 西方的可以说这个 h ip st er 的文化就是可以说大概是 喜欢那个 avocado toast 的那种人对 所以的就是 就是
+
+[46:21] 很明显 的可以看到的这边的山 村就是一 其实就可以在这个路上就可以可以走就可以看到 就是有一些 本地的 什么宗教相关的 地相关 的地方有一些很
+
+[46:44] 传统的 100 米之后就有个火锅店那下一百米之后就有个大妈 对这个 洞穴就是很有意思的 然后我发现的这个 我对我所以我觉得
+
+[47:08] 其实这个 4Seas 这个 j an 就是我觉得其实应该在 不过跟三个都有好的关系是最好的 因为 因为如果要就是最有意思的新的文化他们都是 也就是都是 呃就是他们都是
+
+[47:31] 有多个 来源就是一起呃一起混合的 现在就知道的在一下这个 4Seas 就是这个 中国的就是好多这个社区包括 包括这个区块链的还有包括 很多是
+
+[47:58] 不同的 思考一些 哲学 跨界的群 还有 更多 还有一些 你是做各种技术行业的还有现在跟的那个 清迈大学有更多的合作这个是很好的 对因为其实跟那个
+
+[48:22] 大学有更多的合作也是一个很重要的 一点就是 可以吧 可以更好的结合 就是在 大家 在这里 要做的那个技术和 城市的一些具体的需求这样就有可能 可 持续的稳定 的关系所以
+
+[48:51] 大概觉得现在 的位置 是好的如果也可以跟 一些其实也不一定 只需要跟清迈的大学合作我觉得 一些 泰国的 大学或者其他的社区合作 也会重要的 但是这个
+
+[49:18] 就是跟 local people 复杂的 是一个复杂的话题有一个原因就是 就是 大家都在都很 希望跟一个跟 local community 有关系就是有更深度的合作但是 有一个问题就是
+
+[49:41] 如果你 做的一个社区它有一个 很 就是 如果它呃它在 思考的话题是很特色的那 比如 是如果做一个就是比如什么 zero-knowledge 的那个密码学那你也可以思考那在清迈现在知道那个
+
+[50:05] ZK 的密码学都认识多少应该不多啊所以 其实 做到一个真正的 穷合作是很难的 我也 发现就是有一些 人他们在 做一个错误就是他们会觉得 跟 local community 有结合是一个义务就是他是一个
+
+[50:31] 如果他们是好人他们需要做的所以他们思考那什么是 local community integration, 可能让一些 local people, farmers 就是 给做一个 markets, 来卖他们的好吃的或者
+
+[50:57] 或者放他们的音乐或者 就是 他们的宗教相关的东西 但是 这种 链接啊就是是很 强迫的所以是不可 持续的很重要的就是找到一个真正的 两边都感兴趣的一个合作
+
+[51:21] 的意见所以 我希望 这边可以 成功 下周在清迈大学 CMU 有一个以色列 localism hackathon 是吧
+
+[51:45] 所以如果大家想打 hackathon 的话可以参加 localism 的 hackathon 我觉得 Vitalik 对清迈很了解 我们看下一个问题 Holiday 在吗哎好 hello 我想问的其实这里面是两个问题但应该也会有一些交叉
+
+[52:08] 第一个就是因为 技术无论其实对个人来说还是对现在的社会来说肯定是一个就是我们都要去运用的一个趋势但是技术可能这个是我的刻板印象就是它往往是比较注重效率然后它产出东西也是比较标准化然后 有些时候 技术 可能会
+
+[52:31] 给我们一种冷冰冰的效果但是我们 希望的就是真实的生活其实是 需要更有人情味的更个性化的更灵活的这个可能是技术可能在现阶段还没有办法很好的 就是一步到位的去满足我们真实的需求的所以就是在这个过程中 我们怎么用技术更好的去创造去服务真实的我们需要
+
+[52:57] 的这样的生活。然后我再接着说第二个问题 就是我们 在进行这个社区建设的时候 会有一个悖论就是呃我们希望说就是社区里面传达的很多好的理念好的生活方式可以服务于更多人就是从这个社区传递出去让更多的 这个普通人都能够
+
+[53:22] 就是体验到这个社区里面美好的 价值观 或者是 我们所 崇尚的一些生活的方式但是 往往就是社区是比较小众的它是比较去中心化 的所以 那在这个过程中 就是怎么样让这个社区里面传递的一些美好的价值也好或者是它社区里面的一些技术也好更好的去服务于
+
+[53:51] 更大众的人而不是只是社区里面一部分小的精英 就是我其实中文也有写就是是小部分精英的自嗨 嗯这两个问题 那我
+
+[54:17] 好奇就是要问你一个问题就是 4Seas 这个空间 现在 有什么 有意思的有很特色的一些技术的用途用处 任何方面的技术呀
+
+[54:47] Shade, Sanchia, 4Seas. Anyway, 4Seas. Wi Fi's. Hi, Ona. 还有 我们那个 在座我看到有很多还是 我们对
+
+[55:11] 加密还有区块链 感兴趣 的人 他们有的时候住Mountain View 不住在这里 对他们是有 研究 隐私 ZK 还有 DeFi 这些相关的事情 但是我们还没有 完全
+
+[55:34] 在在这边落地 落地都知道 对没有在社区还有没有完全对外提供服务 对那其实那个你们做的那些午饭其实 这个算是接受我觉得 是就是那个 Bryan Johnson 他就是研究了很多就是他有自己的
+
+[55:57] 很深的那个 的想法 就是关于那些 再去健康的 他的那些思想是他就是做了好多 measurements 他就是看了很多 很多人的研究 我们不好意思说吃饭是个技术 不好意思 说 我觉得也是是一个
+
+[56:22] 例子 那 还有一个 其实的又一个很聚集 的一点就是这个 Smart home 就是其实这个 smart home 和 smart office 有
+
+[56:46] 技术的领域就是在一个空间里怎么能 有技术在 优化或者在就是提高一些效率或者提高 润的这个感受或者提高安全 包括 很多的 IoT 但是现在 的 IoT 有一个问题就是这个都是
+
+[57:10] 公司做的都是 proprietary 都会把你的所有的数据 都送给一下 不知道 送给谁其实 你们我们 有 类似小米之家的吗 应该是吧 对就是包括对 小米就是肯定做很多那个还有那些那个 Google 和 Amazon 他们也做很多对
+
+[57:38] 那 对是我觉得 对我们啊我们 的这个世界缺乏 这个领域的一个好的一个开源的版本 那所以如果你们 能弄把一些 这种技术在聚在一起就是作为 对如果你们
+
+[58:02] 弄把这个技术就聚在一起就是做一个 好的这个 integrated solution 然后 在这个 空间里的落地就是可以做一个 智能 就是 开源的保护隐私的一个智能家那 这个是很有意思的就是 会有 我我觉得一定会有一些有有不少
+
+[58:27] r un li f 4Seas 就是因为他们去换这个那然后就是第一步第二步是在 这个世界里很多其实很多人现在在思考 这个就是 可以说是 这个数据的那个主权就是 他们不想就是 他们一边向那个自己的数据就是做更多的事情向更了解
+
+[58:55] 自己更了解自己的 environment 但是他们也不想把自己的 数据都送给一下就是不知不知道 送给谁 你看呢那个上周那个欧盟 发了一个 就是就是他们的一个文章就是说 他们想
+
+[59:18] 为了这个数字 主权而支持开源所以现在 他们在一些 就是思考就是用 开源大概就是 降低他们的一些就是 美国那个硅谷的那些 proprietary 下的那个 Web2 技术 和就是其他的 的技术的这个依靠
+
+[59:43] 那 所以我估计 在家 就是在泰国一定有 不少人 在家 关心相同的问题 对就是 如果能 做一些 open smart home, open open hardware 我觉得
+
+[01:00:07] 应该在 在清迈大学可能在其他的地方一定会有人 觉得这个很重要所以 也可以研究这个方向 非常感谢你的建议我看你带来了一只 宠物啊对对对在那边 的
+
+[01:00:29] 对像这个宠物 我们也可以 对这个 数字宠物我要送给大家对对 我要解释一下 对其实这个是我 给你们的那个博物馆 图书馆 对图书馆对那不是在一些
+
+[01:00:52] 那边 有个 s y er p ark 的博物馆吗对 那对所以这个 是什么就是一个 就是那个 空气的质量的很多的那个指标就是就给你看那个 二氧化碳还给那个 PM2.5还有一些 更多
+
+[01:01:14] 这屋的空气质量好吗 就是 对应该有那么多人的地方 来说好 要不要开个窗户现在 看呀 对又开一个门开一个门对开呀 好吧 那好一个开的就好对开就好嗯对一个开的就好的
+
+[01:01:50] 其实我们如果我们现在可以 把所有的 完全开就可以看五分钟之后这个数字会降低多少 现在多少现在 1200 要开开要开开那 要开开对好他 ok 正在 努力开
+
+[01:02:13] 那这个是为什么就是其实我们 开始了研究这个话题 是因为 如果你看那个空气的质量你就看你 就是 被 病毒 感染的那个风险就是因为 包括 COVID 包括 最危险的病毒他们都是
+
+[01:02:38] 通过空气 传染的所以 就是如果那个 CO2 的 袜子是很高的就意味着机翼润很多机而那个空气的 流动不好 所以 如果你 就是您 我们 能更知道每一个空间的这个空气的质量对就是我们
+
+[01:03:03] 能避免 这种就是 可以 其实跟 干净的空 空气因为很多原因就可以提高我们的我们的一个健康但是这个 对抗 病毒这个话题也很也很重要 对所以第二个那个
+
+[01:03:31] 就是 建议 就是 你们可以买那些这么说那个空气的那个过滤器对再一些把一个房子也没一个房间里 就是如果你们放你们也可以看到 那个应该第二个数字那个 PM2.5 会降低很多但是 那些过滤器他们对他们的一个
+
+[01:03:56] 作用就是他们把那个 PM2.5 会降低 第二个 作用就是 他们会把 r un 的那些 病毒也会去掉 对所以就可以把 4Seas 做成 这边的最健康的一个空间就是 第二那 然后我觉得还有其他
+
+[01:04:20] 的原因是有意思第二个原因就是 他又一个内置的那个游戏 就是一个 类似于日本的那个 Tamagotchi 就是又给那个数字宠物那 那个空气的 质量越好你的那个数字控呃数字宠物越呃的 会越越健康 对就是吉儿第三
+
+[01:04:44] 他 有一些 内置的那个密码学那 对这个有意思那就是 为什么 是因为 其实那个 CO2 这个指标是 其实 如果放在所有的 房间里 这个 这个数据可以告诉你
+
+[01:05:09] 很多就是比如 如果你是 知道一个房间的那个 CO2 的那个 waf le 你 就能知道第一什么时候人在第二什么时候人在什么时候 人在 人进去什么时候人出球如果
+
+[01:05:32] 人在里面什么时候他们做各种运动 所以这个 其实也 因此是很有啊 对有很多问题 的就是你 对其实我觉得 就是在 思考那个 digital surveillance cameras.
+
+[01:06:01] 大家都在思考那些 就是 cameras 但是 呃 就是摄像头 但是大家都不呃呃不不思考有我 未来 20年会有很多很多 其他的就是可以看各种数据数据的设备会进来
+
+[01:06:23] 为什么因为 大家现在 看到了这个 COVID 他们知道 下一次 疫情会发生 大家现在所有的 做什么 健康 什么 烟浆那个生命 就是不管是谁就是不管你是
+
+[01:06:49] 支持 Bryan Johnson 的还是 就是思考这个 病病毒 的文集还是 你呃就是做一些跟主流的事情 就是不他们都 有一个他们都同意的一点就是 健康的未来就是数据 为什么因为 如果你 有这个数据
+
+[01:07:13] 你才能 知道为了 提高健康需要做什么 所以我们 Data collection. 有很多很多的 data collection 默认 的结果 就是因此会降低很多 就是
+
+[01:07:36] 比如 如果 就是现在 还有一个滑稽就是那个 wastewater collection 就是在一些就是从那个洗手间那个 就是下去的那个水他们在看就是他们 他们 想看 那会有没有病毒就是有什么样子的病毒就是什么通过 这些信息你就可以知道就是一个
+
+[01:08:01] 会不会有新的疫情才开始 但是你知道这些信息你就知道在每一个房间 都住在哪里 所以有很多很多这种就是很难 你就 很难都想到的但是但是 会有很多 效果
+
+[01:08:24] 的那些 新的 对这个数据的这个 中心化的一些后果那这个东西是做什么的就是他 Differential privacy, JIFHE. 密码学的英雄
+
+[01:08:47] I'd say 用 那些星期 可以 发到一个地方 所有的设备就可以 连接在一起 那可以跟大家的数据做一些研究
+
+[01:09:09] 但是同时会包括每一个人 的隐私 这个就是这个密码学的 原来 的目标就是你可以同时 从大家的数据 就看到 你 向 找到 的信息 一些 计算的结果但是
+
+[01:09:33] 其他的信息都不会 暴露 所以我们 有这个的一般人在这边其实 有 很聪明的人 比较努力 地做到这一点为什么因为 在这个 设备里面有一个很小的一个
+
+[01:09:56] 芯片 那在一个 很小的芯片 芯片里他们 还是能 做一个 ZK 的证明 就是但很多人 都觉得不可能 作为一个 zk-SNARK 是一个 需要一个很大的 就是制造一个手机 那但是现在这一个特别小的那个芯片厂也可以做
+
+[01:10:22] 对所以我们 希望把更多的 smart home 的技术里面可以放到更多的这种东西 那现在 的就是这个 开源的包括隐私的 未来的 可以说第一个例子 好 给您
+
+[01:10:46] 谢谢谢谢我们收到的第一个礼物太好了 没想到他叠加了这么多想法嗯 然后我们今年其实 2026年 4Seas 确实有想法做一个 biohacker 的一个一个一个检测中心所以到时 有思路再给你探讨我记得你写了个 blog 专门讨论 open source hardware 的一个文章对有机会
+
+[01:11:14] 我们可以再过渡你的开源硬件的想法 我们回到这个问题 好啊 等一下是不是 在想是不是已经回答回答了还是 我也不知道啊 我觉得还是回答了很多而且给了很具体的实际的例子也给了这个社区很多的建议
+
+[01:11:40] 啊然后就是第二个问题我还是想就是从就我们比如说从技术跳出来 那么这个 社区 它作为一个个小的节点嗯它是 应该就维持它是一个独立的小的节点还是说它可以支撑一张网 然后怎么样就是如果说答案是的话那么
+
+[01:12:05] 怎么样让一个个小的社区的文化和它的一些里面的技术 更广泛地应用到日常的生活中 在这里 我觉得 有两个答案第一个答案是这个节点 和这个清迈的关系就是 可能最好的
+
+[01:12:27] 结果是如果有一个渠道就是在这里 大家做的东西和大家 在家 试验的东西如果 他们 能做好的话如果他们落地的话那 下一个 更大规模的 可以落地的地方是什么
+
+[01:12:51] 那就是 很多对比如 我说过 的很多的 这些 数据有关的呢对有可能 在大学 可能可能是 做的在一些其他的学校有可能也可以 其实这个 open hardware 这个话题如果做得好呢 open h ard w a re 本来是一个
+
+[01:13:18] 给每一个人机会就是做自己的芯片的那 有可能 也有一些 那个 smart city 的这个应用所以 应该就有更多的一个渠道就可以思考这一点就是 第二,这个节点 和其他它的节点的关系就是因为 如果在这边把一些事情做得好那
+
+[01:13:44] 类似于 4Seas 的节点 在其他的地方 也有很多 可以 从 这边学习的也就是 如果把这个 Bryan Johnson 的场景做得很好那有可能 很多的 Bryan 做其他的剪的 Bryan 会这样就是把它于是
+
+[01:14:07] 一开始把它复制了那复制了之后就开始做自己的一些实验 然后 就是 有可能一个 很重要 重要的地步就是让更多人就知道就是在这边在发生 什么 因为有我有感觉很多
+
+[01:14:30] 人就是现在还没有知道就是 现在对其实这个问题 就是怎么能保持 这个地方 不不变成一个无聊的 coworking space 就是对也对于 4Seas 我不是很担心的但是对于 很多其他的 那些 可以说居住楼的那个 粪叉或者粪叉我有时候会担心的
+
+[01:14:56] 他 Okay. 4Seas. Okay. 翻译不出来朱朱楼 好吧那没关系的 Okay.
+
+[01:15:23] 就是我每次看这个翻译 我就觉得很搞笑 Middle school. The well, The United States is actually okay. 感谢感谢我们下一个问题
+
+[01:15:49] 对下一个环节因为 我们今天时间有限 然后我们 6 点半还准备了社区食堂晚餐 简餐也是布林江省某些同款的所以 上飞之后也可以去看看
+
+[01:16:12] 我们的 社区食堂做怎么样 然后我们 大概最多还能回答这两个问题之后呢我们会开放 线下观众现场提问然后 那个麦克就在中间 如果想发言的话 去排队然后 你们可以在线下发言然后我们再 看线下的这个问题还有吗
+
+[01:16:37] 奥斯卡在吗 不在就下一个 如果 我们可以 想设计开源 ok 好看 Oh, how can
+
+[01:17:00] 一个 b r un 又该如何在不同部落之间 而迁移与切换 对就是其实这里有两个不同的问题就是 对如果有一套衡量一个 社群价值的那个的指标它会说什么这个 对
+
+[01:17:23] 这不知道 对这个 指标的这个 概念总是比较难的就是 我发现 就是区块链开始 就是 w at 不是 w h 有这个感觉就是那个 区块链 这个就是 crypto 这个社区开始了
+
+[01:17:47] 很关心 那个指标的时候就是区块链变得无灵魂的那个时候 就是 十年 前大家都并没有思考什么 gdl 对现在大家都是 在 gdl 是什么 product market fit 什么 就是一个
+
+[01:18:11] 这么看 那个项目是更大的那个项目是更小的但是 总是 那些对那些 metrics 他们他们都有这个问题就是一个 生态边的国就是 怎么说 就是 有一个新的 那个指标在出来
+
+[01:18:36] 的时候 它可能是一个好的指标就是会 测量一些 社区的 成功或者 健康 的一些地方 但是如果 一个指标变得 重要就是大家都 那那个生态会变得
+
+[01:18:59] 过于 optimize for for the metric. 他们总是会发现 这个指标 和 他们在 背后 他们本来想要的目标之间的区别
+
+[01:19:22] 然后你会发现你 越追求 那有可能你离一下你的原来的那个目标会变得更 远所以 对 这是一个指标的那个 longevity 总是不是 永久的 好办
+
+[01:19:47] 对这个有意思就是一个 Political spectrum. 好那第二个 问题是什么对 b ro n 就是怎么可以 迁移那
+
+[01:20:09] 问题我觉得我们不需要 官方 的解决就是迁移这个概念是一个 大家 自然会迁移就是自然会知道就是就是 累了就可以去参加个 hct 或者就是去参加个 ETHBerlin 或者如果完全不喜欢那以太坊就可以去做一些比特币的事情
+
+[01:20:35] 那 对这个 都可以的就是不需要大家给大家告诉大家 这个是 这个从 一个社区社区到另外一个社区的那个迁移的那个协议大家自己会发会发现了 那个你的问题是哪个你来说
+
+[01:20:57] 对啊我 是米其实这个是我的问题但我刚才其实已经改了问题了因为 通过一个一些新的思考 这个更像一个是好像在外部去看而没有作为一个真正的建造者和真正的投入者的一个问题就是不够不够真诚 现在我想提问的是
+
+[01:21:21] 就是我想问如果说我选择了一个社区我又想跟这个社区产生一些 真正心理上的认同感或者是归属感但是这个东西如果诚实的来讲的话我们是不能够去 去勉强的或者去就是 去我明明很一般但是我非要说我很喜欢 但是我想问的是我们怎么才能够
+
+[01:21:44] 就是可能会有这样的机会像我 那我可能可以去体验更多然后我就知道我自己要什么但是这个里面的过程当中它会有一些 自我确认的部分还有就是 自我不够确认的部分 我想问 的是就是我们应该怎么去 面对就是这个部分
+
+[01:22:07] 就这个部分的话如果说 我我 很开心的过来了但是我就觉得哦 很一般然后它不是它很一般是它没有契合到我的一种 需求我没有产生一种归属感当然如果说我很幸运我来到了四海或者是我来到了哪里我遇到了一些人 然后我们 感觉到很开心很快乐然后我因而确定了我自己的一种存在或者一种归属那我们可能会愿意为了这个社区去进行一些共创而不是只是一个使用者我想问的就是说
+
+[01:22:41] 那我们怎么 就是有一些很好的方式可以让我们 能够非常幸运地选择到这样的社区或者让这种幸运的事情更大几率地发生在我们身上吗而不是一遍 一遍一个一个地方的迁移或者是一个一个独立的个体 对 但是
+
+[01:23:06] 对这个问题 有意思 但是我也不知道 就是 就是我有感觉我 还没有 更好的答案就是因为 好像 就是去 一个 去一个地方就是自己看就是自己参加
+
+[01:23:28] 最好的 真正了解它的一个方式就是 其他的方法的 错误很多时候更多 就是 如果比如你不参加一个社区但是你 也 可能在家往上看台那很多时候 你从 比较遥远的距离就会有感觉那些人
+
+[01:23:54] 就是我自己人他们就是我很喜欢 他们在想什么他们在做什么 但是你 坏了你会发现 他们 不是你想你之前 像像的样子 我自己 发现有很多 很多的 Internet community 他们都有一个互联网的一部分他们也有 in person 的一部分
+
+[01:24:23] 有一些时候我也发现我喜欢 社区的一部分 不喜欢 in person 的一部分 j0by 也这么讲的就是 我觉得 参加 一个 社区的但是 保持一间 jby 也是没问题的但是 我也不知道 有没有一个就是毕业
+
+[01:24:46] 你自己就试验来看看来看看有没有更好的方法 感谢你对片是哪个问题 主持人你好 Vitalik 你好
+
+[01:25:19] 我想我比较好奇的问题是就是在 您提出这个设想 Let a Thousand Societies Bloom 的这个世界里面我们会看到就是你也提到这个退出权很重要 那可能我们会看到因为我刚好也很感兴趣这个 digital nomad 还有这个 financial independent 这些人 是我看他们是高度重合的然后也更可能
+
+[01:25:42] 拥有这个退出权因为他可以选择在不同国家工作也可以选择参加这个Zuzalu的不同的这个那个试验那对于这样的人群来讲就是他们可能会很多地投入这个 1000 个这个 社区的实验当中那么什么样的这个中间机构这个 对这个 intermediary institution 就会在未来 10 到 20年内持续演化然后会成为就是
+
+[01:26:09] 真正可以活下来而不仅仅是像之前的一些 一些社区的实验因为但我也知道这个就您提出的这个观念就很多是要在这个持续的测试迭代就像敏捷开发一样但我还是会很好奇就是您是否在这个过程中已经看到了一些您的直觉已经看到一些愿景一些共识下的社区更可能会活下来 对我觉得
+
+[01:26:36] 对 现在 有就是我们 能看到的一些就是第一个很重要的就是这些 物理的节点 这个这个 已经是 比较重要的 第二就是那些 网上的那些社区 的组织就是他们也不不就是
+
+[01:26:59] 如果他们是比较模糊的这个没问题如果他们没有很多智力的这个也没问题就是帮助人就是 互相知道互相了解就是帮助 一些沟通这个 也是很重要 的然后 如果要 思考这个未来那 第一个问题就是
+
+[01:27:25] 在 思考 你是具体的 什么样的 人因为这个世界的不同的人有完全不同 的需求 就是 比如 现在有一个 现在发生的事情 就是现在这个世界变得更不稳定那现在
+
+[01:27:50] 有很多 国家的很多人 他们 希望 因为很多的原因从他们的国家搬到另外一个国家或者至少有一个 第二个那 但是如果 他们要这么做就是第一是他们怎么拿到签证
+
+[01:28:13] 这个对很多人来说是有问题的然后我 有一个 想法就是 Collective bargaining. 社区 在就是一个 社区 作为一个社区一起在申请可能是一个更好的方式因为一个社区反正会比人家更知道自己
+
+[01:28:41] 的人 是谁一个社区 更能有一个 reputation 就是不需不需要只看每一个人的什么文件他有没有就是他的工作是什么他有没有上什么大学他的护照是什么等等等等 对所以就是就是这个是重要的第二 他
+
+[01:29:04] 来了之后他要去哪里 那就是来了一个爱心 的国家之后 一个人 的很坚强的一个 感受就是 很寂寞第一第二是不知道怎么 跟本地的那些 institution 在沟通第二
+
+[01:29:26] 在哪里找到工作 啊这些我都记得 我和我那个 爸爸和妈妈就是我们 第一次来我加拿大的时候有不少 这种问题 Intermediate institutions, I should say, yeah, called 这些问题也是
+
+[01:29:51] 很重要的 还有一个是如果你 在 如果你想 startup founders. Startup founders startup founder 可能你不管去哪里就可以
+
+[01:30:15] 拿到一个签证所以这个问题是更简单的 但是 如果你想 做你想做的 startup 呢有可能有更多的 监管相关的问题也有找投资的问题 有可能 还有一个 是你的 一开始 的就是 1000 个用户是谁尤其是 如果你做开源的那
+
+[01:30:40] 做开源的总是更好如果有一个社区就可以帮你 所以 可以你可以多思考这些问题可以思考那一个 组织怎么能 多 解决这些问题还有一些 就是 比如现在有很多
+
+[01:31:06] 润在亚干进去这个万家问题这个话题但是 做作为很多万家问题相关的事情他 需要很多的 需要很多的材料需要很多很难找到的材料就是你 可以去那个 Bryan Johnson 的网站他可以给你很多建议但是如果你
+
+[01:31:29] 去一个新的地方就是你去那个 c as u c st e in 或者 一个就是可以选择一个拉美的一个国家那你怎么能找到那些很多时候就找不到很多时候在就是 要么完全找不到要么完要么 特别不方便 那有没有办法 给呀解决的给解决到 nomads 啊就是跟呃
+
+[01:31:54] 呃 联合 解决这个问题对这个也可以思考对所以对我觉得为了做一个 institution 做一个 institution 就是一个失败的方式但是如果你 从 一个 ch un e 的那个 需求开始思考 那 更容易找到一些有意思的答案
+
+[01:32:19] 那其实还有一个 例子 就是我觉得 有很多人 就是如果给他们 就是可以 给他们 一个 成本 很低的但是 同时还有舒服的生活 那他们就是为了 开心不需要什么高的工资他们就
+
+[01:32:42] 不需要很多钱 但是 就是他们的开心会从 人和这个社区和这个环境 来的那 对于这种人 其实 做一个他们可以生活的地方 是不是很难的但是 有很多的事情他们是需要
+
+[01:33:05] 是需要规模才能做的就是如果你有一个目标比如我想 给一些 20 岁的大学生 一个机会 你可以去这边可以去这里你可以 就是那个月付 2、000 块或者 3、000 块或者一个比较低的成本 那然后你有地方住还有一个
+
+[01:33:31] 比较舒服的几房住有空调 有同事 有一边好吃的一边健康的 一边 就是不同的也不是每天都不一样 的一个食物 然后也可以 学习 然后把这个都放在一起这个等一下
+
+[01:33:55] 第一 都有很多 是有帮助的第二是 如果你 这么做也可以按照 更低 的成本做 很多有意思的东西 因为它 其实都有很多的 比如 我就是在思考自己的 可能
+
+[01:34:18] 14 年 15年前的自己就是如果我 来了一个地方就 可能 找到了一个人 就是愿意 投资可能 5万 或者 4万就给我一个机会在那边待 两三年就在一边学习一边开发 open source
+
+[01:34:41] software. 做一个可以投资的东西也有可能 不回这个没关系 那这个 对我大可能会 好的 所以 其实这个和在 跟那个Balaji在建那个 Network School 这个做的设想是很 类似的
+
+[01:35:04] 但是我觉得 做的 成功 就需要 把温哥华的这个部分 做得很好 对所以得这些就是有很多 不同的有意思的 点就是你可以开始思考一些不同的问题你也可以思考比如 那个大学的那个 24 century 的这个版本是什么
+
+[01:35:30] 或者 有一些我也知道那个比特币的社区里他们都喜欢说那个就是要不要作为一个 核心 开发者加和尚 就是他们说那个 Bitcoin monastery 他们一直想做就是这些都是有意思的那 b ur n er 就在
+
+[01:35:54] 想问你一个问题就是你自己那个希望那个五年后这个 4Seas 这个地方会变成什么样子就是会有什么结果 感谢啊我 第一个希望它不必关掉 好啊对 因为我们 毕竟不是泰国人所以我们
+
+[01:36:18] 在 可能会 碰到很多 政策或者本地的一些过程 所以 如何不必关掉我们可能需要去想那这五年的要想的问题 第二个 就是我们 统计了
+
+[01:36:40] 近一个月以来的 events 的数量 我们大概 活动一些清迈加上瓦猫加上相关的活动我们大概一个月内超过了 70 场 非常多 然后最多的是 ai 其次是 longevity 再其次是 crypto
+
+[01:37:04] 我们 发现一个问题就 crypto 很多门槛参与者他不知道怎么参与就是 刚才他提的问题就是 有些人想参与建设 但是如果这个社区参与的门槛太高他只能变成一个 体验者消费者
+
+[01:37:27] 所以他 确实有 是有门槛的但是这个门槛如果一直很高 导致大家进不来 那就变成了我们是不是要做 education 的问题 但是 education 这个事情 我们又社区又承载不了这么重的角色 对但是我们又觉得这个事情很重要
+
+[01:37:53] 所以刚才你提 Network School 的时候我们 关于 education 这个事情我们也想了很久 我们发现 参加 在地的有些 c li p it al 活动 很少 有十几岁的孩子 大部分人 都是像现在的成年人 但是 十几岁的
+
+[01:38:17] 小孩他 正是一个 知识好奇心很旺盛的时候 但是现在学校也不提供这样 非常不一样的知识面所以 回到你刚才说的问题五年内第一个我关心它不被关掉第二个 怎么能陪伴 更多的小孩一起
+
+[01:38:40] 对这些 知识点或者对这些发展的方向有好奇心 对其实我觉得 一个有意思的可以思考的方向就是一个 如果有一个很成功的 比如 18 岁的或者 20 岁的男生的学生 他想
+
+[01:39:06] 参加 什么就是他在做 ai 他想 进入 ai 这个行业 他现在 他的默认就是他要 去旧金山 但是去旧金山很难 然后那边 很贵 所以如果你想 做事情你唯一的可能就是交给投资人
+
+[01:39:28] 在一个 公司工作也没有办法做很开源的那 有没有可能 在把 这边做得足够好就给一下就 就真正可以给这个旧金山的就是对于这些人来说的一个竞争对手 那我应该去杭州啦嗯对杭州也可以杭州好多 ai 公司对
+
+[01:39:53] 好就 那至少需要有个 3 第三个对不对可能第三个伦敦第四个清迈你也可以做呀 对就是我 对我觉得有一个就是 有一个 就是不同的一个你就是有一些地方就是比如那个旧金山比如杭州比如伦敦
+
+[01:40:16] 他们都 都有 是那种大公司的一些中心但是不一定 就是不一定需要大公司的中心是一个 技术 的生态的唯一的种群嗯对就是比如 现在在 以太坊的这个社区里那个柏林他有
+
+[01:40:39] 其实这个公司这个方面它不算是特别成功的但是这个社区这个方面和开发者这个方面就是 如果你 就是如果你 20 岁你就像有了解很多以太坊的技术相关的那你就可以去那边就可以很成功的 对所以做
+
+[01:41:02] 更多的这种地方我觉得 的世界世界也是好的 对那 好再思考就是其实 应该问你更多问题对 那 Can a community have strong identity without strong exclusion?
+
+[01:41:28] 有意思你要你要回答吗 Exclusion. Yeah. 这里面我有感觉的是
+
+[01:41:53] 很多今天很多 706 的小伙伴他们经常说我是 706 的 当然我也听懂很多人说我是来自 Ethereum community 的 但是我 其实也试图理解 就是因为 我在 Ethereum community 待的时间还比较强我大概大概知道以太坊到底想建设什么
+
+[01:42:25] It's okay. Fine. I'll I'll translate. Okay. Keep going. Okay. Keep going. No. I Yeah, okay. Yeah, okay. I think, I mean, I think like my answer to this is like the best kind of exclusion
+
+[01:42:47] is the kind of exclusion where the people you're excluding themselves voluntarily don't come. Okay, one more example. Who here thinks that Solana is a better blockchain than Ethereum? Okay, zero. People have been excluded, but there are no walls, there are like there is no mind reading gate,
+
+[01:43:12] right? So you know, there's no place where like you have a border guard, check your social media history, right? There's nothing. But still we have achieved total exclusion. And I think sometimes, you don't want total exclusion along all of the different mean, like, axes at the same time, but, you know, you definitely want
+
+[01:43:38] a community that's, like, aligns on some bit Yeah. Yeah. Yeah. Mhmm. Yeah. Mhmm. Yeah. Mhmm. Yeah. So I think like yeah. So my view was like, you know, like if you can, you know, like the yeah. Yeah.
+
+[01:44:15] Yeah. Mhmm. Yeah. No. No. I think it's it's very important to think about. Yeah. And like I think, you know, like you know, like the best thing that you can do, right, is to like I like I think if people do kinda like like select themselves out, then like that's generally the healthiest way to do it. Right? And I actually think
+
+[01:44:38] that is what like, that is one of the things that makes a a successful community is that it's just good at naturally attracting the the right kinds of people and at naturally being unattractive to the wrong kinds of people. And when a community becomes attractive to the wrong kinds of people, then often it has to make a hard choice between making very hard barriers
+
+[01:45:06] versus just having its direction completely corrupted in some way. Yeah, I think a lot of that happens to crypto and it happens to a lot of Internet communities and it's importance to avoid. I mean, I think community is like this. I mean, in person,
+
+[01:45:32] you generally have more opportunity to just have a community sort of automatically create more of those things. Think on the internet actually, yeah, encouraging the right kind of community to show up and encouraging the wrong kind of community to not show up is often more difficult. And I mean I think they're like the biggest missing like one of the most important ingredients is just bravery, right, is just the willingness
+
+[01:46:03] to say things that makes the wrong kind of people unhappy. Sometimes, I mean, I'm a very agreeable person and so I feel sometimes like a desire to try to be inclusive of everyone, but sometimes you have to like stand up and say like this is a like like a you know, like my clear opinion and even to like for people in a community together to be willing to say, this is our position to a point where
+
+[01:46:36] people who are going in a different direction, they immediately understand that this is not the sort of place where they will be able to succeed in pushing ideas over. Yeah. Yeah. So I think it's important. 好我们下个开放麦
+
+[01:47:15] 他们说排队然后我就第一个过来了 然后 非常开心然后第一次到清迈然后我是从美国过来的我住在硅谷帕洛阿尔托然后我 Social network big data, did many bodies.
+
+[01:47:38] My professor, social network, 一个人 Facebook, and Twitter. 关注这个社交网络的应用的方向 然后上一次见到 Vitalik 是在新加坡的那个 NTU 那个
+
+[01:48:01] 文刚 教授的那个活动上对所以就是最近就 读了V神的很多的 文章 然后 正好 就是 有四海的朋友 說 你會有關於這方面的分享所以我就 特意來了清迈然後從我的感受來講的話就是
+
+[01:48:27] 線下的這樣的社區 是在 信息 或者说 人群的一个 形成一个社群或者是影响力的一个传播上面 是有很就是很有用和很有意义的一个 作用然后 也 根据刚才的分享有很多启发然后
+
+[01:48:53] 关于就是线上的社群和线下社群的一个 一个映射关系和怎么能够相辅相成的 更好的 结合 所以其实也想说 问一下 V神 关于技术和 ai 这些领域和信息这方面
+
+[01:49:18] 是不是说 就是说未来 有可能在 社群的在去中心化 的这种 形态上 可能会有一些新的 产品或者是工具 无论它是开源的还是 非开源的就像 Discord 还蛮成功的然后
+
+[01:49:41] 很多年前在中國是有一个人 發明了 Discord 然後形成了社區這樣的一個然後我就說那很多年 了我們是不是這樣的一個去中心化的無論線上和線下的运营方式 然后会有一个新的升级然后可能会是一些产品或者是自发性的一些 open source 的 tools 或者说是
+
+[01:50:07] 更好的就是我的感受想说的就是我来到了清迈 没有去 t our 就是没有去美食和风景来的其实我是因为四海这样的社群然后邀请 到了 Vitalik 然后更想去 做了很多这方面这方面的 research 很多年我就想他有没有很好的 应用方向然后也是想看说如果
+
+[01:50:31] 这是一个可以探索的方向 会不会和更多的 大学或者是 一些学生 然后我们去做一些这方面的 合作或者是研究 然后因为我那个老师他有做了那个 co om o 。 ai 的就是基于 social network 的一个 database 就是在 硅谷还没有名的然后还有一些
+
+[01:50:56] 哈佛和 m it 的教授然后其实就是想那我自己不是数字货币 但是我做 venture capital investment 就有超过 15年就是我也投了很多工具 然后就我是中国那个脉脉的就是 LinkedIn 的投资 人然后就 大概类似的 就是 ne xtg
+
+[01:51:18] en er ation 的一些 基于 social network 的形态会是什么样子的谢谢 就是 能不能就是总结一下 这个环节 对对怎么说 对没有没有啊 那个就是 具体的问题就是关于这个 ai 和这个下一代的那个社交网络是什麽会什么样子的
+
+[01:51:49] 还是 对 就是它在去中心化 的就是结合 数字货币 生态的就是 后面会不会有一些 新的形式 对就是我就说传统的 ai 和这个蛮割裂的就是它会会有一个 结合点对对这个就是在社交网络这个方面我觉得
+
+[01:52:12] 现在是一个很好的 事呃事件在做更多的一些实验因为现在 对那个 Twitter 很多人是 不满意的所以大家 都在思考有没有更好的 alternative 但是 从 0 开始做一个 a u th ro 是很难的就是
+
+[01:52:37] decentralized social 的一个 很重要的一点就是 如果基于 de 在做一个客户端那所有的 做不同的客户端的团队他们 至少可以共享他们的 network effect 所以你看 现在有很多 不同的
+
+[01:52:59] 一些 Farcaster 的客户端现在还有不同的 Lens 的客户端 对所以这个都是很难 现在是一个很 有意思的 生态但是我也有很长时间 很长时间 Twitter Facebook.
+
+[01:53:27] TikTok Twitter. 第二个 Twitter Facebook, male woman, MySpace. 如果你要 很成功的话你不能 做一个 Twitter 加一点点地改变的一个东西你需要做一个完全性的一些用户
+
+[01:53:55] 更好的一个东西 那这个 我不知道 那个 新的东西 已经是什么 它可能会 跟 ai 有关系还有一个 就是 现在我们 还没有 很好的
+
+[01:54:17] 帮助一些社区 做他们的一些 Slack or Discord, 等等 但是他们 现在也只是一个 form factor 就是我们 还没有一个比如 有结合 你可以讨论和可以参加一个借由 和
+
+[01:54:41] 就是可以 再租 组织一些什么线下的活动等等等等 的那种平台所以这个 也可以 support 的那然后 ai 的话 的 ai 那 因为现在 大部分的这个 ai 和social media 的结合就是现在在 Twitter 上面有很多的
+
+[01:55:04] 机器人 但是 我感觉 大家比较同意他们 去破坏这个 Twitter 的质量的但是却 类似于 结合 ai 是 要么那个平台自己结合自己的 ai 如果 平台结合自己的 ai 这个
+
+[01:55:27] 算是一个中心化的方式那第二个就是能找到更更好的 那个呃激励的机制 那就是 就是这么给一些那些 ai g l 就是做一些 用户想看的东西但是不给他们用户不想看的东西 所以在这里有很多
+
+[01:55:50] 问题可以思考我们 主要是 需要做更多的实验 所以我 就是今年开始了用 Firefly 它是一个 就是那个 Mask 团队做的 同时是一个 Twitter 加 Bluesky 加 Farcaster 加 Lens 的一个客户端所以我
+
+[01:56:13] 同时只有四个平台都可以参加 就是多 加一些竞争就是会我们呢就能够 有更多的 创新 这样 就可以开设 看一看这个梵音 Give you a branch.
+
+[01:56:40] 我也好姐 英文很重问还是知道其他的语言 完全不会好 Hello. Hi, Derek. Hi,
+
+[01:57:10] everybody. Sorry. I can't I don't want to speak in don't want Taiwan. So was I'm Qin Qin. I come from I actually come from Hong Kong. But our Chinese team is coming from to actually, it will arrive tomorrow. And they our aim here here is to come and introduce a new online platform Mhmm. Which is called the Rural Reconstruction
+
+[01:57:36] DAO. Mhmm. And we we just already running in China. Mhmm. Oh, yeah. And our aim is to integrate the digital cloud and the land. Mhmm. And in particularly, on the reconstruction of rural communities. Right. So I have I do have a question for you. Of course, obviously, without knowing about us, what do you think immediately
+
+[01:58:01] the relevance of our direction with today's theme, which is let a thousand societies bloom? And and what advice can you suggest? I mean, can you explain more about, like, what your project is doing right now? The well, it actually come
+
+[01:58:25] from the road reconstruction movement Mhmm. Which sort of started about twenty year over twenty years ago Mhmm. And have persisted until now. Mhmm. And so One Direction that we the idea grew up in the last year, January Mhmm. And that we need to move or move on and and we should use the the the digital technologies and all the new happenings to to
+
+[01:58:52] to facilitate the integration and and also probably to have a new direction to what we've we've been doing. So we luckily, within a year, we've got the system system up up and and running. Running. Mhmm. And it is actually a web five web five labeled. Mhmm. And we use web two plus web three.
+
+[01:59:19] And so the initial system that's running now is mainly web two. Mhmm. And but we do have the hooks and the and the and the intention to move on to web three. Mhmm. Like using you you to use the SBTs and NFTs and so on. Mhmm. Yeah. So but the basic thing is that we want to,
+
+[01:59:43] yeah, invite the people from our digital nomads and other people from the cloud to to join us in helping to build a new society, particularly in the rural area. And integrating initially, of course, with the with the with the city and on and then on to the
+
+[02:00:06] and then but the base, it will be mainly in the in the rural areas, which we have do have a strong presence since Mhmm. All with all of China for Yeah. Over twenty years. Mhmm. So that's the background. Okay. Yeah. Yeah. Okay. So you have, like, these communities that are doing, like was it was it like urban renewal or like rural?
+
+[02:00:30] No. Basically, in all in the rural communities, villages. And because the we do focuses on rural reconstruction. Rural recon like, what kind of reconstruction? To sort of to rebuild the society, the rural society. Like rebuilding in what in in what ways? So that in in a way that it will have a to
+
+[02:00:54] to be better connected within the within the various nodes or organizations. Mhmm. And also to to broaden the the reach to people who are interested in rural reconstruction. Mhmm. And so that we actually form a a big we aim to form a big circle without geographical limits. Right. But I guess, are you trying to like reconstruct like communication,
+
+[02:01:19] governance, physical Oh, well, it's the whole thing. I mean, it's very in a way, it's pretty pretty deep. We we see all the problems in some of some in China and some particular in worldwide. Mhmm. That for example, what's happening these days in particular over the last year especially. Mhmm. And we want to find a way to actually
+
+[02:01:44] find an alternative Mhmm. Which is based on rural values such as old, more more put it this way, anti capitalist values. Mhmm. Like, we are building the system itself runs or provides provides the loyalty
+
+[02:02:08] points Mhmm. Which is called RISE. Mhmm. And and it is we try to make it totally independent from fiat and and cryptocurrencies. Right. Yeah. And that one would sort of in a way we try to build up the the as kind of community currency
+
+[02:02:32] Uh-huh. Where the values that we that can be represented within those in those points would be would be circulating within within this the entire circle. Yeah. So and with that, we hope to find, for example, we promote solidarity, sort of solidarity economy within the within our
+
+[02:02:55] the PAD or the members and the nodes. Mhmm. And we also will try to make it very open, transparent Right. And and autonomous organizations of the nodes. Mhmm. So they they are all autonomous. But there there there will be a joint collaborative
+
+[02:03:18] coordination with the all the nodes forming the assembly. Which will be the highest highest all power to decide on the things, various things, regulations, the rules, the direction, and so on. Yes. Mhmm. Yeah. No. That gets very interesting. Yes. We're just starting and we're about to open to the public. Okay. What what do you think are your, like, biggest challenges right now?
+
+[02:03:43] Well, one thing it's the that I mean, the the the notes, existing notes have been going on for by people for probably over twenty twenty years. Mhmm. And so there's a sign some sign of of trying to struggle and without bringing up new ideas. And that's what we want to this this part of it is to for people to for especially the organizers and and others to actually
+
+[02:04:15] participate communicate further and also to bring in the initiatives of the of the members. Mhmm. So by post and and joining activities and and things like that. And I think one one thing that could be interesting is that, like, I know in Japan, there's a lot of community that are like exploring, like, making these new rural communities.
+
+[02:04:40] Right? Because right now there's these programs where you can get, like, houses and, like, large amounts of land for, like, extremely cheap or, like, even free if you agree to stay there. Right? And so I know of a lot of people, I mean even both Japanese and foreign coming in like exploring and doing a lot of things there. And I think some of them are also trying to figure out like how to integrate you know, like web three technology and like how to integrate AI.
+
+[02:05:08] And it could be interesting to like talk to them and see what they're up to and exchange some ideas with them. I can't think of any specific names, right, but these definitely exist. Like in general, there are I think close to the Zuzalu community, there's definitely some of these other communities that are trying to do more
+
+[02:05:35] rural things and just like figuring out, you know, like talking to the other ones around the around the world and like sharing, you know, like knowledge both ways like I think could help everyone. Thank you. Okay. Go ahead. Hey, Vitalik. Sorry.
+
+[02:06:01] Okay. My name is Buye. I come from Mongolia. Mhmm. Like The U. Kritter, in the winter, the capital city is the top three polluted city in the world. Mhmm. And I actually got into blockchain because of Ethereum. I'm an ETH maxi, and then the blockchain made me a digital nomad. Mhmm. So I turned from a literal nomad to a digital nomad. Mhmm. Appreciate you for that.
+
+[02:06:27] And so my question is, I really like this format. I think a lot of the people here too, Montenegro and then Chiang Mai two point o. So if we're, like, in the audience and we're, we want to make our city Zuzalu three point o, how do we get started? It's a simple question but very important one, I Where are you making your city? Ulaanbaatar in Mongolia. Right. Okay. So in the capital. Yeah. Okay. I
+
+[02:06:53] think the big thing that 4Seas has really succeeded at, right, is like bringing that community together and like it includes like a combination of like people from Thailand and a lot of people from abroad I think both from China and from different Western countries.
+
+[02:07:15] And so I think the really important first step is just doing that community building and convincing enough people that the place that you build in Ulaanbaatar is like an interesting place for them to like go come and visit and stay in. And like this is a multi year commitment, right? I mean, probably a multi year commitment that requires like fairly significant amounts
+
+[02:07:43] of capital. But and so, you know, like you want some like you you really yeah. I think you want that support from people who are I mean not just sort of well connected in crypto, but people who know when can bring in interesting people from around the crypto world. And I think that would also include a lot of people from
+
+[02:08:11] China, people coming from Russia, then I think also people from The US and Europe because people from The US and mean, well, mean, people from everywhere go everywhere now. And then, like, you want to establish that kind of consistency and, you know, yeah, like, think the community building aspects
+
+[02:08:33] and bringing together the different groups of people that you want to bring is and then giving people a reason to keep coming back is important. I think here Mai, mean, 4Seas is like it definitely yeah. It took years to get started. It took years to grow. And then even outside of 4Seas is I think it benefited from the fact that like Chiang
+
+[02:09:01] Mai is a very natural place where a lot people wanted to keep coming. And and actually I think Ulaanbaatar is like the sort of place where a lot of people really wants to go in theory but they just don't have a reason to go. And so if you give them a reason to go then, you know, that could already help a lot. And so, you know, I would like start with that and then obviously, you know, like do all of these
+
+[02:09:25] like interesting things with crypto and AI and like biotech and different technology and then go from there. Just quickly, we already have a virtual asset law passed and if we do set the foundation in the next three years and then we invite you, would you come speak? Yeah? Okay. Recorded on that. Okay. Thank you, man. Thank you. Mhmm. Time for one more? Time
+
+[02:09:51] for one more? Mhmm. I'm Alexa. I've been active with startup societies and network states since 2016. And my question is a bit technical, so Yeah. Bear with me. When we talk about governance, we talk about it as a technology. So it is the technology of government. And in history, the technology of government has always been downstream
+
+[02:10:14] of military technology. So when we have something like the hoplite formation, that's when we get city states in ancient Greece. When we have something like gunpowder, that's when we get large bureaucratic organizational states like Napoleonic France. Mhmm. And today, we live in a certain military reality. Mhmm. And I'm wondering the network state that we're trying to build, does it follow or try to break this historical observation?
+
+[02:10:40] Is there a form of, you know, there a form of military technology that network states and free cities are going to rely on? Or is it entirely a nonpolitical, nonmilitary derived development? I mean, think one of the like technologies that are indispensable for this is like low physical exit costs, right? Like just the
+
+[02:11:06] practical ability for people to organize and to all come and would come to one place. And I mean, potentially even if you come to one new place and then the political environment there goes crazy, yeah, being able to just like basically pack up and go to a different place. Like that itself is a form of defense, right, because virtualizing
+
+[02:11:28] all the value, you're basically, yeah, you know, you're denying conquerors anything to oppress. And so I think that's one of the really key things. I think another one of the underlying trends that matters, like the the the general economic trends where it's possible to like create value from other for other people across
+
+[02:11:56] very large distances, that's also fundamentally new. I mean, the whole like digital nomadism as a concept is totally dependent on that. I think, I mean of course a big third trend is I mean like the kind of collapse of Pax Americana and like the big kind of global kind of political
+
+[02:12:19] trends and how things are evolving kind of inside and between countries. And I expect over the next few decades that is going to create lots of people who are for various reasons dissatisfied with the environments that they're in today and of very
+
+[02:12:42] different types including rich, including poor, including people doing cultural things, including technology. And the existence of either neutral countries or at least countries that are willing to accept everyone is I think this kind of strategy is to some extent explicitly trying to cooperate with them. Also,
+
+[02:13:08] another one of course is just cryptography. The fact that the digital layer of these things can be made fully protected and not dependent on any physical substrate. So those are probably the things that I would lean on. I mean of course, what we have not seen yet is these kinds of communities literally defending themselves with literal drones or like
+
+[02:13:33] literal nets against other people drones. And I hope the world does not get to the point where that becomes, but maybe yeah. We will see what happens. I think so far the version of this that has been tried definitely
+
+[02:13:56] a version that piggybacks off of someone else's physical security and tries to be friendly yet enough to them diplomatically that they're willing to at least tolerate or at most even actively welcome your presence and will something else be necessary in the future? Mean, I don't know
+
+[02:14:19] the next era will bring. Vitalik 你好我也来自于硅谷我是中国硅谷杭州 良渚 我是一名以太坊的贡献者和组织者吧在我之前担任浙江大学区块链协会主席的时候我举办两次
+
+[02:14:42] 以太坊杭州黑客松也取得了比较好的效果而我现在是那个 706 良渚的那个负责人 我们在去年喊喊出了一句口号来 706 良渚建设中国硅谷也取得了比较好的 影响力 聚集了非常多的人才 公司和各种各样的 好玩 的有趣的人 但是这时候我们就碰到一个很很很大的问题主要有两大问题第一大问题就是
+
+[02:15:11] 作为一个去中心化的创新组织很多时候我们面临决策 方面的低效然后后面导致了一系列 像公地悲剧这样的一些事情这是第一个问题然后由于这个问题 后面就导致了我们虽然中国硅谷聚集了很多人这些人没有留在 Web3 没有留在 crypto 去他们去建设杭州 6 小龙去建设杭州 5 小凤去建设 ai 建设具身智能建设其他的 biotech 这些
+
+[02:15:40] 我想我想听一下 Vitalik 对于这种情况有没有什么样的一些建议帮助我们更好建设中国硅谷谢谢好的对对我觉得得有两个问题第一个问题就是 去中心化 的一个社区是怎么 就是这么达成共识 这个问题 就是本来是很难的但是我
+
+[02:16:05] 其实 去中心化 的这个共识也是也是一种 技术就是可以说 就是我们之前 讨论过那下一代的那个社交媒体是什么那我觉得 一个很必要的 下一代的社交媒体的一部分就是做 更好的
+
+[02:16:29] 让就是社区 做治理或者大雄公司或者就是把他们的资源放在一起做这些事情 的一些 技术那现在 有就是 有不同的 群他们在做不同的东西就是用那些用
+
+[02:16:53] l m 的也有一些 做一些 就是 special purpose 的一些论坛就是我 可能不知道最好的答案但是我们就需要有更多的 Experimentation. 社区之间的沟通这样我们可能都知道什么成功的什么失败的
+
+[02:17:16] 关于这个第二个问题就是 要么在以太坊要么在什么 去中心化 的一些 技术这些行业就是不会 都走的什么 a i 问题是
+
+[02:17:39] 我觉得 是复杂的其实 复杂的问题 的一部分就是 如果 需要就是如果你想 右边 留在一个地方 那他们 需要知道这个这个地方是有强度的就是 现在这个
+
+[02:18:03] 就是我自己 能感觉到 我在最近 一年跟一些 跟 很多 crypto 的人在讨论我发现 就是最 理想主义的他们 有时候比较失望就是他们都看到了 那些就是一开始 有那些什么 ICO 然后有 NFT 然后有meme
+
+[02:18:28] 那个川普出来了自己的meme然后 可能那好这个世界 的这个最大的大佬出了出了个meme那没有办法做更大的meme那下个月他就 出来了那个秘密玩意 这个就给大家 证明了呢好吧世界最大的大佬的meme那也是一个骗局一天
+
+[02:18:50] 之内那个价格就贬低了 50 那现在可能才贬低了 95 那 所以现在 那些都没有了那下一个 话题就是什么就是 现在就是有一些就是比如比较 就是有一些比较无啊就是我说过的那个 low-risk DeFi 但是
+
+[02:19:13] low-risk DeFi 现在是比较 成熟的那 还有一些 预测市场但是不太清楚 在这个预测市场里可以做什么 那所以现在 我对我发现很多人 就在这个就是 在技术层很多人
+
+[02:19:36] 现在对以太坊 非常非常乐观的就是现在有 有这个 新的那个路线图现在 有很好的 呃 解决那个扩展性问题的那个计划有很好的呃就是隐私问题的计划有很好的呃解决那个抗量子的问题 的计划
+
+[02:19:59] 就是等等 但是应用这个层哎呀 就是就是我们还是需要更多更好的 那个答案所以就是我自己 就是我 有时候 会思考就是 记住自己的想法 但是这个就是确实需要有就是我觉得一个很重要的
+
+[02:20:22] 意见就是不能从 我 区块链这个角度来思考就是需要从那个问题这个角度开始思考区块链就是不应应该是一个是一个工具应该是一个就是你 帮助你做你想做的事情 的一个东西 所以这个
+
+[02:20:48] 这个话题 也是重要的 有一些就是比如 教导投资比较难这个也是 文杰但是这个 对我觉得 如果 对就是解决到所有就是如果我们教能 教到更多就是更好的
+
+[02:21:10] 这个 应用的方向 就可以 就是 所有的其他的问题会变得 更容易 的然后现在 这么找这个更好的应用的方向就是 结合就是对不要从区块链开始 思考应该从 背后的一些理念就是比如
+
+[02:21:36] 我们像做 更去中心化 的更就是大家都 可以参与的更开放的更就是不需要 中心化 等等 和就是把这些 思想跟世界的不同的问题去结合就是比如跟那个社交去结合 跟那其他的 hardware 去结合然后
+
+[02:22:01] 有可能 有可能有时候那个区块链是答案的一部分有时候有时候区块链也不是那如果不是那这个也没关系就是不一定 所有的东西是需要 区块链的对如果 这样开始思考我们就能找到更多的更好的应用的方向 谢谢谢谢 好
+
+[02:22:25] 对应用的方向 很幸运拿到最后一个问题的劝你好 Vitalik 这是我 第一次见你 其实我 我从来没有想过我在这里会见到说区块链像神一般的人物 是一个 ai 开发者然后我就是来自刚才这位先生说的杭州硅谷
+
+[02:22:52] 然后 对对对我是由他介绍来参加这边清迈社区 70 5 706 我从来没想过 我从来没有想过就是说这世界上还有 原来已经有跟我想的一样的人 开发了这么多社区 然后包括您写的那个 blog 就是 le t as s ol ent
+
+[02:23:20] so c i et y b lu e 我是今天中午的时候我说不行我我看我我见 V神我得我得了解一下 然后我就看了 blog 天呐你写的跟我想的一样一样的 就是说我大概是三四年前我就开始这样想了但是您写的非常的具体因为你有非常 实践的经验 包括人数以前
+
+[02:23:42] 历史的已经 已经开发出来几种理念方式在我看来 你是一个非常的实践派然后非常的准确然后你比如潺潺流水般所有你的理论都写在了 blog 上我非常的敬佩 但是呢 但是呢 我发现了您一些缺点 我能说吗
+
+[02:24:08] Trillion. 缺点 好吧可以说呀但是我发现您已经知道自己的缺点了就在 刚才您回答我这位同僚的问题的时候你说不能从区块链的方向 来想问题我我我 想告诉您的一句话就是我的一个观察就是 呃我们永远不知道这个世界下一步会发会发生什么会有什么新的技术出现或者说我们永远不知道这个社区到底能不能存活过 5年但是这是我们应该要关注的方向吗 no
+
+[02:24:42] 我们必须要了解到这个社会是有人组成的 当你一个人 非常自然的能把自己表达出来想做的事情能做能找到合作的伙伴能找到 facility 来支持你的时候你 这个人才活了但是如果你 总是观察结果怕 这个不行怕那个不行无法表达自己没有能量经过你你所想所思没办法
+
+[02:25:07] 破呃进入实践然后还有 military 在管你还有 stability 在管你你是不是要谋反今天你就没有任何结果能出来嗯 是不是 也就是说 如果你真要让一个 community 活得长嗯或者说你想让 1、000 多个呃那个叫什么 so c i et y 对对对活着的话你在你的 blog 里面一直强调这个问题为什么他们活不长
+
+[02:25:33] 其实一个最大的根本就是让每一个人能勇敢的做自己 因为每个人是非常 authentic 的他的想法每一个人都非常不同 就完全不能以结果为导向来讲他你就只要让每一个人成为他自己自由的成为他自己想干啥干啥想参加这个社区就是这个社区我想开发一个新的社区就是一个新的社区我不在乎他活多久我只要实验
+
+[02:25:57] 我只要做自己并且我有足够的 f ast ly s ia 保证他的 sfy 就不会伤害别人嗯哼当每一个人一个国家的人民是幸福的时候他 才是强壮的当一个国家他是战战兢兢 整天在 f ight 整天无法表达自己那种哦 self-actualization 无法表达出来的时候他就是失败的也就是说您的 blog 写了这么半天
+
+[02:26:20] 我觉得都在观察结果 而没有 就是 观察就是说这个社会到底是由人组成的这个人才是所有动力 然后最后都遇到了问题哈 问题就是现在您您 ETH 链上有没有能保护数据主权的技术因为我现在在开发这样一个平台但是由于我是做 ai 的
+
+[02:26:43] 我对区块链的技术不够了解 呃不知道大神您能不能支我一招怎么保护个人数据主权你觉得 个人的那个数据主权对你来说是什么意思 就是说这比如说我创造了一个 game 只有 给我交 gas 费的人我才让他进去不是所有人都可以白嫖包括我创造了一个 video 比如说一个 artist 他随心想了一个首诗他就想发表但是他可以发表可以让很多粉丝看但是他
+
+[02:27:15] 不能变现 我想让这个数据主权掌握在发表的人他一发表当别的人看了之后他就有一定 gas fee 留下来那这个这个发表的人就能可以拿这个 gas fee 变现 这就是要保护数据主权一定要我认同你你去猜你去看我猜我猜给你看不是所有人都能看那就白嫖了没 有没有这个数有没有这个技术呢作为 V神
+
+[02:27:44] 给我指条明路 对对等一下在 对对在思考就是 好所以你 想要的就是 就是 它可以决定谁可以看它的数据它 做的一些 数据是的它采购的时候还可以留下痕迹你看了你交 gas 费那
+
+[02:28:09] 对这个 就 本身就是通过比较简单的加密可以做的呀对不对就是别人给你付费你就可以给他那个税哦对 嗯 Okay. Okay. Please gather to the front so that we can take a photo together.
+
+[02:30:32] 现在大家可以移步到四海然后我们有提供简单的餐食和沙拉 So if you guys want to kind of move to where we have smart salad and snacks over there, and you can just enjoy some food and networking session.
