@@ -17,6 +17,7 @@ license: "CC0-1.0 · no rights reserved · fork it"
 consent:
   policy: "consent-first"
   status: "consent-first made manifest · no further content without explicit consent"
+  contact: "consent@publicinform.com"
   policy_url: "https://publicinform.com/whitepaper/#consent"
 source:
   - type: "google-drive-folder"
@@ -82,5 +83,5 @@ llm:
   catalog: "https://shakaleikaumaka.github.io/vitpit/data/catalog.json"
 hub: "https://publicinform.com"
 registry: "https://publicinform.com/pits.json"
-generated: "2026-07-29T15:13:09Z"
+generated: "2026-07-29T16:39:32Z"
 generator: pit_export.py v0.1 · PIT BOY 🕳️😤
