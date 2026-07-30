@@ -3,7 +3,7 @@ spec: "pit-manifest/0.1"
 pit:
   name: The VitPit
   slug: vitpit
-  registry_number: 9
+  registry_number: 16
   url: "https://shakaleikaumaka.github.io/vitpit/"
   repository: "https://github.com/shakaleikaumaka/vitpit"
   forked_from: "https://github.com/shakaleikaumaka/zuitzpit"
@@ -83,5 +83,5 @@ llm:
   catalog: "https://shakaleikaumaka.github.io/vitpit/data/catalog.json"
 hub: "https://publicinform.com"
 registry: "https://publicinform.com/pits.json"
-generated: "2026-07-29T16:39:32Z"
+generated: "2026-07-30T01:20:19Z"
 generator: pit_export.py v0.1 · PIT BOY 🕳️😤
