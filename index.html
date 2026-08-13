@@ -574,7 +574,7 @@ const esc = s => (s||'').replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'
 let SESSIONS = [], state = {week:'all', q:'', f:{v:true,a:true,t:true}};
 
 async function boot(){
-  const res = await fetch('data/catalog.json?v=4');
+  const res = await fetch('data/catalog.json?v=5');
   SESSIONS = await res.json();
   document.getElementById('st-sessions').textContent = SESSIONS.length;
   document.getElementById('st-videos').textContent = SESSIONS.filter(s=>s.media.length).length;
@@ -617,7 +617,7 @@ function render(){
     const karaoke = s.transcript && s.media.some(m=>m.hosted);
     const idx = SESSIONS.indexOf(s);
     const hp = (s.media.find(m=>m.hosted)||{}).hosted;
-    const avaSrc = hp ? hp.replace('audio/','thumbs/').replace(/\.mp3$/,'.jpg') : (s.thumb || null);
+    const avaSrc = s.thumb || (hp ? hp.replace('audio/','thumbs/').replace(/\.mp3$/,'.jpg') : null);
     const ava = avaSrc ? `<img class="card-ava" loading="lazy" src="${avaSrc}" alt="" onerror="this.remove()">` : '';
     return `<div class="card" data-week="${s.week||''}" onclick="openSession(${idx})">
       ${ava}
@@ -695,7 +695,7 @@ function showUnified(s){
      to a full tab, where the sign-in works natively. desktop keeps the iframe. */
   const MOBILE = matchMedia('(max-width:640px)').matches;
   const vidIdM = hasVideo ? ((s.media.find(x=>x.kind==='video')||m).id) : null;
-  const thumbM = hosted ? hosted.replace('audio/','thumbs/').replace(/\.mp3$/,'.jpg') : (s.thumb || null); /* Patrick's speaker bubble */
+  const thumbM = s.thumb || (hosted ? hosted.replace('audio/','thumbs/').replace(/\.mp3$/,'.jpg') : null); /* Patrick's speaker bubble */
   const watchCard = vidIdM ? `<div class="ux-watchcard">
       ${thumbM?`<img class="wc-ava" src="${thumbM}" alt="" onerror="this.remove()">`:''}
       <button class="wc-playbtn" id="uxCardPlay" aria-label="Play the audio">▶</button>
@@ -1403,6 +1403,5 @@ boot();
     </footer>
     
 
-<script src="https://oso-flow-hytgh2qkur-ffieyo32.taur.link/widget.js" defer></script>
 </body>
 </html>
