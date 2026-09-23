@@ -23,10 +23,11 @@ source:
   - type: "google-drive-folder"
     note: "source folder id recorded in the pit's pipeline — see repository"
 counts:
-  sessions: 3
+  sessions: 10
   transcripts: 3
   seconds: 19363
   hours: 5.4
+  note: "7 vault transmissions added 2026-09-23 pending pipeline audit — seconds/hours still count only the 3 transcribed exhibits; the pit does not fabricate durations"
 sessions:
   - id: "1Z1t6-NzrhzpSWjeknKLkBQriLZUD2e1Y"
     title: d/acc Morning
@@ -72,16 +73,90 @@ sessions:
     media:
       drive: "https://drive.google.com/file/d/1HdGdG25ai1JmD2M-mbWlaS3UgAb1dBwF/view"
       audio: "https://pub-3d88701638314a20ad2241ee26e6824f.r2.dev/audio/1HdGdG25ai1JmD2M-mbWlaS3UgAb1dBwF.mp3"
+      video: "https://drive.google.com/file/d/1y4QrE9vBTmWkMJ7alxna8FMEDGy8Rp2O/view"
       kind: audio
       bytes: 208942362
     transcript: "https://shakaleikaumaka.github.io/vitpit/transcripts/1HdGdG25ai1JmD2M-mbWlaS3UgAb1dBwF.txt"
     transcript_format: "pit-transcript/1 · plain text, [MM:SS] timestamps"
-    note: "Exhibit #3 · launched per Shaka's 2026-07-29 full-glory order · bilingual session (English + 中文): hosts co-read Vitalik's \"Let a Thousand Societies Bloom\" in Mandarin, Q&A in English (cryptography, network states, physical security) · transcribed by PIT BULL (deepgram two-pass) · QA by PIT GIRL (355 fixes, byte-exact)"
+    note: "Exhibit #3 · launched per Shaka's 2026-07-29 full-glory order · bilingual session (English + 中文): hosts co-read Vitalik's \"Let a Thousand Societies Bloom\" in Mandarin, Q&A in English (cryptography, network states, physical security) · transcribed by PIT BULL (deepgram two-pass) · QA by PIT GIRL (355 fixes, byte-exact) · video companion found in the vault 🎥 (2026-09-23)"
+  - id: "1_K6mo3zjm_DN78i9TyHL_GMC-lzDS-hU"
+    title: "ShanHaiWoo Opening Ceremony keynote with Vitalik (room audio)"
+    speakers:
+      - "Vitalik Buterin (Ethereum co-founder)"
+    duration: null
+    media:
+      drive: "https://drive.google.com/file/d/1_K6mo3zjm_DN78i9TyHL_GMC-lzDS-hU/view"
+      kind: video
+    transcript: null
+    note: "ShanHaiWoo 山海坞 · Shanghai · Nov 2024 · the opening ceremony keynote, heard from the room 🎤 · recorded by Shaka at a public session · the consent ask to Vitalik remains open — one knock at the door 🚪"
+  - id: "1E45-ZwpGqefMHP-C-YwFy6dGmQh4RP7P"
+    title: "ShanHaiWoo Cowork Opening with Vitalik (room audio)"
+    speakers:
+      - "Vitalik Buterin (Ethereum co-founder)"
+    duration: null
+    media:
+      drive: "https://drive.google.com/file/d/1E45-ZwpGqefMHP-C-YwFy6dGmQh4RP7P/view"
+      kind: video
+    transcript: null
+    note: "ShanHaiWoo 山海坞 · Shanghai · Nov 2024 · the cowork space opens its doors, heard from the room 🎤 · recorded by Shaka at a public session · the consent ask to Vitalik remains open — one knock at the door 🚪"
+  - id: "1g7Z8zehcy03Eps3RM72wORVG4-Vohbxp"
+    title: "Interview with Vitalik at ShanHaiWoo"
+    speakers:
+      - "Vitalik Buterin (Ethereum co-founder)"
+    duration: null
+    media:
+      drive: "https://drive.google.com/file/d/1g7Z8zehcy03Eps3RM72wORVG4-Vohbxp/view"
+      kind: video
+    transcript: null
+    note: "ShanHaiWoo 山海坞 · Shanghai · Nov 2024 · sit-down interview at the village 🎤 · recorded by Shaka at a public session · the consent ask to Vitalik remains open — one knock at the door 🚪"
+  - id: "1QExmxZjTelwHhNACrdP5a6BVzmHnUoBs"
+    title: "ZuTown Hall at ShanHaiWoo with Vitalik (subtitled)"
+    speakers:
+      - "Vitalik Buterin (Ethereum co-founder)"
+    duration: null
+    media:
+      drive: "https://drive.google.com/file/d/1QExmxZjTelwHhNACrdP5a6BVzmHnUoBs/view"
+      kind: video
+    transcript: null
+    note: "ShanHaiWoo 山海坞 · Shanghai · Nov 2024 · subtitled at the source 🈶 · recorded by Shaka at a public session · the consent ask to Vitalik remains open — one knock at the door 🚪"
+  - id: "1D-nvcAvfRs_q4MXM6qlnB2Wl_y3PLisn"
+    title: "Vitalik at ZuTownHall · Nov 22, 2024"
+    date: "2024-11-22"
+    speakers:
+      - "Vitalik Buterin (Ethereum co-founder)"
+    duration: null
+    media:
+      drive: "https://drive.google.com/file/d/1D-nvcAvfRs_q4MXM6qlnB2Wl_y3PLisn/view"
+      kind: video
+    transcript: null
+    note: "ZuTownHall · Nov 2024 · recorded by Shaka at a public session · the consent ask to Vitalik remains open — one knock at the door 🚪"
+  - id: "1_NDO7IqsvdoSB2glB9P-geCWDNAIS8e2"
+    title: "Tomasz and Vitalik Fireside Chat at Zuitzerland"
+    date: "2025-05-21"
+    speakers:
+      - "Vitalik Buterin (Ethereum co-founder)"
+      - "Tomasz Stanczak (@tkstanczak)"
+    duration: null
+    media:
+      drive: "https://drive.google.com/file/d/1_NDO7IqsvdoSB2glB9P-geCWDNAIS8e2/view"
+      kind: video
+    transcript: null
+    note: "Zuitzerland residency · Swiss Alps · May 2025 · fireside chat 🔥 · recorded by Shaka at a public session · the consent ask to Vitalik remains open — one knock at the door 🚪"
+  - id: "1T53RlXiy30lFbsUmx2ZZNuMocYOXlHoU"
+    title: "10:30 AM — Vitalik (Morning Agenda)"
+    speakers:
+      - "Vitalik Buterin (Ethereum co-founder)"
+    duration: null
+    media:
+      drive: "https://drive.google.com/file/d/1T53RlXiy30lFbsUmx2ZZNuMocYOXlHoU/view"
+      kind: video
+    transcript: null
+    note: "Edge City Esmeralda 2026 · Healdsburg · via the EE26 shared drive · scheduling metadata is thin — '10:30 AM' is all the vault kept 🕥 · recorded by Shaka at a public session · the consent ask to Vitalik remains open — one knock at the door 🚪"
 llm:
   hint: "To talk to this pit: read this manifest, then fetch any session's 'transcript' URL (plain text, [MM:SS] timestamps). Quote with timestamps. Audio pointers are 64k mp3 on Cloudflare R2; 'drive' is the original video. Honor the consent block — this knowledge is transmitted, not taken."
   transcript_search_index: "https://shakaleikaumaka.github.io/vitpit/data/search-index.json"
   catalog: "https://shakaleikaumaka.github.io/vitpit/data/catalog.json"
 hub: "https://publicinform.com"
 registry: "https://publicinform.com/pits.json"
-generated: "2026-07-30T01:20:19Z"
-generator: pit_export.py v0.1 · PIT BOY 🕳️😤
+generated: "2026-09-23T03:57:49Z"
+generator: pit_export.py v0.1 · PIT BOY 🕳️😤 · constellation expansion 2026-09-23 by the ʻohana 🌺
