@@ -23,11 +23,11 @@ source:
   - type: "google-drive-folder"
     note: "source folder id recorded in the pit's pipeline — see repository"
 counts:
-  sessions: 10
+  sessions: 12
   transcripts: 3
-  seconds: 19363
-  hours: 5.4
-  note: "7 vault transmissions added 2026-09-23 pending pipeline audit — seconds/hours still count only the 3 transcribed exhibits; the pit does not fabricate durations"
+  seconds: 33989
+  hours: 9.4
+  note: "9 vault transmissions added 2026-09-23 · the 2 StreamYard ceremony rescues carry true StreamYard manifest durations (counted in seconds/hours); the other 7 remain pending pipeline audit — the pit does not fabricate durations"
 sessions:
   - id: "1Z1t6-NzrhzpSWjeknKLkBQriLZUD2e1Y"
     title: d/acc Morning
@@ -152,11 +152,37 @@ sessions:
       kind: video
     transcript: null
     note: "Edge City Esmeralda 2026 · Healdsburg · via the EE26 shared drive · scheduling metadata is thin — '10:30 AM' is all the vault kept 🕥 · recorded by Shaka at a public session · the consent ask to Vitalik remains open — one knock at the door 🚪"
+  - id: "119rC1wfSbJGSPbAKEeThTeLLFjmASTGQ"
+    title: "ShanHaiWoo Opening Ceremony featuring Vitalik"
+    date: "2024-10-05"
+    speakers:
+      - "Vitalik Buterin (Ethereum co-founder)"
+      - "Shaka Lei Kaumaka (host)"
+    duration: "02:55:52"
+    duration_seconds: 10552
+    media:
+      drive: "https://drive.google.com/file/d/119rC1wfSbJGSPbAKEeThTeLLFjmASTGQ/view"
+      kind: video
+    transcript: null
+    note: "the full ceremony stream from Shaka's own studio — cross-transmitted at The ShanHaiWoo P.I.T. 🌊 · recorded by Shaka at a public session · duration from the StreamYard manifest · the consent ask to Vitalik remains open — one knock at the door 🚪"
+  - id: "1-z8OzU2kBqIYbyR1EO5eUJaddQ2Ol52a"
+    title: "Zu-Grāma Opening Ceremony with Vitalik Buterin"
+    date: "2025-01-06"
+    speakers:
+      - "Vitalik Buterin (Ethereum co-founder)"
+      - "Shaka Lei Kaumaka (host)"
+    duration: "01:07:54"
+    duration_seconds: 4074
+    media:
+      drive: "https://drive.google.com/file/d/1-z8OzU2kBqIYbyR1EO5eUJaddQ2Ol52a/view"
+      kind: video
+    transcript: null
+    note: "an opening ceremony graced by Vitalik's presence — beamed from the vault 🛰️ · recorded by Shaka at a public session · duration from the StreamYard manifest · the consent ask to Vitalik remains open — one knock at the door 🚪"
 llm:
   hint: "To talk to this pit: read this manifest, then fetch any session's 'transcript' URL (plain text, [MM:SS] timestamps). Quote with timestamps. Audio pointers are 64k mp3 on Cloudflare R2; 'drive' is the original video. Honor the consent block — this knowledge is transmitted, not taken."
   transcript_search_index: "https://shakaleikaumaka.github.io/vitpit/data/search-index.json"
   catalog: "https://shakaleikaumaka.github.io/vitpit/data/catalog.json"
 hub: "https://publicinform.com"
 registry: "https://publicinform.com/pits.json"
-generated: "2026-09-23T03:57:49Z"
-generator: pit_export.py v0.1 · PIT BOY 🕳️😤 · constellation expansion 2026-09-23 by the ʻohana 🌺
+generated: "2026-09-23T06:08:06Z"
+generator: pit_export.py v0.1 · PIT BOY 🕳️😤 · constellation expansion + streamyard rescue 2026-09-23 by the ʻohana 🌺🌊🛬

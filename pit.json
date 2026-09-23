@@ -1,211 +1,245 @@
 {
- "spec": "pit-manifest/0.1",
- "pit": {
-  "name": "The VitPit",
-  "slug": "vitpit",
-  "registry_number": 16,
-  "url": "https://shakaleikaumaka.github.io/vitpit/",
-  "repository": "https://github.com/shakaleikaumaka/vitpit",
-  "forked_from": "https://github.com/shakaleikaumaka/zuitzpit",
-  "generation": 3,
-  "event": "Celebrating Vitalik Buterin",
-  "location": "the ether",
-  "dates": "ongoing",
-  "tagline": "The seventh fork but the ninth P.I.T. — the pit that asks first",
-  "status": "live"
- },
- "license": "CC0-1.0 · no rights reserved · fork it",
- "consent": {
-  "policy": "consent-first",
-  "status": "consent-first made manifest · no further content without explicit consent",
-  "contact": "consent@publicinform.com",
-  "policy_url": "https://publicinform.com/whitepaper/#consent"
- },
- "source": [
-  {
-   "type": "google-drive-folder",
-   "note": "source folder id recorded in the pit's pipeline — see repository"
-  }
- ],
- "counts": {
-  "sessions": 10,
-  "transcripts": 3,
-  "seconds": 19363,
-  "hours": 5.4,
-  "note": "7 vault transmissions added 2026-09-23 pending pipeline audit — seconds/hours still count only the 3 transcribed exhibits; the pit does not fabricate durations"
- },
- "sessions": [
-  {
-   "id": "1Z1t6-NzrhzpSWjeknKLkBQriLZUD2e1Y",
-   "title": "d/acc Morning",
-   "speakers": [
-    "Vitalik Buterin (Ethereum co-founder)",
-    "Glen Weyl",
-    "@tkstanczak",
-    "@pujaohlhaver",
-    "@AlesFlidr"
-   ],
-   "duration": "02:06:02",
-   "duration_seconds": 7562,
-   "media": {
-    "drive": "https://drive.google.com/file/d/1Z1t6-NzrhzpSWjeknKLkBQriLZUD2e1Y/view",
-    "audio": "https://pub-3d88701638314a20ad2241ee26e6824f.r2.dev/audio/1Z1t6-NzrhzpSWjeknKLkBQriLZUD2e1Y.mp3",
-    "kind": "video",
-    "bytes": 4386553296
-   },
-   "transcript": "https://shakaleikaumaka.github.io/vitpit/transcripts/1Z1t6-NzrhzpSWjeknKLkBQriLZUD2e1Y.txt",
-   "transcript_format": "pit-transcript/1 · plain text, [MM:SS] timestamps",
-   "note": "Demo exhibit · already transmitted at The ZuitzPIT"
-  },
-  {
-   "id": "1ZyvzXA5zQ-IPQpf7xAPjvVekyqNIDJyF",
-   "title": "Vitalik Buterin (remote): \"Let's Bring Back More Governance Experiments\"",
-   "date": "2025-09-13",
-   "speakers": [
-    "Vitalik Buterin (Ethereum co-founder)"
-   ],
-   "duration": "00:42:05",
-   "duration_seconds": 2525,
-   "media": {
-    "drive": "https://drive.google.com/file/d/1ZyvzXA5zQ-IPQpf7xAPjvVekyqNIDJyF/view",
-    "audio": "https://pub-3d88701638314a20ad2241ee26e6824f.r2.dev/audio/1ZyvzXA5zQ-IPQpf7xAPjvVekyqNIDJyF.mp3",
-    "kind": "video"
-   },
-   "transcript": "https://shakaleikaumaka.github.io/vitpit/transcripts/1ZyvzXA5zQ-IPQpf7xAPjvVekyqNIDJyF.txt",
-   "transcript_format": "pit-transcript/1 · plain text, [MM:SS] timestamps",
-   "note": "Demo exhibit · remote presentation beamed into Kaş 🛰️ · already transmitted at The KasPIT"
-  },
-  {
-   "id": "1HdGdG25ai1JmD2M-mbWlaS3UgAb1dBwF",
-   "title": "Vitalik at the Zuzalu Library, Chiang Mai",
-   "date": "2026-01-25",
-   "speakers": [
-    "Vitalik Buterin (Ethereum co-founder)",
-    "Vegas (706 Youth Space)",
-    "Lauren (4Seas)"
-   ],
-   "duration": "02:34:36",
-   "duration_seconds": 9276,
-   "media": {
-    "drive": "https://drive.google.com/file/d/1HdGdG25ai1JmD2M-mbWlaS3UgAb1dBwF/view",
-    "audio": "https://pub-3d88701638314a20ad2241ee26e6824f.r2.dev/audio/1HdGdG25ai1JmD2M-mbWlaS3UgAb1dBwF.mp3",
-    "kind": "audio",
-    "bytes": 208942362,
-    "video": "https://drive.google.com/file/d/1y4QrE9vBTmWkMJ7alxna8FMEDGy8Rp2O/view"
-   },
-   "transcript": "https://shakaleikaumaka.github.io/vitpit/transcripts/1HdGdG25ai1JmD2M-mbWlaS3UgAb1dBwF.txt",
-   "transcript_format": "pit-transcript/1 · plain text, [MM:SS] timestamps",
-   "note": "Exhibit #3 · launched per Shaka's 2026-07-29 full-glory order · bilingual session (English + 中文): hosts co-read Vitalik's \"Let a Thousand Societies Bloom\" in Mandarin, Q&A in English (cryptography, network states, physical security) · transcribed by PIT BULL (deepgram two-pass) · QA by PIT GIRL (355 fixes, byte-exact) · video companion found in the vault 🎥 (2026-09-23)"
-  },
-  {
-   "id": "1_K6mo3zjm_DN78i9TyHL_GMC-lzDS-hU",
-   "title": "ShanHaiWoo Opening Ceremony keynote with Vitalik (room audio)",
-   "speakers": [
-    "Vitalik Buterin (Ethereum co-founder)"
-   ],
-   "duration": null,
-   "media": {
-    "drive": "https://drive.google.com/file/d/1_K6mo3zjm_DN78i9TyHL_GMC-lzDS-hU/view",
-    "kind": "video"
-   },
-   "transcript": null,
-   "note": "ShanHaiWoo 山海坞 · Shanghai · Nov 2024 · the opening ceremony keynote, heard from the room 🎤 · recorded by Shaka at a public session · the consent ask to Vitalik remains open — one knock at the door 🚪"
-  },
-  {
-   "id": "1E45-ZwpGqefMHP-C-YwFy6dGmQh4RP7P",
-   "title": "ShanHaiWoo Cowork Opening with Vitalik (room audio)",
-   "speakers": [
-    "Vitalik Buterin (Ethereum co-founder)"
-   ],
-   "duration": null,
-   "media": {
-    "drive": "https://drive.google.com/file/d/1E45-ZwpGqefMHP-C-YwFy6dGmQh4RP7P/view",
-    "kind": "video"
-   },
-   "transcript": null,
-   "note": "ShanHaiWoo 山海坞 · Shanghai · Nov 2024 · the cowork space opens its doors, heard from the room 🎤 · recorded by Shaka at a public session · the consent ask to Vitalik remains open — one knock at the door 🚪"
-  },
-  {
-   "id": "1g7Z8zehcy03Eps3RM72wORVG4-Vohbxp",
-   "title": "Interview with Vitalik at ShanHaiWoo",
-   "speakers": [
-    "Vitalik Buterin (Ethereum co-founder)"
-   ],
-   "duration": null,
-   "media": {
-    "drive": "https://drive.google.com/file/d/1g7Z8zehcy03Eps3RM72wORVG4-Vohbxp/view",
-    "kind": "video"
-   },
-   "transcript": null,
-   "note": "ShanHaiWoo 山海坞 · Shanghai · Nov 2024 · sit-down interview at the village 🎤 · recorded by Shaka at a public session · the consent ask to Vitalik remains open — one knock at the door 🚪"
-  },
-  {
-   "id": "1QExmxZjTelwHhNACrdP5a6BVzmHnUoBs",
-   "title": "ZuTown Hall at ShanHaiWoo with Vitalik (subtitled)",
-   "speakers": [
-    "Vitalik Buterin (Ethereum co-founder)"
-   ],
-   "duration": null,
-   "media": {
-    "drive": "https://drive.google.com/file/d/1QExmxZjTelwHhNACrdP5a6BVzmHnUoBs/view",
-    "kind": "video"
-   },
-   "transcript": null,
-   "note": "ShanHaiWoo 山海坞 · Shanghai · Nov 2024 · subtitled at the source 🈶 · recorded by Shaka at a public session · the consent ask to Vitalik remains open — one knock at the door 🚪"
-  },
-  {
-   "id": "1D-nvcAvfRs_q4MXM6qlnB2Wl_y3PLisn",
-   "title": "Vitalik at ZuTownHall · Nov 22, 2024",
-   "date": "2024-11-22",
-   "speakers": [
-    "Vitalik Buterin (Ethereum co-founder)"
-   ],
-   "duration": null,
-   "media": {
-    "drive": "https://drive.google.com/file/d/1D-nvcAvfRs_q4MXM6qlnB2Wl_y3PLisn/view",
-    "kind": "video"
-   },
-   "transcript": null,
-   "note": "ZuTownHall · Nov 2024 · recorded by Shaka at a public session · the consent ask to Vitalik remains open — one knock at the door 🚪"
-  },
-  {
-   "id": "1_NDO7IqsvdoSB2glB9P-geCWDNAIS8e2",
-   "title": "Tomasz and Vitalik Fireside Chat at Zuitzerland",
-   "date": "2025-05-21",
-   "speakers": [
-    "Vitalik Buterin (Ethereum co-founder)",
-    "Tomasz Stanczak (@tkstanczak)"
-   ],
-   "duration": null,
-   "media": {
-    "drive": "https://drive.google.com/file/d/1_NDO7IqsvdoSB2glB9P-geCWDNAIS8e2/view",
-    "kind": "video"
-   },
-   "transcript": null,
-   "note": "Zuitzerland residency · Swiss Alps · May 2025 · fireside chat 🔥 · recorded by Shaka at a public session · the consent ask to Vitalik remains open — one knock at the door 🚪"
-  },
-  {
-   "id": "1T53RlXiy30lFbsUmx2ZZNuMocYOXlHoU",
-   "title": "10:30 AM — Vitalik (Morning Agenda)",
-   "speakers": [
-    "Vitalik Buterin (Ethereum co-founder)"
-   ],
-   "duration": null,
-   "media": {
-    "drive": "https://drive.google.com/file/d/1T53RlXiy30lFbsUmx2ZZNuMocYOXlHoU/view",
-    "kind": "video"
-   },
-   "transcript": null,
-   "note": "Edge City Esmeralda 2026 · Healdsburg · via the EE26 shared drive · scheduling metadata is thin — \"10:30 AM\" is all the vault kept 🕥 · recorded by Shaka at a public session · the consent ask to Vitalik remains open — one knock at the door 🚪"
-  }
- ],
- "llm": {
-  "hint": "To talk to this pit: read this manifest, then fetch any session's 'transcript' URL (plain text, [MM:SS] timestamps). Quote with timestamps. Audio pointers are 64k mp3 on Cloudflare R2; 'drive' is the original video. Honor the consent block — this knowledge is transmitted, not taken.",
-  "transcript_search_index": "https://shakaleikaumaka.github.io/vitpit/data/search-index.json",
-  "catalog": "https://shakaleikaumaka.github.io/vitpit/data/catalog.json"
- },
- "hub": "https://publicinform.com",
- "registry": "https://publicinform.com/pits.json",
- "generated": "2026-09-23T03:57:07Z",
- "generator": "pit_export.py v0.1 · PIT BOY 🕳️😤 · constellation expansion 2026-09-23 by the ʻohana 🌺"
+    "spec": "pit-manifest/0.1",
+    "pit": {
+        "name": "The VitPit",
+        "slug": "vitpit",
+        "registry_number": 16,
+        "url": "https://shakaleikaumaka.github.io/vitpit/",
+        "repository": "https://github.com/shakaleikaumaka/vitpit",
+        "forked_from": "https://github.com/shakaleikaumaka/zuitzpit",
+        "generation": 3,
+        "event": "Celebrating Vitalik Buterin",
+        "location": "the ether",
+        "dates": "ongoing",
+        "tagline": "The seventh fork but the ninth P.I.T. — the pit that asks first",
+        "status": "live"
+    },
+    "license": "CC0-1.0 · no rights reserved · fork it",
+    "consent": {
+        "policy": "consent-first",
+        "status": "consent-first made manifest · no further content without explicit consent",
+        "contact": "consent@publicinform.com",
+        "policy_url": "https://publicinform.com/whitepaper/#consent"
+    },
+    "source": [
+        {
+            "type": "google-drive-folder",
+            "note": "source folder id recorded in the pit's pipeline — see repository"
+        }
+    ],
+    "counts": {
+        "sessions": 12,
+        "transcripts": 3,
+        "seconds": 33989,
+        "hours": 9.4,
+        "note": "9 vault transmissions added 2026-09-23 · the 2 StreamYard ceremony rescues carry true StreamYard manifest durations (counted in seconds/hours); the other 7 remain pending pipeline audit — the pit does not fabricate durations"
+    },
+    "sessions": [
+        {
+            "id": "1Z1t6-NzrhzpSWjeknKLkBQriLZUD2e1Y",
+            "title": "d/acc Morning",
+            "speakers": [
+                "Vitalik Buterin (Ethereum co-founder)",
+                "Glen Weyl",
+                "@tkstanczak",
+                "@pujaohlhaver",
+                "@AlesFlidr"
+            ],
+            "duration": "02:06:02",
+            "duration_seconds": 7562,
+            "media": {
+                "drive": "https://drive.google.com/file/d/1Z1t6-NzrhzpSWjeknKLkBQriLZUD2e1Y/view",
+                "audio": "https://pub-3d88701638314a20ad2241ee26e6824f.r2.dev/audio/1Z1t6-NzrhzpSWjeknKLkBQriLZUD2e1Y.mp3",
+                "kind": "video",
+                "bytes": 4386553296
+            },
+            "transcript": "https://shakaleikaumaka.github.io/vitpit/transcripts/1Z1t6-NzrhzpSWjeknKLkBQriLZUD2e1Y.txt",
+            "transcript_format": "pit-transcript/1 · plain text, [MM:SS] timestamps",
+            "note": "Demo exhibit · already transmitted at The ZuitzPIT"
+        },
+        {
+            "id": "1ZyvzXA5zQ-IPQpf7xAPjvVekyqNIDJyF",
+            "title": "Vitalik Buterin (remote): \"Let's Bring Back More Governance Experiments\"",
+            "date": "2025-09-13",
+            "speakers": [
+                "Vitalik Buterin (Ethereum co-founder)"
+            ],
+            "duration": "00:42:05",
+            "duration_seconds": 2525,
+            "media": {
+                "drive": "https://drive.google.com/file/d/1ZyvzXA5zQ-IPQpf7xAPjvVekyqNIDJyF/view",
+                "audio": "https://pub-3d88701638314a20ad2241ee26e6824f.r2.dev/audio/1ZyvzXA5zQ-IPQpf7xAPjvVekyqNIDJyF.mp3",
+                "kind": "video"
+            },
+            "transcript": "https://shakaleikaumaka.github.io/vitpit/transcripts/1ZyvzXA5zQ-IPQpf7xAPjvVekyqNIDJyF.txt",
+            "transcript_format": "pit-transcript/1 · plain text, [MM:SS] timestamps",
+            "note": "Demo exhibit · remote presentation beamed into Kaş 🛰️ · already transmitted at The KasPIT"
+        },
+        {
+            "id": "1HdGdG25ai1JmD2M-mbWlaS3UgAb1dBwF",
+            "title": "Vitalik at the Zuzalu Library, Chiang Mai",
+            "date": "2026-01-25",
+            "speakers": [
+                "Vitalik Buterin (Ethereum co-founder)",
+                "Vegas (706 Youth Space)",
+                "Lauren (4Seas)"
+            ],
+            "duration": "02:34:36",
+            "duration_seconds": 9276,
+            "media": {
+                "drive": "https://drive.google.com/file/d/1HdGdG25ai1JmD2M-mbWlaS3UgAb1dBwF/view",
+                "audio": "https://pub-3d88701638314a20ad2241ee26e6824f.r2.dev/audio/1HdGdG25ai1JmD2M-mbWlaS3UgAb1dBwF.mp3",
+                "kind": "audio",
+                "bytes": 208942362,
+                "video": "https://drive.google.com/file/d/1y4QrE9vBTmWkMJ7alxna8FMEDGy8Rp2O/view"
+            },
+            "transcript": "https://shakaleikaumaka.github.io/vitpit/transcripts/1HdGdG25ai1JmD2M-mbWlaS3UgAb1dBwF.txt",
+            "transcript_format": "pit-transcript/1 · plain text, [MM:SS] timestamps",
+            "note": "Exhibit #3 · launched per Shaka's 2026-07-29 full-glory order · bilingual session (English + 中文): hosts co-read Vitalik's \"Let a Thousand Societies Bloom\" in Mandarin, Q&A in English (cryptography, network states, physical security) · transcribed by PIT BULL (deepgram two-pass) · QA by PIT GIRL (355 fixes, byte-exact) · video companion found in the vault 🎥 (2026-09-23)"
+        },
+        {
+            "id": "1_K6mo3zjm_DN78i9TyHL_GMC-lzDS-hU",
+            "title": "ShanHaiWoo Opening Ceremony keynote with Vitalik (room audio)",
+            "speakers": [
+                "Vitalik Buterin (Ethereum co-founder)"
+            ],
+            "duration": null,
+            "media": {
+                "drive": "https://drive.google.com/file/d/1_K6mo3zjm_DN78i9TyHL_GMC-lzDS-hU/view",
+                "kind": "video"
+            },
+            "transcript": null,
+            "note": "ShanHaiWoo 山海坞 · Shanghai · Nov 2024 · the opening ceremony keynote, heard from the room 🎤 · recorded by Shaka at a public session · the consent ask to Vitalik remains open — one knock at the door 🚪"
+        },
+        {
+            "id": "1E45-ZwpGqefMHP-C-YwFy6dGmQh4RP7P",
+            "title": "ShanHaiWoo Cowork Opening with Vitalik (room audio)",
+            "speakers": [
+                "Vitalik Buterin (Ethereum co-founder)"
+            ],
+            "duration": null,
+            "media": {
+                "drive": "https://drive.google.com/file/d/1E45-ZwpGqefMHP-C-YwFy6dGmQh4RP7P/view",
+                "kind": "video"
+            },
+            "transcript": null,
+            "note": "ShanHaiWoo 山海坞 · Shanghai · Nov 2024 · the cowork space opens its doors, heard from the room 🎤 · recorded by Shaka at a public session · the consent ask to Vitalik remains open — one knock at the door 🚪"
+        },
+        {
+            "id": "1g7Z8zehcy03Eps3RM72wORVG4-Vohbxp",
+            "title": "Interview with Vitalik at ShanHaiWoo",
+            "speakers": [
+                "Vitalik Buterin (Ethereum co-founder)"
+            ],
+            "duration": null,
+            "media": {
+                "drive": "https://drive.google.com/file/d/1g7Z8zehcy03Eps3RM72wORVG4-Vohbxp/view",
+                "kind": "video"
+            },
+            "transcript": null,
+            "note": "ShanHaiWoo 山海坞 · Shanghai · Nov 2024 · sit-down interview at the village 🎤 · recorded by Shaka at a public session · the consent ask to Vitalik remains open — one knock at the door 🚪"
+        },
+        {
+            "id": "1QExmxZjTelwHhNACrdP5a6BVzmHnUoBs",
+            "title": "ZuTown Hall at ShanHaiWoo with Vitalik (subtitled)",
+            "speakers": [
+                "Vitalik Buterin (Ethereum co-founder)"
+            ],
+            "duration": null,
+            "media": {
+                "drive": "https://drive.google.com/file/d/1QExmxZjTelwHhNACrdP5a6BVzmHnUoBs/view",
+                "kind": "video"
+            },
+            "transcript": null,
+            "note": "ShanHaiWoo 山海坞 · Shanghai · Nov 2024 · subtitled at the source 🈶 · recorded by Shaka at a public session · the consent ask to Vitalik remains open — one knock at the door 🚪"
+        },
+        {
+            "id": "1D-nvcAvfRs_q4MXM6qlnB2Wl_y3PLisn",
+            "title": "Vitalik at ZuTownHall · Nov 22, 2024",
+            "date": "2024-11-22",
+            "speakers": [
+                "Vitalik Buterin (Ethereum co-founder)"
+            ],
+            "duration": null,
+            "media": {
+                "drive": "https://drive.google.com/file/d/1D-nvcAvfRs_q4MXM6qlnB2Wl_y3PLisn/view",
+                "kind": "video"
+            },
+            "transcript": null,
+            "note": "ZuTownHall · Nov 2024 · recorded by Shaka at a public session · the consent ask to Vitalik remains open — one knock at the door 🚪"
+        },
+        {
+            "id": "1_NDO7IqsvdoSB2glB9P-geCWDNAIS8e2",
+            "title": "Tomasz and Vitalik Fireside Chat at Zuitzerland",
+            "date": "2025-05-21",
+            "speakers": [
+                "Vitalik Buterin (Ethereum co-founder)",
+                "Tomasz Stanczak (@tkstanczak)"
+            ],
+            "duration": null,
+            "media": {
+                "drive": "https://drive.google.com/file/d/1_NDO7IqsvdoSB2glB9P-geCWDNAIS8e2/view",
+                "kind": "video"
+            },
+            "transcript": null,
+            "note": "Zuitzerland residency · Swiss Alps · May 2025 · fireside chat 🔥 · recorded by Shaka at a public session · the consent ask to Vitalik remains open — one knock at the door 🚪"
+        },
+        {
+            "id": "1T53RlXiy30lFbsUmx2ZZNuMocYOXlHoU",
+            "title": "10:30 AM — Vitalik (Morning Agenda)",
+            "speakers": [
+                "Vitalik Buterin (Ethereum co-founder)"
+            ],
+            "duration": null,
+            "media": {
+                "drive": "https://drive.google.com/file/d/1T53RlXiy30lFbsUmx2ZZNuMocYOXlHoU/view",
+                "kind": "video"
+            },
+            "transcript": null,
+            "note": "Edge City Esmeralda 2026 · Healdsburg · via the EE26 shared drive · scheduling metadata is thin — \"10:30 AM\" is all the vault kept 🕥 · recorded by Shaka at a public session · the consent ask to Vitalik remains open — one knock at the door 🚪"
+        },
+        {
+            "id": "119rC1wfSbJGSPbAKEeThTeLLFjmASTGQ",
+            "title": "ShanHaiWoo Opening Ceremony featuring Vitalik",
+            "date": "2024-10-05",
+            "speakers": [
+                "Vitalik Buterin (Ethereum co-founder)",
+                "Shaka Lei Kaumaka (host)"
+            ],
+            "duration": "02:55:52",
+            "duration_seconds": 10552,
+            "media": {
+                "drive": "https://drive.google.com/file/d/119rC1wfSbJGSPbAKEeThTeLLFjmASTGQ/view",
+                "kind": "video"
+            },
+            "transcript": null,
+            "note": "the full ceremony stream from Shaka's own studio — cross-transmitted at The ShanHaiWoo P.I.T. 🌊 · recorded by Shaka at a public session · duration from the StreamYard manifest · the consent ask to Vitalik remains open — one knock at the door 🚪"
+        },
+        {
+            "id": "1-z8OzU2kBqIYbyR1EO5eUJaddQ2Ol52a",
+            "title": "Zu-Grāma Opening Ceremony with Vitalik Buterin",
+            "date": "2025-01-06",
+            "speakers": [
+                "Vitalik Buterin (Ethereum co-founder)",
+                "Shaka Lei Kaumaka (host)"
+            ],
+            "duration": "01:07:54",
+            "duration_seconds": 4074,
+            "media": {
+                "drive": "https://drive.google.com/file/d/1-z8OzU2kBqIYbyR1EO5eUJaddQ2Ol52a/view",
+                "kind": "video"
+            },
+            "transcript": null,
+            "note": "an opening ceremony graced by Vitalik's presence — beamed from the vault 🛰️ · recorded by Shaka at a public session · duration from the StreamYard manifest · the consent ask to Vitalik remains open — one knock at the door 🚪"
+        }
+    ],
+    "llm": {
+        "hint": "To talk to this pit: read this manifest, then fetch any session's 'transcript' URL (plain text, [MM:SS] timestamps). Quote with timestamps. Audio pointers are 64k mp3 on Cloudflare R2; 'drive' is the original video. Honor the consent block — this knowledge is transmitted, not taken.",
+        "transcript_search_index": "https://shakaleikaumaka.github.io/vitpit/data/search-index.json",
+        "catalog": "https://shakaleikaumaka.github.io/vitpit/data/catalog.json"
+    },
+    "hub": "https://publicinform.com",
+    "registry": "https://publicinform.com/pits.json",
+    "generated": "2026-09-23T03:57:07Z",
+    "generator": "pit_export.py v0.1 · PIT BOY 🕳️😤 · constellation expansion 2026-09-23 by the ʻohana 🌺"
 }

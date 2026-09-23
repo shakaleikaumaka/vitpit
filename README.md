@@ -70,6 +70,21 @@ public sessions, streaming from Drive while the pipeline catches up
 Each carries the same note: *recorded by Shaka at a public session · the
 consent ask to Vitalik remains open — one knock at the door 🚪*.
 
+## The StreamYard vault rescue 🌊🛬 (2026-09-23, wave 2)
+
+Two full ceremony streams rescued from Shaka's own StreamYard studio archive
+and landed on Drive — the complete broadcasts, with true durations from the
+StreamYard manifest (the pit cites, it does not fabricate):
+
+| session | provenance | duration |
+|---|---|---|
+| ShanHaiWoo Opening Ceremony featuring Vitalik | ShanHaiWoo 山海坞 · Shanghai · 2024-10-05 | 02:55:52 |
+| Zu-Grāma Opening Ceremony with Vitalik Buterin | Zu-Grāma · India · 2025-01-06 | 01:07:54 |
+
+Both hosted by Shaka Lei Kaumaka from his own studio — and both carry the
+same open ask: *the consent ask to Vitalik remains open — one knock at the
+door 🚪*.
+
 ## Lineage (the Registry of Living Pits)
 
 esmeralda-pit (genesis) → zuitzpit (1st) → patagoniapit (2nd) → 4seaspit (3rd)
@@ -77,6 +92,13 @@ esmeralda-pit (genesis) → zuitzpit (1st) → patagoniapit (2nd) → 4seaspit (
 
 ## Changelog
 
+- **2026-09-23** — 🌊🛬 **THE STREAMYARD RESCUE** (v1.3.0): 10 → 12
+  sessions. Two full ceremony streams rescued from Shaka's own StreamYard
+  studio vault and landed on Drive: *ShanHaiWoo Opening Ceremony featuring
+  Vitalik* (02:55:52 · 2024-10-05) and *Zu-Grāma Opening Ceremony with
+  Vitalik Buterin* (01:07:54 · 2025-01-06) — durations cited from the
+  StreamYard manifest, the pit does not fabricate. The consent ask to
+  Vitalik remains open — one knock at the door 🚪.
 - **2026-09-23** — 🌺 **THE CONSTELLATION EXPANSION** (v1.2.0): 3 → 10
   sessions. Seven vault transmissions from Shaka's own drive (ShanHaiWoo
   opening keynote · cowork opening · interview · subtitled ZuTown Hall ·
