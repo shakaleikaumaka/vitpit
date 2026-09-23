@@ -3,7 +3,7 @@
    v2 (Jul 25): purge stale caches + verify cached size against the network once
    per session, so a truncated file from build iterations can never haunt a
    browser forever (the "fragment word-clock" bug). */
-const CACHE = 'edgetv-audio-v2';
+const CACHE = 'edgetv-audio-v3';
 const verified = new Set(); // paths already size-checked this session
 
 self.addEventListener('install', e => self.skipWaiting());
