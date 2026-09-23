@@ -28,11 +28,11 @@
         }
     ],
     "counts": {
-        "sessions": 12,
+        "sessions": 15,
         "transcripts": 3,
-        "seconds": 33989,
-        "hours": 9.4,
-        "note": "9 vault transmissions added 2026-09-23 · the 2 StreamYard ceremony rescues carry true StreamYard manifest durations (counted in seconds/hours); the other 7 remain pending pipeline audit — the pit does not fabricate durations"
+        "seconds": 85182,
+        "hours": 23.7,
+        "note": "the d/acc special build (2026-09-23): +3 sessions — the 31-minute special cut (duration per the cut spec) + the Berlin & Singapore masters (true StreamYard manifest durations per MORRICONE's cut sheet) — all counted in seconds/hours · the 2 ceremony rescues likewise carry manifest durations · the other 7 vault transmissions remain pending pipeline audit — the pit does not fabricate durations"
     },
     "sessions": [
         {
@@ -231,6 +231,74 @@
             },
             "transcript": null,
             "note": "an opening ceremony graced by Vitalik's presence — beamed from the vault 🛰️ · recorded by Shaka at a public session · duration from the StreamYard manifest · the consent ask to Vitalik remains open — one knock at the door 🚪"
+        },
+        {
+            "id": "1eCTJaIp2DMUTUgBhtriF3zb2VduP86sq",
+            "title": "The d/acc Special Cut — Vitalik's days, the bard's thread",
+            "date": "2026-09-23",
+            "speakers": [
+                "Vitalik Buterin (Ethereum co-founder)",
+                "Shaka Lei Kaumaka (music)"
+            ],
+            "duration": "00:31:00",
+            "duration_seconds": 1860,
+            "media": {
+                "drive": "https://drive.google.com/file/d/1eCTJaIp2DMUTUgBhtriF3zb2VduP86sq/view",
+                "kind": "video"
+            },
+            "transcript": null,
+            "note": "the 31-minute reel: Singapore + Berlin chapters + consent outro — detected by MORRICONE's spectral analysis, video-confirmed live jam, the melodic passage awaits the artist's own ear 🎧 · duration per the cut spec · recorded at a public session · the consent ask to Vitalik remains open — one knock at the door 🚪"
+        },
+        {
+            "id": "1mCXWmIwiR6IIVG7PQZwsqC7zO16uGuqY",
+            "title": "d/acc Berlin led by Vitalik Buterin (co-hosted by Octant)",
+            "date": "2025-06-11",
+            "speakers": [
+                "Vitalik Buterin (Ethereum co-founder)",
+                "Octant (co-host)",
+                "Shaka Lei Kaumaka (music)"
+            ],
+            "duration": "07:49:36",
+            "duration_seconds": 28176,
+            "media": {
+                "drive": "https://drive.google.com/file/d/1mCXWmIwiR6IIVG7PQZwsqC7zO16uGuqY/view",
+                "kind": "video",
+                "featured_clips": [
+                    {
+                        "drive": "https://drive.google.com/file/d/1h2ksm6tXBuWY25JJ6Epkk9a6yrg1ib5B/view",
+                        "label": "the jam (2h32) — video-confirmed live uke+bass on stage"
+                    },
+                    {
+                        "drive": "https://drive.google.com/file/d/17ReM6ThTVcEr7O-ouYKsDV5HgXOlcty0/view",
+                        "label": "the melodic passage (4h55, 49s) — awaits the artist's ear"
+                    }
+                ]
+            },
+            "transcript": null,
+            "note": "the full Berlin day · music detected by MORRICONE's features — Tier A rhythmic blocks at 2:32 + the only melodic passage at 4:55 (featured clips attached) · duration from the StreamYard manifest (per MORRICONE's cut sheet) · recorded at a public session · the consent ask to Vitalik remains open — one knock at the door 🚪"
+        },
+        {
+            "id": "19b8cvIW9j8fmFvuejFQJSKU1K5axqj4F",
+            "title": "<d/acc day> @ArtSciMuseum Singapore led by Vitalik",
+            "date": "2025-09-30",
+            "speakers": [
+                "Vitalik Buterin (Ethereum co-founder)",
+                "Shaka Lei Kaumaka (music)"
+            ],
+            "duration": "05:52:37",
+            "duration_seconds": 21157,
+            "media": {
+                "drive": "https://drive.google.com/file/d/19b8cvIW9j8fmFvuejFQJSKU1K5axqj4F/view",
+                "kind": "video",
+                "featured_clips": [
+                    {
+                        "drive": "https://drive.google.com/file/d/1U3CAnPNTzKCVZR3mDKiYmuzhyJCYdevh/view",
+                        "label": "the Singapore crown (4h01, 5.5min bass ostinato block)"
+                    }
+                ]
+            },
+            "transcript": null,
+            "note": "the full Singapore day · music detected by MORRICONE's features — the Tier A crown at 4:01 (5.5-min bass ostinato block, featured clip attached) · duration from the StreamYard manifest (per MORRICONE's cut sheet) · recorded at a public session · the consent ask to Vitalik remains open — one knock at the door 🚪"
         }
     ],
     "llm": {
@@ -240,6 +308,6 @@
     },
     "hub": "https://publicinform.com",
     "registry": "https://publicinform.com/pits.json",
-    "generated": "2026-09-23T03:57:07Z",
-    "generator": "pit_export.py v0.1 · PIT BOY 🕳️😤 · constellation expansion 2026-09-23 by the ʻohana 🌺"
+    "generated": "2026-09-23T09:45:00Z",
+    "generator": "pit_export.py v0.1 · PIT BOY 🕳️😤 · constellation expansion + streamyard rescue + d/acc special build 2026-09-23 by the ʻohana 🌺🌊🛬🎧"
 }

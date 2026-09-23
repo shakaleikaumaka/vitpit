@@ -85,6 +85,31 @@ Both hosted by Shaka Lei Kaumaka from his own studio — and both carry the
 same open ask: *the consent ask to Vitalik remains open — one knock at the
 door 🚪*.
 
+## The d/acc special build 🎧🕳️ (2026-09-23, wave 3)
+
+The night crowned itself. MORRICONE (the ear 🎧) scanned both rescued d/acc
+days for the bard's thread — the music threading through Vitalik's days —
+with a streaming spectral discriminator (harmonicity · pulse clarity ·
+note-sustain · melodic variety), every candidate spectrogram-verified and
+honestly tiered. Then the pit cut **the d/acc Special Cut** and joined it
+here with both of its masters in full:
+
+| session | provenance | duration |
+|---|---|---|
+| **The d/acc Special Cut — Vitalik's days, the bard's thread** 🌟 | cut by MORRICONE's ear from the Berlin + Singapore d/acc livestreams | 00:31:00 |
+| d/acc Berlin led by Vitalik Buterin (co-hosted by Octant) | d/acc Berlin · 2025-06-11 · StreamYard vault rescue | 07:49:36 |
+| \<d/acc day\> @ArtSciMuseum Singapore led by Vitalik | ArtScience Museum, Singapore · 2025-09-30 · StreamYard vault rescue | 05:52:37 |
+
+The masters carry their **featured clips** as attached media: the jam at
+2h32 (video-confirmed live uke+bass on stage), the only melodic passage at
+4h55 (49 seconds — *it awaits the artist's own ear* before anyone calls it
+singing), and the Singapore crown at 4h01 (a 5.5-minute bass ostinato
+block). The reel runs Singapore + Berlin chapters + a consent outro — the
+ask travels inside it. The honesty law holds: the music was detected by
+MORRICONE's spectral features, Tier-A only, drafts not blessings — and the
+consent ask to Vitalik remains open — one knock at the door 🚪. (The
+silence canon stands untouched: the cut is a session, not a player.)
+
 ## Lineage (the Registry of Living Pits)
 
 esmeralda-pit (genesis) → zuitzpit (1st) → patagoniapit (2nd) → 4seaspit (3rd)
@@ -92,6 +117,19 @@ esmeralda-pit (genesis) → zuitzpit (1st) → patagoniapit (2nd) → 4seaspit (
 
 ## Changelog
 
+- **2026-09-23** — 🎧🕳️ **THE D/ACC SPECIAL BUILD** (v1.4.0): 12 → 15
+  sessions. The 31-minute **d/acc Special Cut** (*Vitalik's days, the
+  bard's thread* — Singapore + Berlin chapters + consent outro) joins as
+  the featured exhibit, with both of its masters in full: *d/acc Berlin
+  led by Vitalik Buterin (co-hosted by Octant)* (07:49:36 · 2025-06-11)
+  and *\<d/acc day\> @ArtSciMuseum Singapore led by Vitalik* (05:52:37 ·
+  2025-09-30) — manifest-true durations per MORRICONE's cut sheet (the
+  reel's duration per the cut spec; the pit does not fabricate). Featured
+  clips attached to the masters: the video-confirmed jam at 2h32, the
+  melodic passage at 4h55 (awaits the artist's own ear), the Singapore
+  crown at 4h01. Music detected by MORRICONE's spectral features,
+  honestly tiered. The consent ask to Vitalik remains open — one knock
+  at the door 🚪.
 - **2026-09-23** — 🌊🛬 **THE STREAMYARD RESCUE** (v1.3.0): 10 → 12
   sessions. Two full ceremony streams rescued from Shaka's own StreamYard
   studio vault and landed on Drive: *ShanHaiWoo Opening Ceremony featuring
