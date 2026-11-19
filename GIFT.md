@@ -1,4 +1,4 @@
-> **License update, 19 Nov 2026:** CC0 is retired. From this date: Code: GPL-3.0 (see LICENSE). Songs, lyrics, chords, words, art, links and pages: CC BY-SA 4.0 (see LICENSE-CONTENT). Credit: Shaka Lei Kaumaka and the ʻohana. The dedication below records how earlier versions were released.
+> **License update, 19 Nov 2026:** copyleft is retired. From this date: Code: GPL-3.0 (see LICENSE). Songs, lyrics, chords, words, art, links and pages: CC BY-SA 4.0 (see LICENSE-CONTENT). Credit: Shaka Lei Kaumaka and the ʻohana. The dedication below records how earlier versions were released.
 
 # 🎁 Dear Vitalik
 
@@ -14,7 +14,7 @@ Right now it is **only a demo**: two of your talks, already public at their
 home pits (The ZuitzPIT × The KasPIT), gathered here so you — and everyone —
 can see exactly what a VitPit would feel like. The Knowledge Transponder:
 press play, and the words glow as they're spoken. Tap any paragraph to jump
-there. ≈$0 infrastructure. Everything CC0.
+there. ≈$0 infrastructure. Everything copyleft.
 
 The bard of this family holds recordings of you from gatherings across the
 world, and a dedicated drive is being prepared. **None of it transmits here

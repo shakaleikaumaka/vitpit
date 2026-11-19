@@ -2,7 +2,7 @@
 
 The **real working scripts** that built the Esmeralda P.I.T. — not cleaned up
 for show, but the actual loop that crawled, harvested, audited, and published
-149 sessions in days, for ≈ \$0. CC0. Fork freely.
+149 sessions in days, for ≈ \$0. Copyleft. Fork freely.
 
 ## The flow
 
