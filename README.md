@@ -158,3 +158,7 @@ enable GitHub Pages (main, root), and you have your own pit. Fork me like crazy.
 
 *The pit provides. Arm pit strong.* 💪🕳️ · 🔇 silence canon: pits listen, they
 don't sing — no music player, ever.
+
+## License
+
+Code: GPL-3.0 (see LICENSE). Songs, lyrics, chords, words, art, links and pages: CC BY-SA 4.0 (see LICENSE-CONTENT). Credit: Shaka Lei Kaumaka and the ʻohana. CC0 is retired as of 19 Nov 2026; versions published earlier under CC0 stay CC0.
